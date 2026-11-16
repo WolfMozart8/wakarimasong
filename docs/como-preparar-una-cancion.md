@@ -15,6 +15,10 @@ El nombre del archivo solo puede llevar minúsculas, números y guiones (`butter
 La forma exacta de los datos está en `src/types.ts`; `songs/demo.json` es un ejemplo completo.
 
 **Líneas.** Una línea del archivo = una frase cantada que quepa en pantalla (hasta unas 8 palabras). Las líneas largas se parten donde respira el cantante.
+- Si la gramática cruza el salto de línea de la letra (何が… / …届くのだろう; 便利だって / 叫んでる), se juntan en una sola línea, aunque llegue a 9 palabras: las flechas solo unen palabras de la misma línea. Si aun así no cabe, se explica la relación en `role` y en `notes`.
+- Las partes repetidas (estribillos) llevan la misma anotación cada vez, con su propio `id` de línea.
+- Las marcas que añaden los sitios de letras (por ejemplo «[…ご利用ありがとうございます]») se quitan.
+- No se inventan tiempos: `start` se deja vacío y se marca con la herramienta de sincronizar.
 
 **Palabras (`tokens`).**
 - Un verbo o adjetivo conjugado es **una sola palabra** con sus terminaciones (行って, 食べられる, 忘れない), no trozos sueltos. La conjugación se explica en `base` y `form`.
