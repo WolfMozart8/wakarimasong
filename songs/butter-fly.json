@@ -1,0 +1,2668 @@
+{
+  "id": "butter-fly",
+  "title": "Butter-Fly",
+  "artist": "Kōji Wada · Digimon Adventure (opening)",
+  "youtubeId": "MuhkUzGAeHA",
+  "source": "https://www.animesonglyrics.com/digimon-adventure/butter-fly",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ゴキゲンな",
+          "reading": "ごきげんな",
+          "romaji": "gokigen na",
+          "gloss": "alegre",
+          "kind": "adj",
+          "emoji": "😄",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: ゴキゲンな蝶 = «mariposa alegre»."
+          },
+          "note": "Normalmente se escribe ご機嫌 (ごきげん, «buen humor»). La letra lo pone en katakana para darle un tono juguetón; es la misma palabra."
+        },
+        {
+          "id": "t2",
+          "surface": "蝶",
+          "reading": "ちょう",
+          "romaji": "chou",
+          "gloss": "mariposa",
+          "kind": "noun",
+          "emoji": "🦋"
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio: con なる, に marca en qué se convierte uno. 蝶になる = convertirse en mariposa."
+        },
+        {
+          "id": "t4",
+          "surface": "なって",
+          "romaji": "natte",
+          "gloss": "convirtiéndome",
+          "kind": "verb",
+          "emoji": "✨",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse en, volverse"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "No cierra la frase: encadena acciones en orden. なって → 乗って (línea siguiente) → 会いに行こう: «me convierto en mariposa, monto el viento y voy a verte»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "destination",
+          "label": "en qué"
+        }
+      ],
+      "translation": "Convirtiéndome en una mariposa alegre…",
+      "literal": "alegre mariposa-en convirtiéndome,",
+      "notes": [
+        "Las tres primeras líneas son una sola frase: なって y 乗って encadenan acciones hasta 行こう."
+      ]
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "きらめく",
+          "romaji": "kirameku",
+          "gloss": "que destella",
+          "kind": "verb",
+          "emoji": "✨",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "Un verbo en forma simple justo antes de un sustantivo lo describe, como una frase con «que»: きらめく風 = «el viento que destella». El japonés no necesita ninguna palabra para «que»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun",
+          "emoji": "🌬️"
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "sobre",
+          "kind": "particle",
+          "role": "Con 乗る («subirse, montar»), に marca aquello a lo que te subes: 風に乗る = montar el viento, igual que バスに乗る = subirse al bus."
+        },
+        {
+          "id": "t4",
+          "surface": "乗って",
+          "reading": "のって",
+          "romaji": "notte",
+          "gloss": "montando",
+          "kind": "verb",
+          "emoji": "🪁",
+          "base": {
+            "surface": "乗る",
+            "reading": "のる",
+            "meaning": "subirse a, montar"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Sigue la cadena que empezó なって: convertirse en mariposa → montar el viento → ir a verte (行こう)."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "destination",
+          "label": "sobre qué"
+        }
+      ],
+      "translation": "…montado en un viento que destella,",
+      "literal": "destellante viento-sobre montando,"
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "今すぐ",
+          "reading": "いますぐ",
+          "romaji": "ima sugu",
+          "gloss": "ahora mismo",
+          "kind": "adv",
+          "emoji": "⏱️"
+        },
+        {
+          "id": "t2",
+          "surface": "キミ",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun",
+          "emoji": "🫵",
+          "note": "Normalmente se escribe 君. En las canciones se ve mucho キミ en katakana: suena más ligero y cercano. 君 es un «tú» informal, típico de las letras; en la vida real puede sonar brusco."
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a (alguien)",
+          "kind": "particle",
+          "role": "Persona con la que te encuentras: 会う pide に. キミに会う = verte a ti."
+        },
+        {
+          "id": "t4",
+          "surface": "会い",
+          "reading": "あい",
+          "romaji": "ai",
+          "gloss": "ver",
+          "kind": "verb",
+          "emoji": "🤝",
+          "base": {
+            "surface": "会う",
+            "reading": "あう",
+            "meaning": "encontrarse con alguien"
+          },
+          "form": {
+            "name": "raíz (forma ます sin ます)",
+            "why": "会う → 会い. Raíz + に + verbo de movimiento dice para qué vas: 会いに行く = «ir a ver»."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "para",
+          "kind": "particle",
+          "role": "Propósito: raíz del verbo + に + 行く/来る = ir a hacer algo. No marca un lugar, marca el objetivo del viaje.",
+          "note": "Esta línea tiene dos に distintos: キミに (a quién) y 会いに (para qué)."
+        },
+        {
+          "id": "t6",
+          "surface": "行こう",
+          "reading": "いこう",
+          "romaji": "ikou",
+          "gloss": "¡voy!",
+          "kind": "verb",
+          "emoji": "🏃",
+          "base": {
+            "surface": "行く",
+            "reading": "いく",
+            "meaning": "ir"
+          },
+          "form": {
+            "name": "volitiva (よう / おう)",
+            "why": "行く → 行こう: «voy a…», «¡vamos!». Expresa la decisión de quien habla. Es la meta de toda la cadena なって → 乗って → 行こう."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "a quién"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "connects",
+          "label": "ir a…"
+        }
+      ],
+      "translation": "voy ahora mismo a verte.",
+      "literal": "ahora-mismo tú-a ver-para ¡voy!"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "余計な",
+          "reading": "よけいな",
+          "romaji": "yokei na",
+          "gloss": "innecesario",
+          "kind": "adj",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 余計な事 = «cosas innecesarias»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "gloss": "cosas",
+          "kind": "noun",
+          "emoji": "📦",
+          "note": "こと (事) = cosa abstracta, asunto. Para objetos físicos se usa もの (物)."
+        },
+        {
+          "id": "t3",
+          "surface": "なんて",
+          "romaji": "nante",
+          "gloss": "eso de…",
+          "kind": "particle",
+          "role": "Le quita importancia a lo anterior, con desprecio: «eso de las cosas innecesarias, bah…». Ocupa el lugar de を: 余計な事を忘れる."
+        },
+        {
+          "id": "t4",
+          "surface": "忘れた",
+          "reading": "わすれた",
+          "romaji": "wasureta",
+          "gloss": "olvidar",
+          "kind": "verb",
+          "emoji": "🧠",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "た + 方がいい / 方がマシ (consejo)",
+            "why": "Aquí た NO es pasado. 〜た方がいい es un patrón de consejo: «es mejor olvidar». Con た suena más firme que 忘れる方がいい."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "方",
+          "reading": "ほう",
+          "romaji": "hou",
+          "gloss": "opción",
+          "kind": "noun",
+          "note": "方 se lee ほう cuando significa «lado, opción» (como aquí). En otros contextos se lee かた: «persona» (あの方) o «manera» (書き方)."
+        },
+        {
+          "id": "t6",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de マシ: «la opción de olvidar es preferible»."
+        },
+        {
+          "id": "t7",
+          "surface": "マシ",
+          "romaji": "mashi",
+          "gloss": "preferible",
+          "kind": "adj",
+          "emoji": "👌",
+          "note": "マシ = «menos malo», «preferible». No es «bueno»: siempre compara con algo peor. Casi siempre se escribe en katakana."
+        },
+        {
+          "id": "t8",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final de frase coloquial y despreocupado: «es mejor, ¿sabes?». Típico del habla juvenil."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo son"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Mejor olvidarse de las cosas que sobran.",
+      "literal": "innecesarias cosas-bah olvidar-opción-(sujeto) preferible ¡eh!"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "これ以上",
+          "reading": "これいじょう",
+          "romaji": "kore ijou",
+          "gloss": "más que esto",
+          "kind": "expr",
+          "emoji": "➕",
+          "note": "これ (esto) + 以上 (más de): «más allá de esto». Con un negativo: «ya no más»."
+        },
+        {
+          "id": "t2",
+          "surface": "シャレてる",
+          "reading": "しゃれてる",
+          "romaji": "shareteru",
+          "gloss": "presumir",
+          "kind": "verb",
+          "emoji": "😎",
+          "base": {
+            "surface": "洒落る",
+            "reading": "しゃれる",
+            "meaning": "ir con estilo, presumir"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "シャレている → シャレてる. ている describe algo en curso. Delante de 時間 lo describe: «tiempo de andar presumiendo»."
+          },
+          "note": "Se escribe en katakana porque el kanji 洒落 es raro. 洒落 (しゃれ) también significa «juego de palabras»: se puede oír como «no hay tiempo para bromas»."
+        },
+        {
+          "id": "t3",
+          "surface": "時間",
+          "reading": "じかん",
+          "romaji": "jikan",
+          "gloss": "tiempo",
+          "kind": "noun",
+          "emoji": "⏰"
+        },
+        {
+          "id": "t4",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(contraste)",
+          "kind": "particle",
+          "role": "Contraste con un negativo: «tiempo (para eso), no hay». は se pronuncia «wa» como partícula."
+        },
+        {
+          "id": "t5",
+          "surface": "ない",
+          "romaji": "nai",
+          "gloss": "no hay",
+          "kind": "adj",
+          "emoji": "🚫",
+          "base": {
+            "surface": "ある",
+            "reading": "ある",
+            "meaning": "haber, existir (cosas)"
+          },
+          "form": {
+            "name": "negativo de ある",
+            "why": "ある es irregular: su negativo es ない, no «あらない». Cierra la frase: «ya no hay tiempo»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "para qué"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué falta"
+        }
+      ],
+      "translation": "Ya no hay tiempo para andar presumiendo.",
+      "literal": "más-que-esto presumiendo tiempo-(contraste) no-hay."
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何",
+          "reading": "なに",
+          "romaji": "nani",
+          "gloss": "qué",
+          "kind": "noun",
+          "emoji": "❓"
+        },
+        {
+          "id": "t2",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 届く: «¿qué es lo que…?». Con palabras interrogativas como 何 o 誰 se usa が, nunca は."
+        },
+        {
+          "id": "t3",
+          "surface": "wow, wow, wow, wow, wow",
+          "gloss": "(grito)",
+          "kind": "expr",
+          "note": "Exclamación en inglés que corta la frase por la mitad. La gramática salta por encima: lo de antes y lo de después forman una sola frase."
+        },
+        {
+          "id": "t4",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "este",
+          "kind": "other",
+          "note": "この / その / あの = este / ese / aquel, siempre delante de un sustantivo."
+        },
+        {
+          "id": "t5",
+          "surface": "空",
+          "reading": "そら",
+          "romaji": "sora",
+          "gloss": "cielo",
+          "kind": "noun",
+          "emoji": "🌌"
+        },
+        {
+          "id": "t6",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "hasta",
+          "kind": "particle",
+          "role": "Destino: hasta dónde llega algo (届く)."
+        },
+        {
+          "id": "t7",
+          "surface": "届く",
+          "reading": "とどく",
+          "romaji": "todoku",
+          "gloss": "llegar",
+          "kind": "verb",
+          "emoji": "📨",
+          "note": "届く = algo llega a su destino (una carta, una voz). Su pareja 届ける = hacer llegar algo. Es el mismo par que 変わる / 変える: uno pasa solo, el otro lo hace alguien."
+        },
+        {
+          "id": "t8",
+          "surface": "のだろう",
+          "romaji": "no darou",
+          "gloss": "¿será…?",
+          "kind": "aux",
+          "form": {
+            "name": "の + だろう (suposición)",
+            "why": "だろう = «probablemente», «me pregunto». Con の delante busca una explicación. Junto a 何が: «¿qué será lo que…?», una pregunta lanzada al aire, sin respuesta."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t7",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "¿Qué será lo que llega hasta este cielo?",
+      "literal": "qué-(sujeto) wow… este cielo-hasta llega ¿será?",
+      "notes": [
+        "El wow parte la frase en dos, pero 何が … のだろう es una sola pregunta."
+      ]
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だけど",
+          "romaji": "dakedo",
+          "gloss": "pero",
+          "kind": "expr",
+          "note": "だけど = «pero», al inicio de frase. Es だ + けど."
+        },
+        {
+          "id": "t2",
+          "surface": "wow, wow, wow, wow, wow",
+          "gloss": "(grito)",
+          "kind": "expr",
+          "note": "Exclamación en inglés que corta la frase por la mitad. La gramática salta por encima: lo de antes y lo de después forman una sola frase."
+        },
+        {
+          "id": "t3",
+          "surface": "明日",
+          "reading": "あした",
+          "romaji": "ashita",
+          "gloss": "mañana",
+          "kind": "noun",
+          "emoji": "📅",
+          "note": "明日 tiene dos lecturas: あした (la normal, hablada) y あす (más formal). Aquí la letra marca あした."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une dos sustantivos: 明日の予定 = «los planes de mañana»."
+        },
+        {
+          "id": "t5",
+          "surface": "予定",
+          "reading": "よてい",
+          "romaji": "yotei",
+          "gloss": "planes",
+          "kind": "noun",
+          "emoji": "🗓️"
+        },
+        {
+          "id": "t6",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "ni siquiera",
+          "kind": "particle",
+          "role": "Con negativo, «ni siquiera»: «ni siquiera sé los planes de mañana». も sustituye a が."
+        },
+        {
+          "id": "t7",
+          "surface": "わからない",
+          "romaji": "wakaranai",
+          "gloss": "no sé",
+          "kind": "verb",
+          "emoji": "🤷",
+          "base": {
+            "surface": "分かる",
+            "reading": "わかる",
+            "meaning": "entender, saber"
+          },
+          "form": {
+            "name": "negativo (ない)",
+            "why": "わかる es godan aunque acabe en る: る → ら + ない. Ojo: わかる no lleva を; lo que se sabe va con が (aquí reemplazado por も)."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de cuándo"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Pero ni siquiera sé qué haré mañana.",
+      "literal": "pero wow… mañana-de planes-ni no-sé."
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "無限大な",
+          "reading": "むげんだいな",
+          "romaji": "mugendai na",
+          "gloss": "infinito",
+          "kind": "adj",
+          "emoji": "♾️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 無限大な夢 = «sueño infinito»."
+          },
+          "note": "無限大 (∞) se usa sobre todo como sustantivo (無限大の可能性 = posibilidades infinitas). Con な suena más a adjetivo; es frecuente en canciones y publicidad."
+        },
+        {
+          "id": "t2",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun",
+          "emoji": "💭"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une 夢 y あと: «después del sueño»."
+        },
+        {
+          "id": "t4",
+          "surface": "あと",
+          "romaji": "ato",
+          "gloss": "después",
+          "kind": "noun",
+          "emoji": "⏭️",
+          "note": "あと (後) = «después, lo que queda». Doble sentido al oído: 跡 (あと) significa «huella, ruinas» y suena igual. «Las ruinas de un sueño» encaja con el mundo vacío que sigue."
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une todo lo anterior con 世の中: «el mundo de después del sueño»."
+        },
+        {
+          "id": "t6",
+          "surface": "何もない",
+          "reading": "なにもない",
+          "romaji": "nani mo nai",
+          "gloss": "sin nada",
+          "kind": "expr",
+          "emoji": "🕳️",
+          "form": {
+            "name": "何も + negativo",
+            "why": "何も con un negativo = «nada». 何もない delante de 世の中 lo describe: «un mundo en el que no hay nada»."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "世の中",
+          "reading": "よのなか",
+          "romaji": "yo no naka",
+          "gloss": "el mundo",
+          "kind": "noun",
+          "emoji": "🌍",
+          "note": "世の中 = el mundo en que vivimos, la sociedad (el planeta sería 世界 o 地球). Lleva の dentro, pero se lee de corrido como una sola palabra."
+        },
+        {
+          "id": "t8",
+          "surface": "じゃ",
+          "romaji": "ja",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Contracción de では: «en (este mundo)…». では → じゃ es muy común al hablar. Marca la situación y deja la frase abierta: sigue en la línea siguiente."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "después de"
+        },
+        {
+          "from": "t4",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cuándo"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cómo es"
+        }
+      ],
+      "translation": "En este mundo vacío que queda tras un sueño infinito…",
+      "literal": "infinito sueño-de después-de nada-no-hay mundo-en"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そうさ",
+          "romaji": "sou sa",
+          "gloss": "¡así es!",
+          "kind": "expr",
+          "note": "そう (así) + さ (final coloquial): «¡así es!», «claro». Muletilla para reafirmar lo que se dice."
+        },
+        {
+          "id": "t2",
+          "surface": "愛しい",
+          "reading": "いとしい",
+          "romaji": "itoshii",
+          "gloss": "querido",
+          "kind": "adj",
+          "emoji": "💗",
+          "note": "Lectura especial: 愛 suelto se lee あい, pero en el adjetivo 愛しい se lee いとしい. Es una lectura que hay que aprender de memoria."
+        },
+        {
+          "id": "t3",
+          "surface": "想い",
+          "reading": "おもい",
+          "romaji": "omoi",
+          "gloss": "sentimientos",
+          "kind": "noun",
+          "emoji": "💌",
+          "note": "Normalmente 思い. 想い suena igual y se usa para sentimientos profundos, sobre todo de amor o añoranza. En canciones casi siempre verás 想い."
+        },
+        {
+          "id": "t4",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "hasta",
+          "kind": "particle",
+          "role": "«Incluso, hasta»: hasta los sentimientos queridos están por rendirse."
+        },
+        {
+          "id": "t5",
+          "surface": "負けそうになる",
+          "reading": "まけそうになる",
+          "romaji": "makesou ni naru",
+          "gloss": "casi perder",
+          "kind": "verb",
+          "emoji": "😣",
+          "base": {
+            "surface": "負ける",
+            "reading": "まける",
+            "meaning": "perder (una lucha)"
+          },
+          "form": {
+            "name": "raíz + そう + になる",
+            "why": "負ける → 負け + そう = «parece que va a perder». + になる = «llega a ese punto». Juntos: «está a punto de perder»."
+          },
+          "note": "Ojo con そう: raíz + そう = «parece que va a…» (負けそう). Forma completa + そう = «dicen que…» (負けるそう). Cambia el sentido."
+        },
+        {
+          "id": "t6",
+          "surface": "けど",
+          "romaji": "kedo",
+          "gloss": "pero",
+          "kind": "particle",
+          "role": "«Pero…» al final: lo que viene después (las alas, volar) se opone a esto."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo son"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "subject",
+          "label": "quién"
+        }
+      ],
+      "translation": "así es: hasta mis sentimientos más queridos están por rendirse, pero…",
+      "literal": "así-es queridos sentimientos-hasta perder-a-punto-llegan pero",
+      "notes": [
+        "La frase sigue: …けど → (aunque sean) alas frágiles → seguro que podré volar."
+      ]
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay しがちな",
+          "reading": "ステイしがちな",
+          "romaji": "sutei shigachi na",
+          "gloss": "que suele quedarse",
+          "kind": "adj",
+          "emoji": "🛑",
+          "base": {
+            "surface": "Stay する",
+            "reading": "ステイする",
+            "meaning": "quedarse (inglés stay + する)"
+          },
+          "form": {
+            "name": "raíz + がち (tendencia)",
+            "why": "する → し + がち = «tender a…», casi siempre algo negativo. がち funciona como adjetivo な: しがちなイメージ = «imágenes que tienden a quedarse quietas»."
+          },
+          "note": "Palabra inglesa + する: así se convierten en verbos las palabras extranjeras (ゲットする, チェックする). Aquí «stay» suena a quedarse estancado, no avanzar."
+        },
+        {
+          "id": "t2",
+          "surface": "イメージ",
+          "romaji": "imeeji",
+          "gloss": "imagen",
+          "kind": "noun",
+          "emoji": "🖼️",
+          "note": "Del inglés image: «imagen mental, impresión», no una foto."
+        },
+        {
+          "id": "t3",
+          "surface": "だらけ",
+          "romaji": "darake",
+          "gloss": "lleno de",
+          "kind": "aux",
+          "note": "Sufijo: sustantivo + だらけ = «cubierto de, lleno de», siempre con matiz negativo (泥だらけ = lleno de barro)."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une todo lo anterior con 翼: «alas llenas de esas imágenes»."
+        },
+        {
+          "id": "t5",
+          "surface": "頼りない",
+          "reading": "たよりない",
+          "romaji": "tayorinai",
+          "gloss": "frágil",
+          "kind": "adj",
+          "emoji": "🥀",
+          "base": {
+            "surface": "頼り",
+            "reading": "たより",
+            "meaning": "apoyo, confianza"
+          },
+          "form": {
+            "name": "sustantivo + ない",
+            "why": "頼り (apoyo) + ない (no hay) = «en quien no se puede confiar», «poco fiable». Funciona como adjetivo い."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "翼",
+          "reading": "つばさ",
+          "romaji": "tsubasa",
+          "gloss": "alas",
+          "kind": "noun",
+          "emoji": "🪽"
+        },
+        {
+          "id": "t7",
+          "surface": "でも",
+          "romaji": "demo",
+          "gloss": "aunque sea",
+          "kind": "particle",
+          "role": "«Aunque sea / incluso con»: 翼でも = «aun con estas alas». Es で + も. No confundir con でも al inicio de frase, que significa «pero»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t2",
+          "to": "t6",
+          "type": "modifies",
+          "label": "lleno de"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cómo son"
+        }
+      ],
+      "translation": "aunque tenga unas alas frágiles, llenas de imágenes que tienden a quedarse quietas,",
+      "literal": "quedarse-suele imágenes-llenas-de frágiles alas-aunque"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "きっと",
+          "romaji": "kitto",
+          "gloss": "seguro",
+          "kind": "adv",
+          "emoji": "✅",
+          "note": "きっと = «seguro que», con convicción personal. Más emocional que 必ず («sin falta»)."
+        },
+        {
+          "id": "t2",
+          "surface": "飛べる",
+          "reading": "とべる",
+          "romaji": "toberu",
+          "gloss": "poder volar",
+          "kind": "verb",
+          "emoji": "🦋",
+          "base": {
+            "surface": "飛ぶ",
+            "reading": "とぶ",
+            "meaning": "volar"
+          },
+          "form": {
+            "name": "potencial (godan: う → える)",
+            "why": "飛ぶ es del grupo godan: la última sílaba pasa a la fila え + る (ぶ → べる). Compara con 食べる → 食べられる (grupo ichidan, lleva られる). Mismo significado «poder», distinta forma según el grupo."
+          },
+          "note": "Truco: los verbos en -eru / -iru suelen ser ichidan (potencial con られる); el resto son godan (cambian a -eru). Hay excepciones que parecen ichidan y no lo son, como 帰る → 帰れる."
+        },
+        {
+          "id": "t3",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final coloquial y seguro de sí mismo: «¡seguro que puedo volar, ya verás!»."
+        },
+        {
+          "id": "t4",
+          "surface": "on my love",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo, muy típico del anime de los 90. No tiene gramática japonesa."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "seguro que podré volar, on my love.",
+      "literal": "seguro poder-volar ¡eh! on my love"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ウカレタ",
+          "reading": "うかれた",
+          "romaji": "ukareta",
+          "gloss": "eufórica",
+          "kind": "verb",
+          "emoji": "🎉",
+          "base": {
+            "surface": "浮かれる",
+            "reading": "うかれる",
+            "meaning": "estar eufórico, emocionarse"
+          },
+          "form": {
+            "name": "pasado (た) delante de sustantivo",
+            "why": "Un verbo en た delante de un sustantivo describe un estado ya alcanzado, no un hecho pasado: ウカレタ蝶 = «una mariposa (que se ha puesto) eufórica»."
+          },
+          "note": "Escrito en katakana a propósito (lo normal es 浮かれた). Paralelo con ゴキゲンな de la primera estrofa: las dos en katakana, las dos describen a la mariposa."
+        },
+        {
+          "id": "t2",
+          "surface": "蝶",
+          "reading": "ちょう",
+          "romaji": "chou",
+          "gloss": "mariposa",
+          "kind": "noun",
+          "emoji": "🦋"
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio: con なる, に marca en qué se convierte uno. 蝶になる = convertirse en mariposa."
+        },
+        {
+          "id": "t4",
+          "surface": "なって",
+          "romaji": "natte",
+          "gloss": "convirtiéndome",
+          "kind": "verb",
+          "emoji": "✨",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse en, volverse"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "No cierra la frase: encadena acciones en orden. なって → 乗って (línea siguiente) → 会いに行こう: «me convierto en mariposa, monto el viento y voy a verte»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "destination",
+          "label": "en qué"
+        }
+      ],
+      "translation": "Convirtiéndome en una mariposa eufórica…",
+      "literal": "eufórica mariposa-en convirtiéndome,"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "一途な",
+          "reading": "いちずな",
+          "romaji": "ichizu na",
+          "gloss": "decidido",
+          "kind": "adj",
+          "emoji": "🎯",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 一途な風 = «viento decidido»."
+          },
+          "note": "一途 = entregarse a una sola cosa sin dudar (muy usado para el amor fiel). Lectura irregular: 途 suele leerse と (途中 = とちゅう), aquí es ず."
+        },
+        {
+          "id": "t2",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun",
+          "emoji": "🌬️"
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "sobre",
+          "kind": "particle",
+          "role": "Con 乗る («subirse, montar»), に marca aquello a lo que te subes: 風に乗る = montar el viento, igual que バスに乗る = subirse al bus."
+        },
+        {
+          "id": "t4",
+          "surface": "乗って",
+          "reading": "のって",
+          "romaji": "notte",
+          "gloss": "montando",
+          "kind": "verb",
+          "emoji": "🪁",
+          "base": {
+            "surface": "乗る",
+            "reading": "のる",
+            "meaning": "subirse a, montar"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Sigue la cadena que empezó なって: convertirse en mariposa → montar el viento → ir a verte (行こう)."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "destination",
+          "label": "sobre qué"
+        }
+      ],
+      "translation": "…montado en un viento que no se desvía,",
+      "literal": "decidido viento-sobre montando,"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "どこまでも",
+          "romaji": "doko made mo",
+          "gloss": "hasta donde sea",
+          "kind": "expr",
+          "emoji": "🗺️",
+          "note": "どこ (dónde) + まで (hasta) + も: «hasta donde sea». Palabra interrogativa + も = «cualquiera, todo»."
+        },
+        {
+          "id": "t2",
+          "surface": "キミ",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun",
+          "emoji": "🫵",
+          "note": "Normalmente se escribe 君. En las canciones se ve mucho キミ en katakana: suena más ligero y cercano. 君 es un «tú» informal, típico de las letras; en la vida real puede sonar brusco."
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a (alguien)",
+          "kind": "particle",
+          "role": "Persona con la que te encuentras: 会う pide に. キミに会う = verte a ti."
+        },
+        {
+          "id": "t4",
+          "surface": "会い",
+          "reading": "あい",
+          "romaji": "ai",
+          "gloss": "ver",
+          "kind": "verb",
+          "emoji": "🤝",
+          "base": {
+            "surface": "会う",
+            "reading": "あう",
+            "meaning": "encontrarse con alguien"
+          },
+          "form": {
+            "name": "raíz (forma ます sin ます)",
+            "why": "会う → 会い. Raíz + に + verbo de movimiento dice para qué vas: 会いに行く = «ir a ver»."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "para",
+          "kind": "particle",
+          "role": "Propósito: raíz del verbo + に + 行く/来る = ir a hacer algo. No marca un lugar, marca el objetivo del viaje.",
+          "note": "Esta línea tiene dos に distintos: キミに (a quién) y 会いに (para qué)."
+        },
+        {
+          "id": "t6",
+          "surface": "行こう",
+          "reading": "いこう",
+          "romaji": "ikou",
+          "gloss": "¡voy!",
+          "kind": "verb",
+          "emoji": "🏃",
+          "base": {
+            "surface": "行く",
+            "reading": "いく",
+            "meaning": "ir"
+          },
+          "form": {
+            "name": "volitiva (よう / おう)",
+            "why": "行く → 行こう: «voy a…», «¡vamos!». Expresa la decisión de quien habla. Es la meta de toda la cadena なって → 乗って → 行こう."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "a quién"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "connects",
+          "label": "ir a…"
+        }
+      ],
+      "translation": "iré a verte hasta donde haga falta.",
+      "literal": "hasta-donde-sea tú-a ver-para ¡voy!"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "曖昧な",
+          "reading": "あいまいな",
+          "romaji": "aimai na",
+          "gloss": "ambiguas",
+          "kind": "adj",
+          "emoji": "🌫️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 曖昧な言葉 = «palabras ambiguas»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "言葉",
+          "reading": "ことば",
+          "romaji": "kotoba",
+          "gloss": "palabras",
+          "kind": "noun",
+          "emoji": "💬"
+        },
+        {
+          "id": "t3",
+          "surface": "って",
+          "romaji": "tte",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Marca el tema, como は pero coloquial: «las palabras ambiguas, esas…».",
+          "note": "Esta línea tiene dos って distintos. Este es el tema (≈ は); el de 便利だって es una cita (≈ と)."
+        },
+        {
+          "id": "t4",
+          "surface": "意外に",
+          "reading": "いがいに",
+          "romaji": "igai ni",
+          "gloss": "sorprendentemente",
+          "kind": "adv",
+          "emoji": "😮",
+          "base": {
+            "surface": "意外な",
+            "reading": "いがいな",
+            "meaning": "inesperado"
+          },
+          "form": {
+            "name": "adjetivo な → adverbio (に)",
+            "why": "Cambiando な por に el adjetivo se vuelve adverbio y modifica a 便利: «sorprendentemente útiles»."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "便利",
+          "reading": "べんり",
+          "romaji": "benri",
+          "gloss": "útiles",
+          "kind": "adj",
+          "emoji": "🧰"
+        },
+        {
+          "id": "t6",
+          "surface": "だって",
+          "romaji": "da tte",
+          "gloss": "son, (dicen)",
+          "kind": "particle",
+          "role": "だ (es) + って (cita, ≈ と): «…que son útiles». Cierra lo que gritan las canciones de 叫んでる.",
+          "note": "Trampa: だって también existe como palabra suelta = «es que…» o «incluso». Aquí no: es だ + って, una cita."
+        },
+        {
+          "id": "t7",
+          "surface": "叫んでる",
+          "reading": "さけんでる",
+          "romaji": "sakenderu",
+          "gloss": "que gritan",
+          "kind": "verb",
+          "emoji": "📢",
+          "base": {
+            "surface": "叫ぶ",
+            "reading": "さけぶ",
+            "meaning": "gritar"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "叫ぶ → 叫んで (ぶ → んで) + いる → 叫んでる. Delante de ヒットソング lo describe: «canciones de moda que gritan…»."
+          },
+          "note": "Ambigüedad: 叫んでる podría cerrar la frase («(alguien) está gritando») o describir a ヒットソング («canciones que gritan…»). Lo segundo encaja con 聴きながら: escucho canciones que gritan eso."
+        },
+        {
+          "id": "t8",
+          "surface": "ヒットソング",
+          "romaji": "hitto songu",
+          "gloss": "canciones de moda",
+          "kind": "noun",
+          "emoji": "🎶"
+        },
+        {
+          "id": "t9",
+          "surface": "聴きながら",
+          "reading": "ききながら",
+          "romaji": "kiki nagara",
+          "gloss": "mientras escucho",
+          "kind": "verb",
+          "emoji": "🎧",
+          "base": {
+            "surface": "聴く",
+            "reading": "きく",
+            "meaning": "escuchar (con atención)"
+          },
+          "form": {
+            "name": "raíz + ながら",
+            "why": "聴く → 聴き + ながら = «mientras escucho». ながら une dos acciones simultáneas de la misma persona."
+          },
+          "note": "Dos kanji para きく: 聞く (oír, preguntar) y 聴く (escuchar con atención, por ejemplo música). Suenan igual."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo son"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué gritan"
+        },
+        {
+          "from": "t7",
+          "to": "t8",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t9",
+          "to": "t8",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "escuchando canciones de moda que gritan que las palabras ambiguas son sorprendentemente útiles.",
+      "literal": "ambiguas palabras-(tema) sorprendentemente útiles-son-«que» gritando canciones-de-moda escuchando-mientras",
+      "notes": [
+        "En la letra original esto ocupa dos líneas; aquí va junto para que se vea quién grita qué."
+      ]
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何",
+          "reading": "なに",
+          "romaji": "nani",
+          "gloss": "qué",
+          "kind": "noun",
+          "emoji": "❓"
+        },
+        {
+          "id": "t2",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 響く: «¿qué es lo que…?». Con palabras interrogativas como 何 o 誰 se usa が, nunca は."
+        },
+        {
+          "id": "t3",
+          "surface": "wow, wow, wow, wow, wow",
+          "gloss": "(grito)",
+          "kind": "expr",
+          "note": "Exclamación en inglés que corta la frase por la mitad. La gramática salta por encima: lo de antes y lo de después forman una sola frase."
+        },
+        {
+          "id": "t4",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "este",
+          "kind": "other",
+          "note": "この / その / あの = este / ese / aquel, siempre delante de un sustantivo."
+        },
+        {
+          "id": "t5",
+          "surface": "街",
+          "reading": "まち",
+          "romaji": "machi",
+          "gloss": "ciudad",
+          "kind": "noun",
+          "emoji": "🏙️"
+        },
+        {
+          "id": "t6",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Lugar donde ocurre 響く (resonar). Con verbos que «llenan» un lugar se usa に."
+        },
+        {
+          "id": "t7",
+          "surface": "響く",
+          "reading": "ひびく",
+          "romaji": "hibiku",
+          "gloss": "resonar",
+          "kind": "verb",
+          "emoji": "🔊",
+          "note": "響く = resonar, hacer eco. Paralelo con 届く de la primera estrofa: allá algo llegaba al cielo, aquí resuena en la ciudad."
+        },
+        {
+          "id": "t8",
+          "surface": "のだろう",
+          "romaji": "no darou",
+          "gloss": "¿será…?",
+          "kind": "aux",
+          "form": {
+            "name": "の + だろう (suposición)",
+            "why": "だろう = «probablemente», «me pregunto». Con の delante busca una explicación. Junto a 何が: «¿qué será lo que…?», una pregunta lanzada al aire, sin respuesta."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t7",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "¿Qué será lo que resuena en esta ciudad?",
+      "literal": "qué-(sujeto) wow… esta ciudad-en resuena ¿será?",
+      "notes": [
+        "El wow parte la frase en dos, pero 何が … のだろう es una sola pregunta."
+      ]
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だけど",
+          "romaji": "dakedo",
+          "gloss": "pero",
+          "kind": "expr",
+          "note": "だけど = «pero», al inicio de frase. Es だ + けど."
+        },
+        {
+          "id": "t2",
+          "surface": "wow, wow, wow, wow, wow",
+          "gloss": "(grito)",
+          "kind": "expr",
+          "note": "Exclamación en inglés que corta la frase por la mitad. La gramática salta por encima: lo de antes y lo de después forman una sola frase."
+        },
+        {
+          "id": "t3",
+          "surface": "期待してても",
+          "reading": "きたいしてても",
+          "romaji": "kitai shite temo",
+          "gloss": "aunque espere",
+          "kind": "verb",
+          "emoji": "🙏",
+          "base": {
+            "surface": "期待する",
+            "reading": "きたいする",
+            "meaning": "tener expectativas"
+          },
+          "form": {
+            "name": "ている abreviado + ても («aunque»)",
+            "why": "期待している → 期待してる; en forma て: 期待してて + も = «aunque esté esperando algo»."
+          },
+          "note": "No confundir: 期待する = tener expectativas; 待つ = esperar (a alguien, que pase el tiempo). En español las dos son «esperar»."
+        },
+        {
+          "id": "t4",
+          "surface": "仕方ない",
+          "reading": "しかたない",
+          "romaji": "shikata nai",
+          "gloss": "no sirve",
+          "kind": "adj",
+          "emoji": "🤷",
+          "base": {
+            "surface": "仕方",
+            "reading": "しかた",
+            "meaning": "manera de hacer"
+          },
+          "form": {
+            "name": "sustantivo + ない",
+            "why": "仕方 (manera) + ない = «no hay manera»: «no tiene sentido, no sirve de nada»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "connects",
+          "label": "aunque… igual"
+        }
+      ],
+      "translation": "Pero no sirve de nada hacerse ilusiones.",
+      "literal": "pero wow… aunque-esté-esperando no-hay-manera."
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "無限大な",
+          "reading": "むげんだいな",
+          "romaji": "mugendai na",
+          "gloss": "infinito",
+          "kind": "adj",
+          "emoji": "♾️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 無限大な夢 = «sueño infinito»."
+          },
+          "note": "無限大 (∞) se usa sobre todo como sustantivo (無限大の可能性 = posibilidades infinitas). Con な suena más a adjetivo; es frecuente en canciones y publicidad."
+        },
+        {
+          "id": "t2",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun",
+          "emoji": "💭"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une 夢 y あと: «después del sueño»."
+        },
+        {
+          "id": "t4",
+          "surface": "あと",
+          "romaji": "ato",
+          "gloss": "después",
+          "kind": "noun",
+          "emoji": "⏭️",
+          "note": "あと (後) = «después, lo que queda». Doble sentido al oído: 跡 (あと) significa «huella, ruinas» y suena igual. «Las ruinas de un sueño» encaja con el mundo vacío que sigue."
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une todo lo anterior con 世の中: «el mundo de después del sueño»."
+        },
+        {
+          "id": "t6",
+          "surface": "やるせない",
+          "romaji": "yarusenai",
+          "gloss": "desconsolado",
+          "kind": "adj",
+          "emoji": "😞",
+          "note": "やるせない = una tristeza de la que no te puedes librar, sin salida. Ocupa el lugar de 何もない de la primera vez."
+        },
+        {
+          "id": "t7",
+          "surface": "世の中",
+          "reading": "よのなか",
+          "romaji": "yo no naka",
+          "gloss": "el mundo",
+          "kind": "noun",
+          "emoji": "🌍",
+          "note": "世の中 = el mundo en que vivimos, la sociedad (el planeta sería 世界 o 地球). Lleva の dentro, pero se lee de corrido como una sola palabra."
+        },
+        {
+          "id": "t8",
+          "surface": "じゃ",
+          "romaji": "ja",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Contracción de では: «en (este mundo)…». では → じゃ es muy común al hablar. Marca la situación y deja la frase abierta: sigue en la línea siguiente."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "después de"
+        },
+        {
+          "from": "t4",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cuándo"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cómo es"
+        }
+      ],
+      "translation": "En este mundo desconsolado que queda tras un sueño infinito…",
+      "literal": "infinito sueño-de después-de desconsolado mundo-en"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そうさ",
+          "romaji": "sou sa",
+          "gloss": "¡así es!",
+          "kind": "expr",
+          "note": "そう (así) + さ (final coloquial): «¡así es!». Muletilla para reafirmar."
+        },
+        {
+          "id": "t2",
+          "surface": "常識",
+          "reading": "じょうしき",
+          "romaji": "joushiki",
+          "gloss": "lo normal",
+          "kind": "noun",
+          "emoji": "📏"
+        },
+        {
+          "id": "t3",
+          "surface": "はずれ",
+          "romaji": "hazure",
+          "gloss": "salirse de",
+          "kind": "noun",
+          "emoji": "↗️",
+          "base": {
+            "surface": "外れる",
+            "reading": "はずれる",
+            "meaning": "salirse, desviarse"
+          },
+          "form": {
+            "name": "raíz como sustantivo",
+            "why": "外れる → 外れ: «lo que se sale». Unido a 常識: 常識外れ = «fuera de lo común», «excéntrico»."
+          },
+          "note": "El cantante parte la palabra 常識はずれ en dos frases musicales («lo normal…» / «salirse de ello…»). Es una sola palabra: 常識外れ."
+        },
+        {
+          "id": "t4",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "tampoco",
+          "kind": "particle",
+          "role": "Con negativo, «tampoco»: salirse de lo normal tampoco está mal."
+        },
+        {
+          "id": "t5",
+          "surface": "悪く",
+          "reading": "わるく",
+          "romaji": "waruku",
+          "gloss": "malo",
+          "kind": "adj",
+          "base": {
+            "surface": "悪い",
+            "reading": "わるい",
+            "meaning": "malo"
+          },
+          "form": {
+            "name": "adjetivo い → く (antes de ない)",
+            "why": "Para negar un adjetivo い: い → く + ない. 悪い → 悪くない = «no está mal»."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(contraste)",
+          "kind": "particle",
+          "role": "は dentro de un negativo suaviza: 悪くはない = «lo que se dice malo, no es»."
+        },
+        {
+          "id": "t7",
+          "surface": "ない",
+          "romaji": "nai",
+          "gloss": "no",
+          "kind": "aux",
+          "note": "Negativo de 悪く: 悪く + ない."
+        },
+        {
+          "id": "t8",
+          "surface": "かな",
+          "romaji": "kana",
+          "gloss": "¿no?",
+          "kind": "particle",
+          "role": "Duda dicha para uno mismo: «¿no estará tan mal, verdad?». Suaviza la afirmación."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "modifies",
+          "label": "fuera de"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "así es: salirse de lo normal tampoco está tan mal, ¿no?",
+      "literal": "así-es lo-normal salirse-tampoco malo-(contraste) no ¿no?"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay しそうな",
+          "reading": "ステイしそうな",
+          "romaji": "sutei shisou na",
+          "gloss": "a punto de quedarse",
+          "kind": "adj",
+          "emoji": "🛑",
+          "base": {
+            "surface": "Stay する",
+            "reading": "ステイする",
+            "meaning": "quedarse (inglés stay + する)"
+          },
+          "form": {
+            "name": "raíz + そう (parece)",
+            "why": "する → し + そう = «parece que va a…». La primera vez era しがち («tiende a»); ahora しそう («parece a punto de»). Se conjuga como adjetivo な: しそうなイメージ."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "イメージ",
+          "romaji": "imeeji",
+          "gloss": "imagen",
+          "kind": "noun",
+          "emoji": "🖼️",
+          "note": "Del inglés image: «imagen mental, impresión», no una foto."
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto directo de 染めた: lo que se tiñó."
+        },
+        {
+          "id": "t4",
+          "surface": "染めた",
+          "reading": "そめた",
+          "romaji": "someta",
+          "gloss": "que tiñeron",
+          "kind": "verb",
+          "emoji": "🎨",
+          "base": {
+            "surface": "染める",
+            "reading": "そめる",
+            "meaning": "teñir, colorear"
+          },
+          "form": {
+            "name": "pasado (た) delante de sustantivo",
+            "why": "イメージを染めた delante de 翼 lo describe entero: «alas que tiñeron esas imágenes»."
+          },
+          "note": "Imagen poética, no literal: las alas están pintadas con esa duda de quedarse quieto."
+        },
+        {
+          "id": "t5",
+          "surface": "ぎこちない",
+          "romaji": "gikochinai",
+          "gloss": "torpes",
+          "kind": "adj",
+          "emoji": "😬"
+        },
+        {
+          "id": "t6",
+          "surface": "翼",
+          "reading": "つばさ",
+          "romaji": "tsubasa",
+          "gloss": "alas",
+          "kind": "noun",
+          "emoji": "🪽"
+        },
+        {
+          "id": "t7",
+          "surface": "でも",
+          "romaji": "demo",
+          "gloss": "aunque sea",
+          "kind": "particle",
+          "role": "«Aunque sea / incluso con»: 翼でも = «aun con estas alas». Es で + も. No confundir con でも al inicio de frase, que significa «pero»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cómo son"
+        }
+      ],
+      "translation": "aunque tenga unas alas torpes, teñidas de imágenes de quedarme quieto,",
+      "literal": "quedarse-a-punto imágenes-(objeto) tiñeron torpes alas-aunque"
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "きっと",
+          "romaji": "kitto",
+          "gloss": "seguro",
+          "kind": "adv",
+          "emoji": "✅",
+          "note": "きっと = «seguro que», con convicción personal. Más emocional que 必ず («sin falta»)."
+        },
+        {
+          "id": "t2",
+          "surface": "飛べる",
+          "reading": "とべる",
+          "romaji": "toberu",
+          "gloss": "poder volar",
+          "kind": "verb",
+          "emoji": "🦋",
+          "base": {
+            "surface": "飛ぶ",
+            "reading": "とぶ",
+            "meaning": "volar"
+          },
+          "form": {
+            "name": "potencial (godan: う → える)",
+            "why": "飛ぶ es del grupo godan: la última sílaba pasa a la fila え + る (ぶ → べる). Compara con 食べる → 食べられる (grupo ichidan, lleva られる). Mismo significado «poder», distinta forma según el grupo."
+          },
+          "note": "Truco: los verbos en -eru / -iru suelen ser ichidan (potencial con られる); el resto son godan (cambian a -eru). Hay excepciones que parecen ichidan y no lo son, como 帰る → 帰れる."
+        },
+        {
+          "id": "t3",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final coloquial y seguro de sí mismo: «¡seguro que puedo volar, ya verás!»."
+        },
+        {
+          "id": "t4",
+          "surface": "on my love",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo, muy típico del anime de los 90. No tiene gramática japonesa."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "seguro que podré volar, on my love.",
+      "literal": "seguro poder-volar ¡eh! on my love"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "無限大な",
+          "reading": "むげんだいな",
+          "romaji": "mugendai na",
+          "gloss": "infinito",
+          "kind": "adj",
+          "emoji": "♾️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 無限大な夢 = «sueño infinito»."
+          },
+          "note": "無限大 (∞) se usa sobre todo como sustantivo (無限大の可能性 = posibilidades infinitas). Con な suena más a adjetivo; es frecuente en canciones y publicidad."
+        },
+        {
+          "id": "t2",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun",
+          "emoji": "💭"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une 夢 y あと: «después del sueño»."
+        },
+        {
+          "id": "t4",
+          "surface": "あと",
+          "romaji": "ato",
+          "gloss": "después",
+          "kind": "noun",
+          "emoji": "⏭️",
+          "note": "あと (後) = «después, lo que queda». Doble sentido al oído: 跡 (あと) significa «huella, ruinas» y suena igual. «Las ruinas de un sueño» encaja con el mundo vacío que sigue."
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une todo lo anterior con 世の中: «el mundo de después del sueño»."
+        },
+        {
+          "id": "t6",
+          "surface": "何もない",
+          "reading": "なにもない",
+          "romaji": "nani mo nai",
+          "gloss": "sin nada",
+          "kind": "expr",
+          "emoji": "🕳️",
+          "form": {
+            "name": "何も + negativo",
+            "why": "何も con un negativo = «nada». 何もない delante de 世の中 lo describe: «un mundo en el que no hay nada»."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "世の中",
+          "reading": "よのなか",
+          "romaji": "yo no naka",
+          "gloss": "el mundo",
+          "kind": "noun",
+          "emoji": "🌍",
+          "note": "世の中 = el mundo en que vivimos, la sociedad (el planeta sería 世界 o 地球). Lleva の dentro, pero se lee de corrido como una sola palabra."
+        },
+        {
+          "id": "t8",
+          "surface": "じゃ",
+          "romaji": "ja",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Contracción de では: «en (este mundo)…». では → じゃ es muy común al hablar. Marca la situación y deja la frase abierta: sigue en la línea siguiente."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "después de"
+        },
+        {
+          "from": "t4",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cuándo"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cómo es"
+        }
+      ],
+      "translation": "En este mundo vacío que queda tras un sueño infinito…",
+      "literal": "infinito sueño-de después-de nada-no-hay mundo-en"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そうさ",
+          "romaji": "sou sa",
+          "gloss": "¡así es!",
+          "kind": "expr",
+          "note": "そう (así) + さ (final coloquial): «¡así es!», «claro». Muletilla para reafirmar lo que se dice."
+        },
+        {
+          "id": "t2",
+          "surface": "愛しい",
+          "reading": "いとしい",
+          "romaji": "itoshii",
+          "gloss": "querido",
+          "kind": "adj",
+          "emoji": "💗",
+          "note": "Lectura especial: 愛 suelto se lee あい, pero en el adjetivo 愛しい se lee いとしい. Es una lectura que hay que aprender de memoria."
+        },
+        {
+          "id": "t3",
+          "surface": "想い",
+          "reading": "おもい",
+          "romaji": "omoi",
+          "gloss": "sentimientos",
+          "kind": "noun",
+          "emoji": "💌",
+          "note": "Normalmente 思い. 想い suena igual y se usa para sentimientos profundos, sobre todo de amor o añoranza. En canciones casi siempre verás 想い."
+        },
+        {
+          "id": "t4",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "hasta",
+          "kind": "particle",
+          "role": "«Incluso, hasta»: hasta los sentimientos queridos están por rendirse."
+        },
+        {
+          "id": "t5",
+          "surface": "負けそうになる",
+          "reading": "まけそうになる",
+          "romaji": "makesou ni naru",
+          "gloss": "casi perder",
+          "kind": "verb",
+          "emoji": "😣",
+          "base": {
+            "surface": "負ける",
+            "reading": "まける",
+            "meaning": "perder (una lucha)"
+          },
+          "form": {
+            "name": "raíz + そう + になる",
+            "why": "負ける → 負け + そう = «parece que va a perder». + になる = «llega a ese punto». Juntos: «está a punto de perder»."
+          },
+          "note": "Ojo con そう: raíz + そう = «parece que va a…» (負けそう). Forma completa + そう = «dicen que…» (負けるそう). Cambia el sentido."
+        },
+        {
+          "id": "t6",
+          "surface": "けど",
+          "romaji": "kedo",
+          "gloss": "pero",
+          "kind": "particle",
+          "role": "«Pero…» al final: lo que viene después (las alas, volar) se opone a esto."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo son"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "subject",
+          "label": "quién"
+        }
+      ],
+      "translation": "así es: hasta mis sentimientos más queridos están por rendirse, pero…",
+      "literal": "así-es queridos sentimientos-hasta perder-a-punto-llegan pero",
+      "notes": [
+        "La frase sigue: …けど → (aunque sean) alas frágiles → seguro que podré volar."
+      ]
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay しがちな",
+          "reading": "ステイしがちな",
+          "romaji": "sutei shigachi na",
+          "gloss": "que suele quedarse",
+          "kind": "adj",
+          "emoji": "🛑",
+          "base": {
+            "surface": "Stay する",
+            "reading": "ステイする",
+            "meaning": "quedarse (inglés stay + する)"
+          },
+          "form": {
+            "name": "raíz + がち (tendencia)",
+            "why": "する → し + がち = «tender a…», casi siempre algo negativo. がち funciona como adjetivo な: しがちなイメージ = «imágenes que tienden a quedarse quietas»."
+          },
+          "note": "Palabra inglesa + する: así se convierten en verbos las palabras extranjeras (ゲットする, チェックする). Aquí «stay» suena a quedarse estancado, no avanzar."
+        },
+        {
+          "id": "t2",
+          "surface": "イメージ",
+          "romaji": "imeeji",
+          "gloss": "imagen",
+          "kind": "noun",
+          "emoji": "🖼️",
+          "note": "Del inglés image: «imagen mental, impresión», no una foto."
+        },
+        {
+          "id": "t3",
+          "surface": "だらけ",
+          "romaji": "darake",
+          "gloss": "lleno de",
+          "kind": "aux",
+          "note": "Sufijo: sustantivo + だらけ = «cubierto de, lleno de», siempre con matiz negativo (泥だらけ = lleno de barro)."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une todo lo anterior con 翼: «alas llenas de esas imágenes»."
+        },
+        {
+          "id": "t5",
+          "surface": "頼りない",
+          "reading": "たよりない",
+          "romaji": "tayorinai",
+          "gloss": "frágil",
+          "kind": "adj",
+          "emoji": "🥀",
+          "base": {
+            "surface": "頼り",
+            "reading": "たより",
+            "meaning": "apoyo, confianza"
+          },
+          "form": {
+            "name": "sustantivo + ない",
+            "why": "頼り (apoyo) + ない (no hay) = «en quien no se puede confiar», «poco fiable». Funciona como adjetivo い."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "翼",
+          "reading": "つばさ",
+          "romaji": "tsubasa",
+          "gloss": "alas",
+          "kind": "noun",
+          "emoji": "🪽"
+        },
+        {
+          "id": "t7",
+          "surface": "でも",
+          "romaji": "demo",
+          "gloss": "aunque sea",
+          "kind": "particle",
+          "role": "«Aunque sea / incluso con»: 翼でも = «aun con estas alas». Es で + も. No confundir con でも al inicio de frase, que significa «pero»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t2",
+          "to": "t6",
+          "type": "modifies",
+          "label": "lleno de"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cómo son"
+        }
+      ],
+      "translation": "aunque tenga unas alas frágiles, llenas de imágenes que tienden a quedarse quietas,",
+      "literal": "quedarse-suele imágenes-llenas-de frágiles alas-aunque"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "きっと",
+          "romaji": "kitto",
+          "gloss": "seguro",
+          "kind": "adv",
+          "emoji": "✅",
+          "note": "きっと = «seguro que», con convicción personal. Más emocional que 必ず («sin falta»)."
+        },
+        {
+          "id": "t2",
+          "surface": "飛べる",
+          "reading": "とべる",
+          "romaji": "toberu",
+          "gloss": "poder volar",
+          "kind": "verb",
+          "emoji": "🦋",
+          "base": {
+            "surface": "飛ぶ",
+            "reading": "とぶ",
+            "meaning": "volar"
+          },
+          "form": {
+            "name": "potencial (godan: う → える)",
+            "why": "飛ぶ es del grupo godan: la última sílaba pasa a la fila え + る (ぶ → べる). Compara con 食べる → 食べられる (grupo ichidan, lleva られる). Mismo significado «poder», distinta forma según el grupo."
+          },
+          "note": "Truco: los verbos en -eru / -iru suelen ser ichidan (potencial con られる); el resto son godan (cambian a -eru). Hay excepciones que parecen ichidan y no lo son, como 帰る → 帰れる."
+        },
+        {
+          "id": "t3",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final coloquial y seguro de sí mismo: «¡seguro que puedo volar, ya verás!»."
+        },
+        {
+          "id": "t4",
+          "surface": "oh yeah",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo, muy típico del anime de los 90. No tiene gramática japonesa."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "seguro que podré volar, oh yeah.",
+      "literal": "seguro poder-volar ¡eh! oh yeah"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "無限大な",
+          "reading": "むげんだいな",
+          "romaji": "mugendai na",
+          "gloss": "infinito",
+          "kind": "adj",
+          "emoji": "♾️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 無限大な夢 = «sueño infinito»."
+          },
+          "note": "無限大 (∞) se usa sobre todo como sustantivo (無限大の可能性 = posibilidades infinitas). Con な suena más a adjetivo; es frecuente en canciones y publicidad."
+        },
+        {
+          "id": "t2",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun",
+          "emoji": "💭"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une 夢 y あと: «después del sueño»."
+        },
+        {
+          "id": "t4",
+          "surface": "あと",
+          "romaji": "ato",
+          "gloss": "después",
+          "kind": "noun",
+          "emoji": "⏭️",
+          "note": "あと (後) = «después, lo que queda». Doble sentido al oído: 跡 (あと) significa «huella, ruinas» y suena igual. «Las ruinas de un sueño» encaja con el mundo vacío que sigue."
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une todo lo anterior con 世の中: «el mundo de después del sueño»."
+        },
+        {
+          "id": "t6",
+          "surface": "やるせない",
+          "romaji": "yarusenai",
+          "gloss": "desconsolado",
+          "kind": "adj",
+          "emoji": "😞",
+          "note": "やるせない = una tristeza de la que no te puedes librar, sin salida. Ocupa el lugar de 何もない de la primera vez."
+        },
+        {
+          "id": "t7",
+          "surface": "世の中",
+          "reading": "よのなか",
+          "romaji": "yo no naka",
+          "gloss": "el mundo",
+          "kind": "noun",
+          "emoji": "🌍",
+          "note": "世の中 = el mundo en que vivimos, la sociedad (el planeta sería 世界 o 地球). Lleva の dentro, pero se lee de corrido como una sola palabra."
+        },
+        {
+          "id": "t8",
+          "surface": "じゃ",
+          "romaji": "ja",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Contracción de では: «en (este mundo)…». では → じゃ es muy común al hablar. Marca la situación y deja la frase abierta: sigue en la línea siguiente."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "después de"
+        },
+        {
+          "from": "t4",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cuándo"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cómo es"
+        }
+      ],
+      "translation": "En este mundo desconsolado que queda tras un sueño infinito…",
+      "literal": "infinito sueño-de después-de desconsolado mundo-en"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そうさ",
+          "romaji": "sou sa",
+          "gloss": "¡así es!",
+          "kind": "expr",
+          "note": "そう (así) + さ (final coloquial): «¡así es!». Muletilla para reafirmar."
+        },
+        {
+          "id": "t2",
+          "surface": "常識",
+          "reading": "じょうしき",
+          "romaji": "joushiki",
+          "gloss": "lo normal",
+          "kind": "noun",
+          "emoji": "📏"
+        },
+        {
+          "id": "t3",
+          "surface": "はずれ",
+          "romaji": "hazure",
+          "gloss": "salirse de",
+          "kind": "noun",
+          "emoji": "↗️",
+          "base": {
+            "surface": "外れる",
+            "reading": "はずれる",
+            "meaning": "salirse, desviarse"
+          },
+          "form": {
+            "name": "raíz como sustantivo",
+            "why": "外れる → 外れ: «lo que se sale». Unido a 常識: 常識外れ = «fuera de lo común», «excéntrico»."
+          },
+          "note": "El cantante parte la palabra 常識はずれ en dos frases musicales («lo normal…» / «salirse de ello…»). Es una sola palabra: 常識外れ."
+        },
+        {
+          "id": "t4",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "tampoco",
+          "kind": "particle",
+          "role": "Con negativo, «tampoco»: salirse de lo normal tampoco está mal."
+        },
+        {
+          "id": "t5",
+          "surface": "悪く",
+          "reading": "わるく",
+          "romaji": "waruku",
+          "gloss": "malo",
+          "kind": "adj",
+          "base": {
+            "surface": "悪い",
+            "reading": "わるい",
+            "meaning": "malo"
+          },
+          "form": {
+            "name": "adjetivo い → く (antes de ない)",
+            "why": "Para negar un adjetivo い: い → く + ない. 悪い → 悪くない = «no está mal»."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(contraste)",
+          "kind": "particle",
+          "role": "は dentro de un negativo suaviza: 悪くはない = «lo que se dice malo, no es»."
+        },
+        {
+          "id": "t7",
+          "surface": "ない",
+          "romaji": "nai",
+          "gloss": "no",
+          "kind": "aux",
+          "note": "Negativo de 悪く: 悪く + ない."
+        },
+        {
+          "id": "t8",
+          "surface": "かな",
+          "romaji": "kana",
+          "gloss": "¿no?",
+          "kind": "particle",
+          "role": "Duda dicha para uno mismo: «¿no estará tan mal, verdad?». Suaviza la afirmación."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "modifies",
+          "label": "fuera de"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "así es: salirse de lo normal tampoco está tan mal, ¿no?",
+      "literal": "así-es lo-normal salirse-tampoco malo-(contraste) no ¿no?"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay しそうな",
+          "reading": "ステイしそうな",
+          "romaji": "sutei shisou na",
+          "gloss": "a punto de quedarse",
+          "kind": "adj",
+          "emoji": "🛑",
+          "base": {
+            "surface": "Stay する",
+            "reading": "ステイする",
+            "meaning": "quedarse (inglés stay + する)"
+          },
+          "form": {
+            "name": "raíz + そう (parece)",
+            "why": "する → し + そう = «parece que va a…». La primera vez era しがち («tiende a»); ahora しそう («parece a punto de»). Se conjuga como adjetivo な: しそうなイメージ."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "イメージ",
+          "romaji": "imeeji",
+          "gloss": "imagen",
+          "kind": "noun",
+          "emoji": "🖼️",
+          "note": "Del inglés image: «imagen mental, impresión», no una foto."
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto directo de 染めた: lo que se tiñó."
+        },
+        {
+          "id": "t4",
+          "surface": "染めた",
+          "reading": "そめた",
+          "romaji": "someta",
+          "gloss": "que tiñeron",
+          "kind": "verb",
+          "emoji": "🎨",
+          "base": {
+            "surface": "染める",
+            "reading": "そめる",
+            "meaning": "teñir, colorear"
+          },
+          "form": {
+            "name": "pasado (た) delante de sustantivo",
+            "why": "イメージを染めた delante de 翼 lo describe entero: «alas que tiñeron esas imágenes»."
+          },
+          "note": "Imagen poética, no literal: las alas están pintadas con esa duda de quedarse quieto."
+        },
+        {
+          "id": "t5",
+          "surface": "ぎこちない",
+          "romaji": "gikochinai",
+          "gloss": "torpes",
+          "kind": "adj",
+          "emoji": "😬"
+        },
+        {
+          "id": "t6",
+          "surface": "翼",
+          "reading": "つばさ",
+          "romaji": "tsubasa",
+          "gloss": "alas",
+          "kind": "noun",
+          "emoji": "🪽"
+        },
+        {
+          "id": "t7",
+          "surface": "でも",
+          "romaji": "demo",
+          "gloss": "aunque sea",
+          "kind": "particle",
+          "role": "«Aunque sea / incluso con»: 翼でも = «aun con estas alas». Es で + も. No confundir con でも al inicio de frase, que significa «pero»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cómo son"
+        }
+      ],
+      "translation": "aunque tenga unas alas torpes, teñidas de imágenes de quedarme quieto,",
+      "literal": "quedarse-a-punto imágenes-(objeto) tiñeron torpes alas-aunque"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "きっと",
+          "romaji": "kitto",
+          "gloss": "seguro",
+          "kind": "adv",
+          "emoji": "✅",
+          "note": "きっと = «seguro que», con convicción personal. Más emocional que 必ず («sin falta»)."
+        },
+        {
+          "id": "t2",
+          "surface": "飛べる",
+          "reading": "とべる",
+          "romaji": "toberu",
+          "gloss": "poder volar",
+          "kind": "verb",
+          "emoji": "🦋",
+          "base": {
+            "surface": "飛ぶ",
+            "reading": "とぶ",
+            "meaning": "volar"
+          },
+          "form": {
+            "name": "potencial (godan: う → える)",
+            "why": "飛ぶ es del grupo godan: la última sílaba pasa a la fila え + る (ぶ → べる). Compara con 食べる → 食べられる (grupo ichidan, lleva られる). Mismo significado «poder», distinta forma según el grupo."
+          },
+          "note": "Truco: los verbos en -eru / -iru suelen ser ichidan (potencial con られる); el resto son godan (cambian a -eru). Hay excepciones que parecen ichidan y no lo son, como 帰る → 帰れる."
+        },
+        {
+          "id": "t3",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final coloquial y seguro de sí mismo: «¡seguro que puedo volar, ya verás!»."
+        },
+        {
+          "id": "t4",
+          "surface": "on my love",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo, muy típico del anime de los 90. No tiene gramática japonesa."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "seguro que podré volar, on my love.",
+      "literal": "seguro poder-volar ¡eh! on my love"
+    }
+  ]
+}
