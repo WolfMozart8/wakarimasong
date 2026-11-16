@@ -68,9 +68,13 @@ function loadYouTubeApi(): Promise<any> {
 
 export async function createYouTubeTransport(host: HTMLElement, videoId: string): Promise<Transport> {
   const YT = await loadYouTubeApi()
-  // YouTube reemplaza el elemento por un iframe; se le da uno propio para no chocar con React.
+  // YouTube reemplaza el elemento por un iframe; cada reproductor tiene su propia caja
+  // para que destruir uno (React monta dos veces en desarrollo) no borre al otro.
+  const box = document.createElement('div')
+  box.style.cssText = 'width:100%;height:100%'
   const mount = document.createElement('div')
-  host.appendChild(mount)
+  box.appendChild(mount)
+  host.appendChild(box)
   return new Promise((resolve, reject) => {
     const player = new YT.Player(mount, {
       videoId,
@@ -88,7 +92,7 @@ export async function createYouTubeTransport(host: HTMLElement, videoId: string)
             isPlaying: () => player.getPlayerState?.() === 1,
             destroy: () => {
               player.destroy()
-              host.replaceChildren()
+              box.remove()
             },
           }),
         onError: (e: any) =>

@@ -223,6 +223,8 @@ kbd {
   align-items: flex-end;
   gap: 10px;
   width: max-content;
+  /* Deja sitio al círculo de nota de la primera y la última palabra. */
+  padding: 8px 8px 0;
 }
 .token {
   position: relative;
