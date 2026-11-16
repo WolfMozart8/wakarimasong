@@ -62,8 +62,9 @@ export function SyncTool({ song }: { song: Song }) {
     const next: Song = {
       ...song,
       lines: song.lines.map((l, i) => {
-        const { start: _old, ...rest } = l
-        return starts[i] === undefined ? rest : { ...rest, start: starts[i] }
+        // El tiempo va justo después del id para que el archivo se lea fácil.
+        const { id, start: _old, ...rest } = l
+        return starts[i] === undefined ? { id, ...rest } : { id, start: starts[i], ...rest }
       }),
     }
     try {
