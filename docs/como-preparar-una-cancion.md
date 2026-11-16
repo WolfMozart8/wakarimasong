@@ -12,7 +12,7 @@ El nombre del archivo solo puede llevar minúsculas, números y guiones (`butter
 
 ## Tarjetas de repaso
 
-En una canción, toca una palabra y pulsa «＋ Tarjeta». El enlace «Repaso» del menú muestra las que tocan hoy: ves la palabra en su línea, intentas recordarla, y marcas si la sabías (tecla 2) o no (tecla 1). Las que aciertas vuelven a salir tras 1, 3, 7, 14 y 30 días; las que fallas se repiten ese mismo día y empiezan de nuevo. Las tarjetas se guardan en , que no entra en git.
+En una canción, toca una palabra y pulsa «＋ Tarjeta». El enlace «Repaso» del menú muestra las que tocan hoy: ves la palabra en su línea, intentas recordarla, y marcas si la sabías (tecla 2) o no (tecla 1). Las que aciertas vuelven a salir tras 1, 3, 7, 14 y 30 días; las que fallas se repiten ese mismo día y empiezan de nuevo. Las tarjetas se guardan en `data/flashcards.json`, que no entra en git.
 
 ## Criterios de anotación
 
