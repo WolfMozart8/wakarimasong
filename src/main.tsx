@@ -1,7 +1,9 @@
 import { StrictMode, useEffect, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import type { Song } from './types'
-import { loadSong } from './lib/api'
+import { loadCards, loadSong } from './lib/api'
+import { dueCards, toDay } from './lib/flashcards'
+import { Review } from './components/Review'
 import { Library } from './components/Library'
 import { Player } from './components/Player'
 import { SyncTool } from './components/SyncTool'
@@ -46,13 +48,33 @@ function SongRoute({ id, mode }: { id: string; mode: 'song' | 'sync' }) {
 
 function App() {
   const { view, id } = useHashRoute()
+  const [due, setDue] = useState<number | null>(null)
+  useEffect(() => {
+    const refresh = () =>
+      loadCards().then(
+        (c) => setDue(dueCards(c, toDay()).length),
+        () => setDue(null),
+      )
+    refresh()
+    window.addEventListener('cards-changed', refresh)
+    return () => window.removeEventListener('cards-changed', refresh)
+  }, [view, id])
   const inSong = (view === 'song' || view === 'sync') && id
   return (
     <main>
       <nav>
         <a href="#/">歌で学ぶ · Japonés con canciones</a>
+        <a href="#/review" className={due ? 'due' : ''}>
+          Repaso{due ? ` (${due})` : ''}
+        </a>
       </nav>
-      {inSong ? <SongRoute key={`${view}/${id}`} id={id} mode={view as 'song' | 'sync'} /> : <Library />}
+      {inSong ? (
+        <SongRoute key={`${view}/${id}`} id={id} mode={view as 'song' | 'sync'} />
+      ) : view === 'review' ? (
+        <Review />
+      ) : (
+        <Library />
+      )}
     </main>
   )
 }

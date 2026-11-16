@@ -1,2 +1,4 @@
 node_modules
 dist
+# Tarjetas de repaso: datos personales que cambian a diario
+data/

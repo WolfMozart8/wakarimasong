@@ -5,6 +5,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 const SONGS_DIR = path.resolve(import.meta.dirname, 'songs')
+const CARDS_FILE = path.resolve(import.meta.dirname, 'data/flashcards.json')
 const ID_RE = /^[a-z0-9][a-z0-9-]*$/
 
 /** API local mínima: lista, lee y guarda los archivos de `songs/`. */
@@ -12,6 +13,40 @@ function songsApi(): Plugin {
   return {
     name: 'songs-api',
     configureServer(server) {
+      // Tarjetas de repaso: un solo archivo, data/flashcards.json.
+      server.middlewares.use('/api/flashcards', (req, res) => {
+        const send = (status: number, body: unknown) => {
+          res.statusCode = status
+          res.setHeader('Content-Type', 'application/json; charset=utf-8')
+          res.end(JSON.stringify(body))
+        }
+        if (req.method === 'GET') {
+          if (!fs.existsSync(CARDS_FILE)) return send(200, { cards: [] })
+          try {
+            return send(200, JSON.parse(fs.readFileSync(CARDS_FILE, 'utf8')))
+          } catch (e) {
+            return send(422, { error: `data/flashcards.json no es JSON válido: ${(e as Error).message}` })
+          }
+        }
+        if (req.method === 'PUT') {
+          const chunks: Buffer[] = []
+          req.on('data', (c: Buffer) => chunks.push(c))
+          req.on('end', () => {
+            try {
+              const data = JSON.parse(Buffer.concat(chunks).toString('utf8'))
+              if (!Array.isArray(data?.cards)) throw new Error('falta la lista "cards"')
+              fs.mkdirSync(path.dirname(CARDS_FILE), { recursive: true })
+              fs.writeFileSync(CARDS_FILE, JSON.stringify(data, null, 2) + '\n', 'utf8')
+              send(200, { ok: true })
+            } catch (e) {
+              send(400, { error: `No se pudo guardar: ${(e as Error).message}` })
+            }
+          })
+          return
+        }
+        send(405, { error: 'Método no permitido.' })
+      })
+
       server.middlewares.use('/api/songs', (req, res) => {
         const send = (status: number, body: unknown) => {
           res.statusCode = status
@@ -79,6 +114,6 @@ function songsApi(): Plugin {
 
 export default defineConfig({
   plugins: [react(), songsApi()],
-  server: { watch: { ignored: ['**/songs/**'] } },
+  server: { watch: { ignored: ['**/songs/**', '**/data/**'] } },
   test: { include: ['src/**/*.test.ts'] },
 })

@@ -1,7 +1,16 @@
 import { KIND_LABEL, type Line, type Token } from '../types'
 
 /** Explicación completa de una palabra dentro de su línea. */
-export function TokenDetail({ line, token, onClose }: { line: Line; token: Token; onClose: () => void }) {
+interface Props {
+  line: Line
+  token: Token
+  onClose?: () => void
+  /** undefined = las tarjetas aún no cargaron o no aplican. */
+  saved?: boolean
+  onToggleCard?: () => void
+}
+
+export function TokenDetail({ line, token, onClose, saved, onToggleCard }: Props) {
   const surfaceOf = (id: string) => line.tokens.find((t) => t.id === id)?.surface ?? '?'
   const related = line.links.filter((l) => l.from === token.id || l.to === token.id)
 
@@ -15,9 +24,18 @@ export function TokenDetail({ line, token, onClose }: { line: Line; token: Token
           {[token.reading, token.romaji].filter(Boolean).join(' · ')}
           <span className="chip">{KIND_LABEL[token.kind]}</span>
         </span>
-        <button className="ghost" onClick={onClose} aria-label="Cerrar">
-          ✕
-        </button>
+        <span className="detail-actions">
+          {onToggleCard && saved !== undefined && (
+            <button className={saved ? 'on' : ''} onClick={onToggleCard}>
+              {saved ? '✓ En tarjetas' : '＋ Tarjeta'}
+            </button>
+          )}
+          {onClose && (
+            <button className="ghost" onClick={onClose} aria-label="Cerrar">
+              ✕
+            </button>
+          )}
+        </span>
       </header>
 
       <p className="detail-gloss">{token.gloss}</p>

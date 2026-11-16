@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import type { Song } from '../types'
 import { activeLine, lineEnd } from '../lib/activeLine'
-import { fmtTime } from '../lib/api'
+import { fmtTime, loadCards, saveCards } from '../lib/api'
+import { cardKey, makeCard, toDay, type Card } from '../lib/flashcards'
 import { useTransport } from '../lib/transport'
 import { LineView } from './LineView'
 import { TokenDetail } from './TokenDetail'
@@ -21,6 +22,12 @@ export function Player({ song }: { song: Song }) {
   const [loop, setLoop] = useState(false)
   const [rate, setRate] = useState(1)
   const [showRomaji, setShowRomaji] = useState(() => localStorage.getItem('romaji') !== '0')
+
+  const [cards, setCards] = useState<Card[] | null>(null)
+  const [cardError, setCardError] = useState<string | null>(null)
+  useEffect(() => {
+    loadCards().then(setCards, (e: Error) => setCardError(e.message))
+  }, [])
 
   const synced = song.lines.some((l) => l.start !== undefined)
   const line = song.lines[idx]
@@ -60,6 +67,33 @@ export function Player({ song }: { song: Song }) {
   const selectToken = (id: string) => {
     transport?.pause()
     setTokenId((cur) => (cur === id ? null : id))
+  }
+
+  const saved = token && cards ? cards.some((c) => c.key === cardKey(token)) : undefined
+  const toggleCard = () => {
+    if (!token || !cards || !line) return
+    const key = cardKey(token)
+    const next = cards.some((c) => c.key === key)
+      ? cards.filter((c) => c.key !== key)
+      : [
+          ...cards,
+          makeCard(
+            token,
+            {
+              songId: song.id,
+              songTitle: song.title,
+              lineId: line.id,
+              text: line.tokens.map((t) => t.surface).join(''),
+              translation: line.translation,
+            },
+            toDay(),
+          ),
+        ]
+    setCards(next)
+    saveCards(next).then(
+      () => setCardError(null),
+      (e: Error) => setCardError(e.message),
+    )
   }
 
   const changeRate = (r: number) => {
@@ -125,8 +159,9 @@ export function Player({ song }: { song: Song }) {
               {n}
             </p>
           ))}
+          {cardError && <p className="error">Tarjetas: {cardError}</p>}
           {token ? (
-            <TokenDetail line={line} token={token} onClose={() => setTokenId(null)} />
+            <TokenDetail line={line} token={token} onClose={() => setTokenId(null)} saved={saved} onToggleCard={toggleCard} />
           ) : (
             <p className="hint">Toca una palabra para ver su explicación.</p>
           )}
