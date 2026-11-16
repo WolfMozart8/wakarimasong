@@ -1,0 +1,116 @@
+{
+  "id": "demo",
+  "title": "Demo: frases de ejemplo",
+  "artist": "Sin video (cronómetro)",
+  "youtubeId": "",
+  "lines": [
+    {
+      "id": "l1",
+      "start": 1,
+      "translation": "Mi perro va a la escuela y…",
+      "literal": "yo-de perro (tema) escuela-hacia yendo,",
+      "notes": ["La frase no termina aquí: 行って deja la acción abierta y sigue en la línea siguiente."],
+      "tokens": [
+        { "id": "t1", "surface": "私", "reading": "わたし", "romaji": "watashi", "gloss": "yo", "emoji": "🧑", "kind": "noun" },
+        { "id": "t2", "surface": "の", "romaji": "no", "gloss": "de", "kind": "particle", "role": "Pertenencia: lo que va antes (私) es dueño de lo que va después (犬). 私の犬 = «mi perro»." },
+        { "id": "t3", "surface": "犬", "reading": "いぬ", "romaji": "inu", "gloss": "perro", "emoji": "🐕", "kind": "noun" },
+        { "id": "t4", "surface": "は", "romaji": "wa", "gloss": "(tema)", "kind": "particle", "role": "Marca de qué se habla: «en cuanto a mi perro…». Se escribe は pero como partícula se pronuncia «wa»." },
+        { "id": "t5", "surface": "学校", "reading": "がっこう", "romaji": "gakkou", "gloss": "escuela", "emoji": "🏫", "kind": "noun" },
+        { "id": "t6", "surface": "に", "romaji": "ni", "gloss": "hacia", "kind": "particle", "role": "Destino: con verbos de movimiento como 行く, に marca el lugar al que se llega." },
+        {
+          "id": "t7", "surface": "行って", "reading": "いって", "romaji": "itte", "gloss": "va y…", "emoji": "🚶", "kind": "verb",
+          "base": { "surface": "行く", "reading": "いく", "meaning": "ir" },
+          "form": { "name": "forma て", "why": "La forma て no cierra la frase: encadena «ir» con la acción de la línea siguiente (会った). El tiempo lo pone el último verbo, así que aquí se entiende «fue y…»." },
+          "note": "行く es irregular en esta forma: los verbos en く hacen いて (書く → 書いて), pero 行く hace 行って."
+        }
+      ],
+      "links": [
+        { "from": "t1", "to": "t3", "type": "possession", "label": "dueño de" },
+        { "from": "t3", "to": "t7", "type": "topic", "label": "quién va" },
+        { "from": "t7", "to": "t5", "type": "destination", "label": "hacia" }
+      ]
+    },
+    {
+      "id": "l2",
+      "start": 6,
+      "translation": "…se encontró con un amigo.",
+      "literal": "amigo-con se-encontró.",
+      "tokens": [
+        { "id": "t1", "surface": "友達", "reading": "ともだち", "romaji": "tomodachi", "gloss": "amigo", "emoji": "🧑‍🤝‍🧑", "kind": "noun" },
+        { "id": "t2", "surface": "に", "romaji": "ni", "gloss": "con", "kind": "particle", "role": "Persona con la que te encuentras: el verbo 会う pide に.", "note": "Es el mismo に de la línea anterior con otra función. Allí era el destino de 行く; aquí no hay movimiento." },
+        {
+          "id": "t3", "surface": "会った", "reading": "あった", "romaji": "atta", "gloss": "se encontró", "emoji": "🤝", "kind": "verb",
+          "base": { "surface": "会う", "reading": "あう", "meaning": "encontrarse (con alguien)" },
+          "form": { "name": "pasado (た)", "why": "Cierra la cadena que abrió 行って: «fue a la escuela y se encontró…». Este pasado vale también para 行って." },
+          "note": "Doble sentido al oído: あった también es el pasado de ある («había»). Cantado suenan igual; lo distinguen el kanji y el に con una persona delante."
+        }
+      ],
+      "links": [{ "from": "t3", "to": "t1", "type": "object", "label": "con quién" }]
+    },
+    {
+      "id": "l3",
+      "start": 11,
+      "translation": "¿Puedes comer la manzana?",
+      "literal": "manzana-(objeto) poder-comer?",
+      "tokens": [
+        { "id": "t1", "surface": "りんご", "romaji": "ringo", "gloss": "manzana", "emoji": "🍎", "kind": "noun" },
+        { "id": "t2", "surface": "を", "romaji": "o", "gloss": "(objeto)", "kind": "particle", "role": "Objeto directo: lo que va antes recibe la acción del verbo." },
+        {
+          "id": "t3", "surface": "食べられる", "reading": "たべられる", "romaji": "taberareru", "gloss": "poder comer", "emoji": "😋", "kind": "verb",
+          "base": { "surface": "食べる", "reading": "たべる", "meaning": "comer" },
+          "form": { "name": "potencial (られる)", "why": "En los verbos que terminan en -る como 食べる, られる sirve para dos cosas: potencial («poder comer») y pasiva («ser comido»). Aquí la manzana lleva を (es lo que se come), así que es potencial." },
+          "note": "Si fuera pasiva, quien come llevaría に: りんごは犬に食べられた = «la manzana fue comida por el perro». Hablando se acorta a 食べれる para el potencial."
+        }
+      ],
+      "links": [{ "from": "t3", "to": "t1", "type": "object", "label": "qué" }]
+    },
+    {
+      "id": "l4",
+      "start": 16,
+      "translation": "Quiero cambiar el destino.",
+      "literal": "destino-(objeto) querer-cambiar.",
+      "tokens": [
+        {
+          "id": "t1", "surface": "運命", "reading": "うんめい", "romaji": "unmei", "gloss": "destino", "emoji": "🌠", "kind": "noun",
+          "sungAs": { "reading": "さだめ", "romaji": "sadame", "note": "En el diccionario 運命 se lee うんめい. Las letras a menudo escriben un kanji y cantan otra palabra de sentido cercano (さだめ, «destino», más poético). La letra lo indica con furigana o entre paréntesis; no intentes aprender さだめ como lectura normal de este kanji." }
+        },
+        { "id": "t2", "surface": "を", "romaji": "o", "gloss": "(objeto)", "kind": "particle", "role": "Objeto directo de 変えたい." },
+        {
+          "id": "t3", "surface": "変えたい", "reading": "かえたい", "romaji": "kaetai", "gloss": "quiero cambiar", "emoji": "✊", "kind": "verb",
+          "base": { "surface": "変える", "reading": "かえる", "meaning": "cambiar (algo)" },
+          "form": { "name": "deseo (たい)", "why": "Raíz 変え + たい = «quiero cambiar». たい expresa el deseo de quien habla y se conjuga como un adjetivo en い (変えたくない = «no quiero cambiar»)." },
+          "note": "Pareja que confunde: 変える es cambiar algo (lleva を); 変わる es que algo cambia solo (lleva が)."
+        }
+      ],
+      "links": [{ "from": "t3", "to": "t1", "type": "object", "label": "qué" }]
+    },
+    {
+      "id": "l5",
+      "start": 21,
+      "end": 27,
+      "translation": "Aunque me haga adulto, no olvidaré mis sueños.",
+      "literal": "adulto-en aunque-me-convierta, sueño-(objeto) no-olvidar.",
+      "tokens": [
+        { "id": "t1", "surface": "大人", "reading": "おとな", "romaji": "otona", "gloss": "adulto", "emoji": "🧑‍💼", "kind": "noun", "note": "Lectura especial de diccionario: おとな se asigna a la palabra entera, no sale de leer 大 y 人 por separado." },
+        { "id": "t2", "surface": "に", "romaji": "ni", "gloss": "en", "kind": "particle", "role": "Resultado de un cambio: con なる, に marca en qué se convierte algo." },
+        {
+          "id": "t3", "surface": "なっても", "romaji": "natte mo", "gloss": "aunque me vuelva", "kind": "verb",
+          "base": { "surface": "なる", "reading": "なる", "meaning": "convertirse en, volverse" },
+          "form": { "name": "forma て + も («aunque»)", "why": "なる → なって (forma て) y se le añade も: «aunque me convierta». Lo que sigue (忘れない) ocurre a pesar de esto." }
+        },
+        { "id": "t4", "surface": "夢", "reading": "ゆめ", "romaji": "yume", "gloss": "sueño", "emoji": "💭", "kind": "noun" },
+        { "id": "t5", "surface": "を", "romaji": "o", "gloss": "(objeto)", "kind": "particle", "role": "Objeto directo de 忘れない." },
+        {
+          "id": "t6", "surface": "忘れない", "reading": "わすれない", "romaji": "wasurenai", "gloss": "no olvidar", "emoji": "🙅", "kind": "verb",
+          "base": { "surface": "忘れる", "reading": "わすれる", "meaning": "olvidar" },
+          "form": { "name": "negativo (ない)", "why": "忘れる pierde る y toma ない: «no olvido / no olvidaré». El japonés no distingue presente y futuro; aquí es una promesa." }
+        }
+      ],
+      "links": [
+        { "from": "t3", "to": "t1", "type": "destination", "label": "en qué" },
+        { "from": "t3", "to": "t6", "type": "connects", "label": "aunque… igual" },
+        { "from": "t6", "to": "t4", "type": "object", "label": "qué" }
+      ]
+    }
+  ]
+}
