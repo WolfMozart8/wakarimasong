@@ -1,0 +1,2763 @@
+{
+  "id": "zankoku-na-tenshi-no-these",
+  "title": "残酷な天使のテーゼ (A Cruel Angel's Thesis)",
+  "artist": "Yoko Takahashi · Neon Genesis Evangelion (opening)",
+  "youtubeId": "o6wtDPVkKqI",
+  "source": "https://www.animesonglyrics.com/neon-genesis-evangelion/zankoku-na-tenshi-no-te-ze",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "残酷な",
+          "reading": "ざんこくな",
+          "romaji": "zankoku na",
+          "gloss": "cruel",
+          "kind": "adj",
+          "emoji": "🗡️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 残酷な天使 = «ángel cruel»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "天使",
+          "reading": "てんし",
+          "romaji": "tenshi",
+          "gloss": "ángel",
+          "kind": "noun",
+          "emoji": "👼"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "(de)",
+          "kind": "particle",
+          "role": "Antes de ように, の une el sustantivo: 天使のように = «como un ángel». Con verbos no hace falta: 飛ぶように = «como volando»."
+        },
+        {
+          "id": "t4",
+          "surface": "ように",
+          "romaji": "you ni",
+          "gloss": "como",
+          "kind": "aux",
+          "form": {
+            "name": "ように (comparación)",
+            "why": "〜のように = «como…, igual que…». Modifica a なれ: «conviértete en mito como un ángel cruel»."
+          },
+          "note": "ように tiene otros usos que confunden: «para que…» (聞こえるように = para que se oiga) y «que…» en órdenes indirectas (来るように言った = le dije que viniera). Aquí es comparación."
+        },
+        {
+          "id": "t5",
+          "surface": "少年",
+          "reading": "しょうねん",
+          "romaji": "shounen",
+          "gloss": "muchacho",
+          "kind": "noun",
+          "emoji": "👦",
+          "note": "少年 = chico, muchacho (más o menos de 7 a 18 años). Es una palabra algo formal o literaria; hablando se dice 男の子."
+        },
+        {
+          "id": "t6",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡oh…!",
+          "kind": "particle",
+          "role": "Vocativo: llama a alguien con solemnidad, como «¡oh, muchacho!». No es el よ de final de frase («¿sabes?»): aquí va detrás de un nombre al que se habla."
+        },
+        {
+          "id": "t7",
+          "surface": "神話",
+          "reading": "しんわ",
+          "romaji": "shinwa",
+          "gloss": "mito, leyenda",
+          "kind": "noun",
+          "emoji": "🏛️"
+        },
+        {
+          "id": "t8",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio: con なる, に marca en qué te conviertes. 神話になる = convertirse en mito."
+        },
+        {
+          "id": "t9",
+          "surface": "なれ",
+          "romaji": "nare",
+          "gloss": "¡conviértete!",
+          "kind": "verb",
+          "emoji": "🌟",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse en"
+          },
+          "form": {
+            "name": "imperativo",
+            "why": "なる → なれ: orden directa, «¡conviértete!». El imperativo simple suena muy fuerte; en la vida diaria casi no se usa (se dice なって). En canciones y en anime aparece para dar órdenes épicas."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t9",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cómo"
+        },
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "destination",
+          "label": "en qué"
+        },
+        {
+          "from": "t9",
+          "to": "t5",
+          "type": "subject",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Como un ángel cruel, muchacho, ¡conviértete en leyenda!",
+      "literal": "cruel ángel-de como, muchacho-¡oh!, mito-en ¡conviértete!"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "蒼い",
+          "reading": "あおい",
+          "romaji": "aoi",
+          "gloss": "azul",
+          "kind": "adj",
+          "emoji": "🌀",
+          "note": "Normalmente 青い. 蒼 es un azul pálido o verdoso, más poético (el color del cielo o del mar profundo). Misma lectura, otro kanji para dar ambiente."
+        },
+        {
+          "id": "t2",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun",
+          "emoji": "🌬️"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 叩いても: es el viento el que llama a la puerta."
+        },
+        {
+          "id": "t4",
+          "surface": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "adv",
+          "emoji": "⏱️",
+          "note": "いま = 今. En las letras se escribe muchas veces en hiragana para que se lea más suave."
+        },
+        {
+          "id": "t5",
+          "surface": "胸",
+          "reading": "むね",
+          "romaji": "mune",
+          "gloss": "pecho, corazón",
+          "kind": "noun",
+          "emoji": "🫀",
+          "note": "胸 es «pecho», pero en canciones casi siempre significa «corazón, sentimientos» (como en español «en el pecho»)."
+        },
+        {
+          "id": "t6",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une dos sustantivos: 胸のドア = «la puerta del corazón»."
+        },
+        {
+          "id": "t7",
+          "surface": "ドア",
+          "romaji": "doa",
+          "gloss": "puerta",
+          "kind": "noun",
+          "emoji": "🚪",
+          "note": "Del inglés door. Es una puerta de estilo occidental; la palabra japonesa tradicional es 扉 (とびら)."
+        },
+        {
+          "id": "t8",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto directo de 叩く: lo que se golpea."
+        },
+        {
+          "id": "t9",
+          "surface": "叩いても",
+          "reading": "たたいても",
+          "romaji": "tataite mo",
+          "gloss": "aunque llame",
+          "kind": "verb",
+          "emoji": "✊",
+          "base": {
+            "surface": "叩く",
+            "reading": "たたく",
+            "meaning": "golpear, llamar (a la puerta)"
+          },
+          "form": {
+            "name": "forma て + も («aunque»)",
+            "why": "叩く → 叩いて (く → いて) + も = «aunque golpee». Lo que pasa en la línea siguiente ocurre a pesar de esto: el viento llama, pero tú solo me miras a mí."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t9",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t5",
+          "to": "t7",
+          "type": "possession",
+          "label": "de dónde"
+        }
+      ],
+      "translation": "Aunque ahora un viento azul llame a la puerta de tu corazón…",
+      "literal": "azul viento-(sujeto) ahora corazón-de puerta-(objeto) aunque-golpee",
+      "notes": [
+        "Esta línea y la siguiente son una sola frase: «aunque el viento llame…, tú solo me miras a mí»."
+      ]
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "gloss": "yo",
+          "kind": "noun",
+          "emoji": "🙋‍♀️"
+        },
+        {
+          "id": "t2",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "«Solo, únicamente»: 私だけ = «solo a mí». Va pegada al sustantivo y la partícula viene después (だけを)."
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 見つめて: a quién se mira."
+        },
+        {
+          "id": "t4",
+          "surface": "ただ",
+          "romaji": "tada",
+          "gloss": "simplemente",
+          "kind": "adv",
+          "note": "ただ = «solo, simplemente». Refuerza a だけ: «solo me miras a mí, nada más»."
+        },
+        {
+          "id": "t5",
+          "surface": "見つめて",
+          "reading": "みつめて",
+          "romaji": "mitsumete",
+          "gloss": "mirando fijo",
+          "kind": "verb",
+          "emoji": "👀",
+          "base": {
+            "surface": "見つめる",
+            "reading": "みつめる",
+            "meaning": "mirar fijamente"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Une dos acciones de la misma persona: me miras fijamente y sonríes. 見る (ver) + つめる (llenar, concentrar) = mirar con intensidad."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "微笑んでる",
+          "reading": "ほほえんでる",
+          "romaji": "hohoenderu",
+          "gloss": "sonriendo",
+          "kind": "verb",
+          "emoji": "🙂",
+          "base": {
+            "surface": "微笑む",
+            "reading": "ほほえむ",
+            "meaning": "sonreír (suavemente)"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "微笑む → 微笑んで (む → んで) + いる → 微笑んでる. Delante de あなた lo describe: «tú, que sonríes»."
+          },
+          "note": "Lectura especial: 微 suele leerse び y 笑 わら(う), pero 微笑む se lee ほほえむ entero. 微笑み = sonrisa suave; 笑う = reír."
+        },
+        {
+          "id": "t7",
+          "surface": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun",
+          "emoji": "🫵",
+          "note": "あなた = «tú». Entre pareja puede significar «querido». La voz de la canción le habla al muchacho con cariño, casi como una madre."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "object",
+          "label": "a quién"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "quién"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "connects",
+          "label": "y"
+        }
+      ],
+      "translation": "…tú solo me miras fijamente a mí, sonriendo.",
+      "literal": "yo-solo-(objeto) simplemente mirando-fijo sonriendo tú"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そっと",
+          "romaji": "sotto",
+          "gloss": "suavemente",
+          "kind": "adv",
+          "emoji": "🪶",
+          "note": "そっと = con suavidad, sin hacer ruido, a escondidas."
+        },
+        {
+          "id": "t2",
+          "surface": "ふれる",
+          "romaji": "fureru",
+          "gloss": "tocar",
+          "kind": "verb",
+          "emoji": "🤲",
+          "base": {
+            "surface": "触れる",
+            "reading": "ふれる",
+            "meaning": "tocar, rozar"
+          },
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "ふれる + もの = «lo que toca». Un verbo simple delante de un sustantivo lo describe, como «que» en español."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "もの",
+          "romaji": "mono",
+          "gloss": "lo que",
+          "kind": "noun",
+          "note": "もの = «cosa» (objeto o algo concreto). Aquí: «lo que te roza suavemente». Le falta を: もの(を)もとめる. En canciones las partículas se omiten a menudo."
+        },
+        {
+          "id": "t4",
+          "surface": "もとめる",
+          "romaji": "motomeru",
+          "gloss": "buscar",
+          "kind": "verb",
+          "emoji": "🔍",
+          "base": {
+            "surface": "求める",
+            "reading": "もとめる",
+            "meaning": "buscar, desear, pedir"
+          },
+          "form": {
+            "name": "forma de diccionario + こと",
+            "why": "もとめること = «el buscar». こと convierte el verbo en sustantivo."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "(el hecho de)",
+          "kind": "noun",
+          "note": "こと convierte una acción en sustantivo: もとめる (buscar) → もとめること (el buscar). Así se puede poner partícula después."
+        },
+        {
+          "id": "t6",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Con 夢中 («absorto»), に marca en qué estás absorto: もとめることに夢中 = absorto en buscar."
+        },
+        {
+          "id": "t7",
+          "surface": "夢中で",
+          "reading": "むちゅうで",
+          "romaji": "muchuu de",
+          "gloss": "absorto",
+          "kind": "adj",
+          "emoji": "😶‍🌫️",
+          "base": {
+            "surface": "夢中",
+            "reading": "むちゅう",
+            "meaning": "absorto, entregado por completo"
+          },
+          "form": {
+            "name": "adjetivo な + で (conexión)",
+            "why": "夢中だ → 夢中で: la forma で de un adjetivo な une con lo que sigue, como la forma て de un verbo. «Absorto en buscar…, (tus ojos) que aún no conocen el destino»."
+          },
+          "note": "夢中 = 夢 (sueño) + 中 (dentro): «dentro de un sueño». No es «soñando»: es estar tan metido en algo que olvidas lo demás."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "qué es"
+        },
+        {
+          "from": "t4",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "destination",
+          "label": "en qué"
+        }
+      ],
+      "translation": "Absorto en buscar algo que te roce con suavidad…",
+      "literal": "suavemente tocar lo-que buscar el-hecho-en absorto,"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "運命",
+          "reading": "うんめい",
+          "romaji": "unmei",
+          "gloss": "destino",
+          "kind": "noun",
+          "emoji": "🌠"
+        },
+        {
+          "id": "t2",
+          "surface": "さえ",
+          "romaji": "sae",
+          "gloss": "ni siquiera",
+          "kind": "particle",
+          "role": "«Incluso, ni siquiera»: con negativo, 運命さえ知らない = «ni siquiera conoce su destino». Ocupa el lugar de を."
+        },
+        {
+          "id": "t3",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv",
+          "note": "まだ + negativo = «todavía no»."
+        },
+        {
+          "id": "t4",
+          "surface": "知らない",
+          "reading": "しらない",
+          "romaji": "shiranai",
+          "gloss": "no conoce",
+          "kind": "verb",
+          "emoji": "🤷",
+          "base": {
+            "surface": "知る",
+            "reading": "しる",
+            "meaning": "conocer, saber"
+          },
+          "form": {
+            "name": "negativo (ない)",
+            "why": "知る → 知らない. Delante de 瞳 lo describe: «ojos que no conocen…»."
+          },
+          "note": "Trampa clásica: «sé» se dice 知っている, pero «no sé» es 知らない, nunca 知っていない."
+        },
+        {
+          "id": "t5",
+          "surface": "いたいけな",
+          "romaji": "itaike na",
+          "gloss": "inocente, tierno",
+          "kind": "adj",
+          "emoji": "🥺",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: いたいけな瞳 = «ojos inocentes»."
+          },
+          "note": "いたいけ = la ternura indefensa de un niño, que da ganas de protegerlo. Viene de 痛い + 気 («que da lástima, que duele verlo»), pero hoy no significa dolor. Palabra literaria."
+        },
+        {
+          "id": "t6",
+          "surface": "瞳",
+          "reading": "ひとみ",
+          "romaji": "hitomi",
+          "gloss": "ojos, mirada",
+          "kind": "noun",
+          "emoji": "👁️",
+          "note": "瞳 es la pupila; en canciones significa «ojos» con tono poético. La palabra normal es 目 (め)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cómo son"
+        }
+      ],
+      "translation": "…unos ojos inocentes que todavía ni siquiera conocen su destino.",
+      "literal": "destino-ni-siquiera todavía no-conocen inocentes ojos"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だけど",
+          "romaji": "dakedo",
+          "gloss": "pero",
+          "kind": "expr",
+          "note": "だけど = «pero», al inicio de frase."
+        },
+        {
+          "id": "t2",
+          "surface": "いつか",
+          "romaji": "itsuka",
+          "gloss": "algún día",
+          "kind": "adv",
+          "emoji": "📅",
+          "note": "いつ (cuándo) + か = «algún momento». Palabra interrogativa + か = «algún…» (誰か = alguien, 何か = algo)."
+        },
+        {
+          "id": "t3",
+          "surface": "気付く",
+          "reading": "きづく",
+          "romaji": "kizuku",
+          "gloss": "darse cuenta",
+          "kind": "verb",
+          "emoji": "💡",
+          "note": "気付く = notar, darse cuenta. Lo que notarás está en la línea siguiente: que en tu espalda hay alas. También se escribe 気づく."
+        },
+        {
+          "id": "t4",
+          "surface": "でしょう",
+          "romaji": "deshou",
+          "gloss": "seguramente",
+          "kind": "aux",
+          "form": {
+            "name": "でしょう (suposición)",
+            "why": "Versión educada de だろう: «seguramente», «¿verdad?». Aquí es una predicción tranquila: «algún día te darás cuenta»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t3",
+          "type": "modifies",
+          "label": "seguro"
+        }
+      ],
+      "translation": "Pero algún día te darás cuenta…",
+      "literal": "pero algún-día darse-cuenta seguramente",
+      "notes": [
+        "Lo que notarás viene en la línea siguiente y termina en あること («que hay…»). No cabe todo en una línea, por eso no hay flecha entre las dos."
+      ]
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "ese",
+          "kind": "other",
+          "note": "その = «ese, esa»: algo cercano a quien escucha. Aquí: «esa espalda (tuya)»."
+        },
+        {
+          "id": "t2",
+          "surface": "背中",
+          "reading": "せなか",
+          "romaji": "senaka",
+          "gloss": "espalda",
+          "kind": "noun",
+          "emoji": "🧍"
+        },
+        {
+          "id": "t3",
+          "surface": "には",
+          "romaji": "ni wa",
+          "gloss": "en (contraste)",
+          "kind": "particle",
+          "role": "に (lugar donde hay algo, con ある) + は (destaca): «en esa espalda, precisamente, hay…»."
+        },
+        {
+          "id": "t4",
+          "surface": "遥か未来",
+          "reading": "はるかみらい",
+          "romaji": "haruka mirai",
+          "gloss": "futuro lejano",
+          "kind": "noun",
+          "emoji": "🔭",
+          "note": "遥か = «muy lejos» (en espacio o tiempo). Normalmente se diría 遥かな未来 o 遥か先の未来; la letra quita la partícula y lo deja como un solo bloque."
+        },
+        {
+          "id": "t5",
+          "surface": "めざす",
+          "romaji": "mezasu",
+          "gloss": "apuntar a",
+          "kind": "verb",
+          "emoji": "🎯",
+          "base": {
+            "surface": "目指す",
+            "reading": "めざす",
+            "meaning": "apuntar a, tener como meta"
+          },
+          "form": {
+            "name": "forma de diccionario + ため",
+            "why": "めざす + ため = «para apuntar hacia». 目 (ojo) + 指す (señalar): poner la mira en algo."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "ための",
+          "romaji": "tame no",
+          "gloss": "para",
+          "kind": "aux",
+          "form": {
+            "name": "ため (propósito) + の",
+            "why": "Verbo + ため = «para…». Con の delante de un sustantivo: めざすための羽根 = «alas para apuntar hacia (el futuro)»."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "羽根",
+          "reading": "はね",
+          "romaji": "hane",
+          "gloss": "alas",
+          "kind": "noun",
+          "emoji": "🪽",
+          "note": "羽根 = pluma, ala. También se escribe 羽. Para alas grandes de ave o ángel también se usa 翼 (つばさ), como en Butter-Fly."
+        },
+        {
+          "id": "t8",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de ある: son las alas las que hay."
+        },
+        {
+          "id": "t9",
+          "surface": "あること",
+          "romaji": "aru koto",
+          "gloss": "que hay",
+          "kind": "verb",
+          "emoji": "✅",
+          "base": {
+            "surface": "ある",
+            "reading": "ある",
+            "meaning": "haber, existir (cosas)"
+          },
+          "form": {
+            "name": "forma de diccionario + こと",
+            "why": "こと convierte toda la frase en sustantivo: «(el hecho de) que hay alas». Ese «hecho» es lo que notarás con 気付く en la línea anterior."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t9",
+          "to": "t2",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "subject",
+          "label": "qué hay"
+        },
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "object",
+          "label": "hacia qué"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "para qué"
+        }
+      ],
+      "translation": "…de que en tu espalda hay alas para volar hacia un futuro lejano.",
+      "literal": "esa espalda-en-(contraste) lejano-futuro apuntar-para alas-(sujeto) hay-que"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "残酷な",
+          "reading": "ざんこくな",
+          "romaji": "zankoku na",
+          "gloss": "cruel",
+          "kind": "adj",
+          "emoji": "🗡️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 残酷な天使 = «ángel cruel»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "天使",
+          "reading": "てんし",
+          "romaji": "tenshi",
+          "gloss": "ángel",
+          "kind": "noun",
+          "emoji": "👼"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une dos sustantivos: 天使のテーゼ = «la tesis del ángel»."
+        },
+        {
+          "id": "t4",
+          "surface": "テーゼ",
+          "romaji": "teeze",
+          "gloss": "tesis",
+          "kind": "noun",
+          "emoji": "📜",
+          "note": "Del alemán «These» (tesis), no del inglés: por eso es テーゼ y no «シーシス». Palabra culta y rara, elegida por sonar solemne, igual que パトス más adelante."
+        },
+        {
+          "id": "t5",
+          "surface": "窓辺",
+          "reading": "まどべ",
+          "romaji": "madobe",
+          "gloss": "junto a la ventana",
+          "kind": "noun",
+          "emoji": "🪟",
+          "note": "窓 (ventana) + 辺 (alrededor). 辺 se lee べ aquí (y へん en otras palabras): 窓辺 = el borde de la ventana."
+        },
+        {
+          "id": "t6",
+          "surface": "から",
+          "romaji": "kara",
+          "gloss": "desde",
+          "kind": "particle",
+          "role": "Punto de partida: 窓辺から = «desde la ventana»."
+        },
+        {
+          "id": "t7",
+          "surface": "やがて",
+          "romaji": "yagate",
+          "gloss": "pronto",
+          "kind": "adv",
+          "note": "やがて = «dentro de poco, con el tiempo». Más literario que もうすぐ."
+        },
+        {
+          "id": "t8",
+          "surface": "飛び立つ",
+          "reading": "とびたつ",
+          "romaji": "tobitatsu",
+          "gloss": "echar a volar",
+          "kind": "verb",
+          "emoji": "🕊️",
+          "base": {
+            "surface": "飛ぶ + 立つ",
+            "reading": "とぶ + たつ",
+            "meaning": "volar + levantarse"
+          },
+          "form": {
+            "name": "verbo compuesto",
+            "why": "Raíz de 飛ぶ (飛び) + 立つ = «alzar el vuelo, partir volando». El japonés une verbos así para matizar: 飛ぶ es solo «volar»; 飛び立つ es el momento de despegar."
+          },
+          "note": "¿Quién echa a volar? La letra no lo dice. Puede ser la tesis (como si fuera un pájaro) o el muchacho. Es ambiguo a propósito."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de quién"
+        },
+        {
+          "from": "t8",
+          "to": "t5",
+          "type": "destination",
+          "label": "desde dónde"
+        },
+        {
+          "from": "t8",
+          "to": "t4",
+          "type": "subject",
+          "label": "¿quién?"
+        }
+      ],
+      "translation": "La tesis del ángel cruel pronto echará a volar desde la ventana.",
+      "literal": "cruel ángel-de tesis, ventana-desde pronto echar-a-volar"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ほとばしる",
+          "romaji": "hotobashiru",
+          "gloss": "desbordante",
+          "kind": "verb",
+          "emoji": "🌊",
+          "base": {
+            "surface": "迸る",
+            "reading": "ほとばしる",
+            "meaning": "brotar con fuerza, salir a chorros"
+          },
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "Describe a パトス: «una pasión que brota a chorros»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "熱い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "gloss": "ardiente",
+          "kind": "adj",
+          "emoji": "🔥",
+          "note": "Tres あつい distintos: 熱い (caliente al tacto, apasionado), 暑い (calor del clima), 厚い (grueso). Aquí es la pasión."
+        },
+        {
+          "id": "t3",
+          "surface": "パトス",
+          "romaji": "patosu",
+          "gloss": "pasión",
+          "kind": "noun",
+          "emoji": "❤️‍🔥",
+          "note": "Del griego pathos. Palabra culta, como テーゼ. Lo normal sería 情熱 (じょうねつ)."
+        },
+        {
+          "id": "t4",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Medio o causa: パトスで = «con (esa) pasión, a fuerza de pasión»."
+        },
+        {
+          "id": "t5",
+          "surface": "思い出",
+          "reading": "おもいで",
+          "romaji": "omoide",
+          "gloss": "recuerdos",
+          "kind": "noun",
+          "emoji": "📷",
+          "note": "思い (pensamiento) + 出 (salir) = recuerdos. 出 se lee で aquí, no だ ni しゅつ."
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 裏切る: lo que se traiciona."
+        },
+        {
+          "id": "t7",
+          "surface": "裏切る",
+          "reading": "うらぎる",
+          "romaji": "uragiru",
+          "gloss": "traicionar",
+          "kind": "verb",
+          "emoji": "🔪",
+          "note": "裏 (revés) + 切る (cortar). «Traicionar los recuerdos» = romper con el pasado, dejarlo atrás."
+        },
+        {
+          "id": "t8",
+          "surface": "なら",
+          "romaji": "nara",
+          "gloss": "si",
+          "kind": "aux",
+          "form": {
+            "name": "なら (condicional)",
+            "why": "«Si (es que)…»: plantea una situación y lo siguiente responde a ella. «Si vas a traicionar tus recuerdos…, entonces conviértete en mito»."
+          },
+          "note": "Hay cuatro formas de «si»: と, ば, たら, なら. なら es la que toma algo como hipótesis dada: «si ese es el caso…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t7",
+          "to": "t3",
+          "type": "object",
+          "label": "con qué"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Si con una pasión ardiente y desbordante traicionas tus recuerdos…",
+      "literal": "desbordante ardiente pasión-con recuerdos-(objeto) traicionar si"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "este",
+          "kind": "other",
+          "note": "この = «este, esta», siempre delante de un sustantivo."
+        },
+        {
+          "id": "t2",
+          "surface": "宇宙",
+          "reading": "うちゅう",
+          "romaji": "uchuu",
+          "gloss": "cielo / universo",
+          "kind": "noun",
+          "emoji": "🌌",
+          "sungAs": {
+            "reading": "そら",
+            "romaji": "sora",
+            "note": "Escrito 宇宙 (うちゅう, «universo»), pero se canta そら («cielo»). La letra junta los dos sentidos: suena a «cielo» y se lee como «universo». Es justo el caso de escrito ≠ cantado: no aprendas そら como lectura de 宇宙; el diccionario dice うちゅう."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 抱いて: lo que se abraza."
+        },
+        {
+          "id": "t4",
+          "surface": "抱いて",
+          "reading": "だいて",
+          "romaji": "daite",
+          "gloss": "abrazando",
+          "kind": "verb",
+          "emoji": "🤗",
+          "base": {
+            "surface": "抱く",
+            "reading": "だく",
+            "meaning": "abrazar"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "抱く → 抱いて (く → いて). Une con 輝く: «abraza este cielo y brilla». La forma て describe cómo brilla."
+          },
+          "note": "抱く tiene dos lecturas: だく (abrazar con los brazos) e いだく (albergar un sentimiento, literario). La letra marca だいて."
+        },
+        {
+          "id": "t5",
+          "surface": "輝く",
+          "reading": "かがやく",
+          "romaji": "kagayaku",
+          "gloss": "que brilla",
+          "kind": "verb",
+          "emoji": "✨",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "輝く少年 = «el muchacho que brilla». Toda la parte この宇宙を抱いて輝く describe al 少年."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "少年",
+          "reading": "しょうねん",
+          "romaji": "shounen",
+          "gloss": "muchacho",
+          "kind": "noun",
+          "emoji": "👦",
+          "note": "少年 = chico, muchacho (más o menos de 7 a 18 años). Es una palabra algo formal o literaria; hablando se dice 男の子."
+        },
+        {
+          "id": "t7",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡oh…!",
+          "kind": "particle",
+          "role": "Vocativo: llama a alguien con solemnidad, como «¡oh, muchacho!». No es el よ de final de frase («¿sabes?»): aquí va detrás de un nombre al que se habla."
+        },
+        {
+          "id": "t8",
+          "surface": "神話",
+          "reading": "しんわ",
+          "romaji": "shinwa",
+          "gloss": "mito, leyenda",
+          "kind": "noun",
+          "emoji": "🏛️"
+        },
+        {
+          "id": "t9",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio: con なる, に marca en qué te conviertes. 神話になる = convertirse en mito."
+        },
+        {
+          "id": "t10",
+          "surface": "なれ",
+          "romaji": "nare",
+          "gloss": "¡conviértete!",
+          "kind": "verb",
+          "emoji": "🌟",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse en"
+          },
+          "form": {
+            "name": "imperativo",
+            "why": "なる → なれ: orden directa, «¡conviértete!». El imperativo simple suena muy fuerte; en la vida diaria casi no se usa (se dice なって). En canciones y en anime aparece para dar órdenes épicas."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "quién"
+        },
+        {
+          "from": "t10",
+          "to": "t8",
+          "type": "destination",
+          "label": "en qué"
+        },
+        {
+          "from": "t10",
+          "to": "t6",
+          "type": "subject",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Muchacho que brillas abrazando este cielo, ¡conviértete en leyenda!",
+      "literal": "este cielo-(objeto) abrazando brillar, muchacho-¡oh!, mito-en ¡conviértete!"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ずっと",
+          "romaji": "zutto",
+          "gloss": "todo el tiempo",
+          "kind": "adv",
+          "emoji": "⏳",
+          "note": "ずっと = «todo el tiempo, desde hace mucho». Con comparativos significa «mucho más»."
+        },
+        {
+          "id": "t2",
+          "surface": "眠ってる",
+          "reading": "ねむってる",
+          "romaji": "nemutteru",
+          "gloss": "durmiendo",
+          "kind": "verb",
+          "emoji": "😴",
+          "base": {
+            "surface": "眠る",
+            "reading": "ねむる",
+            "meaning": "dormir"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "眠る → 眠って + いる → 眠ってる: estado que continúa. Delante de 揺りかご lo describe: «la cuna en la que (tú) duermes»."
+          },
+          "note": "Falta quién duerme y dónde (で). Se entiende que es el muchacho, dormido en la cuna del amor de ella. 眠る es más literario que 寝る."
+        },
+        {
+          "id": "t3",
+          "surface": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "gloss": "yo",
+          "kind": "noun",
+          "emoji": "🙋‍♀️"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Pertenencia: 私の愛 = «mi amor»."
+        },
+        {
+          "id": "t5",
+          "surface": "愛",
+          "reading": "あい",
+          "romaji": "ai",
+          "gloss": "amor",
+          "kind": "noun",
+          "emoji": "💗"
+        },
+        {
+          "id": "t6",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une 愛 con 揺りかご: «la cuna de mi amor»."
+        },
+        {
+          "id": "t7",
+          "surface": "揺りかご",
+          "reading": "ゆりかご",
+          "romaji": "yurikago",
+          "gloss": "cuna",
+          "kind": "noun",
+          "emoji": "🛏️",
+          "note": "揺り (de 揺る/揺れる, mecer) + かご (cesta) = cuna que se mece."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t7",
+          "type": "modifies",
+          "label": "dónde"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de quién"
+        },
+        {
+          "from": "t5",
+          "to": "t7",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "Duermes desde hace tanto en la cuna de mi amor.",
+      "literal": "todo-el-tiempo durmiendo yo-de amor-de cuna"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun",
+          "emoji": "🫵"
+        },
+        {
+          "id": "t2",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "«Solo»: あなただけ = «solo tú». Va antes de が."
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 呼ばれる: tú eres quien es llamado."
+        },
+        {
+          "id": "t4",
+          "surface": "夢の使者",
+          "reading": "ゆめのししゃ",
+          "romaji": "yume no shisha",
+          "gloss": "mensajero de los sueños",
+          "kind": "noun",
+          "emoji": "📯",
+          "note": "夢 (sueño) + の + 使者 (enviado, mensajero). Va como un solo bloque. 使者 es palabra formal: un enviado oficial."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Con un verbo pasivo, に marca quién hace la acción: 使者に呼ばれる = «ser llamado por el mensajero».",
+          "note": "Este に no es destino: con pasiva siempre es «por (alguien)»."
+        },
+        {
+          "id": "t6",
+          "surface": "呼ばれる",
+          "reading": "よばれる",
+          "romaji": "yobareru",
+          "gloss": "ser llamado",
+          "kind": "verb",
+          "emoji": "📣",
+          "base": {
+            "surface": "呼ぶ",
+            "reading": "よぶ",
+            "meaning": "llamar"
+          },
+          "form": {
+            "name": "pasiva (れる / られる)",
+            "why": "Verbo godan: la última sílaba pasa a la fila あ + れる (ぶ → ばれる). Ichidan: る → られる (食べる → 食べられる). Aquí es pasiva porque hay un に de agente (使者に): «ser llamado por el mensajero»."
+          },
+          "note": "Pista para no confundir: si hay «に + alguien» que hace la acción, es pasiva; si hay を con el objeto, suele ser potencial."
+        },
+        {
+          "id": "t7",
+          "surface": "朝",
+          "reading": "あさ",
+          "romaji": "asa",
+          "gloss": "mañana (alba)",
+          "kind": "noun",
+          "emoji": "🌅",
+          "note": "朝 = la mañana, el amanecer. «Mañana» como día siguiente es 明日 (あした)."
+        },
+        {
+          "id": "t8",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de くる: es la mañana la que llega."
+        },
+        {
+          "id": "t9",
+          "surface": "くる",
+          "romaji": "kuru",
+          "gloss": "llega",
+          "kind": "verb",
+          "emoji": "🌄",
+          "base": {
+            "surface": "来る",
+            "reading": "くる",
+            "meaning": "venir, llegar"
+          },
+          "note": "来る es irregular. Sin conjugar sirve también para el futuro: «llegará»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t6",
+          "to": "t1",
+          "type": "subject",
+          "label": "a quién"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "subject",
+          "label": "por quién"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Llegará la mañana en que solo tú serás llamado por el mensajero de los sueños.",
+      "literal": "tú-solo-(sujeto) mensajero-de-sueños-por ser-llamado mañana-(sujeto) llega"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "細い",
+          "reading": "ほそい",
+          "romaji": "hosoi",
+          "gloss": "delgado",
+          "kind": "adj",
+          "emoji": "🦢"
+        },
+        {
+          "id": "t2",
+          "surface": "首筋",
+          "reading": "くびすじ",
+          "romaji": "kubisuji",
+          "gloss": "nuca, cuello",
+          "kind": "noun",
+          "emoji": "🧍",
+          "note": "首 (cuello) + 筋 (línea, tendón) = la línea del cuello, la nuca. Imagen delicada, casi frágil."
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 映してる: lo que la luz refleja."
+        },
+        {
+          "id": "t4",
+          "surface": "月あかり",
+          "reading": "つきあかり",
+          "romaji": "tsukiakari",
+          "gloss": "luz de luna",
+          "kind": "noun",
+          "emoji": "🌙",
+          "note": "Normalmente 月明かり. 月 (luna) + 明かり (luz)."
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 映してる: la luz de la luna es la que refleja."
+        },
+        {
+          "id": "t6",
+          "surface": "映してる",
+          "reading": "うつしてる",
+          "romaji": "utsushiteru",
+          "gloss": "refleja",
+          "kind": "verb",
+          "emoji": "🪞",
+          "base": {
+            "surface": "映す",
+            "reading": "うつす",
+            "meaning": "reflejar, proyectar (algo)"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "映している → 映してる: algo que está pasando ahora mismo."
+          },
+          "note": "Par que confunde: 映す (reflejar algo, lleva を) y 映る (reflejarse, verse reflejado, lleva が). La luz 映す el cuello; el cuello 映る en la luz."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t6",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "subject",
+          "label": "quién"
+        }
+      ],
+      "translation": "La luz de la luna ilumina tu delgado cuello.",
+      "literal": "delgado cuello-(objeto) luz-de-luna-(sujeto) refleja"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "世界中",
+          "reading": "せかいじゅう",
+          "romaji": "sekaijuu",
+          "gloss": "el mundo entero",
+          "kind": "noun",
+          "emoji": "🌍",
+          "note": "中 detrás de un lugar se lee じゅう y significa «todo»: 世界中 = todo el mundo, 日本中 = todo Japón. Con tiempo también: 一日中 = todo el día."
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 世界中の時 = «el tiempo del mundo entero»."
+        },
+        {
+          "id": "t3",
+          "surface": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "gloss": "tiempo",
+          "kind": "noun",
+          "emoji": "⏰",
+          "note": "時 (とき) = el tiempo, un momento. 時間 (じかん) es más concreto: horas, minutos."
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 止めて: lo que se detiene."
+        },
+        {
+          "id": "t5",
+          "surface": "止めて",
+          "reading": "とめて",
+          "romaji": "tomete",
+          "gloss": "detener",
+          "kind": "verb",
+          "emoji": "✋",
+          "base": {
+            "surface": "止める",
+            "reading": "とめる",
+            "meaning": "detener (algo)"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Encadena con 閉じこめたい: «detener el tiempo y encerrarlo»."
+          },
+          "note": "Par que confunde: 止める (detener algo, lleva を) y 止まる (detenerse solo, lleva が)."
+        },
+        {
+          "id": "t6",
+          "surface": "閉じこめたい",
+          "reading": "とじこめたい",
+          "romaji": "tojikometai",
+          "gloss": "quiero encerrar",
+          "kind": "verb",
+          "emoji": "🔒",
+          "base": {
+            "surface": "閉じ込める",
+            "reading": "とじこめる",
+            "meaning": "encerrar"
+          },
+          "form": {
+            "name": "deseo (たい)",
+            "why": "Raíz 閉じこめ + たい = «quiero encerrar». たい expresa el deseo de quien habla."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "けど",
+          "romaji": "kedo",
+          "gloss": "pero",
+          "kind": "particle",
+          "role": "«Pero…»: lo quiere, pero (no puede). Deja la frase en el aire."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "possession",
+          "label": "de dónde"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "connects",
+          "label": "y"
+        }
+      ],
+      "translation": "Quisiera detener el tiempo del mundo entero y encerrarlo, pero…",
+      "literal": "mundo-entero-de tiempo-(objeto) detener encerrar-quiero pero"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "もしも",
+          "romaji": "moshimo",
+          "gloss": "si acaso",
+          "kind": "adv",
+          "note": "もしも (o もし) anuncia una condición: «si…». La condición se cierra al final con なら."
+        },
+        {
+          "id": "t2",
+          "surface": "ふたり",
+          "romaji": "futari",
+          "gloss": "los dos",
+          "kind": "noun",
+          "emoji": "👫",
+          "note": "ふたり = 二人. Para contar personas: ひとり (1), ふたり (2), y desde 3 よにん, さんにん… Las dos primeras son irregulares."
+        },
+        {
+          "id": "t3",
+          "surface": "逢えた",
+          "reading": "あえた",
+          "romaji": "aeta",
+          "gloss": "pudimos encontrarnos",
+          "kind": "verb",
+          "emoji": "🤝",
+          "base": {
+            "surface": "逢う",
+            "reading": "あう",
+            "meaning": "encontrarse (con alguien querido)"
+          },
+          "form": {
+            "name": "potencial + pasado (えた)",
+            "why": "逢う → 逢える (potencial godan: う → える) → 逢えた (pasado): «pudimos encontrarnos». Da la idea de un encuentro afortunado."
+          },
+          "note": "Normalmente 会う. 逢う (mismo sonido) es poético: encuentro con alguien amado o predestinado. Muy común en canciones."
+        },
+        {
+          "id": "t4",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "el hecho de",
+          "kind": "noun",
+          "note": "こと convierte 逢えた en sustantivo: «el hecho de habernos encontrado»."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Con ある, に marca dónde hay algo: «en (el hecho de habernos encontrado) hay sentido»."
+        },
+        {
+          "id": "t6",
+          "surface": "意味",
+          "reading": "いみ",
+          "romaji": "imi",
+          "gloss": "sentido",
+          "kind": "noun",
+          "emoji": "💡"
+        },
+        {
+          "id": "t7",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de ある: es el sentido lo que hay."
+        },
+        {
+          "id": "t8",
+          "surface": "ある",
+          "romaji": "aru",
+          "gloss": "hay",
+          "kind": "verb",
+          "emoji": "✅"
+        },
+        {
+          "id": "t9",
+          "surface": "なら",
+          "romaji": "nara",
+          "gloss": "si",
+          "kind": "aux",
+          "form": {
+            "name": "なら (condicional)",
+            "why": "Cierra el もしも del principio: «si acaso… tiene sentido». La respuesta viene en la línea siguiente."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t8",
+          "to": "t4",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "subject",
+          "label": "qué hay"
+        },
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "subject",
+          "label": "quiénes"
+        },
+        {
+          "from": "t9",
+          "to": "t1",
+          "type": "connects",
+          "label": "si…"
+        }
+      ],
+      "translation": "Si que los dos nos hayamos encontrado tiene algún sentido…",
+      "literal": "si-acaso los-dos pudimos-encontrarnos hecho-en sentido-(sujeto) hay si"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "gloss": "yo",
+          "kind": "noun",
+          "emoji": "🙋‍♀️"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «yo, (soy)…». Lo que se dice de 私 llega al final: バイブル."
+        },
+        {
+          "id": "t3",
+          "surface": "そう",
+          "romaji": "sou",
+          "gloss": "eso es",
+          "kind": "expr",
+          "note": "そう aquí es una muletilla, «sí, eso es»: la cantante se reafirma en mitad de la frase."
+        },
+        {
+          "id": "t4",
+          "surface": "自由",
+          "reading": "じゆう",
+          "romaji": "jiyuu",
+          "gloss": "libertad",
+          "kind": "noun",
+          "emoji": "🕊️"
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 知る: lo que se llega a conocer."
+        },
+        {
+          "id": "t6",
+          "surface": "知る",
+          "reading": "しる",
+          "romaji": "shiru",
+          "gloss": "conocer",
+          "kind": "verb",
+          "emoji": "📖",
+          "form": {
+            "name": "forma de diccionario + ため",
+            "why": "知る + ため = «para conocer». Delante de ための, describe el propósito de la バイブル."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "ため",
+          "romaji": "tame",
+          "gloss": "para",
+          "kind": "noun",
+          "note": "Verbo + ため = «para (hacer algo)». Lleva の delante de un sustantivo."
+        },
+        {
+          "id": "t8",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "ため + の + sustantivo: 知るためのバイブル = «la biblia para conocer»."
+        },
+        {
+          "id": "t9",
+          "surface": "バイブル",
+          "romaji": "baiburu",
+          "gloss": "biblia",
+          "kind": "noun",
+          "emoji": "📕",
+          "note": "Del inglés bible. Se usa como «libro de referencia, guía»; la Biblia religiosa suele ser 聖書 (せいしょ)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t9",
+          "type": "topic",
+          "label": "yo soy"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t9",
+          "type": "modifies",
+          "label": "para qué"
+        }
+      ],
+      "translation": "yo soy, sí, la biblia con la que conocerás la libertad.",
+      "literal": "yo-(tema) sí libertad-(objeto) conocer para-de biblia"
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "残酷な",
+          "reading": "ざんこくな",
+          "romaji": "zankoku na",
+          "gloss": "cruel",
+          "kind": "adj",
+          "emoji": "🗡️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 残酷な天使 = «ángel cruel»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "天使",
+          "reading": "てんし",
+          "romaji": "tenshi",
+          "gloss": "ángel",
+          "kind": "noun",
+          "emoji": "👼"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une dos sustantivos: 天使のテーゼ = «la tesis del ángel»."
+        },
+        {
+          "id": "t4",
+          "surface": "テーゼ",
+          "romaji": "teeze",
+          "gloss": "tesis",
+          "kind": "noun",
+          "emoji": "📜",
+          "note": "Del alemán «These» (tesis), no del inglés: por eso es テーゼ y no «シーシス». Palabra culta y rara, elegida por sonar solemne, igual que パトス más adelante."
+        },
+        {
+          "id": "t5",
+          "surface": "悲しみ",
+          "reading": "かなしみ",
+          "romaji": "kanashimi",
+          "gloss": "tristeza",
+          "kind": "noun",
+          "emoji": "😢",
+          "base": {
+            "surface": "悲しい",
+            "reading": "かなしい",
+            "meaning": "triste"
+          },
+          "form": {
+            "name": "adjetivo い → sustantivo (み)",
+            "why": "悲しい → 悲し + み = «tristeza». Con み o さ los adjetivos い se vuelven sustantivos (悲しさ también existe)."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de はじまる: es la tristeza la que empieza."
+        },
+        {
+          "id": "t7",
+          "surface": "そして",
+          "romaji": "soshite",
+          "gloss": "y entonces",
+          "kind": "expr",
+          "note": "そして = «y, y entonces». Aquí, en mitad de la frase, da un tono dramático: «la tristeza, y así, comienza»."
+        },
+        {
+          "id": "t8",
+          "surface": "はじまる",
+          "romaji": "hajimaru",
+          "gloss": "comienza",
+          "kind": "verb",
+          "emoji": "🎬",
+          "base": {
+            "surface": "始まる",
+            "reading": "はじまる",
+            "meaning": "empezar (solo)"
+          },
+          "note": "Par que confunde: 始まる (algo empieza, lleva が) y 始める (empezar algo, lleva を). Aquí la tristeza empieza sola."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de quién"
+        },
+        {
+          "from": "t8",
+          "to": "t5",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "La tesis del ángel cruel: y así comienza la tristeza.",
+      "literal": "cruel ángel-de tesis, tristeza-(sujeto) y-entonces comienza"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "抱きしめた",
+          "reading": "だきしめた",
+          "romaji": "dakishimeta",
+          "gloss": "abrazado fuerte",
+          "kind": "verb",
+          "emoji": "🫂",
+          "base": {
+            "surface": "抱きしめる",
+            "reading": "だきしめる",
+            "meaning": "abrazar con fuerza"
+          },
+          "form": {
+            "name": "pasado (た) delante de sustantivo",
+            "why": "抱きしめた命 = «la vida que abracé». Describe al sustantivo que sigue."
+          },
+          "note": "抱く (abrazar) + しめる (apretar) = abrazar con fuerza."
+        },
+        {
+          "id": "t2",
+          "surface": "命",
+          "reading": "いのち",
+          "romaji": "inochi",
+          "gloss": "vida",
+          "kind": "noun",
+          "emoji": "🌱",
+          "note": "命 = la vida de un ser vivo. «La vida» como día a día es 生活 (せいかつ) o 人生 (じんせい)."
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 命のかたち = «la forma de la vida»."
+        },
+        {
+          "id": "t4",
+          "surface": "かたち",
+          "romaji": "katachi",
+          "gloss": "forma",
+          "kind": "noun",
+          "note": "かたち = 形. La frase 抱きしめた命のかたち queda suelta, sin partícula: es una imagen («la forma de la vida que abracé»), no el sujeto de nada."
+        },
+        {
+          "id": "t5",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "ese",
+          "kind": "other"
+        },
+        {
+          "id": "t6",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun",
+          "emoji": "💭"
+        },
+        {
+          "id": "t7",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a",
+          "kind": "particle",
+          "role": "Con 目覚める: 夢に目覚める = «despertar a un sueño» (darse cuenta de él, abrazarlo)."
+        },
+        {
+          "id": "t8",
+          "surface": "目覚めた",
+          "reading": "めざめた",
+          "romaji": "mezameta",
+          "gloss": "despertar",
+          "kind": "verb",
+          "emoji": "🌅",
+          "base": {
+            "surface": "目覚める",
+            "reading": "めざめる",
+            "meaning": "despertar"
+          },
+          "form": {
+            "name": "た + とき",
+            "why": "Aquí た NO es pasado: delante de とき marca que la acción ya se completó en ese momento. 目覚めたとき = «cuando hayas despertado», también hablando del futuro."
+          }
+        },
+        {
+          "id": "t9",
+          "surface": "とき",
+          "romaji": "toki",
+          "gloss": "cuando",
+          "kind": "noun",
+          "note": "とき (時) = «cuando, el momento en que». Comparar: 目覚めるとき = «al despertar (antes o durante)»; 目覚めたとき = «una vez despierto»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "destination",
+          "label": "a qué"
+        },
+        {
+          "from": "t8",
+          "to": "t9",
+          "type": "modifies",
+          "label": "cuándo"
+        }
+      ],
+      "translation": "La forma de la vida que abracé: cuando despiertes a ese sueño…",
+      "literal": "abrazada vida-de forma, ese sueño-a despertado cuando"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "誰よりも",
+          "reading": "だれよりも",
+          "romaji": "dare yori mo",
+          "gloss": "más que nadie",
+          "kind": "expr",
+          "emoji": "🥇",
+          "form": {
+            "name": "より (comparación) + も",
+            "why": "誰 (quién) + より (que) + も = «más que nadie». A より se le pone lo que se supera."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "光",
+          "reading": "ひかり",
+          "romaji": "hikari",
+          "gloss": "luz",
+          "kind": "noun",
+          "emoji": "💡"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 放つ."
+        },
+        {
+          "id": "t4",
+          "surface": "放つ",
+          "reading": "はなつ",
+          "romaji": "hanatsu",
+          "gloss": "que irradia",
+          "kind": "verb",
+          "emoji": "🌟",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "Describe a 少年: «el muchacho que irradia luz»."
+          },
+          "note": "放つ = soltar, lanzar, emitir. Literario; hablando se diría 光る (brillar)."
+        },
+        {
+          "id": "t5",
+          "surface": "少年",
+          "reading": "しょうねん",
+          "romaji": "shounen",
+          "gloss": "muchacho",
+          "kind": "noun",
+          "emoji": "👦",
+          "note": "少年 = chico, muchacho (más o menos de 7 a 18 años). Es una palabra algo formal o literaria; hablando se dice 男の子."
+        },
+        {
+          "id": "t6",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡oh…!",
+          "kind": "particle",
+          "role": "Vocativo: llama a alguien con solemnidad, como «¡oh, muchacho!». No es el よ de final de frase («¿sabes?»): aquí va detrás de un nombre al que se habla."
+        },
+        {
+          "id": "t7",
+          "surface": "神話",
+          "reading": "しんわ",
+          "romaji": "shinwa",
+          "gloss": "mito, leyenda",
+          "kind": "noun",
+          "emoji": "🏛️"
+        },
+        {
+          "id": "t8",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio: con なる, に marca en qué te conviertes. 神話になる = convertirse en mito."
+        },
+        {
+          "id": "t9",
+          "surface": "なれ",
+          "romaji": "nare",
+          "gloss": "¡conviértete!",
+          "kind": "verb",
+          "emoji": "🌟",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse en"
+          },
+          "form": {
+            "name": "imperativo",
+            "why": "なる → なれ: orden directa, «¡conviértete!». El imperativo simple suena muy fuerte; en la vida diaria casi no se usa (se dice なって). En canciones y en anime aparece para dar órdenes épicas."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "quién"
+        },
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "destination",
+          "label": "en qué"
+        },
+        {
+          "from": "t9",
+          "to": "t5",
+          "type": "subject",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Muchacho que irradias luz más que nadie, ¡conviértete en leyenda!",
+      "literal": "más-que-nadie luz-(objeto) irradiar, muchacho-¡oh!, mito-en ¡conviértete!"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "人",
+          "reading": "ひと",
+          "romaji": "hito",
+          "gloss": "las personas",
+          "kind": "noun",
+          "emoji": "🧑‍🤝‍🧑"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema general: «las personas (en general)…». Afirmaciones universales suelen ir con は."
+        },
+        {
+          "id": "t3",
+          "surface": "愛",
+          "reading": "あい",
+          "romaji": "ai",
+          "gloss": "amor",
+          "kind": "noun",
+          "emoji": "💗"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de つむぐ: lo que se hila."
+        },
+        {
+          "id": "t5",
+          "surface": "つむぎながら",
+          "romaji": "tsumugi nagara",
+          "gloss": "mientras hilan",
+          "kind": "verb",
+          "emoji": "🧶",
+          "base": {
+            "surface": "紡ぐ",
+            "reading": "つむぐ",
+            "meaning": "hilar, tejer"
+          },
+          "form": {
+            "name": "raíz + ながら",
+            "why": "紡ぐ → 紡ぎ + ながら = «mientras hilan». Dos acciones a la vez de las mismas personas."
+          },
+          "note": "Imagen: el amor como un hilo que se va tejiendo poco a poco."
+        },
+        {
+          "id": "t6",
+          "surface": "歴史",
+          "reading": "れきし",
+          "romaji": "rekishi",
+          "gloss": "historia",
+          "kind": "noun",
+          "emoji": "📜"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de つくる."
+        },
+        {
+          "id": "t8",
+          "surface": "つくる",
+          "romaji": "tsukuru",
+          "gloss": "hacen",
+          "kind": "verb",
+          "emoji": "🏗️",
+          "base": {
+            "surface": "作る",
+            "reading": "つくる",
+            "meaning": "hacer, crear"
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t1",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t5",
+          "to": "t8",
+          "type": "connects",
+          "label": "mientras"
+        }
+      ],
+      "translation": "Las personas hacen historia mientras tejen el amor.",
+      "literal": "personas-(tema) amor-(objeto) tejiendo-mientras historia-(objeto) hacen"
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "女神",
+          "reading": "めがみ",
+          "romaji": "megami",
+          "gloss": "diosa",
+          "kind": "noun",
+          "emoji": "👸",
+          "note": "女 (mujer) + 神 (dios). 神 se lee がみ aquí (de かみ, con sonido sonoro al unirse)."
+        },
+        {
+          "id": "t2",
+          "surface": "なんて",
+          "romaji": "nante",
+          "gloss": "algo como",
+          "kind": "particle",
+          "role": "Le quita importancia, casi con ironía: «una diosa ni nada de eso». Ocupa el lugar de に (女神になんて)."
+        },
+        {
+          "id": "t3",
+          "surface": "なれない",
+          "romaji": "narenai",
+          "gloss": "no puedo ser",
+          "kind": "verb",
+          "emoji": "🚫",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse en"
+          },
+          "form": {
+            "name": "potencial negativo",
+            "why": "なる → なれる (puedo convertirme) → なれない (no puedo). Godan: る → れる."
+          },
+          "note": "Compárala con なれ (imperativo) del estribillo: misma raíz, distinto final. «Tú, ¡conviértete en mito!» frente a «yo no puedo ser una diosa»."
+        },
+        {
+          "id": "t4",
+          "surface": "まま",
+          "romaji": "mama",
+          "gloss": "tal cual",
+          "kind": "noun",
+          "form": {
+            "name": "まま (sin cambiar)",
+            "why": "なれないまま = «quedándome sin poder convertirme»: el estado sigue igual mientras pasa lo siguiente."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "gloss": "yo",
+          "kind": "noun",
+          "emoji": "🙋‍♀️"
+        },
+        {
+          "id": "t6",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «yo, por mi parte…», en contraste con 人 (las personas) de la línea anterior."
+        },
+        {
+          "id": "t7",
+          "surface": "生きる",
+          "reading": "いきる",
+          "romaji": "ikiru",
+          "gloss": "vivo",
+          "kind": "verb",
+          "emoji": "🌿",
+          "note": "生きる = vivir (estar vivo, seguir viviendo). «Vivir en un lugar» es 住む."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "destination",
+          "label": "en qué"
+        },
+        {
+          "from": "t7",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cómo"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "subject",
+          "label": "quién"
+        }
+      ],
+      "translation": "Sin poder llegar a ser una diosa ni nada parecido, yo sigo viviendo.",
+      "literal": "diosa-algo-como no-puedo-ser tal-cual yo-(tema) vivo"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "残酷な",
+          "reading": "ざんこくな",
+          "romaji": "zankoku na",
+          "gloss": "cruel",
+          "kind": "adj",
+          "emoji": "🗡️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 残酷な天使 = «ángel cruel»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "天使",
+          "reading": "てんし",
+          "romaji": "tenshi",
+          "gloss": "ángel",
+          "kind": "noun",
+          "emoji": "👼"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une dos sustantivos: 天使のテーゼ = «la tesis del ángel»."
+        },
+        {
+          "id": "t4",
+          "surface": "テーゼ",
+          "romaji": "teeze",
+          "gloss": "tesis",
+          "kind": "noun",
+          "emoji": "📜",
+          "note": "Del alemán «These» (tesis), no del inglés: por eso es テーゼ y no «シーシス». Palabra culta y rara, elegida por sonar solemne, igual que パトス más adelante."
+        },
+        {
+          "id": "t5",
+          "surface": "窓辺",
+          "reading": "まどべ",
+          "romaji": "madobe",
+          "gloss": "junto a la ventana",
+          "kind": "noun",
+          "emoji": "🪟",
+          "note": "窓 (ventana) + 辺 (alrededor). 辺 se lee べ aquí (y へん en otras palabras): 窓辺 = el borde de la ventana."
+        },
+        {
+          "id": "t6",
+          "surface": "から",
+          "romaji": "kara",
+          "gloss": "desde",
+          "kind": "particle",
+          "role": "Punto de partida: 窓辺から = «desde la ventana»."
+        },
+        {
+          "id": "t7",
+          "surface": "やがて",
+          "romaji": "yagate",
+          "gloss": "pronto",
+          "kind": "adv",
+          "note": "やがて = «dentro de poco, con el tiempo». Más literario que もうすぐ."
+        },
+        {
+          "id": "t8",
+          "surface": "飛び立つ",
+          "reading": "とびたつ",
+          "romaji": "tobitatsu",
+          "gloss": "echar a volar",
+          "kind": "verb",
+          "emoji": "🕊️",
+          "base": {
+            "surface": "飛ぶ + 立つ",
+            "reading": "とぶ + たつ",
+            "meaning": "volar + levantarse"
+          },
+          "form": {
+            "name": "verbo compuesto",
+            "why": "Raíz de 飛ぶ (飛び) + 立つ = «alzar el vuelo, partir volando». El japonés une verbos así para matizar: 飛ぶ es solo «volar»; 飛び立つ es el momento de despegar."
+          },
+          "note": "¿Quién echa a volar? La letra no lo dice. Puede ser la tesis (como si fuera un pájaro) o el muchacho. Es ambiguo a propósito."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de quién"
+        },
+        {
+          "from": "t8",
+          "to": "t5",
+          "type": "destination",
+          "label": "desde dónde"
+        },
+        {
+          "from": "t8",
+          "to": "t4",
+          "type": "subject",
+          "label": "¿quién?"
+        }
+      ],
+      "translation": "La tesis del ángel cruel pronto echará a volar desde la ventana.",
+      "literal": "cruel ángel-de tesis, ventana-desde pronto echar-a-volar"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ほとばしる",
+          "romaji": "hotobashiru",
+          "gloss": "desbordante",
+          "kind": "verb",
+          "emoji": "🌊",
+          "base": {
+            "surface": "迸る",
+            "reading": "ほとばしる",
+            "meaning": "brotar con fuerza, salir a chorros"
+          },
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "Describe a パトス: «una pasión que brota a chorros»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "熱い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "gloss": "ardiente",
+          "kind": "adj",
+          "emoji": "🔥",
+          "note": "Tres あつい distintos: 熱い (caliente al tacto, apasionado), 暑い (calor del clima), 厚い (grueso). Aquí es la pasión."
+        },
+        {
+          "id": "t3",
+          "surface": "パトス",
+          "romaji": "patosu",
+          "gloss": "pasión",
+          "kind": "noun",
+          "emoji": "❤️‍🔥",
+          "note": "Del griego pathos. Palabra culta, como テーゼ. Lo normal sería 情熱 (じょうねつ)."
+        },
+        {
+          "id": "t4",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Medio o causa: パトスで = «con (esa) pasión, a fuerza de pasión»."
+        },
+        {
+          "id": "t5",
+          "surface": "思い出",
+          "reading": "おもいで",
+          "romaji": "omoide",
+          "gloss": "recuerdos",
+          "kind": "noun",
+          "emoji": "📷",
+          "note": "思い (pensamiento) + 出 (salir) = recuerdos. 出 se lee で aquí, no だ ni しゅつ."
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 裏切る: lo que se traiciona."
+        },
+        {
+          "id": "t7",
+          "surface": "裏切る",
+          "reading": "うらぎる",
+          "romaji": "uragiru",
+          "gloss": "traicionar",
+          "kind": "verb",
+          "emoji": "🔪",
+          "note": "裏 (revés) + 切る (cortar). «Traicionar los recuerdos» = romper con el pasado, dejarlo atrás."
+        },
+        {
+          "id": "t8",
+          "surface": "なら",
+          "romaji": "nara",
+          "gloss": "si",
+          "kind": "aux",
+          "form": {
+            "name": "なら (condicional)",
+            "why": "«Si (es que)…»: plantea una situación y lo siguiente responde a ella. «Si vas a traicionar tus recuerdos…, entonces conviértete en mito»."
+          },
+          "note": "Hay cuatro formas de «si»: と, ば, たら, なら. なら es la que toma algo como hipótesis dada: «si ese es el caso…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t7",
+          "to": "t3",
+          "type": "object",
+          "label": "con qué"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Si con una pasión ardiente y desbordante traicionas tus recuerdos…",
+      "literal": "desbordante ardiente pasión-con recuerdos-(objeto) traicionar si"
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "este",
+          "kind": "other",
+          "note": "この = «este, esta», siempre delante de un sustantivo."
+        },
+        {
+          "id": "t2",
+          "surface": "宇宙",
+          "reading": "うちゅう",
+          "romaji": "uchuu",
+          "gloss": "cielo / universo",
+          "kind": "noun",
+          "emoji": "🌌",
+          "sungAs": {
+            "reading": "そら",
+            "romaji": "sora",
+            "note": "Escrito 宇宙 (うちゅう, «universo»), pero se canta そら («cielo»). La letra junta los dos sentidos: suena a «cielo» y se lee como «universo». Es justo el caso de escrito ≠ cantado: no aprendas そら como lectura de 宇宙; el diccionario dice うちゅう."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 抱いて: lo que se abraza."
+        },
+        {
+          "id": "t4",
+          "surface": "抱いて",
+          "reading": "だいて",
+          "romaji": "daite",
+          "gloss": "abrazando",
+          "kind": "verb",
+          "emoji": "🤗",
+          "base": {
+            "surface": "抱く",
+            "reading": "だく",
+            "meaning": "abrazar"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "抱く → 抱いて (く → いて). Une con 輝く: «abraza este cielo y brilla». La forma て describe cómo brilla."
+          },
+          "note": "抱く tiene dos lecturas: だく (abrazar con los brazos) e いだく (albergar un sentimiento, literario). La letra marca だいて."
+        },
+        {
+          "id": "t5",
+          "surface": "輝く",
+          "reading": "かがやく",
+          "romaji": "kagayaku",
+          "gloss": "que brilla",
+          "kind": "verb",
+          "emoji": "✨",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "輝く少年 = «el muchacho que brilla». Toda la parte この宇宙を抱いて輝く describe al 少年."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "少年",
+          "reading": "しょうねん",
+          "romaji": "shounen",
+          "gloss": "muchacho",
+          "kind": "noun",
+          "emoji": "👦",
+          "note": "少年 = chico, muchacho (más o menos de 7 a 18 años). Es una palabra algo formal o literaria; hablando se dice 男の子."
+        },
+        {
+          "id": "t7",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡oh…!",
+          "kind": "particle",
+          "role": "Vocativo: llama a alguien con solemnidad, como «¡oh, muchacho!». No es el よ de final de frase («¿sabes?»): aquí va detrás de un nombre al que se habla."
+        },
+        {
+          "id": "t8",
+          "surface": "神話",
+          "reading": "しんわ",
+          "romaji": "shinwa",
+          "gloss": "mito, leyenda",
+          "kind": "noun",
+          "emoji": "🏛️"
+        },
+        {
+          "id": "t9",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio: con なる, に marca en qué te conviertes. 神話になる = convertirse en mito."
+        },
+        {
+          "id": "t10",
+          "surface": "なれ",
+          "romaji": "nare",
+          "gloss": "¡conviértete!",
+          "kind": "verb",
+          "emoji": "🌟",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse en"
+          },
+          "form": {
+            "name": "imperativo",
+            "why": "なる → なれ: orden directa, «¡conviértete!». El imperativo simple suena muy fuerte; en la vida diaria casi no se usa (se dice なって). En canciones y en anime aparece para dar órdenes épicas."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "quién"
+        },
+        {
+          "from": "t10",
+          "to": "t8",
+          "type": "destination",
+          "label": "en qué"
+        },
+        {
+          "from": "t10",
+          "to": "t6",
+          "type": "subject",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Muchacho que brillas abrazando este cielo, ¡conviértete en leyenda!",
+      "literal": "este cielo-(objeto) abrazando brillar, muchacho-¡oh!, mito-en ¡conviértete!"
+    }
+  ]
+}
