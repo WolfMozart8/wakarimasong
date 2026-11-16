@@ -61,6 +61,8 @@ export interface Song {
   artist?: string
   /** Vacío = sin video; la app usa un cronómetro. */
   youtubeId?: string
+  /** De dónde se sacó la letra. */
+  source?: string
   lines: Line[]
 }
 
