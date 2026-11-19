@@ -10,6 +10,8 @@ export function Review() {
   const [error, setError] = useState<string | null>(null)
   const [revealed, setRevealed] = useState(false)
   const [done, setDone] = useState(0)
+  // Celebración breve tras cada respuesta; n cambia para reiniciar la animación.
+  const [cheer, setCheer] = useState({ n: 0, knew: true })
   const today = toDay()
 
   useEffect(() => {
@@ -35,6 +37,7 @@ export function Review() {
       persist([...cards.filter((c) => c.key !== card.key), updated])
       setRevealed(false)
       if (knew) setDone((n) => n + 1)
+      setCheer((c) => ({ n: c.n + 1, knew }))
     },
     [cards, card, today, persist],
   )
@@ -60,6 +63,11 @@ export function Review() {
 
   return (
     <div className="review">
+      {cheer.n > 0 && (
+        <div key={cheer.n} className={`cheer ${cheer.knew ? 'yes' : 'no'}`} aria-live="polite" lang="ja">
+          {cheer.knew ? 'わかります！🎉' : 'まだまだ！💪'}
+        </div>
+      )}
       <h2>
         Repaso
         <small>

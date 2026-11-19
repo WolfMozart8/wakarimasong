@@ -7,6 +7,7 @@ import { Review } from './components/Review'
 import { Library } from './components/Library'
 import { Player } from './components/Player'
 import { SyncTool } from './components/SyncTool'
+import { Logo } from './components/Logo'
 import './styles.css'
 
 function useHashRoute() {
@@ -34,11 +35,13 @@ function SongRoute({ id, mode }: { id: string; mode: 'song' | 'sync' }) {
   if (!song) return <p className="hint">Cargando…</p>
   return (
     <>
-      <h2>
-        {song.title}
-        {song.artist && <small> · {song.artist}</small>}
+      <h2 className="song-title">
+        <span>
+          {song.title}
+          {song.artist && <small>{song.artist}</small>}
+        </span>
         <a className="btn" href={mode === 'song' ? `#/sync/${id}` : `#/song/${id}`}>
-          {mode === 'song' ? 'Sincronizar' : 'Ver canción'}
+          {mode === 'song' ? '⏱ Sincronizar' : '▶ Ver canción'}
         </a>
       </h2>
       {mode === 'song' ? <Player song={song} /> : <SyncTool song={song} />}
@@ -63,9 +66,10 @@ function App() {
   return (
     <main>
       <nav>
-        <a href="#/">歌で学ぶ · Japonés con canciones</a>
-        <a href="#/review" className={due ? 'due' : ''}>
-          Repaso{due ? ` (${due})` : ''}
+        <Logo />
+        <a href="#/review" className={`nav-review${due ? ' due' : ''}${view === 'review' ? ' here' : ''}`}>
+          🃏 Repaso
+          {due ? <span className="badge">{due}</span> : null}
         </a>
       </nav>
       {inSong ? (
@@ -75,6 +79,7 @@ function App() {
       ) : (
         <Library />
       )}
+      <footer>Hecho con ♪ y partículas confusas.</footer>
     </main>
   )
 }

@@ -150,7 +150,7 @@ export function Player({ song }: { song: Song }) {
       </div>
 
       {line && (
-        <div className="stage">
+        <div className="stage" key={line.id}>
           <LineView line={line} showRomaji={showRomaji} selectedTokenId={tokenId} onSelectToken={selectToken} />
           <p className="translation">{line.translation}</p>
           {line.literal && <p className="literal">Literal: {line.literal}</p>}
@@ -163,7 +163,9 @@ export function Player({ song }: { song: Song }) {
           {token ? (
             <TokenDetail line={line} token={token} onClose={() => setTokenId(null)} saved={saved} onToggleCard={toggleCard} />
           ) : (
-            <p className="hint">Toca una palabra para ver su explicación.</p>
+            <p className="hint">
+              Toca una palabra y… <span lang="ja">わかります！</span> 💡
+            </p>
           )}
         </div>
       )}
