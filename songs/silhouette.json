@@ -1,0 +1,2211 @@
+{
+  "id": "silhouette",
+  "title": "シルエット (Silhouette)",
+  "artist": "KANA-BOON · Naruto Shippuden (opening 16)",
+  "youtubeId": "ZFoJYI7Q4iA",
+  "source": "https://www.animesonglyrics.com/naruto-shippuden/silhouette",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いっせーのーせで",
+          "romaji": "isseenoose de",
+          "gloss": "¡una, dos, tres!",
+          "kind": "expr",
+          "emoji": "🏁",
+          "note": "Cuenta para hacer algo todos a la vez, como «¡a la de tres!». Viene de 一斉 (いっせい, «todos a la vez»). Se alarga y se canta; más adelante aparece como いっせーのーで, otra forma de decir lo mismo."
+        },
+        {
+          "id": "t2",
+          "surface": "踏み込む",
+          "reading": "ふみこむ",
+          "romaji": "fumikomu",
+          "gloss": "que pisamos",
+          "kind": "verb",
+          "emoji": "🦶",
+          "base": {
+            "surface": "踏む + 込む",
+            "reading": "ふむ + こむ",
+            "meaning": "pisar + entrar"
+          },
+          "form": {
+            "name": "verbo compuesto delante de sustantivo",
+            "why": "踏み込む ゴールライン = «la línea de meta que pisamos». 込む añade «hacia dentro»: pisar entrando, con decisión."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "ゴールライン",
+          "romaji": "gooru rain",
+          "gloss": "línea de meta",
+          "kind": "noun",
+          "emoji": "🏁"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "¡A la de tres!, la línea de meta que cruzamos.",
+      "literal": "¡a-la-de-tres! pisar-entrando línea-de-meta"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "僕ら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun",
+          "emoji": "👦👦",
+          "note": "僕 (yo, chico) + ら (plural): «nosotros». ら es más informal que たち."
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «nosotros…». Lo que se dice de ellos llega al final: 知らぬ."
+        },
+        {
+          "id": "t3",
+          "surface": "何も何も",
+          "reading": "なにもなにも",
+          "romaji": "nani mo nani mo",
+          "gloss": "nada, nada",
+          "kind": "expr",
+          "note": "何も + negativo = «nada». Repetido para insistir: «nada de nada»."
+        },
+        {
+          "id": "t4",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv",
+          "note": "まだ + negativo = «todavía no»."
+        },
+        {
+          "id": "t5",
+          "surface": "知らぬ",
+          "reading": "しらぬ",
+          "romaji": "shiranu",
+          "gloss": "no sabemos",
+          "kind": "verb",
+          "emoji": "🤷",
+          "base": {
+            "surface": "知る",
+            "reading": "しる",
+            "meaning": "saber, conocer"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "ぬ es el negativo del japonés antiguo, igual a ない: 知らぬ = 知らない. Hoy solo aparece en canciones, refranes y frases hechas; suena solemne o literario."
+          },
+          "note": "Como en Evangelion: «no sé» es 知らない (o 知らぬ), nunca 知っていない."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Nosotros todavía no sabemos nada, nada de nada.",
+      "literal": "nosotros-(tema) nada nada todavía no-sabemos"
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "一線",
+          "reading": "いっせん",
+          "romaji": "issen",
+          "gloss": "la línea",
+          "kind": "noun",
+          "emoji": "➖"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Con verbos de movimiento como 越える, を marca el lugar que se atraviesa."
+        },
+        {
+          "id": "t3",
+          "surface": "越えて",
+          "reading": "こえて",
+          "romaji": "koete",
+          "gloss": "cruzando",
+          "kind": "verb",
+          "emoji": "🚧",
+          "base": {
+            "surface": "越える",
+            "reading": "こえる",
+            "meaning": "cruzar, pasar por encima"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Encadena: «cruzamos la línea y (al) mirar atrás…»."
+          },
+          "note": "Frase hecha: 一線を越える = cruzar una línea sin vuelta atrás, pasar un límite."
+        },
+        {
+          "id": "t4",
+          "surface": "振り返る",
+          "reading": "ふりかえる",
+          "romaji": "furikaeru",
+          "gloss": "mirar atrás",
+          "kind": "verb",
+          "emoji": "🔙",
+          "note": "振り返る = darse vuelta para mirar atrás; también «recordar el pasado»."
+        },
+        {
+          "id": "t5",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "al",
+          "kind": "particle",
+          "role": "Condicional と: «cada vez que / en cuanto…». 振り返ると = «al mirar atrás». Indica algo que pasa siempre o de forma automática.",
+          "note": "Ojo: と también es «y» (時と記憶, más adelante) y marca citas. Aquí va detrás de un verbo, así que es condicional."
+        },
+        {
+          "id": "t6",
+          "surface": "もう",
+          "romaji": "mou",
+          "gloss": "ya",
+          "kind": "adv",
+          "note": "もう + negativo = «ya no»."
+        },
+        {
+          "id": "t7",
+          "surface": "ない",
+          "romaji": "nai",
+          "gloss": "no está",
+          "kind": "adj",
+          "base": {
+            "surface": "ある",
+            "reading": "ある",
+            "meaning": "haber, estar (cosas)"
+          },
+          "form": {
+            "name": "negativo de ある",
+            "why": "ある → ない (irregular): «ya no está». La línea quedó atrás y desapareció."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t7",
+          "to": "t4",
+          "type": "connects",
+          "label": "al…"
+        }
+      ],
+      "translation": "Cruzamos la línea, y al mirar atrás ya no está.",
+      "literal": "línea-(objeto) cruzando, mirar-atrás-al ya no-está"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "僕ら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun",
+          "emoji": "👦👦",
+          "note": "僕 (yo, chico) + ら (plural): «nosotros». ら es más informal que たち."
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «nosotros…». Lo que se dice de ellos llega al final: 知らぬ."
+        },
+        {
+          "id": "t3",
+          "surface": "何も何も",
+          "reading": "なにもなにも",
+          "romaji": "nani mo nani mo",
+          "gloss": "nada, nada",
+          "kind": "expr",
+          "note": "何も + negativo = «nada». Repetido para insistir: «nada de nada»."
+        },
+        {
+          "id": "t4",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv",
+          "note": "まだ + negativo = «todavía no»."
+        },
+        {
+          "id": "t5",
+          "surface": "知らぬ",
+          "reading": "しらぬ",
+          "romaji": "shiranu",
+          "gloss": "no sabemos",
+          "kind": "verb",
+          "emoji": "🤷",
+          "base": {
+            "surface": "知る",
+            "reading": "しる",
+            "meaning": "saber, conocer"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "ぬ es el negativo del japonés antiguo, igual a ない: 知らぬ = 知らない. Hoy solo aparece en canciones, refranes y frases hechas; suena solemne o literario."
+          },
+          "note": "Como en Evangelion: «no sé» es 知らない (o 知らぬ), nunca 知っていない."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Nosotros todavía no sabemos nada, nada de nada.",
+      "literal": "nosotros-(tema) nada nada todavía no-sabemos"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "うだってうだってうだってく",
+          "romaji": "udatte udatte udatteku",
+          "gloss": "derritiéndonos (¿?)",
+          "kind": "verb",
+          "emoji": "🥵",
+          "base": {
+            "surface": "茹だる",
+            "reading": "うだる",
+            "meaning": "cocerse, sofocarse de calor"
+          },
+          "form": {
+            "name": "forma て + いく (abreviado てく)",
+            "why": "うだって (forma て) + いく → うだってく: «irse cociendo poco a poco». ていく marca un cambio que avanza. Repetido tres veces para dar ritmo."
+          },
+          "note": "Interpretación: la letra no trae kanji y el sentido se discute. Lo más aceptado es 茹だる (うだる, sofocarse por el calor), que encaja con el sudor de la línea. Más adelante aparece la misma estructura con 奪って奪って奪ってく."
+        },
+        {
+          "id": "t2",
+          "surface": "煌めく",
+          "reading": "きらめく",
+          "romaji": "kirameku",
+          "gloss": "que brilla",
+          "kind": "verb",
+          "emoji": "✨",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "煌めく汗 = «el sudor que brilla»."
+          },
+          "note": "Lectura rara: 煌 casi nunca se ve; lo normal es escribir きらめく en hiragana. En Butter-Fly salía きらめく風."
+        },
+        {
+          "id": "t3",
+          "surface": "汗",
+          "reading": "あせ",
+          "romaji": "ase",
+          "gloss": "sudor",
+          "kind": "noun",
+          "emoji": "💦"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de こぼれる: el sudor es lo que cae."
+        },
+        {
+          "id": "t5",
+          "surface": "こぼれる",
+          "romaji": "koboreru",
+          "gloss": "cae, se derrama",
+          "kind": "verb",
+          "emoji": "💧",
+          "note": "こぼれる = derramarse solo (lleva が). Su pareja こぼす = derramar algo (lleva を). Mismo par que 止まる / 止める."
+        },
+        {
+          "id": "t6",
+          "surface": "のさ",
+          "romaji": "no sa",
+          "gloss": "¿sabes?",
+          "kind": "aux",
+          "note": "の (explicación) + さ (final coloquial): «es que cae, ¿sabes?». Tono relajado y seguro."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Nos vamos derritiendo, y el sudor brillante cae, ¿sabes?",
+      "literal": "cocerse-cocerse-cocerse-yendo brillante sudor-(sujeto) se-derrama ¿sabes?"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "覚えてない",
+          "reading": "おぼえてない",
+          "romaji": "oboetenai",
+          "gloss": "no recuerdo",
+          "kind": "verb",
+          "emoji": "🧠",
+          "base": {
+            "surface": "覚える",
+            "reading": "おぼえる",
+            "meaning": "recordar, memorizar"
+          },
+          "form": {
+            "name": "ていない abreviado (てない)",
+            "why": "覚えていない → 覚えてない: «no lo tengo en la memoria». Al hablar se cae la い de ている. Delante de こと lo describe: «cosas que no recuerdo»."
+          },
+          "note": "Trampa: 覚える es «aprender, memorizar». «Recordar ahora» es 覚えている (lo tengo memorizado), y «no recuerdo» es 覚えていない, no 覚えない."
+        },
+        {
+          "id": "t2",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "cosas",
+          "kind": "noun",
+          "note": "こと = cosas abstractas, hechos. 覚えてないこと = «cosas que no recuerdo»."
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "«También, incluso»: también hubo cosas que no recuerdo."
+        },
+        {
+          "id": "t4",
+          "surface": "たくさん",
+          "romaji": "takusan",
+          "gloss": "muchas",
+          "kind": "adv",
+          "emoji": "📚"
+        },
+        {
+          "id": "t5",
+          "surface": "あった",
+          "romaji": "atta",
+          "gloss": "hubo",
+          "kind": "verb",
+          "base": {
+            "surface": "ある",
+            "reading": "ある",
+            "meaning": "haber, existir (cosas)"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "ある → あった: «hubo»."
+          },
+          "note": "Como en la demo: あった (hubo) y 会った (me encontré) suenan igual; aquí no hay persona ni に, así que es ある."
+        },
+        {
+          "id": "t6",
+          "surface": "だろう",
+          "romaji": "darou",
+          "gloss": "seguramente",
+          "kind": "aux",
+          "form": {
+            "name": "だろう (suposición)",
+            "why": "«Seguramente, supongo»: no está seguro porque, justamente, no lo recuerda."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Seguramente hubo muchas cosas que ya no recuerdo.",
+      "literal": "no-recuerdo cosas-también muchas hubo seguramente"
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "誰も彼も",
+          "reading": "だれもかれも",
+          "romaji": "dare mo kare mo",
+          "gloss": "todos",
+          "kind": "expr",
+          "emoji": "👥",
+          "note": "Frase hecha: «todo el mundo, cualquiera». Aquí 彼 no significa «él»: es parte de la expresión 誰も彼も."
+        },
+        {
+          "id": "t2",
+          "surface": "シルエット",
+          "romaji": "shiruetto",
+          "gloss": "silueta",
+          "kind": "noun",
+          "emoji": "👤",
+          "note": "Del francés silhouette. Imagen de la canción: la gente del pasado se vuelve solo una sombra, sin detalles."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "topic",
+          "label": "son"
+        }
+      ],
+      "translation": "Todos y cada uno, ya solo siluetas.",
+      "literal": "todos silueta"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "大事にしてた",
+          "reading": "だいじにしてた",
+          "romaji": "daiji ni shiteta",
+          "gloss": "que cuidaba",
+          "kind": "verb",
+          "emoji": "💎",
+          "base": {
+            "surface": "大事にする",
+            "reading": "だいじにする",
+            "meaning": "apreciar, cuidar"
+          },
+          "form": {
+            "name": "ていた abreviado (てた)",
+            "why": "大事にしていた → 大事にしてた: «lo que apreciaba (antes)». Delante de もの lo describe."
+          },
+          "note": "大事 (importante) + に + する = tratar algo como importante. Al final de la canción vuelve como 大事にしたい («que quiero cuidar»)."
+        },
+        {
+          "id": "t2",
+          "surface": "もの",
+          "romaji": "mono",
+          "gloss": "lo que",
+          "kind": "noun",
+          "note": "もの = cosas (concretas o queridas). Falta を: もの(を)忘れたふり."
+        },
+        {
+          "id": "t3",
+          "surface": "忘れた",
+          "reading": "わすれた",
+          "romaji": "wasureta",
+          "gloss": "olvidé",
+          "kind": "verb",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "pasado (た) + ふり",
+            "why": "忘れたふり = «hacer como que olvidé». Delante de ふり, el verbo dice qué se finge."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "ふり",
+          "romaji": "furi",
+          "gloss": "fingir",
+          "kind": "noun",
+          "emoji": "🎭",
+          "note": "〜ふりをする = fingir, hacer como que. Más adelante: 知らないフリした (fingí no saber), escrito en katakana."
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de した: ふりをする = «hacer el fingimiento»."
+        },
+        {
+          "id": "t6",
+          "surface": "したんだよ",
+          "romaji": "shita n da yo",
+          "gloss": "hice",
+          "kind": "verb",
+          "base": {
+            "surface": "する",
+            "reading": "する",
+            "meaning": "hacer"
+          },
+          "form": {
+            "name": "pasado + んだ + よ",
+            "why": "した (hice) + んだ (explicación: «es que…») + よ (te lo digo): «es que fingí haberlo olvidado, ¿sabes?». Tono de confesión."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "qué finjo"
+        }
+      ],
+      "translation": "Lo que apreciaba, hice como que lo había olvidado.",
+      "literal": "apreciaba cosa olvidé fingir-(objeto) hice-es-que"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何もない",
+          "reading": "なにもない",
+          "romaji": "nani mo nai",
+          "gloss": "no es nada",
+          "kind": "expr",
+          "note": "何も + ない = «nada». Aquí: «no pasa nada, no es nada»."
+        },
+        {
+          "id": "t2",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final de frase: informa con seguridad, «te lo digo»."
+        },
+        {
+          "id": "t3",
+          "surface": "笑える",
+          "reading": "わらえる",
+          "romaji": "waraeru",
+          "gloss": "puedo reír",
+          "kind": "verb",
+          "emoji": "😄",
+          "base": {
+            "surface": "笑う",
+            "reading": "わらう",
+            "meaning": "reír, sonreír"
+          },
+          "form": {
+            "name": "potencial (godan: う → える)",
+            "why": "笑う → 笑える: «puedo reírme». Como 飛ぶ → 飛べる en Butter-Fly."
+          },
+          "note": "笑える también significa «da risa» (この話、笑える = esta historia da risa). Aquí es «puedo reírme»."
+        },
+        {
+          "id": "t4",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡ya ves!",
+          "kind": "particle",
+          "role": "Final coloquial y despreocupado."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "connects",
+          "label": "así que"
+        }
+      ],
+      "translation": "No es nada, puedo reírme de ello.",
+      "literal": "nada-no-es ¡eh! puedo-reír ¡ya-ves!"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いっせーのーで",
+          "romaji": "isseenoo de",
+          "gloss": "¡una, dos, tres!",
+          "kind": "expr",
+          "emoji": "🏁",
+          "note": "Variante de いっせーのーせで del principio: la misma cuenta para hacer algo a la vez. La letra cambia la forma a propósito; las dos se usan."
+        },
+        {
+          "id": "t2",
+          "surface": "思い出す",
+          "reading": "おもいだす",
+          "romaji": "omoidasu",
+          "gloss": "que recuerda",
+          "kind": "verb",
+          "emoji": "💭",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "思い出す少年 = «el chico que recuerda»."
+          },
+          "note": "思い (pensamiento) + 出す (sacar) = recordar, traer a la mente. Distinto de 覚える (memorizar). En Evangelion salía 思い出 (recuerdos), con 出 leído で."
+        },
+        {
+          "id": "t3",
+          "surface": "少年",
+          "reading": "しょうねん",
+          "romaji": "shounen",
+          "gloss": "muchacho",
+          "kind": "noun",
+          "emoji": "👦",
+          "note": "Como en Evangelion (少年よ 神話になれ)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "quién"
+        }
+      ],
+      "translation": "¡A la de tres!, el muchacho que recuerda.",
+      "literal": "¡a-la-de-tres! que-recuerda muchacho"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "僕ら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun",
+          "emoji": "👦👦"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «nosotros…»."
+        },
+        {
+          "id": "t3",
+          "surface": "何もかも",
+          "reading": "なにもかも",
+          "romaji": "nani mo ka mo",
+          "gloss": "todo",
+          "kind": "expr",
+          "note": "何もかも = «todo, absolutamente todo». Ojo: 何も solo (con negativo) es «nada»; 何もかも es lo contrario."
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 欲しがった: lo que se quería."
+        },
+        {
+          "id": "t5",
+          "surface": "欲しがった",
+          "reading": "ほしがった",
+          "romaji": "hoshigatta",
+          "gloss": "queríamos",
+          "kind": "verb",
+          "emoji": "🤲",
+          "base": {
+            "surface": "欲しい",
+            "reading": "ほしい",
+            "meaning": "querer (tener algo)"
+          },
+          "form": {
+            "name": "adjetivo い + がる + pasado",
+            "why": "欲しい → 欲し + がる = «mostrar que se quiere algo». がる convierte un sentimiento en algo que se ve desde fuera; por eso lleva を (欲しいなら sería が). Pasado: 欲しがった."
+          },
+          "note": "欲しい se usa para el propio deseo (私は水が欲しい). Para describir el de otros, o el propio visto desde fuera, se usa 欲しがる."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Nosotros lo queríamos todo.",
+      "literal": "nosotros-(tema) todo-(objeto) queríamos"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "わかってる",
+          "romaji": "wakatteru",
+          "gloss": "ya lo sé",
+          "kind": "verb",
+          "base": {
+            "surface": "分かる",
+            "reading": "わかる",
+            "meaning": "entender, saber"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "わかっている → わかってる: «lo tengo claro» (estado)."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "って",
+          "romaji": "tte",
+          "gloss": "¡te digo!",
+          "kind": "particle",
+          "role": "Al final de frase, って repite lo dicho con fastidio: «¡que ya lo sé!». Es la cita (と) usada para insistir.",
+          "note": "Tercer って de la colección: en Butter-Fly hubo uno de tema (言葉って) y otro de cita (便利だって). Este es de insistencia."
+        },
+        {
+          "id": "t3",
+          "surface": "あぁ",
+          "romaji": "aa",
+          "gloss": "ah",
+          "kind": "expr"
+        },
+        {
+          "id": "t4",
+          "surface": "気づいてる",
+          "reading": "きづいてる",
+          "romaji": "kizuiteru",
+          "gloss": "me doy cuenta",
+          "kind": "verb",
+          "base": {
+            "surface": "気づく",
+            "reading": "きづく",
+            "meaning": "darse cuenta"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "気づいている → 気づいてる: «ya me di cuenta (y sigo sabiéndolo)». Con verbos de cambio, ている describe el resultado."
+          },
+          "note": "En Evangelion: いつか気付くでしょう. Mismo verbo, otro kanji para づ."
+        },
+        {
+          "id": "t5",
+          "surface": "って",
+          "romaji": "tte",
+          "gloss": "¡te digo!",
+          "kind": "particle",
+          "role": "Igual que el anterior: insistencia."
+        }
+      ],
+      "links": [],
+      "translation": "¡Que ya lo sé! Ah, ¡que ya me di cuenta!",
+      "literal": "lo-sé ¡te-digo! ah me-doy-cuenta ¡te-digo!"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "時計",
+          "reading": "とけい",
+          "romaji": "tokei",
+          "gloss": "reloj",
+          "kind": "noun",
+          "emoji": "🕰️",
+          "note": "Lectura irregular: 時 suele ser じ o とき, y 計 けい, pero 時計 se lee とけい. Se aprende como palabra entera."
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 時計の針 = «las agujas del reloj»."
+        },
+        {
+          "id": "t3",
+          "surface": "針",
+          "reading": "はり",
+          "romaji": "hari",
+          "gloss": "aguja",
+          "kind": "noun",
+          "emoji": "🪡"
+        },
+        {
+          "id": "t4",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «las agujas, (no se detienen)»."
+        },
+        {
+          "id": "t5",
+          "surface": "日々",
+          "reading": "ひび",
+          "romaji": "hibi",
+          "gloss": "los días",
+          "kind": "noun",
+          "emoji": "📆",
+          "note": "々 repite el kanji anterior: 日々 = 日日. La segunda sílaba se vuelve sonora: ひ + ひ → ひび."
+        },
+        {
+          "id": "t6",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Segundo tema: «las agujas no se detienen, los días no se detienen». Dos は seguidos ponen las dos cosas en paralelo."
+        },
+        {
+          "id": "t7",
+          "surface": "止まらない",
+          "reading": "とまらない",
+          "romaji": "tomaranai",
+          "gloss": "no se detienen",
+          "kind": "verb",
+          "emoji": "⏩",
+          "base": {
+            "surface": "止まる",
+            "reading": "とまる",
+            "meaning": "detenerse"
+          },
+          "form": {
+            "name": "negativo (ない)",
+            "why": "止まる → 止まらない. Lleva が o は: son las agujas las que no se detienen solas."
+          },
+          "note": "Par 止まる / 止める, como en Evangelion (時を止めて). Y en FIRE!! aparece 止まない (やまない), otro verbo con el mismo kanji: cesar (la lluvia, una duda)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t7",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Las agujas del reloj, los días, no se detienen.",
+      "literal": "reloj-de agujas-(tema) días-(tema) no-se-detienen"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "奪って奪って奪ってく",
+          "reading": "うばってうばってうばってく",
+          "romaji": "ubatte ubatte ubatteku",
+          "gloss": "se van llevando",
+          "kind": "verb",
+          "emoji": "🫳",
+          "base": {
+            "surface": "奪う",
+            "reading": "うばう",
+            "meaning": "arrebatar, quitar"
+          },
+          "form": {
+            "name": "forma て + いく (abreviado てく)",
+            "why": "奪って + いく → 奪ってく: «ir arrebatando poco a poco». Misma estructura que うだってく de la primera estrofa."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "流れる",
+          "reading": "ながれる",
+          "romaji": "nagareru",
+          "gloss": "que fluye",
+          "kind": "verb",
+          "emoji": "🌊",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "流れる時 = «el tiempo que fluye»."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "gloss": "tiempo",
+          "kind": "noun",
+          "emoji": "⏳"
+        },
+        {
+          "id": "t4",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "y",
+          "kind": "particle",
+          "role": "Une dos sustantivos: 時と記憶 = «el tiempo y los recuerdos». No es el と condicional de 振り返ると."
+        },
+        {
+          "id": "t5",
+          "surface": "記憶",
+          "reading": "きおく",
+          "romaji": "kioku",
+          "gloss": "memoria",
+          "kind": "noun",
+          "emoji": "🧠",
+          "note": "記憶 = la memoria, lo guardado en la mente. 思い出 son recuerdos concretos y queridos."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "subject",
+          "label": "¿quién?"
+        }
+      ],
+      "translation": "Se los van llevando, una y otra vez: el tiempo que fluye y los recuerdos.",
+      "literal": "arrebatando-arrebatando-arrebatando-van fluyente tiempo-y memoria",
+      "notes": [
+        "¿Quién arrebata? Puede leerse como «el tiempo se lleva los recuerdos» o «se van el tiempo y los recuerdos». La letra lo deja abierto."
+      ]
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "遠く遠く遠く",
+          "reading": "とおくとおくとおく",
+          "romaji": "tooku tooku tooku",
+          "gloss": "lejos, lejos",
+          "kind": "noun",
+          "emoji": "🌄",
+          "base": {
+            "surface": "遠い",
+            "reading": "とおい",
+            "meaning": "lejano"
+          },
+          "form": {
+            "name": "adjetivo い → く (como sustantivo)",
+            "why": "遠い → 遠く: aquí funciona como sustantivo, «la lejanía». Repetido para alargar la distancia."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio con なる: 遠くになる = «volverse lejanía», quedar lejos."
+        },
+        {
+          "id": "t3",
+          "surface": "なって",
+          "romaji": "natte",
+          "gloss": "quedando",
+          "kind": "verb",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "volverse"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Deja la frase abierta: se van quedando lejos, y…"
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "destination",
+          "label": "en qué"
+        }
+      ],
+      "translation": "Quedando lejos, muy lejos…",
+      "literal": "lejos-lejos-lejos-en volviéndose"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "覚えてない",
+          "reading": "おぼえてない",
+          "romaji": "oboetenai",
+          "gloss": "no recuerdo",
+          "kind": "verb",
+          "emoji": "🧠",
+          "base": {
+            "surface": "覚える",
+            "reading": "おぼえる",
+            "meaning": "recordar, memorizar"
+          },
+          "form": {
+            "name": "ていない abreviado (てない)",
+            "why": "覚えていない → 覚えてない: «no lo tengo en la memoria». Al hablar se cae la い de ている. Delante de こと lo describe: «cosas que no recuerdo»."
+          },
+          "note": "Trampa: 覚える es «aprender, memorizar». «Recordar ahora» es 覚えている (lo tengo memorizado), y «no recuerdo» es 覚えていない, no 覚えない."
+        },
+        {
+          "id": "t2",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "cosas",
+          "kind": "noun",
+          "note": "こと = cosas abstractas, hechos. 覚えてないこと = «cosas que no recuerdo»."
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "«También, incluso»: también hubo cosas que no recuerdo."
+        },
+        {
+          "id": "t4",
+          "surface": "たくさん",
+          "romaji": "takusan",
+          "gloss": "muchas",
+          "kind": "adv",
+          "emoji": "📚"
+        },
+        {
+          "id": "t5",
+          "surface": "あった",
+          "romaji": "atta",
+          "gloss": "hubo",
+          "kind": "verb",
+          "base": {
+            "surface": "ある",
+            "reading": "ある",
+            "meaning": "haber, existir (cosas)"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "ある → あった: «hubo»."
+          },
+          "note": "Como en la demo: あった (hubo) y 会った (me encontré) suenan igual; aquí no hay persona ni に, así que es ある."
+        },
+        {
+          "id": "t6",
+          "surface": "だろう",
+          "romaji": "darou",
+          "gloss": "seguramente",
+          "kind": "aux",
+          "form": {
+            "name": "だろう (suposición)",
+            "why": "«Seguramente, supongo»: no está seguro porque, justamente, no lo recuerda."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Seguramente hubo muchas cosas que ya no recuerdo.",
+      "literal": "no-recuerdo cosas-también muchas hubo seguramente"
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "誰も彼も",
+          "reading": "だれもかれも",
+          "romaji": "dare mo kare mo",
+          "gloss": "todos",
+          "kind": "expr",
+          "emoji": "👥",
+          "note": "Frase hecha: «todo el mundo, cualquiera». Aquí 彼 no significa «él»: es parte de la expresión 誰も彼も."
+        },
+        {
+          "id": "t2",
+          "surface": "シルエット",
+          "romaji": "shiruetto",
+          "gloss": "silueta",
+          "kind": "noun",
+          "emoji": "👤",
+          "note": "Del francés silhouette. Imagen de la canción: la gente del pasado se vuelve solo una sombra, sin detalles."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "topic",
+          "label": "son"
+        }
+      ],
+      "translation": "Todos y cada uno, ya solo siluetas.",
+      "literal": "todos silueta"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "恐れてやまぬ",
+          "reading": "おそれてやまぬ",
+          "romaji": "osorete yamanu",
+          "gloss": "que no dejo de temer",
+          "kind": "verb",
+          "emoji": "😨",
+          "base": {
+            "surface": "恐れる",
+            "reading": "おそれる",
+            "meaning": "temer"
+          },
+          "form": {
+            "name": "て + やまぬ («no dejar de…»)",
+            "why": "〜てやまない = «no dejar nunca de…» (やむ = cesar). Con el negativo clásico ぬ: 恐れてやまぬ = «que no dejo de temer». Muy literario."
+          },
+          "note": "やまぬ es el mismo やむ que aparece en FIRE!! como 止まない (疑問は止まない, «las dudas no cesan»)."
+        },
+        {
+          "id": "t2",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "cosas",
+          "kind": "noun",
+          "note": "Le falta を: こと(を)知らないフリした."
+        },
+        {
+          "id": "t3",
+          "surface": "知らない",
+          "reading": "しらない",
+          "romaji": "shiranai",
+          "gloss": "no saber",
+          "kind": "verb",
+          "base": {
+            "surface": "知る",
+            "reading": "しる",
+            "meaning": "saber"
+          },
+          "form": {
+            "name": "negativo + フリ",
+            "why": "知らないフリ = «fingir no saber»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "フリ",
+          "romaji": "furi",
+          "gloss": "fingir",
+          "kind": "noun",
+          "emoji": "🎭",
+          "note": "Es la misma ふり de antes (忘れたふり), aquí en katakana para destacarla."
+        },
+        {
+          "id": "t5",
+          "surface": "したんだよ",
+          "romaji": "shita n da yo",
+          "gloss": "hice",
+          "kind": "verb",
+          "base": {
+            "surface": "する",
+            "reading": "する",
+            "meaning": "hacer"
+          },
+          "form": {
+            "name": "pasado + んだ + よ",
+            "why": "Igual que en la primera estrofa: «es que fingí…». Falta を: フリ(を)した."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "qué finjo"
+        }
+      ],
+      "translation": "Las cosas que no dejo de temer, hice como que no las conocía.",
+      "literal": "no-dejo-de-temer cosas no-saber fingir hice-es-que"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何もない",
+          "reading": "なにもない",
+          "romaji": "nani mo nai",
+          "gloss": "no es nada",
+          "kind": "expr",
+          "note": "何も + ない = «nada». Aquí: «no pasa nada, no es nada»."
+        },
+        {
+          "id": "t2",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final de frase: informa con seguridad, «te lo digo»."
+        },
+        {
+          "id": "t3",
+          "surface": "笑える",
+          "reading": "わらえる",
+          "romaji": "waraeru",
+          "gloss": "puedo reír",
+          "kind": "verb",
+          "emoji": "😄",
+          "base": {
+            "surface": "笑う",
+            "reading": "わらう",
+            "meaning": "reír, sonreír"
+          },
+          "form": {
+            "name": "potencial (godan: う → える)",
+            "why": "笑う → 笑える: «puedo reírme». Como 飛ぶ → 飛べる en Butter-Fly."
+          },
+          "note": "笑える también significa «da risa» (この話、笑える = esta historia da risa). Aquí es «puedo reírme»."
+        },
+        {
+          "id": "t4",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡ya ves!",
+          "kind": "particle",
+          "role": "Final coloquial y despreocupado."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "connects",
+          "label": "así que"
+        }
+      ],
+      "translation": "No es nada, puedo reírme de ello.",
+      "literal": "nada-no-es ¡eh! puedo-reír ¡ya-ves!"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ひらりとひらりと",
+          "romaji": "hirari to hirari to",
+          "gloss": "revoloteando",
+          "kind": "adv",
+          "emoji": "🍃",
+          "note": "ひらり = palabra que imita un movimiento ligero, como una hoja que cae. + と = adverbio. El japonés tiene cientos de estas palabras (onomatopeyas y mímesis)."
+        },
+        {
+          "id": "t2",
+          "surface": "舞ってる",
+          "reading": "まってる",
+          "romaji": "matteru",
+          "gloss": "que danzan",
+          "kind": "verb",
+          "base": {
+            "surface": "舞う",
+            "reading": "まう",
+            "meaning": "danzar, revolotear"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "舞っている → 舞ってる. Delante de 木の葉 lo describe: «las hojas que revolotean»."
+          },
+          "note": "Cuidado: 舞ってる suena igual que 待ってる («estoy esperando»). El kanji lo decide."
+        },
+        {
+          "id": "t3",
+          "surface": "木の葉",
+          "reading": "このは",
+          "romaji": "konoha",
+          "gloss": "hojas",
+          "kind": "noun",
+          "emoji": "🍂",
+          "note": "Lectura especial: 木 suele ser き, pero en 木の葉 se lee こ. Además, 木の葉 (Konoha) es el nombre de la aldea de Naruto: doble sentido para los fans."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "(como)",
+          "kind": "particle",
+          "role": "Antes de ように une el sustantivo: 木の葉のように = «como las hojas»."
+        },
+        {
+          "id": "t5",
+          "surface": "ように",
+          "romaji": "you ni",
+          "gloss": "como",
+          "kind": "aux",
+          "form": {
+            "name": "ように (comparación)",
+            "why": "«Como…»: vivir como las hojas, sin preocupaciones. Igual que 天使のように en Evangelion."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "憂う",
+          "reading": "うれう",
+          "romaji": "ureu",
+          "gloss": "preocuparse",
+          "kind": "verb",
+          "emoji": "😟",
+          "note": "憂う = afligirse, preocuparse. Palabra literaria; hablando se diría 心配する."
+        },
+        {
+          "id": "t7",
+          "surface": "ことなく",
+          "romaji": "koto naku",
+          "gloss": "sin",
+          "kind": "aux",
+          "form": {
+            "name": "verbo + ことなく",
+            "why": "«Sin (hacer)…»: 憂うことなく = «sin afligirme». Más formal que ないで."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "modifies",
+          "label": "como qué"
+        },
+        {
+          "from": "t7",
+          "to": "t6",
+          "type": "modifies",
+          "label": "sin qué"
+        }
+      ],
+      "translation": "Como las hojas que revolotean, sin preocuparme…",
+      "literal": "revoloteando danzan hojas-de como preocuparse sin",
+      "notes": [
+        "La frase sigue en la línea siguiente: …quiero pasar los días."
+      ]
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "焦燥",
+          "reading": "しょうそう",
+          "romaji": "shousou",
+          "gloss": "impaciencia",
+          "kind": "noun",
+          "emoji": "😖",
+          "note": "焦燥 = ansiedad, desesperación por algo que no llega. Palabra culta; hablando se diría 焦り (あせり)."
+        },
+        {
+          "id": "t2",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "tampoco",
+          "kind": "particle",
+          "role": "Con なく: «tampoco impaciencia». Hace pareja con 憂うことなく: sin preocupación y sin impaciencia."
+        },
+        {
+          "id": "t3",
+          "surface": "なく",
+          "romaji": "naku",
+          "gloss": "sin",
+          "kind": "aux",
+          "base": {
+            "surface": "ない",
+            "reading": "ない",
+            "meaning": "no hay"
+          },
+          "form": {
+            "name": "ない → なく (conexión)",
+            "why": "ない se vuelve なく para unir con lo siguiente: «sin impaciencia, (pasar los días)»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "過ごしていたい",
+          "reading": "すごしていたい",
+          "romaji": "sugoshite itai",
+          "gloss": "quiero seguir pasando",
+          "kind": "verb",
+          "emoji": "🌤️",
+          "base": {
+            "surface": "過ごす",
+            "reading": "すごす",
+            "meaning": "pasar (el tiempo)"
+          },
+          "form": {
+            "name": "ている + たい",
+            "why": "過ごしている (estar pasando) + たい: «quiero seguir pasando (los días así)». ている + たい pide que un estado continúe."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final de frase: lo dice con sentimiento."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t1",
+          "type": "connects",
+          "label": "sin"
+        }
+      ],
+      "translation": "…ni impaciencia, así quiero pasar los días.",
+      "literal": "impaciencia-tampoco sin quiero-seguir-pasando ¡eh!"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "覚えてない",
+          "reading": "おぼえてない",
+          "romaji": "oboetenai",
+          "gloss": "no recuerdo",
+          "kind": "verb",
+          "emoji": "🧠",
+          "base": {
+            "surface": "覚える",
+            "reading": "おぼえる",
+            "meaning": "recordar, memorizar"
+          },
+          "form": {
+            "name": "ていない abreviado (てない)",
+            "why": "覚えていない → 覚えてない: «no lo tengo en la memoria». Al hablar se cae la い de ている. Delante de こと lo describe: «cosas que no recuerdo»."
+          },
+          "note": "Trampa: 覚える es «aprender, memorizar». «Recordar ahora» es 覚えている (lo tengo memorizado), y «no recuerdo» es 覚えていない, no 覚えない."
+        },
+        {
+          "id": "t2",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "cosas",
+          "kind": "noun",
+          "note": "こと = cosas abstractas, hechos. 覚えてないこと = «cosas que no recuerdo»."
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "«También, incluso»: también hubo cosas que no recuerdo."
+        },
+        {
+          "id": "t4",
+          "surface": "たくさん",
+          "romaji": "takusan",
+          "gloss": "muchas",
+          "kind": "adv",
+          "emoji": "📚"
+        },
+        {
+          "id": "t5",
+          "surface": "あった",
+          "romaji": "atta",
+          "gloss": "hubo",
+          "kind": "verb",
+          "base": {
+            "surface": "ある",
+            "reading": "ある",
+            "meaning": "haber, existir (cosas)"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "ある → あった: «hubo»."
+          },
+          "note": "Como en la demo: あった (hubo) y 会った (me encontré) suenan igual; aquí no hay persona ni に, así que es ある."
+        },
+        {
+          "id": "t6",
+          "surface": "けど",
+          "romaji": "kedo",
+          "gloss": "pero",
+          "kind": "particle",
+          "role": "«Pero…»: esta vez la frase no termina en だろう: hubo muchas cosas olvidadas, pero…"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Hubo muchas cosas que no recuerdo, pero…",
+      "literal": "no-recuerdo cosas-también muchas hubo pero"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "きっとずっと",
+          "romaji": "kitto zutto",
+          "gloss": "seguro, para siempre",
+          "kind": "adv",
+          "note": "きっと (seguro) + ずっと (siempre). Rima juguetona típica de las canciones."
+        },
+        {
+          "id": "t2",
+          "surface": "変わらない",
+          "reading": "かわらない",
+          "romaji": "kawaranai",
+          "gloss": "que no cambia",
+          "kind": "verb",
+          "base": {
+            "surface": "変わる",
+            "reading": "かわる",
+            "meaning": "cambiar (solo)"
+          },
+          "form": {
+            "name": "negativo delante de sustantivo",
+            "why": "変わらないもの = «cosas que no cambian»."
+          },
+          "note": "Par 変わる / 変える, como en la demo (運命を変えたい)."
+        },
+        {
+          "id": "t3",
+          "surface": "もの",
+          "romaji": "mono",
+          "gloss": "cosas",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de ある."
+        },
+        {
+          "id": "t5",
+          "surface": "あること",
+          "romaji": "aru koto",
+          "gloss": "que hay",
+          "kind": "verb",
+          "base": {
+            "surface": "ある",
+            "reading": "ある",
+            "meaning": "haber"
+          },
+          "form": {
+            "name": "forma de diccionario + こと",
+            "why": "こと convierte la frase en «el hecho de que hay…», igual que あること en Evangelion (羽根があること)."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 教えてくれた: lo que me enseñaste."
+        },
+        {
+          "id": "t7",
+          "surface": "教えてくれた",
+          "reading": "おしえてくれた",
+          "romaji": "oshiete kureta",
+          "gloss": "me enseñaste",
+          "kind": "verb",
+          "emoji": "🎁",
+          "base": {
+            "surface": "教える",
+            "reading": "おしえる",
+            "meaning": "enseñar"
+          },
+          "form": {
+            "name": "て + くれる (favor hacia mí) + pasado",
+            "why": "教えて + くれた = «me enseñaste (como un regalo)». くれる indica que alguien hace algo por quien habla y que se agradece. Delante de あなた lo describe."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun",
+          "emoji": "🫵"
+        },
+        {
+          "id": "t9",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «tú, que me enseñaste…». Lo que se dice de ti llega en la línea siguiente: 消えぬシルエット."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t7",
+          "to": "t8",
+          "type": "modifies",
+          "label": "quién"
+        }
+      ],
+      "translation": "Tú, que me enseñaste que seguro hay cosas que nunca cambian…",
+      "literal": "seguro-siempre no-cambian cosas-(sujeto) hay-que-(objeto) me-enseñaste tú-(tema)",
+      "notes": [
+        "La frase sigue: あなたは … 消えぬシルエット = «tú eres una silueta que no se borra»."
+      ]
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "消えぬ消えぬ",
+          "reading": "きえぬきえぬ",
+          "romaji": "kienu kienu",
+          "gloss": "que no se borra",
+          "kind": "verb",
+          "emoji": "🕯️",
+          "base": {
+            "surface": "消える",
+            "reading": "きえる",
+            "meaning": "desaparecer, apagarse"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "ぬ es el negativo del japonés antiguo, igual a ない: 消えぬ = 消えない. Hoy solo aparece en canciones, refranes y frases hechas; suena solemne o literario."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "シルエット",
+          "romaji": "shiruetto",
+          "gloss": "silueta",
+          "kind": "noun",
+          "emoji": "👤",
+          "note": "Contraste: antes «todos se volvieron siluetas» (borrosas); tú eres una silueta que no se borra."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        }
+      ],
+      "translation": "…eres una silueta que no se borra.",
+      "literal": "no-se-borra silueta"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "大事にしたい",
+          "reading": "だいじにしたい",
+          "romaji": "daiji ni shitai",
+          "gloss": "que quiero cuidar",
+          "kind": "verb",
+          "emoji": "💎",
+          "base": {
+            "surface": "大事にする",
+            "reading": "だいじにする",
+            "meaning": "apreciar, cuidar"
+          },
+          "form": {
+            "name": "deseo (たい)",
+            "why": "大事にする → 大事にしたい: «que quiero cuidar». Contrasta con 大事にしてた (lo que cuidaba) de la primera estrofa: del pasado al deseo."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "もの",
+          "romaji": "mono",
+          "gloss": "lo que",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "もって",
+          "romaji": "motte",
+          "gloss": "llevando",
+          "kind": "verb",
+          "emoji": "🎒",
+          "base": {
+            "surface": "持つ",
+            "reading": "もつ",
+            "meaning": "tener, llevar"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "持つ → 持って (つ → って): «llevándolo conmigo, me haré adulto». Describe cómo."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "大人",
+          "reading": "おとな",
+          "romaji": "otona",
+          "gloss": "adulto",
+          "kind": "noun",
+          "emoji": "🧑",
+          "note": "Lectura especial, como en la demo: おとな se asigna a la palabra entera."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio con なる."
+        },
+        {
+          "id": "t6",
+          "surface": "なるんだ",
+          "romaji": "naru n da",
+          "gloss": "me voy a hacer",
+          "kind": "verb",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse"
+          },
+          "form": {
+            "name": "なる + んだ (decisión)",
+            "why": "んだ al final da fuerza: «¡voy a hacerme adulto (así)!». Decisión firme."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "en qué"
+        },
+        {
+          "from": "t3",
+          "to": "t6",
+          "type": "connects",
+          "label": "así"
+        }
+      ],
+      "translation": "Llevando conmigo lo que quiero cuidar, me haré adulto.",
+      "literal": "quiero-cuidar cosa llevando adulto-en me-voy-a-hacer"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "どんな",
+          "romaji": "donna",
+          "gloss": "cualquier",
+          "kind": "other",
+          "note": "どんな = «qué tipo de». Con も: どんな時も = «en cualquier momento»."
+        },
+        {
+          "id": "t2",
+          "surface": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "gloss": "momento",
+          "kind": "noun",
+          "emoji": "⏰"
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "cualquier",
+          "kind": "particle",
+          "role": "Interrogativo + も = «cualquiera, siempre»: どんな時も = «en todo momento»."
+        },
+        {
+          "id": "t4",
+          "surface": "離さずに",
+          "reading": "はなさずに",
+          "romaji": "hanasazu ni",
+          "gloss": "sin soltar",
+          "kind": "verb",
+          "emoji": "🤝",
+          "base": {
+            "surface": "離す",
+            "reading": "はなす",
+            "meaning": "soltar, separar"
+          },
+          "form": {
+            "name": "ずに («sin…»)",
+            "why": "離す → 離さ + ずに = «sin soltar». ずに es la forma escrita de ないで. Para する es せずに."
+          },
+          "note": "Par 離す (soltar algo) / 離れる (separarse). Y no confundir con 話す (hablar), que suena igual."
+        },
+        {
+          "id": "t5",
+          "surface": "守り続けよう",
+          "reading": "まもりつづけよう",
+          "romaji": "mamori tsuzukeyou",
+          "gloss": "sigamos protegiendo",
+          "kind": "verb",
+          "emoji": "🛡️",
+          "base": {
+            "surface": "守る + 続ける",
+            "reading": "まもる + つづける",
+            "meaning": "proteger + seguir"
+          },
+          "form": {
+            "name": "raíz + 続ける + volitiva",
+            "why": "守り (raíz de 守る) + 続ける = «seguir protegiendo». Volitiva de un verbo ichidan: 続ける → 続けよう («sigamos»)."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "connects",
+          "label": "cómo"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuándo"
+        }
+      ],
+      "translation": "Sigamos protegiéndolo, sin soltarlo nunca.",
+      "literal": "cualquier momento-también sin-soltar sigamos-protegiendo"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そしたら",
+          "romaji": "soshitara",
+          "gloss": "así",
+          "kind": "expr",
+          "note": "Contracción de そうしたら: «si hacemos eso, entonces…». たら = condicional."
+        },
+        {
+          "id": "t2",
+          "surface": "いつの日にか",
+          "reading": "いつのひにか",
+          "romaji": "itsu no hi ni ka",
+          "gloss": "algún día",
+          "kind": "expr",
+          "emoji": "📅",
+          "note": "いつ (cuándo) + の + 日 + に + か = «algún día». Más poético que いつか, que aparece en Evangelion."
+        },
+        {
+          "id": "t3",
+          "surface": "何もかも",
+          "reading": "なにもかも",
+          "romaji": "nani mo ka mo",
+          "gloss": "todo",
+          "kind": "expr"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 笑える: de qué podremos reírnos."
+        },
+        {
+          "id": "t5",
+          "surface": "笑える",
+          "reading": "わらえる",
+          "romaji": "waraeru",
+          "gloss": "podremos reír",
+          "kind": "verb",
+          "emoji": "😄",
+          "base": {
+            "surface": "笑う",
+            "reading": "わらう",
+            "meaning": "reír"
+          },
+          "form": {
+            "name": "potencial",
+            "why": "笑う → 笑える. Con を: 何もかもを笑える = «poder reírse de todo»."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡ya verás!",
+          "kind": "particle",
+          "role": "Final coloquial y seguro."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "de qué"
+        },
+        {
+          "from": "t2",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuándo"
+        }
+      ],
+      "translation": "Así, algún día podremos reírnos de todo.",
+      "literal": "entonces algún-día todo-(objeto) podremos-reír ¡ya-verás!"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ひらりとひらりと",
+          "romaji": "hirari to hirari to",
+          "gloss": "revoloteando",
+          "kind": "adv",
+          "emoji": "🍃",
+          "note": "ひらり = palabra que imita un movimiento ligero, como una hoja que cae. + と = adverbio. El japonés tiene cientos de estas palabras (onomatopeyas y mímesis)."
+        },
+        {
+          "id": "t2",
+          "surface": "舞ってる",
+          "reading": "まってる",
+          "romaji": "matteru",
+          "gloss": "que danzan",
+          "kind": "verb",
+          "base": {
+            "surface": "舞う",
+            "reading": "まう",
+            "meaning": "danzar, revolotear"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "舞っている → 舞ってる. Delante de 木の葉 lo describe: «las hojas que revolotean»."
+          },
+          "note": "Cuidado: 舞ってる suena igual que 待ってる («estoy esperando»). El kanji lo decide."
+        },
+        {
+          "id": "t3",
+          "surface": "木の葉",
+          "reading": "このは",
+          "romaji": "konoha",
+          "gloss": "hojas",
+          "kind": "noun",
+          "emoji": "🍂",
+          "note": "Lectura especial: 木 suele ser き, pero en 木の葉 se lee こ. Además, 木の葉 (Konoha) es el nombre de la aldea de Naruto: doble sentido para los fans."
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 飛んでいく."
+        },
+        {
+          "id": "t5",
+          "surface": "飛んでいく",
+          "reading": "とんでいく",
+          "romaji": "tonde iku",
+          "gloss": "se van volando",
+          "kind": "verb",
+          "emoji": "🍃",
+          "base": {
+            "surface": "飛ぶ",
+            "reading": "とぶ",
+            "meaning": "volar"
+          },
+          "form": {
+            "name": "forma て + いく",
+            "why": "飛んで (ぶ → んで) + いく = «irse volando, alejarse volando». いく marca que se aleja de quien mira."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Las hojas que revolotean se van volando.",
+      "literal": "revoloteando danzan hojas-(sujeto) se-van-volando"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "WO...",
+          "romaji": "wo",
+          "gloss": "(grito)",
+          "kind": "expr"
+        }
+      ],
+      "links": [],
+      "translation": "(Wo…)"
+    }
+  ]
+}
