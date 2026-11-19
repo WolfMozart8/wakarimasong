@@ -1,0 +1,2243 @@
+{
+  "id": "fire",
+  "title": "FIRE!!",
+  "artist": "Kōji Wada · Digimon Frontier (opening)",
+  "youtubeId": "EOyrH0JDvDI",
+  "source": "https://www.animesonglyrics.com/digimon-frontier/fire",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "くすぶってた",
+          "romaji": "kusubutteta",
+          "gloss": "que ardía sin llama",
+          "kind": "verb",
+          "emoji": "🌫️",
+          "base": {
+            "surface": "燻る",
+            "reading": "くすぶる",
+            "meaning": "arder sin llama, humear; estancarse"
+          },
+          "form": {
+            "name": "ていた abreviado (てた)",
+            "why": "くすぶっていた → くすぶってた: «que estaba humeando». Delante de 胸 lo describe: «el pecho que humeaba»."
+          },
+          "note": "くすぶる también significa estar estancado, sin poder brillar. Las dos ideas encajan: un fuego apagado dentro de ti."
+        },
+        {
+          "id": "t2",
+          "surface": "胸",
+          "reading": "むね",
+          "romaji": "mune",
+          "gloss": "pecho",
+          "kind": "noun",
+          "emoji": "🫀",
+          "note": "Como en Evangelion y ココロのちず: el corazón, los sentimientos."
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "dentro de",
+          "kind": "particle",
+          "role": "Lugar donde se mete algo: 胸に投げ入れる = echar dentro del pecho."
+        },
+        {
+          "id": "t4",
+          "surface": "投げ入れろ",
+          "reading": "なげいれろ",
+          "romaji": "nageirero",
+          "gloss": "¡échalo!",
+          "kind": "verb",
+          "emoji": "🤾",
+          "base": {
+            "surface": "投げ入れる",
+            "reading": "なげいれる",
+            "meaning": "arrojar dentro"
+          },
+          "form": {
+            "name": "imperativo (ichidan: る → ろ)",
+            "why": "En los verbos ichidan el imperativo cambia る por ろ: 投げ入れる → 投げ入れろ. Los godan pasan a la fila え: なる → なれ (Evangelion), 燃え上がる → 燃え上がれ (estribillo)."
+          },
+          "note": "投げる (lanzar) + 入れる (meter). El imperativo simple suena muy fuerte; en las canciones de anime es un grito de ánimo."
+        },
+        {
+          "id": "t5",
+          "surface": "FIRE!!",
+          "gloss": "¡fuego!",
+          "kind": "other",
+          "emoji": "🔥",
+          "note": "Inglés. Es el objeto de 投げ入れろ: «¡echa FUEGO en tu pecho!»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "¡Echa FUEGO en el pecho que ardía sin llama!",
+      "literal": "humeaba pecho-en ¡échalo! ¡FUEGO!"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "地平線",
+          "reading": "ちへいせん",
+          "romaji": "chiheisen",
+          "gloss": "horizonte",
+          "kind": "noun",
+          "emoji": "🌅",
+          "note": "地 (tierra) + 平 (plano) + 線 (línea). Sobre el mar se dice 水平線 (すいへいせん)."
+        },
+        {
+          "id": "t2",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección. Se escribe へ y se pronuncia «e»."
+        },
+        {
+          "id": "t3",
+          "surface": "ココロ",
+          "reading": "こころ",
+          "romaji": "kokoro",
+          "gloss": "corazón",
+          "kind": "noun",
+          "emoji": "💗",
+          "note": "ココロ = 心. Falta を: ココロ(を)飛ばす."
+        },
+        {
+          "id": "t4",
+          "surface": "飛ばすんだ",
+          "reading": "とばすんだ",
+          "romaji": "tobasu n da",
+          "gloss": "¡lánzalo!",
+          "kind": "verb",
+          "emoji": "🚀",
+          "base": {
+            "surface": "飛ばす",
+            "reading": "とばす",
+            "meaning": "hacer volar, lanzar"
+          },
+          "form": {
+            "name": "forma simple + んだ (orden suave)",
+            "why": "んだ al final puede dar una orden con fuerza pero sin el tono seco del imperativo: «¡hay que lanzarlo!»."
+          },
+          "note": "Par 飛ばす (hacer volar algo, lleva を) / 飛ぶ (volar uno mismo, como en Butter-Fly)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t1",
+          "type": "destination",
+          "label": "hacia dónde"
+        },
+        {
+          "from": "t4",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Hay que lanzar el corazón hacia el horizonte.",
+      "literal": "horizonte-hacia corazón lanzar-hay-que"
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "空回り",
+          "reading": "からまわり",
+          "romaji": "karamawari",
+          "gloss": "girar en vano",
+          "kind": "noun",
+          "emoji": "🌀",
+          "note": "空 (vacío; aquí se lee から) + 回り (vuelta): una rueda que gira sin avanzar, esforzarse sin resultado. 空 tiene tres lecturas comunes: そら (cielo), から (vacío), くう."
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 空回りのキモチ = «el sentimiento de girar en vano»."
+        },
+        {
+          "id": "t3",
+          "surface": "キモチ",
+          "reading": "きもち",
+          "romaji": "kimochi",
+          "gloss": "sentimiento",
+          "kind": "noun",
+          "emoji": "😤",
+          "note": "キモチ = 気持ち en katakana."
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 蹴り上げたら."
+        },
+        {
+          "id": "t5",
+          "surface": "蹴り上げたら",
+          "reading": "けりあげたら",
+          "romaji": "keriagetara",
+          "gloss": "si lo pateas lejos",
+          "kind": "verb",
+          "emoji": "🦵",
+          "base": {
+            "surface": "蹴る + 上げる",
+            "reading": "ける + あげる",
+            "meaning": "patear + subir"
+          },
+          "form": {
+            "name": "compuesto + condicional たら",
+            "why": "蹴り上げる = patear hacia arriba. + たら: «cuando lo hayas pateado lejos…». Sigue en la línea siguiente."
+          },
+          "note": "蹴る acaba en -eru pero es godan (蹴らない, 蹴って), como 帰る y 切る."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Si mandas de una patada ese sentimiento de girar en vano…",
+      "literal": "girar-en-vano-de sentimiento-(objeto) patear-arriba-si"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "gloss": "adelante",
+          "kind": "noun",
+          "note": "先に行く = adelantarse, ir por delante."
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a",
+          "kind": "particle",
+          "role": "Destino: 先に = «adelante»."
+        },
+        {
+          "id": "t3",
+          "surface": "行くぜ",
+          "reading": "いくぜ",
+          "romaji": "iku ze",
+          "gloss": "¡me adelanto!",
+          "kind": "verb",
+          "emoji": "🏃",
+          "base": {
+            "surface": "行く",
+            "reading": "いく",
+            "meaning": "ir"
+          },
+          "form": {
+            "name": "forma simple + ぜ",
+            "why": "ぜ = final de frase rudo y enérgico, típico de chicos: «¡me voy, eh!». Más fuerte que よ."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "次",
+          "reading": "つぎ",
+          "romaji": "tsugi",
+          "gloss": "siguiente",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 次のフロンティア = «la siguiente frontera»."
+        },
+        {
+          "id": "t6",
+          "surface": "フロンティア",
+          "romaji": "furontia",
+          "gloss": "frontera",
+          "kind": "noun",
+          "emoji": "🗺️",
+          "note": "Del inglés frontier: territorio por explorar. Es el título del anime: Digimon Frontier."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "destination",
+          "label": "a dónde"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "…¡me adelanto hacia la próxima frontera!",
+      "literal": "adelante-a ¡voy! siguiente-de frontera"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "叶うさ",
+          "reading": "かなうさ",
+          "romaji": "kanau sa",
+          "gloss": "¡se cumplirá!",
+          "kind": "verb",
+          "emoji": "🌟",
+          "base": {
+            "surface": "叶う",
+            "reading": "かなう",
+            "meaning": "cumplirse (un sueño)"
+          },
+          "form": {
+            "name": "forma simple + さ",
+            "why": "さ da seguridad: «¡se cumplirá, ya verás!»."
+          },
+          "note": "Par 叶う (cumplirse solo, lleva が) / 叶える (cumplir un sueño, lleva を)."
+        },
+        {
+          "id": "t2",
+          "surface": "叶う",
+          "reading": "かなう",
+          "romaji": "kanau",
+          "gloss": "se cumple",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "発火点",
+          "reading": "はっかてん",
+          "romaji": "hakkaten",
+          "gloss": "punto de ignición",
+          "kind": "noun",
+          "emoji": "🔥",
+          "note": "発 (soltar) + 火 (fuego) + 点 (punto). 発 se lee はっ ante か: はつ + か → はっか."
+        },
+        {
+          "id": "t4",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «el punto de ignición, (ya está cerca)»."
+        },
+        {
+          "id": "t5",
+          "surface": "もうすぐ",
+          "romaji": "mou sugu",
+          "gloss": "muy pronto",
+          "kind": "adv",
+          "emoji": "⏱️"
+        },
+        {
+          "id": "t6",
+          "surface": "だぜ",
+          "romaji": "da ze",
+          "gloss": "¡es!",
+          "kind": "aux",
+          "note": "だ (es) + ぜ (énfasis rudo): «¡ya casi está!»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t6",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "¡Se cumplirá, sí! El punto de ignición está muy cerca.",
+      "literal": "¡se-cumple! se-cumple ignición-(tema) muy-pronto ¡es!"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "できる",
+          "romaji": "dekiru",
+          "gloss": "puedo",
+          "kind": "verb",
+          "emoji": "💪",
+          "note": "できる = poder, ser capaz (como やればできる en ココロのちず)."
+        },
+        {
+          "id": "t2",
+          "surface": "できるさ",
+          "romaji": "dekiru sa",
+          "gloss": "¡claro que puedo!",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "爆発してみせるんだ",
+          "reading": "ばくはつしてみせるんだ",
+          "romaji": "bakuhatsu shite miseru n da",
+          "gloss": "¡voy a explotar, ya verás!",
+          "kind": "verb",
+          "emoji": "💥",
+          "base": {
+            "surface": "爆発する",
+            "reading": "ばくはつする",
+            "meaning": "explotar"
+          },
+          "form": {
+            "name": "て + みせる + んだ",
+            "why": "〜てみせる = «hacer algo para demostrarlo»: «¡voy a explotar, ya lo verás!». みせる viene de 見せる (mostrar). んだ refuerza la decisión."
+          },
+          "note": "No confundir con 〜てみる («probar a hacer»): てみる es intentar; てみせる es demostrar."
+        }
+      ],
+      "links": [],
+      "translation": "¡Puedo, claro que puedo! ¡Voy a explotar, ya verás!",
+      "literal": "puedo ¡puedo! explotar-demostraré"
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Burn up'n Go!!",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés: «¡arde y adelante!»."
+        }
+      ],
+      "links": [],
+      "translation": "¡Arde y adelante!"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ゴミ箱",
+          "reading": "ごみばこ",
+          "romaji": "gomibako",
+          "gloss": "cubo de basura",
+          "kind": "noun",
+          "emoji": "🗑️",
+          "note": "ゴミ (basura) + 箱 (caja). 箱 es はこ, pero al unirse suena ばこ."
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Con 越える, を marca lo que se atraviesa (como 一線を越えて en シルエット)."
+        },
+        {
+          "id": "t3",
+          "surface": "飛び越えた",
+          "reading": "とびこえた",
+          "romaji": "tobikoeta",
+          "gloss": "tras saltar",
+          "kind": "verb",
+          "emoji": "🦘",
+          "base": {
+            "surface": "飛ぶ + 越える",
+            "reading": "とぶ + こえる",
+            "meaning": "saltar + pasar por encima"
+          },
+          "form": {
+            "name": "pasado (た) delante de sustantivo",
+            "why": "飛び越えた先 = «lo que hay después de haber saltado»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "gloss": "más allá",
+          "kind": "noun",
+          "note": "Como その先の希望 en ココロのちず: lo que hay más adelante."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Con ある: dónde hay algo."
+        },
+        {
+          "id": "t6",
+          "surface": "ある",
+          "romaji": "aru",
+          "gloss": "que hay",
+          "kind": "verb",
+          "form": {
+            "name": "forma simple delante de sustantivo",
+            "why": "先にある未来 = «el futuro que hay más allá»."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "未来",
+          "reading": "みらい",
+          "romaji": "mirai",
+          "gloss": "futuro",
+          "kind": "noun",
+          "emoji": "🔭",
+          "note": "Aquí 未来 se lee みらい normal; en ココロのちず se cantaba あす."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "El futuro que hay más allá del cubo de basura que saltamos…",
+      "literal": "basura-(objeto) saltado más-allá-en hay futuro"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "光",
+          "reading": "ひかり",
+          "romaji": "hikari",
+          "gloss": "luz",
+          "kind": "noun",
+          "emoji": "💡"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de まとって."
+        },
+        {
+          "id": "t3",
+          "surface": "まとって",
+          "romaji": "matotte",
+          "gloss": "envuelto en",
+          "kind": "verb",
+          "emoji": "🧥",
+          "base": {
+            "surface": "纏う",
+            "reading": "まとう",
+            "meaning": "vestirse con, envolverse en"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Dice cómo: «envuelto en luz, ¡consigue el poder del fuego!»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "Get a fire power!!",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo: «¡consigue el poder del fuego!». Es el grito del estribillo."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Envuelto en luz, ¡consigue el poder del fuego!",
+      "literal": "luz-(objeto) envolviéndote Get a fire power!!"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ギラギラと",
+          "romaji": "giragira to",
+          "gloss": "deslumbrante",
+          "kind": "adv",
+          "emoji": "😎",
+          "note": "ギラギラ = brillo intenso, casi agresivo (sol de verano, mirada decidida). キラキラ (ココロのちず) es un brillo bonito y suave: la diferencia de una consonante cambia el tono."
+        },
+        {
+          "id": "t2",
+          "surface": "燃え上がれ",
+          "reading": "もえあがれ",
+          "romaji": "moeagare",
+          "gloss": "¡arde!",
+          "kind": "verb",
+          "emoji": "🔥",
+          "base": {
+            "surface": "燃え上がる",
+            "reading": "もえあがる",
+            "meaning": "arder en llamas"
+          },
+          "form": {
+            "name": "imperativo (godan: る → れ)",
+            "why": "燃え上がる es godan: la última sílaba pasa a la fila え: る → れ. Compara con 投げ入れろ (ichidan, る → ろ) de la primera línea."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "瞳",
+          "reading": "ひとみ",
+          "romaji": "hitomi",
+          "gloss": "ojos",
+          "kind": "noun",
+          "emoji": "👁️",
+          "note": "Como en Evangelion: 瞳 = ojos, poético."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 瞳のチカラ = «la fuerza de los ojos»."
+        },
+        {
+          "id": "t5",
+          "surface": "チカラ",
+          "reading": "ちから",
+          "romaji": "chikara",
+          "gloss": "fuerza",
+          "kind": "noun",
+          "emoji": "💪",
+          "note": "Es a quien se le habla: «¡arde, fuerza de mis ojos!»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t5",
+          "type": "subject",
+          "label": "a quién"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "¡Arde con un brillo deslumbrante, fuerza de mis ojos!",
+      "literal": "deslumbrante ¡arde! ojos-de fuerza"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "消せない",
+          "reading": "けせない",
+          "romaji": "kesenai",
+          "gloss": "que no se apaga",
+          "kind": "verb",
+          "emoji": "🕯️",
+          "base": {
+            "surface": "消す",
+            "reading": "けす",
+            "meaning": "apagar, borrar (algo)"
+          },
+          "form": {
+            "name": "potencial negativo",
+            "why": "消す → 消せる (poder apagar) → 消せない: «que no se puede apagar». Delante de 勇気 lo describe."
+          },
+          "note": "Par 消す (apagar algo) / 消える (apagarse solo). En シルエット: 消えぬシルエット («silueta que no se borra»)."
+        },
+        {
+          "id": "t2",
+          "surface": "勇気",
+          "reading": "ゆうき",
+          "romaji": "yuuki",
+          "gloss": "valor",
+          "kind": "noun",
+          "emoji": "🦁"
+        },
+        {
+          "id": "t3",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Medio: 勇気で = «con un valor (que no se apaga)». Como パトスで en Evangelion."
+        },
+        {
+          "id": "t4",
+          "surface": "Get a fire power!!",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo: «¡consigue el poder del fuego!». Es el grito del estribillo."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Con un valor que nadie puede apagar, ¡consigue el poder del fuego!",
+      "literal": "no-se-puede-apagar valor-con Get a fire power!!"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "未知",
+          "reading": "みち",
+          "romaji": "michi",
+          "gloss": "lo desconocido",
+          "kind": "noun",
+          "emoji": "❔",
+          "note": "Juego de palabras: 未知 (みち, lo desconocido) y 満ちてる (みちてる, estar lleno) suenan casi igual. Y 道 (みち) es «camino»: la frontera llena de lo desconocido también suena a camino."
+        },
+        {
+          "id": "t2",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 満ちてる: lo desconocido es lo que llena."
+        },
+        {
+          "id": "t3",
+          "surface": "満ちてる",
+          "reading": "みちてる",
+          "romaji": "michiteru",
+          "gloss": "llena de",
+          "kind": "verb",
+          "emoji": "🌕",
+          "base": {
+            "surface": "満ちる",
+            "reading": "みちる",
+            "meaning": "llenarse"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "満ちている → 満ちてる: «está lleno». Delante de フロンティア lo describe."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "フロンティア",
+          "romaji": "furontia",
+          "gloss": "frontera",
+          "kind": "noun",
+          "emoji": "🗺️"
+        },
+        {
+          "id": "t5",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección de 走り続ける."
+        },
+        {
+          "id": "t6",
+          "surface": "走り続けるんだ",
+          "reading": "はしりつづけるんだ",
+          "romaji": "hashiri tsuzukeru n da",
+          "gloss": "¡hay que seguir corriendo!",
+          "kind": "verb",
+          "emoji": "🏃",
+          "base": {
+            "surface": "走る + 続ける",
+            "reading": "はしる + つづける",
+            "meaning": "correr + seguir"
+          },
+          "form": {
+            "name": "raíz + 続ける + んだ",
+            "why": "走り続ける = seguir corriendo (como 守り続けよう en シルエット). んだ: decisión firme."
+          },
+          "note": "Ojo: 走る (hashiru) acaba en -iru pero es godan (走らない, 走って), como 帰る, 切る y 蹴る."
+        },
+        {
+          "id": "t7",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "a ti",
+          "kind": "noun",
+          "emoji": "🫵",
+          "note": "Con kanji esta vez; en Butter-Fly era キミ en katakana. Va entre comillas en la letra."
+        },
+        {
+          "id": "t8",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 連れて: a quién se lleva."
+        },
+        {
+          "id": "t9",
+          "surface": "連れて",
+          "reading": "つれて",
+          "romaji": "tsurete",
+          "gloss": "llevándote",
+          "kind": "verb",
+          "emoji": "🤝",
+          "base": {
+            "surface": "連れる",
+            "reading": "つれる",
+            "meaning": "llevar a alguien consigo"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Dice cómo: «seguir corriendo, llevándote conmigo»."
+          },
+          "note": "連れる es solo para personas o animales. Para cosas se dice 持っていく."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "hacia"
+        },
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "object",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Hacia la frontera llena de lo desconocido, ¡seguiré corriendo, llevándote conmigo!",
+      "literal": "desconocido-(sujeto) lleno frontera-hacia seguir-corriendo «tú-(objeto) llevando»"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "法則",
+          "reading": "ほうそく",
+          "romaji": "housoku",
+          "gloss": "reglas",
+          "kind": "noun",
+          "emoji": "📐"
+        },
+        {
+          "id": "t2",
+          "surface": "なんて",
+          "romaji": "nante",
+          "gloss": "eso de",
+          "kind": "particle",
+          "role": "Le quita importancia: «las reglas, bah…». Como 余計な事なんて en Butter-Fly. Ocupa el lugar de を."
+        },
+        {
+          "id": "t3",
+          "surface": "発明すりゃ",
+          "reading": "はつめいすりゃ",
+          "romaji": "hatsumei surya",
+          "gloss": "si las inventas",
+          "kind": "verb",
+          "emoji": "💡",
+          "base": {
+            "surface": "発明する",
+            "reading": "はつめいする",
+            "meaning": "inventar"
+          },
+          "form": {
+            "name": "condicional ば abreviado (すりゃ)",
+            "why": "すれば → すりゃ: el ば de condicional se contrae al hablar (-eba → -ya). Igual: 行けば → 行きゃ, 見れば → 見りゃ."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "イイんだろ",
+          "reading": "いいんだろ",
+          "romaji": "ii n daro",
+          "gloss": "basta, ¿no?",
+          "kind": "adj",
+          "base": {
+            "surface": "いい",
+            "reading": "いい",
+            "meaning": "bueno, bien"
+          },
+          "form": {
+            "name": "ば + いい + んだろ",
+            "why": "〜ばいい = «basta con…». んだろ (= のだろう) en pregunta: «¿no es así?». Todo junto: «basta con inventarlas, ¿no?»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t4",
+          "to": "t3",
+          "type": "modifies",
+          "label": "basta con"
+        }
+      ],
+      "translation": "¿Las reglas? Basta con inventarlas, ¿no?",
+      "literal": "reglas-bah inventar-si bien-¿no?"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "自分勝手",
+          "reading": "じぶんかって",
+          "romaji": "jibun katte",
+          "gloss": "egoísmo",
+          "kind": "noun",
+          "emoji": "😼",
+          "note": "自分 (uno mismo) + 勝手 (a su antojo): hacer lo que te da la gana. 勝手 se lee かって, no しょうて."
+        },
+        {
+          "id": "t2",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "«También»: también el egoísmo hace falta."
+        },
+        {
+          "id": "t3",
+          "surface": "たまに",
+          "romaji": "tama ni",
+          "gloss": "a veces",
+          "kind": "adv"
+        },
+        {
+          "id": "t4",
+          "surface": "必要",
+          "reading": "ひつよう",
+          "romaji": "hitsuyou",
+          "gloss": "necesario",
+          "kind": "adj"
+        },
+        {
+          "id": "t5",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "¡ya ves!",
+          "kind": "particle",
+          "role": "Final coloquial y seguro."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Ser un poco egoísta también hace falta a veces.",
+      "literal": "egoísmo-también a-veces necesario ¡ya-ves!"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "言うこと",
+          "reading": "いうこと",
+          "romaji": "iu koto",
+          "gloss": "lo que digo",
+          "kind": "noun",
+          "note": "言う (decir) + こと: «lo que digo». Frase hecha: 言うことを聞く = obedecer (literal: escuchar lo que se dice). Aquí falta を."
+        },
+        {
+          "id": "t2",
+          "surface": "聞け",
+          "reading": "きけ",
+          "romaji": "kike",
+          "gloss": "¡obedece!",
+          "kind": "verb",
+          "emoji": "👂",
+          "base": {
+            "surface": "聞く",
+            "reading": "きく",
+            "meaning": "escuchar, hacer caso"
+          },
+          "form": {
+            "name": "imperativo (godan: く → け)",
+            "why": "聞く → 聞け: «¡hazme caso!». Le habla a su propio corazón."
+          },
+          "note": "En シルエット salía 聴く (escuchar música). Aquí 聞く: oír, hacer caso."
+        },
+        {
+          "id": "t3",
+          "surface": "逃げ出したくなる",
+          "reading": "にげだしたくなる",
+          "romaji": "nigedashitaku naru",
+          "gloss": "que quiere huir",
+          "kind": "verb",
+          "emoji": "🏃‍♂️",
+          "base": {
+            "surface": "逃げ出す",
+            "reading": "にげだす",
+            "meaning": "escaparse"
+          },
+          "form": {
+            "name": "たい → たく + なる",
+            "why": "逃げ出したい (quiero escapar) → 逃げ出したく + なる: «llegar a querer escapar». たい se conjuga como adjetivo い: たい → たく antes de なる."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "My heart!!",
+          "gloss": "mi corazón",
+          "kind": "other",
+          "emoji": "💓",
+          "note": "Inglés. Es a quien se le da la orden."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "subject",
+          "label": "a quién"
+        }
+      ],
+      "translation": "¡Hazme caso, corazón mío, que te entran ganas de huir!",
+      "literal": "lo-que-digo ¡obedece! que-quiere-huir My heart!!"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ひとり",
+          "romaji": "hitori",
+          "gloss": "solo",
+          "kind": "noun",
+          "emoji": "🧍",
+          "note": "ひとり = 一人 (una persona, solo). Como ふたり en Evangelion."
+        },
+        {
+          "id": "t2",
+          "surface": "だって",
+          "romaji": "datte",
+          "gloss": "aunque",
+          "kind": "particle",
+          "role": "«Aunque sea, incluso»: ひとりだって = «aunque esté solo». Como いつだって y 空だって en ココロのちず."
+        },
+        {
+          "id": "t3",
+          "surface": "ヤラなきゃなんない",
+          "reading": "やらなきゃなんない",
+          "romaji": "yaranakya nannai",
+          "gloss": "tengo que hacerlo",
+          "kind": "verb",
+          "emoji": "✊",
+          "base": {
+            "surface": "やる",
+            "reading": "やる",
+            "meaning": "hacer"
+          },
+          "form": {
+            "name": "なければならない abreviado",
+            "why": "やらなければならない («tengo que hacerlo») se contrae al hablar: なければ → なきゃ, ならない → なんない. Todo: やらなきゃなんない."
+          },
+          "note": "Hay muchas formas de «tener que»: なければならない (formal), なきゃいけない, なきゃ (solo, muy coloquial)."
+        },
+        {
+          "id": "t4",
+          "surface": "ぜ",
+          "romaji": "ze",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final rudo y enérgico, como 行くぜ."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "quién"
+        }
+      ],
+      "translation": "¡Aunque esté solo, tengo que hacerlo!",
+      "literal": "solo-aunque tengo-que-hacer ¡eh!"
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何処",
+          "reading": "どこ",
+          "romaji": "doko",
+          "gloss": "dónde",
+          "kind": "noun",
+          "note": "どこ con kanji (何処). Muy raro: casi siempre se escribe en hiragana."
+        },
+        {
+          "id": "t2",
+          "surface": "から",
+          "romaji": "kara",
+          "gloss": "desde",
+          "kind": "particle",
+          "role": "Punto de partida: «¿desde dónde…?»."
+        },
+        {
+          "id": "t3",
+          "surface": "何処",
+          "reading": "どこ",
+          "romaji": "doko",
+          "gloss": "dónde",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección: «¿…hacia dónde?»."
+        },
+        {
+          "id": "t5",
+          "surface": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "gloss": "el tiempo",
+          "kind": "noun",
+          "emoji": "⏳"
+        },
+        {
+          "id": "t6",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «el tiempo…»."
+        },
+        {
+          "id": "t7",
+          "surface": "流れてくんだろう",
+          "reading": "ながれてくんだろう",
+          "romaji": "nagarete ku n darou",
+          "gloss": "¿irá fluyendo?",
+          "kind": "verb",
+          "emoji": "🌊",
+          "base": {
+            "surface": "流れる",
+            "reading": "ながれる",
+            "meaning": "fluir"
+          },
+          "form": {
+            "name": "て + いく (てく) + のだろう",
+            "why": "流れていく → 流れてく: «irse fluyendo». + んだろう: «¿será que…?», pregunta al aire. Como 流れる時と記憶 en シルエット."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t7",
+          "to": "t1",
+          "type": "destination",
+          "label": "desde"
+        },
+        {
+          "from": "t7",
+          "to": "t3",
+          "type": "destination",
+          "label": "hacia"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "¿Desde dónde y hacia dónde fluye el tiempo?",
+      "literal": "dónde-desde dónde-hacia tiempo-(tema) irá-fluyendo-¿será?"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "分かる",
+          "reading": "わかる",
+          "romaji": "wakaru",
+          "gloss": "entiendo",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "分かるさ",
+          "reading": "わかるさ",
+          "romaji": "wakaru sa",
+          "gloss": "¡claro que entiendo!",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "疑問",
+          "reading": "ぎもん",
+          "romaji": "gimon",
+          "gloss": "dudas",
+          "kind": "noun",
+          "emoji": "❓"
+        },
+        {
+          "id": "t4",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema con contraste: «las dudas, eso sí, no cesan»."
+        },
+        {
+          "id": "t5",
+          "surface": "止まない",
+          "reading": "やまない",
+          "romaji": "yamanai",
+          "gloss": "no cesan",
+          "kind": "verb",
+          "emoji": "🌧️",
+          "base": {
+            "surface": "止む",
+            "reading": "やむ",
+            "meaning": "cesar, parar (lluvia, ruido, dudas)"
+          },
+          "form": {
+            "name": "negativo (ない)",
+            "why": "止む → 止まない: «no cesan»."
+          },
+          "note": "Mismo kanji, otro verbo: 止まる (とまる) es «detenerse» (時計の針は止まらない en シルエット); 止む (やむ) es «cesar», para cosas que caen o suenan: 雨が止む. Y シルエット tiene 恐れてやまぬ, con el mismo やむ."
+        },
+        {
+          "id": "t6",
+          "surface": "けどね",
+          "romaji": "kedo ne",
+          "gloss": "aunque, eh",
+          "kind": "aux",
+          "note": "けど (pero) + ね (¿verdad?): «…aunque, bueno, las dudas no paran»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Lo entiendo, claro que sí… aunque las dudas no paran.",
+      "literal": "entiendo ¡entiendo! dudas-(tema) no-cesan aunque-eh"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Get up'n Go!!",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés: «¡levántate y adelante!»."
+        }
+      ],
+      "links": [],
+      "translation": "¡Arriba y adelante!"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "階段",
+          "reading": "かいだん",
+          "romaji": "kaidan",
+          "gloss": "escalera",
+          "kind": "noun",
+          "emoji": "🪜"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Con verbos de movimiento, を marca el recorrido: 階段を登る = subir por la escalera."
+        },
+        {
+          "id": "t3",
+          "surface": "駆け登る",
+          "reading": "かけのぼる",
+          "romaji": "kakenoboru",
+          "gloss": "subir corriendo",
+          "kind": "verb",
+          "emoji": "🏃",
+          "base": {
+            "surface": "駆ける + 登る",
+            "reading": "かける + のぼる",
+            "meaning": "correr + subir"
+          },
+          "form": {
+            "name": "compuesto delante de sustantivo",
+            "why": "駆け登る先 = «lo que hay arriba de la escalera que subimos corriendo»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "gloss": "más allá",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Con ある: dónde hay algo."
+        },
+        {
+          "id": "t6",
+          "surface": "ある",
+          "romaji": "aru",
+          "gloss": "que hay",
+          "kind": "verb"
+        },
+        {
+          "id": "t7",
+          "surface": "時代",
+          "reading": "じだい",
+          "romaji": "jidai",
+          "gloss": "época",
+          "kind": "noun",
+          "emoji": "🏛️",
+          "note": "Paralelo con 未来 del primer estribillo: allá «el futuro», aquí «la nueva época»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "La época que hay al final de la escalera que subimos corriendo…",
+      "literal": "escalera-(objeto) subir-corriendo más-allá-en hay época"
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "高まる",
+          "reading": "たかまる",
+          "romaji": "takamaru",
+          "gloss": "que se acelera",
+          "kind": "verb",
+          "emoji": "📈",
+          "form": {
+            "name": "forma simple delante de sustantivo",
+            "why": "高まるコドウ = «el latido que sube»."
+          },
+          "note": "Par 高まる (subir, intensificarse solo) / 高める (elevar algo)."
+        },
+        {
+          "id": "t2",
+          "surface": "コドウ",
+          "reading": "こどう",
+          "romaji": "kodou",
+          "gloss": "latido",
+          "kind": "noun",
+          "emoji": "💓",
+          "note": "コドウ = 鼓動 en katakana."
+        },
+        {
+          "id": "t3",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Medio: コドウで = «con el latido». Como パトスで en Evangelion."
+        },
+        {
+          "id": "t4",
+          "surface": "Get a fire power!!",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo: «¡consigue el poder del fuego!». Es el grito del estribillo."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Con el corazón latiendo fuerte, ¡consigue el poder del fuego!",
+      "literal": "subiendo latido-con Get a fire power!!"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ギラギラと",
+          "romaji": "giragira to",
+          "gloss": "deslumbrante",
+          "kind": "adv",
+          "emoji": "😎",
+          "note": "ギラギラ = brillo intenso, casi agresivo (sol de verano, mirada decidida). キラキラ (ココロのちず) es un brillo bonito y suave: la diferencia de una consonante cambia el tono."
+        },
+        {
+          "id": "t2",
+          "surface": "照り返せ",
+          "reading": "てりかえせ",
+          "romaji": "terikaese",
+          "gloss": "¡refleja!",
+          "kind": "verb",
+          "emoji": "☀️",
+          "base": {
+            "surface": "照り返す",
+            "reading": "てりかえす",
+            "meaning": "reflejar (la luz)"
+          },
+          "form": {
+            "name": "imperativo (godan: す → せ)",
+            "why": "照り返す → 照り返せ. Godan: última sílaba a la fila え."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "裸足",
+          "reading": "はだし",
+          "romaji": "hadashi",
+          "gloss": "descalzo",
+          "kind": "noun",
+          "emoji": "🦶",
+          "note": "Lectura especial: 裸 (desnudo) + 足 (pie) no se leen por separado; la palabra entera es はだし."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 裸足の太陽 = «el sol descalzo»."
+        },
+        {
+          "id": "t5",
+          "surface": "太陽",
+          "reading": "たいよう",
+          "romaji": "taiyou",
+          "gloss": "sol",
+          "kind": "noun",
+          "emoji": "☀️",
+          "note": "«Sol descalzo»: imagen poética de algo libre y sin adornos. Es a quien se le habla."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t5",
+          "type": "subject",
+          "label": "a quién"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "¡Brilla con fuerza, sol descalzo!",
+      "literal": "deslumbrante ¡refleja! descalzo-de sol"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "負けない",
+          "reading": "まけない",
+          "romaji": "makenai",
+          "gloss": "que no pierde",
+          "kind": "verb",
+          "emoji": "🥊",
+          "base": {
+            "surface": "負ける",
+            "reading": "まける",
+            "meaning": "perder"
+          },
+          "form": {
+            "name": "negativo delante de sustantivo",
+            "why": "負けない熱さ = «un ardor que no se rinde»."
+          },
+          "note": "En Butter-Fly: 負けそうになる («a punto de perder»)."
+        },
+        {
+          "id": "t2",
+          "surface": "熱さ",
+          "reading": "あつさ",
+          "romaji": "atsusa",
+          "gloss": "ardor",
+          "kind": "noun",
+          "emoji": "🔥",
+          "base": {
+            "surface": "熱い",
+            "reading": "あつい",
+            "meaning": "ardiente"
+          },
+          "form": {
+            "name": "adjetivo い → sustantivo (さ)",
+            "why": "熱い → 熱さ: «el calor, el ardor». Como 悲しい → 悲しみ en Evangelion."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Medio: 熱さで = «con un ardor…». Como パトスで en Evangelion."
+        },
+        {
+          "id": "t4",
+          "surface": "Get a fire power!!",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo: «¡consigue el poder del fuego!». Es el grito del estribillo."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Con un ardor que no se rinde, ¡consigue el poder del fuego!",
+      "literal": "no-pierde ardor-con Get a fire power!!"
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "未知",
+          "reading": "みち",
+          "romaji": "michi",
+          "gloss": "lo desconocido",
+          "kind": "noun",
+          "emoji": "❔",
+          "note": "Juego de palabras: 未知 (みち, lo desconocido) y 満ちてる (みちてる, estar lleno) suenan casi igual. Y 道 (みち) es «camino»: la frontera llena de lo desconocido también suena a camino."
+        },
+        {
+          "id": "t2",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 満ちてる: lo desconocido es lo que llena."
+        },
+        {
+          "id": "t3",
+          "surface": "満ちてる",
+          "reading": "みちてる",
+          "romaji": "michiteru",
+          "gloss": "llena de",
+          "kind": "verb",
+          "emoji": "🌕",
+          "base": {
+            "surface": "満ちる",
+            "reading": "みちる",
+            "meaning": "llenarse"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "満ちている → 満ちてる: «está lleno». Delante de フロンティア lo describe."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "フロンティア",
+          "romaji": "furontia",
+          "gloss": "frontera",
+          "kind": "noun",
+          "emoji": "🗺️"
+        },
+        {
+          "id": "t5",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección de 走り続ける."
+        },
+        {
+          "id": "t6",
+          "surface": "走り続けるんだ",
+          "reading": "はしりつづけるんだ",
+          "romaji": "hashiri tsuzukeru n da",
+          "gloss": "¡hay que seguir corriendo!",
+          "kind": "verb",
+          "emoji": "🏃",
+          "base": {
+            "surface": "走る + 続ける",
+            "reading": "はしる + つづける",
+            "meaning": "correr + seguir"
+          },
+          "form": {
+            "name": "raíz + 続ける + んだ",
+            "why": "走り続ける = seguir corriendo (como 守り続けよう en シルエット). んだ: decisión firme."
+          },
+          "note": "Ojo: 走る (hashiru) acaba en -iru pero es godan (走らない, 走って), como 帰る, 切る y 蹴る."
+        },
+        {
+          "id": "t7",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "a ti",
+          "kind": "noun",
+          "emoji": "🫵",
+          "note": "Con kanji esta vez; en Butter-Fly era キミ en katakana. Va entre comillas en la letra."
+        },
+        {
+          "id": "t8",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 連れて: a quién se lleva."
+        },
+        {
+          "id": "t9",
+          "surface": "連れて",
+          "reading": "つれて",
+          "romaji": "tsurete",
+          "gloss": "llevándote",
+          "kind": "verb",
+          "emoji": "🤝",
+          "base": {
+            "surface": "連れる",
+            "reading": "つれる",
+            "meaning": "llevar a alguien consigo"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Dice cómo: «seguir corriendo, llevándote conmigo»."
+          },
+          "note": "連れる es solo para personas o animales. Para cosas se dice 持っていく."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "hacia"
+        },
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "object",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Hacia la frontera llena de lo desconocido, ¡seguiré corriendo, llevándote conmigo!",
+      "literal": "desconocido-(sujeto) lleno frontera-hacia seguir-corriendo «tú-(objeto) llevando»"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ゴミ箱",
+          "reading": "ごみばこ",
+          "romaji": "gomibako",
+          "gloss": "cubo de basura",
+          "kind": "noun",
+          "emoji": "🗑️",
+          "note": "ゴミ (basura) + 箱 (caja). 箱 es はこ, pero al unirse suena ばこ."
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Con 越える, を marca lo que se atraviesa (como 一線を越えて en シルエット)."
+        },
+        {
+          "id": "t3",
+          "surface": "飛び越えた",
+          "reading": "とびこえた",
+          "romaji": "tobikoeta",
+          "gloss": "tras saltar",
+          "kind": "verb",
+          "emoji": "🦘",
+          "base": {
+            "surface": "飛ぶ + 越える",
+            "reading": "とぶ + こえる",
+            "meaning": "saltar + pasar por encima"
+          },
+          "form": {
+            "name": "pasado (た) delante de sustantivo",
+            "why": "飛び越えた先 = «lo que hay después de haber saltado»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "gloss": "más allá",
+          "kind": "noun",
+          "note": "Como その先の希望 en ココロのちず: lo que hay más adelante."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Con ある: dónde hay algo."
+        },
+        {
+          "id": "t6",
+          "surface": "ある",
+          "romaji": "aru",
+          "gloss": "que hay",
+          "kind": "verb",
+          "form": {
+            "name": "forma simple delante de sustantivo",
+            "why": "先にある未来 = «el futuro que hay más allá»."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "未来",
+          "reading": "みらい",
+          "romaji": "mirai",
+          "gloss": "futuro",
+          "kind": "noun",
+          "emoji": "🔭",
+          "note": "Aquí 未来 se lee みらい normal; en ココロのちず se cantaba あす."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "El futuro que hay más allá del cubo de basura que saltamos…",
+      "literal": "basura-(objeto) saltado más-allá-en hay futuro"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "光",
+          "reading": "ひかり",
+          "romaji": "hikari",
+          "gloss": "luz",
+          "kind": "noun",
+          "emoji": "💡"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de まとって."
+        },
+        {
+          "id": "t3",
+          "surface": "まとって",
+          "romaji": "matotte",
+          "gloss": "envuelto en",
+          "kind": "verb",
+          "emoji": "🧥",
+          "base": {
+            "surface": "纏う",
+            "reading": "まとう",
+            "meaning": "vestirse con, envolverse en"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Dice cómo: «envuelto en luz, ¡consigue el poder del fuego!»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "Get a fire power!!",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo: «¡consigue el poder del fuego!». Es el grito del estribillo."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Envuelto en luz, ¡consigue el poder del fuego!",
+      "literal": "luz-(objeto) envolviéndote Get a fire power!!"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ギラギラと",
+          "romaji": "giragira to",
+          "gloss": "deslumbrante",
+          "kind": "adv",
+          "emoji": "😎",
+          "note": "ギラギラ = brillo intenso, casi agresivo (sol de verano, mirada decidida). キラキラ (ココロのちず) es un brillo bonito y suave: la diferencia de una consonante cambia el tono."
+        },
+        {
+          "id": "t2",
+          "surface": "燃え上がれ",
+          "reading": "もえあがれ",
+          "romaji": "moeagare",
+          "gloss": "¡arde!",
+          "kind": "verb",
+          "emoji": "🔥",
+          "base": {
+            "surface": "燃え上がる",
+            "reading": "もえあがる",
+            "meaning": "arder en llamas"
+          },
+          "form": {
+            "name": "imperativo (godan: る → れ)",
+            "why": "燃え上がる es godan: la última sílaba pasa a la fila え: る → れ. Compara con 投げ入れろ (ichidan, る → ろ) de la primera línea."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "瞳",
+          "reading": "ひとみ",
+          "romaji": "hitomi",
+          "gloss": "ojos",
+          "kind": "noun",
+          "emoji": "👁️",
+          "note": "Como en Evangelion: 瞳 = ojos, poético."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 瞳のチカラ = «la fuerza de los ojos»."
+        },
+        {
+          "id": "t5",
+          "surface": "チカラ",
+          "reading": "ちから",
+          "romaji": "chikara",
+          "gloss": "fuerza",
+          "kind": "noun",
+          "emoji": "💪",
+          "note": "Es a quien se le habla: «¡arde, fuerza de mis ojos!»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t5",
+          "type": "subject",
+          "label": "a quién"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "¡Arde con un brillo deslumbrante, fuerza de mis ojos!",
+      "literal": "deslumbrante ¡arde! ojos-de fuerza"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "消せない",
+          "reading": "けせない",
+          "romaji": "kesenai",
+          "gloss": "que no se apaga",
+          "kind": "verb",
+          "emoji": "🕯️",
+          "base": {
+            "surface": "消す",
+            "reading": "けす",
+            "meaning": "apagar, borrar (algo)"
+          },
+          "form": {
+            "name": "potencial negativo",
+            "why": "消す → 消せる (poder apagar) → 消せない: «que no se puede apagar». Delante de 勇気 lo describe."
+          },
+          "note": "Par 消す (apagar algo) / 消える (apagarse solo). En シルエット: 消えぬシルエット («silueta que no se borra»)."
+        },
+        {
+          "id": "t2",
+          "surface": "勇気",
+          "reading": "ゆうき",
+          "romaji": "yuuki",
+          "gloss": "valor",
+          "kind": "noun",
+          "emoji": "🦁"
+        },
+        {
+          "id": "t3",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Medio: 勇気で = «con un valor (que no se apaga)». Como パトスで en Evangelion."
+        },
+        {
+          "id": "t4",
+          "surface": "Get a fire power!!",
+          "gloss": "(inglés)",
+          "kind": "other",
+          "note": "Inglés decorativo: «¡consigue el poder del fuego!». Es el grito del estribillo."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Con un valor que nadie puede apagar, ¡consigue el poder del fuego!",
+      "literal": "no-se-puede-apagar valor-con Get a fire power!!"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "未知",
+          "reading": "みち",
+          "romaji": "michi",
+          "gloss": "lo desconocido",
+          "kind": "noun",
+          "emoji": "❔",
+          "note": "Juego de palabras: 未知 (みち, lo desconocido) y 満ちてる (みちてる, estar lleno) suenan casi igual. Y 道 (みち) es «camino»: la frontera llena de lo desconocido también suena a camino."
+        },
+        {
+          "id": "t2",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 満ちてる: lo desconocido es lo que llena."
+        },
+        {
+          "id": "t3",
+          "surface": "満ちてる",
+          "reading": "みちてる",
+          "romaji": "michiteru",
+          "gloss": "llena de",
+          "kind": "verb",
+          "emoji": "🌕",
+          "base": {
+            "surface": "満ちる",
+            "reading": "みちる",
+            "meaning": "llenarse"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "満ちている → 満ちてる: «está lleno». Delante de フロンティア lo describe."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "フロンティア",
+          "romaji": "furontia",
+          "gloss": "frontera",
+          "kind": "noun",
+          "emoji": "🗺️"
+        },
+        {
+          "id": "t5",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección de 走り続ける."
+        },
+        {
+          "id": "t6",
+          "surface": "走り続けるんだ",
+          "reading": "はしりつづけるんだ",
+          "romaji": "hashiri tsuzukeru n da",
+          "gloss": "¡hay que seguir corriendo!",
+          "kind": "verb",
+          "emoji": "🏃",
+          "base": {
+            "surface": "走る + 続ける",
+            "reading": "はしる + つづける",
+            "meaning": "correr + seguir"
+          },
+          "form": {
+            "name": "raíz + 続ける + んだ",
+            "why": "走り続ける = seguir corriendo (como 守り続けよう en シルエット). んだ: decisión firme."
+          },
+          "note": "Ojo: 走る (hashiru) acaba en -iru pero es godan (走らない, 走って), como 帰る, 切る y 蹴る."
+        },
+        {
+          "id": "t7",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "a ti",
+          "kind": "noun",
+          "emoji": "🫵",
+          "note": "Con kanji esta vez; en Butter-Fly era キミ en katakana. Va entre comillas en la letra."
+        },
+        {
+          "id": "t8",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 連れて: a quién se lleva."
+        },
+        {
+          "id": "t9",
+          "surface": "連れて",
+          "reading": "つれて",
+          "romaji": "tsurete",
+          "gloss": "llevándote",
+          "kind": "verb",
+          "emoji": "🤝",
+          "base": {
+            "surface": "連れる",
+            "reading": "つれる",
+            "meaning": "llevar a alguien consigo"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Dice cómo: «seguir corriendo, llevándote conmigo»."
+          },
+          "note": "連れる es solo para personas o animales. Para cosas se dice 持っていく."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "hacia"
+        },
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "object",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Hacia la frontera llena de lo desconocido, ¡seguiré corriendo, llevándote conmigo!",
+      "literal": "desconocido-(sujeto) lleno frontera-hacia seguir-corriendo «tú-(objeto) llevando»"
+    }
+  ]
+}
