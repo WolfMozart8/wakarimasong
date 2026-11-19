@@ -1,0 +1,2953 @@
+{
+  "id": "kokoro-no-chizu",
+  "title": "ココロのちず (Kokoro no Chizu)",
+  "artist": "BOYSTYLE · One Piece (opening 5)",
+  "youtubeId": "RUZCdggY34c",
+  "source": "https://www.animesonglyrics.com/one-piece/kokoro-no-chizu",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "大丈夫",
+          "reading": "だいじょうぶ",
+          "romaji": "daijoubu",
+          "gloss": "¡tranquilos!",
+          "kind": "adj",
+          "emoji": "👍",
+          "note": "大丈夫 = «está bien, no pasa nada». Sirve para animar (¡tranquilo!), preguntar (¿estás bien?) y también para rechazar con cortesía (大丈夫です = «no, gracias»)."
+        },
+        {
+          "id": "t2",
+          "surface": "さぁ",
+          "romaji": "saa",
+          "gloss": "¡vamos!",
+          "kind": "expr",
+          "note": "さぁ (さあ) = «¡venga!, ¡vamos!». Anima a empezar algo."
+        },
+        {
+          "id": "t3",
+          "surface": "前",
+          "reading": "まえ",
+          "romaji": "mae",
+          "gloss": "adelante",
+          "kind": "noun",
+          "emoji": "⬆️"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Destino del movimiento: 前に進む = avanzar hacia delante."
+        },
+        {
+          "id": "t5",
+          "surface": "進もう",
+          "reading": "すすもう",
+          "romaji": "susumou",
+          "gloss": "¡avancemos!",
+          "kind": "verb",
+          "emoji": "🚶",
+          "base": {
+            "surface": "進む",
+            "reading": "すすむ",
+            "meaning": "avanzar"
+          },
+          "form": {
+            "name": "volitiva (godan: う → おう)",
+            "why": "進む → 進もう: «¡vamos a…!». En los verbos godan la última sílaba pasa a la fila お + う. Toda la canción está llena de volitivas: 乗ろう, 急ごう, 見よう, つかまえよう…"
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "hacia dónde"
+        }
+      ],
+      "translation": "¡Tranquilos! Vamos, sigamos adelante…",
+      "literal": "¡tranquilos! ¡vamos! adelante-hacia ¡avancemos!"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "太陽",
+          "reading": "たいよう",
+          "romaji": "taiyou",
+          "gloss": "el sol",
+          "kind": "noun",
+          "emoji": "☀️"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de un verbo que no aparece: 太陽を胸に(抱いて) = «(llevando) el sol en el pecho»."
+        },
+        {
+          "id": "t3",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t4",
+          "surface": "胸",
+          "reading": "むね",
+          "romaji": "mune",
+          "gloss": "pecho, corazón",
+          "kind": "noun",
+          "emoji": "🫀",
+          "note": "Como en Evangelion: 胸 en las canciones es el corazón, los sentimientos."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Lugar donde se pone algo: 胸に = «en el pecho».",
+          "note": "La frase termina sin verbo. Se sobreentiende 抱いて o 持って. Las letras cortan así para que suene a lema."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "destination",
+          "label": "dónde va"
+        }
+      ],
+      "translation": "…siempre con el sol en el pecho.",
+      "literal": "sol-(objeto) siempre pecho-en"
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "繋いだ",
+          "reading": "つないだ",
+          "romaji": "tsunaida",
+          "gloss": "unidas",
+          "kind": "verb",
+          "emoji": "🤝",
+          "base": {
+            "surface": "繋ぐ",
+            "reading": "つなぐ",
+            "meaning": "unir, tomar (de la mano)"
+          },
+          "form": {
+            "name": "pasado (た) delante de sustantivo",
+            "why": "繋ぐ → 繋いだ (ぐ → いだ). 繋いだ手 = «las manos que unimos»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "手",
+          "reading": "て",
+          "romaji": "te",
+          "gloss": "mano",
+          "kind": "noun",
+          "emoji": "✋"
+        },
+        {
+          "id": "t3",
+          "surface": "伝わる",
+          "reading": "つたわる",
+          "romaji": "tsutawaru",
+          "gloss": "se transmite",
+          "kind": "verb",
+          "emoji": "⚡",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "伝わるPower = «la fuerza que se transmite»."
+          },
+          "note": "Par 伝わる (transmitirse solo) / 伝える (transmitir algo)."
+        },
+        {
+          "id": "t4",
+          "surface": "Power",
+          "romaji": "pawaa",
+          "gloss": "fuerza",
+          "kind": "noun",
+          "emoji": "💪",
+          "note": "Inglés decorativo."
+        },
+        {
+          "id": "t5",
+          "surface": "願い",
+          "reading": "ねがい",
+          "romaji": "negai",
+          "gloss": "deseo",
+          "kind": "noun",
+          "emoji": "🌠",
+          "note": "願い = deseo, petición (de 願う, desear)."
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de つかまえよう."
+        },
+        {
+          "id": "t7",
+          "surface": "つかまえよう",
+          "romaji": "tsukamaeyou",
+          "gloss": "¡atrapemos!",
+          "kind": "verb",
+          "emoji": "🫴",
+          "base": {
+            "surface": "捕まえる",
+            "reading": "つかまえる",
+            "meaning": "atrapar"
+          },
+          "form": {
+            "name": "volitiva (ichidan: る → よう)",
+            "why": "つかまえる → つかまえよう: «¡vamos a…!». En los verbos ichidan se cambia る por よう."
+          },
+          "note": "Par: 捕まえる (atrapar algo, lleva を) / 捕まる (ser atrapado, agarrarse)."
+        },
+        {
+          "id": "t8",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Después de una volitiva, よ invita con más fuerza: «¡vamos a atraparlo, venga!»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Las manos unidas transmiten fuerza: ¡atrapemos nuestro deseo!",
+      "literal": "unidas manos transmitida fuerza deseo-(objeto) ¡atrapemos! ¡eh!"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "でっかい",
+          "romaji": "dekkai",
+          "gloss": "enorme",
+          "kind": "adj",
+          "emoji": "🌊",
+          "note": "でっかい = でかい = 大きい, pero coloquial y con más fuerza. La っ intensifica."
+        },
+        {
+          "id": "t2",
+          "surface": "波",
+          "reading": "なみ",
+          "romaji": "nami",
+          "gloss": "ola",
+          "kind": "noun",
+          "emoji": "🌊"
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "sobre",
+          "kind": "particle",
+          "role": "Con 乗る, に marca aquello a lo que te subes, como 風に乗って en Butter-Fly."
+        },
+        {
+          "id": "t4",
+          "surface": "乗ろう",
+          "reading": "のろう",
+          "romaji": "norou",
+          "gloss": "¡montemos!",
+          "kind": "verb",
+          "emoji": "🏄",
+          "base": {
+            "surface": "乗る",
+            "reading": "のる",
+            "meaning": "subirse, montar"
+          },
+          "form": {
+            "name": "volitiva (godan: う → おう)",
+            "why": "乗る → 乗ろう: «¡vamos a…!». En los verbos godan la última sílaba pasa a la fila お + う. Ojo: 乗る termina en る pero es godan, así que no es 乗よう."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "チカラ",
+          "reading": "ちから",
+          "romaji": "chikara",
+          "gloss": "fuerzas",
+          "kind": "noun",
+          "emoji": "💪",
+          "note": "Normalmente 力. En katakana para destacar."
+        },
+        {
+          "id": "t6",
+          "surface": "合わせて",
+          "reading": "あわせて",
+          "romaji": "awasete",
+          "gloss": "uniendo",
+          "kind": "verb",
+          "emoji": "🤜🤛",
+          "base": {
+            "surface": "合わせる",
+            "reading": "あわせる",
+            "meaning": "juntar, unir"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "Dice cómo: «montemos la ola uniendo fuerzas»."
+          },
+          "note": "Frase hecha: 力を合わせる = unir fuerzas. Aquí falta を."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "destination",
+          "label": "sobre qué"
+        },
+        {
+          "from": "t6",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "connects",
+          "label": "cómo"
+        }
+      ],
+      "translation": "Montemos una ola enorme, uniendo nuestras fuerzas.",
+      "literal": "enorme ola-sobre ¡montemos! fuerzas uniendo"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ときめく",
+          "romaji": "tokimeku",
+          "gloss": "que emociona",
+          "kind": "verb",
+          "emoji": "💓",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "ときめく方 = «hacia donde late el corazón»."
+          },
+          "note": "ときめく = que el corazón se acelere de emoción o ilusión."
+        },
+        {
+          "id": "t2",
+          "surface": "方",
+          "reading": "ほう",
+          "romaji": "hou",
+          "gloss": "dirección",
+          "kind": "noun",
+          "note": "方 = ほう «lado, dirección», como en 忘れた方がマシ de Butter-Fly."
+        },
+        {
+          "id": "t3",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección: «hacia…». Se escribe へ pero como partícula se pronuncia «e». Parecida a に; へ pone el énfasis en el camino, に en el punto de llegada."
+        },
+        {
+          "id": "t4",
+          "surface": "急ごう",
+          "reading": "いそごう",
+          "romaji": "isogou",
+          "gloss": "¡démonos prisa!",
+          "kind": "verb",
+          "emoji": "🏃",
+          "base": {
+            "surface": "急ぐ",
+            "reading": "いそぐ",
+            "meaning": "apurarse"
+          },
+          "form": {
+            "name": "volitiva (godan: う → おう)",
+            "why": "急ぐ → 急ごう: «¡vamos a…!». En los verbos godan la última sílaba pasa a la fila お + う."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "始まり",
+          "reading": "はじまり",
+          "romaji": "hajimari",
+          "gloss": "comienzo",
+          "kind": "noun",
+          "base": {
+            "surface": "始まる",
+            "reading": "はじまる",
+            "meaning": "empezar"
+          },
+          "form": {
+            "name": "raíz como sustantivo",
+            "why": "始まる → 始まり: la raíz del verbo usada como sustantivo, «el comienzo»."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 始まりの合図 = «la señal del comienzo»."
+        },
+        {
+          "id": "t7",
+          "surface": "合図",
+          "reading": "あいず",
+          "romaji": "aizu",
+          "gloss": "señal",
+          "kind": "noun",
+          "emoji": "🚩"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "destination",
+          "label": "hacia dónde"
+        },
+        {
+          "from": "t5",
+          "to": "t7",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "Corramos hacia lo que nos emociona: es la señal de partida.",
+      "literal": "emocionante dirección-hacia ¡apurémonos! comienzo-de señal"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "今こそ",
+          "reading": "いまこそ",
+          "romaji": "ima koso",
+          "gloss": "ahora sí",
+          "kind": "adv",
+          "note": "こそ resalta con fuerza: 今こそ = «es ahora, precisamente ahora»."
+        },
+        {
+          "id": "t2",
+          "surface": "船出",
+          "reading": "ふなで",
+          "romaji": "funade",
+          "gloss": "zarpar",
+          "kind": "noun",
+          "emoji": "⛵",
+          "note": "船 (barco) + 出 (salir). Lectura especial: 船 suele ser ふね, pero en palabras compuestas cambia a ふな (船出, 船乗り)."
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 船出のとき = «el momento de zarpar»."
+        },
+        {
+          "id": "t4",
+          "surface": "とき",
+          "romaji": "toki",
+          "gloss": "momento",
+          "kind": "noun",
+          "emoji": "⏰"
+        },
+        {
+          "id": "t5",
+          "surface": "錨",
+          "reading": "いかり",
+          "romaji": "ikari",
+          "gloss": "ancla",
+          "kind": "noun",
+          "emoji": "⚓",
+          "note": "Kanji raro. Ojo: いかり también significa «ira» (怒り); el kanji lo decide."
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 上げたら."
+        },
+        {
+          "id": "t7",
+          "surface": "上げたら",
+          "reading": "あげたら",
+          "romaji": "agetara",
+          "gloss": "en cuanto levantemos",
+          "kind": "verb",
+          "emoji": "⬆️",
+          "base": {
+            "surface": "上げる",
+            "reading": "あげる",
+            "meaning": "levantar, subir"
+          },
+          "form": {
+            "name": "condicional たら",
+            "why": "上げる → 上げた + ら: «cuando / en cuanto levantemos (el ancla)». たら marca algo que pasa primero; lo siguiente ocurre después."
+          },
+          "note": "Par 上げる (subir algo) / 上がる (subir solo)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Ahora es el momento de zarpar: en cuanto levemos el ancla…",
+      "literal": "ahora-sí zarpar-de momento ancla-(objeto) levantar-cuando",
+      "notes": [
+        "Sigue en la línea siguiente: …cortaremos el viento de siete colores."
+      ]
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "七色",
+          "reading": "なないろ",
+          "romaji": "nanairo",
+          "gloss": "siete colores",
+          "kind": "noun",
+          "emoji": "🌈",
+          "note": "七 se lee なな aquí (no しち). 七色 = los colores del arcoíris."
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 七色の風."
+        },
+        {
+          "id": "t3",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun",
+          "emoji": "🌬️"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 切り: lo que se corta."
+        },
+        {
+          "id": "t5",
+          "surface": "切り",
+          "reading": "きり",
+          "romaji": "kiri",
+          "gloss": "cortando",
+          "kind": "verb",
+          "emoji": "✂️",
+          "base": {
+            "surface": "切る",
+            "reading": "きる",
+            "meaning": "cortar"
+          },
+          "form": {
+            "name": "raíz para encadenar",
+            "why": "切る → 切り: la raíz sola también une acciones, como la forma て pero con tono más escrito. 風を切る = avanzar rápido «cortando el viento»."
+          },
+          "note": "切る termina en -iru pero es godan (切らない, 切って). Igual que 帰る."
+        },
+        {
+          "id": "t6",
+          "surface": "冒険",
+          "reading": "ぼうけん",
+          "romaji": "bouken",
+          "gloss": "aventura",
+          "kind": "noun",
+          "emoji": "🗺️"
+        },
+        {
+          "id": "t7",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 冒険の海 = «el mar de la aventura»."
+        },
+        {
+          "id": "t8",
+          "surface": "海",
+          "reading": "うみ",
+          "romaji": "umi",
+          "gloss": "mar",
+          "kind": "noun",
+          "emoji": "🌊"
+        },
+        {
+          "id": "t9",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección. La frase termina en へ sin verbo: se sobreentiende «(vamos) hacia el mar»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t8",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "…cortaremos el viento de siete colores, rumbo al mar de la aventura.",
+      "literal": "siete-colores-de viento-(objeto) cortando aventura-de mar-hacia"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "傷だらけ",
+          "reading": "きずだらけ",
+          "romaji": "kizudarake",
+          "gloss": "lleno de heridas",
+          "kind": "noun",
+          "emoji": "🩹",
+          "note": "傷 (herida) + だらけ (lleno de algo malo), como イメージだらけ en Butter-Fly."
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 傷だらけの航海 = «una travesía llena de heridas»."
+        },
+        {
+          "id": "t3",
+          "surface": "航海",
+          "reading": "こうかい",
+          "romaji": "koukai",
+          "gloss": "travesía",
+          "kind": "noun",
+          "emoji": "⛵",
+          "sungAs": {
+            "reading": "たび",
+            "romaji": "tabi",
+            "note": "Escrito 航海 (こうかい), pero se canta たび («viaje»). Es una lectura inventada para la canción, que junta los dos sentidos: no la aprendas como lectura de 航海."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "だけど",
+          "romaji": "da kedo",
+          "gloss": "aunque sea",
+          "kind": "aux",
+          "form": {
+            "name": "だ + けど («pero»)",
+            "why": "航海だけど = «es una travesía (dura), pero…». だ es «es»; けど, «pero»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        }
+      ],
+      "translation": "Aunque sea una travesía llena de heridas…",
+      "literal": "heridas-llena-de travesía es-pero"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "大事な",
+          "reading": "だいじな",
+          "romaji": "daiji na",
+          "gloss": "importante",
+          "kind": "adj",
+          "emoji": "💎",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 大事なもの = «algo importante»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "もの",
+          "romaji": "mono",
+          "gloss": "cosa",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de ある: lo que hay."
+        },
+        {
+          "id": "t4",
+          "surface": "そこ",
+          "romaji": "soko",
+          "gloss": "ahí",
+          "kind": "noun",
+          "note": "そこ = «ahí». Se refiere a la travesía de la línea anterior."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Con ある, に marca dónde hay algo."
+        },
+        {
+          "id": "t6",
+          "surface": "ある",
+          "romaji": "aru",
+          "gloss": "hay",
+          "kind": "verb",
+          "emoji": "✅"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t6",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "dónde"
+        }
+      ],
+      "translation": "…ahí hay algo importante.",
+      "literal": "importante cosa-(sujeto) ahí-en hay"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ピンチ",
+          "romaji": "pinchi",
+          "gloss": "apuro",
+          "kind": "noun",
+          "emoji": "🆘",
+          "note": "Del inglés pinch: un aprieto, un momento difícil."
+        },
+        {
+          "id": "t2",
+          "surface": "なら",
+          "romaji": "nara",
+          "gloss": "si",
+          "kind": "aux",
+          "form": {
+            "name": "なら (condicional)",
+            "why": "«Si estás en un apuro…»: toma la situación como dada. Como 裏切るなら en Evangelion."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "いつだって",
+          "romaji": "itsu datte",
+          "gloss": "siempre",
+          "kind": "expr",
+          "note": "いつ + だって = «cuando sea». Aquí だって significa «incluso, cualquiera» (= いつでも), no es una cita como en Butter-Fly."
+        },
+        {
+          "id": "t4",
+          "surface": "ボク",
+          "reading": "ぼく",
+          "romaji": "boku",
+          "gloss": "yo",
+          "kind": "noun",
+          "emoji": "🙋‍♂️",
+          "note": "ボク = 僕 en katakana, toque juvenil."
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto con énfasis: «YO te protegeré». が resalta quién lo hace."
+        },
+        {
+          "id": "t6",
+          "surface": "守る",
+          "reading": "まもる",
+          "romaji": "mamoru",
+          "gloss": "protegeré",
+          "kind": "verb",
+          "emoji": "🛡️",
+          "note": "Forma simple con sentido de futuro: el japonés no distingue presente y futuro."
+        },
+        {
+          "id": "t7",
+          "surface": "から",
+          "romaji": "kara",
+          "gloss": "porque",
+          "kind": "aux",
+          "form": {
+            "name": "から (razón)",
+            "why": "«Porque…»: al final de frase da una razón tranquilizadora, «(no temas,) porque yo te protegeré»."
+          },
+          "note": "から también es «desde» (窓辺から en Evangelion). Detrás de un verbo o frase completa es «porque»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "modifies",
+          "label": "si…"
+        }
+      ],
+      "translation": "Si estás en apuros, siempre, yo te protegeré.",
+      "literal": "apuro si cuando-sea yo-(sujeto) protejo porque"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "大丈夫",
+          "reading": "だいじょうぶ",
+          "romaji": "daijoubu",
+          "gloss": "¡tranquilos!",
+          "kind": "adj",
+          "emoji": "👍",
+          "note": "大丈夫 = «está bien, no pasa nada». Sirve para animar (¡tranquilo!), preguntar (¿estás bien?) y también para rechazar con cortesía (大丈夫です = «no, gracias»)."
+        },
+        {
+          "id": "t2",
+          "surface": "さぁ",
+          "romaji": "saa",
+          "gloss": "¡vamos!",
+          "kind": "expr",
+          "note": "さぁ (さあ) = «¡venga!, ¡vamos!». Anima a empezar algo."
+        },
+        {
+          "id": "t3",
+          "surface": "前",
+          "reading": "まえ",
+          "romaji": "mae",
+          "gloss": "adelante",
+          "kind": "noun",
+          "emoji": "⬆️"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Destino del movimiento: 前に進む = avanzar hacia delante."
+        },
+        {
+          "id": "t5",
+          "surface": "進もう",
+          "reading": "すすもう",
+          "romaji": "susumou",
+          "gloss": "¡avancemos!",
+          "kind": "verb",
+          "emoji": "🚶",
+          "base": {
+            "surface": "進む",
+            "reading": "すすむ",
+            "meaning": "avanzar"
+          },
+          "form": {
+            "name": "volitiva (godan: う → おう)",
+            "why": "進む → 進もう: «¡vamos a…!». En los verbos godan la última sílaba pasa a la fila お + う. Toda la canción está llena de volitivas: 乗ろう, 急ごう, 見よう, つかまえよう…"
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "hacia dónde"
+        }
+      ],
+      "translation": "¡Tranquilos! Vamos, sigamos adelante…",
+      "literal": "¡tranquilos! ¡vamos! adelante-hacia ¡avancemos!"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "太陽",
+          "reading": "たいよう",
+          "romaji": "taiyou",
+          "gloss": "el sol",
+          "kind": "noun",
+          "emoji": "☀️"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de un verbo que no aparece: 太陽を胸に(抱いて) = «(llevando) el sol en el pecho»."
+        },
+        {
+          "id": "t3",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t4",
+          "surface": "胸",
+          "reading": "むね",
+          "romaji": "mune",
+          "gloss": "pecho, corazón",
+          "kind": "noun",
+          "emoji": "🫀",
+          "note": "Como en Evangelion: 胸 en las canciones es el corazón, los sentimientos."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Lugar donde se pone algo: 胸に = «en el pecho».",
+          "note": "La frase termina sin verbo. Se sobreentiende 抱いて o 持って. Las letras cortan así para que suene a lema."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "destination",
+          "label": "dónde va"
+        }
+      ],
+      "translation": "…siempre con el sol en el pecho.",
+      "literal": "sol-(objeto) siempre pecho-en"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "嵐",
+          "reading": "あらし",
+          "romaji": "arashi",
+          "gloss": "tormenta",
+          "kind": "noun",
+          "emoji": "⛈️"
+        },
+        {
+          "id": "t2",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 来たら."
+        },
+        {
+          "id": "t3",
+          "surface": "来たら",
+          "reading": "きたら",
+          "romaji": "kitara",
+          "gloss": "cuando venga",
+          "kind": "verb",
+          "base": {
+            "surface": "来る",
+            "reading": "くる",
+            "meaning": "venir"
+          },
+          "form": {
+            "name": "condicional たら",
+            "why": "来る (irregular) → 来た → 来たら: «cuando llegue la tormenta». La raíz cambia a き."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "肩",
+          "reading": "かた",
+          "romaji": "kata",
+          "gloss": "hombros",
+          "kind": "noun",
+          "emoji": "🫂"
+        },
+        {
+          "id": "t5",
+          "surface": "組んで",
+          "reading": "くんで",
+          "romaji": "kunde",
+          "gloss": "abrazados",
+          "kind": "verb",
+          "base": {
+            "surface": "組む",
+            "reading": "くむ",
+            "meaning": "juntar, entrelazar"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "組む → 組んで (む → んで). Sigue en la línea siguiente: «abrazados, miremos…»."
+          },
+          "note": "Frase hecha: 肩を組む = pasar el brazo por los hombros del otro. Falta を."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Cuando llegue la tormenta, abrazados por los hombros…",
+      "literal": "tormenta-(sujeto) venir-cuando hombros abrazando"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "ese",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "gloss": "más allá",
+          "kind": "noun",
+          "note": "先 = lo que está delante, más allá. その先 = «más allá de eso (la tormenta)»."
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: その先の希望 = «la esperanza que hay más allá»."
+        },
+        {
+          "id": "t4",
+          "surface": "希望",
+          "reading": "きぼう",
+          "romaji": "kibou",
+          "gloss": "esperanza",
+          "kind": "noun",
+          "emoji": "🌅",
+          "sungAs": {
+            "reading": "ひかり",
+            "romaji": "hikari",
+            "note": "Escrito 希望 (きぼう), pero se canta ひかり («luz»). Es una lectura inventada para la canción, que junta los dos sentidos: no la aprendas como lectura de 希望."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 見よう."
+        },
+        {
+          "id": "t6",
+          "surface": "見よう",
+          "reading": "みよう",
+          "romaji": "miyou",
+          "gloss": "¡miremos!",
+          "kind": "verb",
+          "emoji": "👀",
+          "base": {
+            "surface": "見る",
+            "reading": "みる",
+            "meaning": "ver, mirar"
+          },
+          "form": {
+            "name": "volitiva (ichidan: る → よう)",
+            "why": "見る → 見よう: «¡vamos a…!». En los verbos ichidan se cambia る por よう. Compara con 乗る → 乗ろう: los dos acaban en る, pero 見る es ichidan y 乗る godan."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de dónde"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "…miremos la luz de esperanza que hay más allá.",
+      "literal": "ese más-allá-de esperanza-(objeto) ¡miremos!"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "夢のカケラ",
+          "reading": "ゆめのかけら",
+          "romaji": "yume no kakera",
+          "gloss": "pedazos de sueño",
+          "kind": "noun",
+          "emoji": "🧩",
+          "note": "カケラ = 欠片 (fragmento). 夢の + カケラ va como un bloque: «los pedazos de nuestros sueños». Falta が: カケラ(が)集まれば."
+        },
+        {
+          "id": "t2",
+          "surface": "集まれば",
+          "reading": "あつまれば",
+          "romaji": "atsumareba",
+          "gloss": "si se juntan",
+          "kind": "verb",
+          "emoji": "🧲",
+          "base": {
+            "surface": "集まる",
+            "reading": "あつまる",
+            "meaning": "juntarse, reunirse"
+          },
+          "form": {
+            "name": "condicional ば",
+            "why": "集まる → 集まれ + ば: «si se juntan». ば es el condicional general: «si pasa A, pasa B»."
+          },
+          "note": "Par 集まる (juntarse solo) / 集める (juntar algo)."
+        },
+        {
+          "id": "t3",
+          "surface": "未来",
+          "reading": "みらい",
+          "romaji": "mirai",
+          "gloss": "futuro",
+          "kind": "noun",
+          "emoji": "🔭",
+          "sungAs": {
+            "reading": "あす",
+            "romaji": "asu",
+            "note": "Escrito 未来 (みらい), pero se canta あす («mañana»). Es una lectura inventada para la canción, que junta los dos sentidos: no la aprendas como lectura de 未来. あす sí es una lectura real, pero de 明日 (en Butter-Fly salía 明日 leído あした)."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Destino de 向かう."
+        },
+        {
+          "id": "t5",
+          "surface": "向かう",
+          "reading": "むかう",
+          "romaji": "mukau",
+          "gloss": "que va hacia",
+          "kind": "verb",
+          "emoji": "🧭",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "未来に向かう航海図 = «el mapa que lleva al futuro»."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "航海図",
+          "reading": "こうかいず",
+          "romaji": "koukaizu",
+          "gloss": "carta de navegación",
+          "kind": "noun",
+          "emoji": "🗺️",
+          "sungAs": {
+            "reading": "ちず",
+            "romaji": "chizu",
+            "note": "Escrito 航海図 (こうかいず), pero se canta ちず («mapa»). Es una lectura inventada para la canción, que junta los dos sentidos: no la aprendas como lectura de 航海図. Es el ちず del título: ココロのちず."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio con なる."
+        },
+        {
+          "id": "t8",
+          "surface": "なる",
+          "romaji": "naru",
+          "gloss": "se convierten",
+          "kind": "verb",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse"
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t8",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "destination",
+          "label": "en qué"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "hacia"
+        }
+      ],
+      "translation": "Si juntamos los pedazos de nuestros sueños, se vuelven el mapa hacia el mañana.",
+      "literal": "sueño-de-pedazos juntarse-si futuro-hacia que-va carta-de-navegación-en se-convierten"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だから",
+          "romaji": "dakara",
+          "gloss": "por eso",
+          "kind": "expr",
+          "note": "だから = «por eso, así que»."
+        },
+        {
+          "id": "t2",
+          "surface": "同じ",
+          "reading": "おなじ",
+          "romaji": "onaji",
+          "gloss": "mismo",
+          "kind": "adj",
+          "note": "Trampa: 同じ va directo delante del sustantivo, sin な ni の (同じ旗). Es casi la única palabra así."
+        },
+        {
+          "id": "t3",
+          "surface": "旗",
+          "reading": "はた",
+          "romaji": "hata",
+          "gloss": "bandera",
+          "kind": "noun",
+          "emoji": "🏴‍☠️"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 旗の下 = «bajo la bandera»."
+        },
+        {
+          "id": "t5",
+          "surface": "下",
+          "reading": "もと",
+          "romaji": "moto",
+          "gloss": "bajo",
+          "kind": "noun",
+          "note": "Aquí 下 se lee もと, y sí es una lectura real que vale la pena aprender: 〜の下(もと)で = «bajo la protección o guía de…» (旗の下, 星の下, 先生の下で学ぶ). した es «debajo» físicamente. La letra lo marca entre paréntesis para que no se lea した."
+        },
+        {
+          "id": "t6",
+          "surface": "願い",
+          "reading": "ねがい",
+          "romaji": "negai",
+          "gloss": "deseo",
+          "kind": "noun",
+          "emoji": "🌠",
+          "note": "願い = deseo, petición (de 願う, desear)."
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de つかまえよう."
+        },
+        {
+          "id": "t8",
+          "surface": "つかまえよう",
+          "romaji": "tsukamaeyou",
+          "gloss": "¡atrapemos!",
+          "kind": "verb",
+          "emoji": "🫴",
+          "base": {
+            "surface": "捕まえる",
+            "reading": "つかまえる",
+            "meaning": "atrapar"
+          },
+          "form": {
+            "name": "volitiva (ichidan: る → よう)",
+            "why": "つかまえる → つかまえよう: «¡vamos a…!». En los verbos ichidan se cambia る por よう."
+          },
+          "note": "Par: 捕まえる (atrapar algo, lleva を) / 捕まる (ser atrapado, agarrarse)."
+        },
+        {
+          "id": "t9",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Después de una volitiva, よ invita con más fuerza: «¡vamos a atraparlo, venga!»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Así que, bajo la misma bandera, ¡atrapemos nuestro deseo!",
+      "literal": "por-eso misma bandera-de bajo deseo-(objeto) ¡atrapemos! ¡eh!"
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ボクら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun",
+          "emoji": "👫"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «nosotros (somos)…»."
+        },
+        {
+          "id": "t3",
+          "surface": "ひとつ",
+          "romaji": "hitotsu",
+          "gloss": "uno solo",
+          "kind": "noun",
+          "emoji": "☝️",
+          "note": "ひとつ = uno. ボクらはひとつ = «somos uno». Juego de palabras con «One Piece», el título del anime."
+        },
+        {
+          "id": "t4",
+          "surface": "One Piece",
+          "gloss": "(título)",
+          "kind": "other",
+          "note": "Nombre del anime; aquí también suena a «una sola pieza»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "topic",
+          "label": "somos"
+        }
+      ],
+      "translation": "Somos uno solo: One Piece.",
+      "literal": "nosotros-(tema) uno One Piece"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ミンナデ",
+          "reading": "みんなで",
+          "romaji": "minna de",
+          "gloss": "entre todos",
+          "kind": "expr",
+          "note": "みんな + で (con, entre): «entre todos». En katakana porque es una consigna gritada, como un lema del grupo."
+        },
+        {
+          "id": "t2",
+          "surface": "ヤレバ",
+          "reading": "やれば",
+          "romaji": "yareba",
+          "gloss": "si lo hacemos",
+          "kind": "verb",
+          "base": {
+            "surface": "やる",
+            "reading": "やる",
+            "meaning": "hacer (coloquial)"
+          },
+          "form": {
+            "name": "condicional ば",
+            "why": "やる → やれ + ば: «si lo hacemos». Mismo condicional que 集まれば."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "デキル",
+          "reading": "できる",
+          "romaji": "dekiru",
+          "gloss": "¡se puede!",
+          "kind": "verb",
+          "emoji": "💪",
+          "note": "できる = poder, ser capaz. Frase hecha: やればできる = «si lo intentas, puedes»."
+        },
+        {
+          "id": "t4",
+          "surface": "ココロ",
+          "reading": "こころ",
+          "romaji": "kokoro",
+          "gloss": "corazones",
+          "kind": "noun",
+          "emoji": "💗",
+          "note": "ココロ = 心. Igual que en el título de la canción."
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 合わせて."
+        },
+        {
+          "id": "t6",
+          "surface": "合わせて",
+          "reading": "あわせて",
+          "romaji": "awasete",
+          "gloss": "uniendo",
+          "kind": "verb",
+          "base": {
+            "surface": "合わせる",
+            "reading": "あわせる",
+            "meaning": "juntar"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "心を合わせる = poner los corazones en sintonía, como チカラ合わせて antes."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "connects",
+          "label": "si…"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "«¡Si lo hacemos entre todos, podemos!», uniendo nuestros corazones.",
+      "literal": "entre-todos hacer-si ¡se-puede! corazones-(objeto) uniendo"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ワタリドリたち",
+          "reading": "わたりどりたち",
+          "romaji": "wataridori tachi",
+          "gloss": "aves migratorias",
+          "kind": "noun",
+          "emoji": "🕊️",
+          "note": "渡り鳥 = ave migratoria (渡る, cruzar + 鳥, ave: とり → どり al unirse). たち = plural para seres vivos."
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 渡り鳥たちの歌."
+        },
+        {
+          "id": "t3",
+          "surface": "歌",
+          "reading": "うた",
+          "romaji": "uta",
+          "gloss": "canto",
+          "kind": "noun",
+          "emoji": "🎵",
+          "note": "Falta を: 歌(を)勇気に変えたら."
+        },
+        {
+          "id": "t4",
+          "surface": "勇気",
+          "reading": "ゆうき",
+          "romaji": "yuuki",
+          "gloss": "valor",
+          "kind": "noun",
+          "emoji": "🦁"
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Con 変える: en qué se convierte algo. 歌を勇気に変える = convertir el canto en valor."
+        },
+        {
+          "id": "t6",
+          "surface": "変えたら",
+          "reading": "かえたら",
+          "romaji": "kaetara",
+          "gloss": "si convertimos",
+          "kind": "verb",
+          "base": {
+            "surface": "変える",
+            "reading": "かえる",
+            "meaning": "cambiar, convertir (algo)"
+          },
+          "form": {
+            "name": "condicional たら",
+            "why": "変えた + ら: «si / cuando lo convertimos». Lleva を y に."
+          },
+          "note": "Par 変える / 変わる, como en la demo y en シルエット."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "possession",
+          "label": "de quién"
+        },
+        {
+          "from": "t6",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "en qué"
+        }
+      ],
+      "translation": "Si convertimos en valor el canto de las aves migratorias…",
+      "literal": "aves-migratorias-de canto valor-en convertir-si"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "翼",
+          "reading": "つばさ",
+          "romaji": "tsubasa",
+          "gloss": "alas",
+          "kind": "noun",
+          "emoji": "🪽"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Aquí の hace de が: dentro de una frase que describe un sustantivo, が se puede cambiar por の. 翼のないボクら = 翼がないボクら.",
+          "note": "Trampa frecuente: este の no es «de». «Nosotros que no tenemos alas», no «las alas de nosotros»."
+        },
+        {
+          "id": "t3",
+          "surface": "ない",
+          "romaji": "nai",
+          "gloss": "sin",
+          "kind": "adj",
+          "base": {
+            "surface": "ある",
+            "reading": "ある",
+            "meaning": "haber, tener"
+          },
+          "form": {
+            "name": "negativo delante de sustantivo",
+            "why": "翼のない → describe a ボクら: «nosotros, que no tenemos alas»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "ボクら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun",
+          "emoji": "👫"
+        },
+        {
+          "id": "t5",
+          "surface": "でも",
+          "romaji": "demo",
+          "gloss": "aunque seamos",
+          "kind": "particle",
+          "role": "«Incluso, aun»: ボクらでも = «incluso nosotros». Igual que 翼でも en Butter-Fly."
+        },
+        {
+          "id": "t6",
+          "surface": "自由自在に",
+          "reading": "じゆうじざいに",
+          "romaji": "jiyuu jizai ni",
+          "gloss": "con total libertad",
+          "kind": "adv",
+          "emoji": "🕊️",
+          "note": "Palabra de cuatro kanji (四字熟語): 自由 (libre) + 自在 (a voluntad). Con に funciona como adverbio."
+        },
+        {
+          "id": "t7",
+          "surface": "羽ばたける",
+          "reading": "はばたける",
+          "romaji": "habatakeru",
+          "gloss": "podemos aletear",
+          "kind": "verb",
+          "emoji": "🦅",
+          "base": {
+            "surface": "羽ばたく",
+            "reading": "はばたく",
+            "meaning": "batir las alas"
+          },
+          "form": {
+            "name": "potencial (godan: く → ける)",
+            "why": "羽ばたく → 羽ばたける: «podemos volar batiendo las alas». Como 飛ぶ → 飛べる en Butter-Fly."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué falta"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "quiénes"
+        },
+        {
+          "from": "t7",
+          "to": "t4",
+          "type": "subject",
+          "label": "quién"
+        }
+      ],
+      "translation": "Aunque no tengamos alas, podemos volar con total libertad.",
+      "literal": "alas-(sujeto) no-hay nosotros-aunque libremente podemos-aletear"
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "気まぐれな",
+          "reading": "きまぐれな",
+          "romaji": "kimagure na",
+          "gloss": "caprichoso",
+          "kind": "adj",
+          "emoji": "🌦️",
+          "form": {
+            "name": "adjetivo な",
+            "why": "Los adjetivos な llevan な cuando van justo delante de un sustantivo: 気まぐれな空 = «cielo caprichoso»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "空",
+          "reading": "そら",
+          "romaji": "sora",
+          "gloss": "cielo",
+          "kind": "noun",
+          "emoji": "🌤️"
+        },
+        {
+          "id": "t3",
+          "surface": "だって",
+          "romaji": "datte",
+          "gloss": "incluso",
+          "kind": "particle",
+          "role": "«Incluso…»: 空だって = «hasta el cielo». Es el だって de «incluso», como いつだって. No es la cita de Butter-Fly (便利だって)."
+        },
+        {
+          "id": "t4",
+          "surface": "味方",
+          "reading": "みかた",
+          "romaji": "mikata",
+          "gloss": "aliado",
+          "kind": "noun",
+          "emoji": "🤝",
+          "note": "味方 = aliado, de tu lado. Lo contrario es 敵 (てき, enemigo)."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Con する: 味方にする = convertir en aliado."
+        },
+        {
+          "id": "t6",
+          "surface": "しちゃおう",
+          "romaji": "shichaou",
+          "gloss": "¡hagámoslo!",
+          "kind": "verb",
+          "emoji": "😉",
+          "base": {
+            "surface": "する",
+            "reading": "する",
+            "meaning": "hacer"
+          },
+          "form": {
+            "name": "てしまう abreviado (ちゃう) + volitiva",
+            "why": "してしまう → しちゃう (hacer del todo, o con picardía) → しちゃおう: «¡hagámoslo y ya!». Le da un tono travieso."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t6",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "en qué"
+        }
+      ],
+      "translation": "¡Hasta al cielo caprichoso lo haremos nuestro aliado!",
+      "literal": "caprichoso cielo-incluso aliado-en ¡hagámoslo!"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "大丈夫",
+          "reading": "だいじょうぶ",
+          "romaji": "daijoubu",
+          "gloss": "¡tranquilos!",
+          "kind": "adj",
+          "emoji": "👍",
+          "note": "大丈夫 = «está bien, no pasa nada». Sirve para animar (¡tranquilo!), preguntar (¿estás bien?) y también para rechazar con cortesía (大丈夫です = «no, gracias»)."
+        },
+        {
+          "id": "t2",
+          "surface": "そう",
+          "romaji": "sou",
+          "gloss": "eso es",
+          "kind": "expr",
+          "note": "Esta vez dice そう («eso es») en lugar de さぁ."
+        },
+        {
+          "id": "t3",
+          "surface": "前",
+          "reading": "まえ",
+          "romaji": "mae",
+          "gloss": "adelante",
+          "kind": "noun",
+          "emoji": "⬆️"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Destino del movimiento: 前に進む = avanzar hacia delante."
+        },
+        {
+          "id": "t5",
+          "surface": "進もう",
+          "reading": "すすもう",
+          "romaji": "susumou",
+          "gloss": "¡avancemos!",
+          "kind": "verb",
+          "emoji": "🚶",
+          "base": {
+            "surface": "進む",
+            "reading": "すすむ",
+            "meaning": "avanzar"
+          },
+          "form": {
+            "name": "volitiva (godan: う → おう)",
+            "why": "進む → 進もう: «¡vamos a…!». En los verbos godan la última sílaba pasa a la fila お + う. Toda la canción está llena de volitivas: 乗ろう, 急ごう, 見よう, つかまえよう…"
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "hacia dónde"
+        }
+      ],
+      "translation": "¡Tranquilos! Eso es, sigamos adelante…",
+      "literal": "¡tranquilos! eso-es adelante-hacia ¡avancemos!"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "esas",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "ナミダ",
+          "reading": "なみだ",
+          "romaji": "namida",
+          "gloss": "lágrimas",
+          "kind": "noun",
+          "emoji": "😢",
+          "note": "ナミダ = 涙 en katakana. Falta を: ナミダ(を)海に帰した."
+        },
+        {
+          "id": "t3",
+          "surface": "雨のように",
+          "reading": "あめのように",
+          "romaji": "ame no you ni",
+          "gloss": "como lluvia",
+          "kind": "expr",
+          "emoji": "🌧️",
+          "note": "雨 + の + ように = «como lluvia». Igual que 天使のように en Evangelion y 木の葉のように en シルエット."
+        },
+        {
+          "id": "t4",
+          "surface": "青い",
+          "reading": "あおい",
+          "romaji": "aoi",
+          "gloss": "azul",
+          "kind": "adj",
+          "emoji": "🔵",
+          "note": "Aquí con el kanji normal 青; en Evangelion era el poético 蒼."
+        },
+        {
+          "id": "t5",
+          "surface": "海",
+          "reading": "うみ",
+          "romaji": "umi",
+          "gloss": "mar",
+          "kind": "noun",
+          "emoji": "🌊"
+        },
+        {
+          "id": "t6",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a",
+          "kind": "particle",
+          "role": "Destino de 帰した."
+        },
+        {
+          "id": "t7",
+          "surface": "帰した",
+          "reading": "かえした",
+          "romaji": "kaeshita",
+          "gloss": "devolvimos",
+          "kind": "verb",
+          "emoji": "↩️",
+          "base": {
+            "surface": "帰す",
+            "reading": "かえす",
+            "meaning": "devolver, hacer volver"
+          },
+          "form": {
+            "name": "た + とき",
+            "why": "帰したとき = «cuando las hayamos devuelto». Como 目覚めたとき en Evangelion: た marca que ya ocurrió en ese momento."
+          },
+          "note": "Par 帰す (hacer volver algo, lleva を) / 帰る (volver uno mismo)."
+        },
+        {
+          "id": "t8",
+          "surface": "とき",
+          "romaji": "toki",
+          "gloss": "cuando",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t7",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "destination",
+          "label": "a dónde"
+        },
+        {
+          "from": "t7",
+          "to": "t8",
+          "type": "modifies",
+          "label": "cuándo"
+        },
+        {
+          "from": "t3",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "Cuando devolvamos esas lágrimas al mar azul, como lluvia…",
+      "literal": "esas lágrimas como-lluvia azul mar-a devolvimos cuando"
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "情熱",
+          "reading": "じょうねつ",
+          "romaji": "jounetsu",
+          "gloss": "pasión",
+          "kind": "noun",
+          "emoji": "❤️‍🔥",
+          "note": "La palabra normal para «pasión». En Evangelion se usaba la culta パトス."
+        },
+        {
+          "id": "t2",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 光る."
+        },
+        {
+          "id": "t3",
+          "surface": "キラキラ",
+          "romaji": "kirakira",
+          "gloss": "centelleando",
+          "kind": "adv",
+          "emoji": "✨",
+          "note": "Palabra que imita un brillo que centellea (sin と aquí). Como ひらり en シルエット."
+        },
+        {
+          "id": "t4",
+          "surface": "光る",
+          "reading": "ひかる",
+          "romaji": "hikaru",
+          "gloss": "brilla",
+          "kind": "verb",
+          "emoji": "🌟",
+          "note": "光る = brillar (verbo). 光 (ひかり) es el sustantivo «luz», que esta misma canción usa como lectura cantada de 希望."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "…la pasión brillará centelleando.",
+      "literal": "pasión-(sujeto) centelleando brilla"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "アツイオモイ",
+          "reading": "あついおもい",
+          "romaji": "atsui omoi",
+          "gloss": "sentimientos ardientes",
+          "kind": "noun",
+          "emoji": "🔥",
+          "note": "熱い想い en katakana: 熱い (ardiente, como en Evangelion) + 想い (sentimientos, como en Butter-Fly). Falta を."
+        },
+        {
+          "id": "t2",
+          "surface": "重ねたら",
+          "reading": "かさねたら",
+          "romaji": "kasanetara",
+          "gloss": "si los sumamos",
+          "kind": "verb",
+          "base": {
+            "surface": "重ねる",
+            "reading": "かさねる",
+            "meaning": "apilar, superponer"
+          },
+          "form": {
+            "name": "condicional たら",
+            "why": "重ねた + ら: «si los vamos sumando, uno sobre otro»."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "無限大",
+          "reading": "むげんだい",
+          "romaji": "mugendai",
+          "gloss": "infinito",
+          "kind": "noun",
+          "emoji": "♾️",
+          "note": "Aquí con の, como sustantivo (無限大の風). En Butter-Fly era 無限大な, con な, como adjetivo: compara las dos."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 無限大の風 = «un viento infinito»."
+        },
+        {
+          "id": "t5",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun",
+          "emoji": "🌬️"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 呼ぶ."
+        },
+        {
+          "id": "t7",
+          "surface": "呼ぶ",
+          "reading": "よぶ",
+          "romaji": "yobu",
+          "gloss": "llama",
+          "kind": "verb",
+          "emoji": "📣",
+          "note": "Activo: 風を呼ぶ = «llamar al viento». En Evangelion salía en pasiva: 呼ばれる («ser llamado»)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Si sumamos nuestros sentimientos ardientes, llamaremos un viento infinito.",
+      "literal": "ardientes-sentimientos sumar-si infinito-de viento-(objeto) llama"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ずっと",
+          "romaji": "zutto",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "同じ",
+          "reading": "おなじ",
+          "romaji": "onaji",
+          "gloss": "misma",
+          "kind": "adj",
+          "note": "Sin な ni の delante del sustantivo: 同じ星."
+        },
+        {
+          "id": "t3",
+          "surface": "星",
+          "reading": "ほし",
+          "romaji": "hoshi",
+          "gloss": "estrella",
+          "kind": "noun",
+          "emoji": "⭐"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 星の下."
+        },
+        {
+          "id": "t5",
+          "surface": "下",
+          "reading": "もと",
+          "romaji": "moto",
+          "gloss": "bajo",
+          "kind": "noun",
+          "note": "Otra vez 下 leído もと. 同じ星の下に生まれる = «nacer bajo la misma estrella» (compartir destino)."
+        },
+        {
+          "id": "t6",
+          "surface": "カタイキズナ",
+          "reading": "かたいきずな",
+          "romaji": "katai kizuna",
+          "gloss": "lazo firme",
+          "kind": "noun",
+          "emoji": "🔗",
+          "note": "固い絆 en katakana: 固い (firme, duro) + 絆 (lazo afectivo entre personas). 絆 es una palabra muy querida en Japón."
+        },
+        {
+          "id": "t7",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de ある."
+        },
+        {
+          "id": "t8",
+          "surface": "ある",
+          "romaji": "aru",
+          "gloss": "hay",
+          "kind": "verb"
+        },
+        {
+          "id": "t9",
+          "surface": "から",
+          "romaji": "kara",
+          "gloss": "porque",
+          "kind": "aux",
+          "form": {
+            "name": "から (razón)",
+            "why": "«Porque hay un lazo firme…». La consecuencia viene en la línea siguiente: compartamos el milagro."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Porque siempre, bajo la misma estrella, nos une un lazo firme…",
+      "literal": "siempre misma estrella-de bajo lazo-firme-(sujeto) hay porque"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "奇跡",
+          "reading": "きせき",
+          "romaji": "kiseki",
+          "gloss": "milagro",
+          "kind": "noun",
+          "emoji": "🌟"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 分かち合おう."
+        },
+        {
+          "id": "t3",
+          "surface": "分かち合おう",
+          "reading": "わかちあおう",
+          "romaji": "wakachiaou",
+          "gloss": "¡compartamos!",
+          "kind": "verb",
+          "emoji": "🤲",
+          "base": {
+            "surface": "分かち合う",
+            "reading": "わかちあう",
+            "meaning": "compartir entre todos"
+          },
+          "form": {
+            "name": "volitiva (godan: う → おう)",
+            "why": "分かち合う → 分かち合おう: «¡vamos a…!». En los verbos godan la última sílaba pasa a la fila お + う. 分かつ (dividir) + 合う (mutuamente) = repartir entre todos."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "…compartamos el milagro.",
+      "literal": "milagro-(objeto) ¡compartamos!"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "大丈夫",
+          "reading": "だいじょうぶ",
+          "romaji": "daijoubu",
+          "gloss": "¡tranquilos!",
+          "kind": "adj",
+          "emoji": "👍",
+          "note": "大丈夫 = «está bien, no pasa nada». Sirve para animar (¡tranquilo!), preguntar (¿estás bien?) y también para rechazar con cortesía (大丈夫です = «no, gracias»)."
+        },
+        {
+          "id": "t2",
+          "surface": "さぁ",
+          "romaji": "saa",
+          "gloss": "¡vamos!",
+          "kind": "expr",
+          "note": "さぁ (さあ) = «¡venga!, ¡vamos!». Anima a empezar algo."
+        },
+        {
+          "id": "t3",
+          "surface": "前",
+          "reading": "まえ",
+          "romaji": "mae",
+          "gloss": "adelante",
+          "kind": "noun",
+          "emoji": "⬆️"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Destino del movimiento: 前に進む = avanzar hacia delante."
+        },
+        {
+          "id": "t5",
+          "surface": "進もう",
+          "reading": "すすもう",
+          "romaji": "susumou",
+          "gloss": "¡avancemos!",
+          "kind": "verb",
+          "emoji": "🚶",
+          "base": {
+            "surface": "進む",
+            "reading": "すすむ",
+            "meaning": "avanzar"
+          },
+          "form": {
+            "name": "volitiva (godan: う → おう)",
+            "why": "進む → 進もう: «¡vamos a…!». En los verbos godan la última sílaba pasa a la fila お + う. Toda la canción está llena de volitivas: 乗ろう, 急ごう, 見よう, つかまえよう…"
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "hacia dónde"
+        }
+      ],
+      "translation": "¡Tranquilos! Vamos, sigamos adelante…",
+      "literal": "¡tranquilos! ¡vamos! adelante-hacia ¡avancemos!"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "太陽",
+          "reading": "たいよう",
+          "romaji": "taiyou",
+          "gloss": "el sol",
+          "kind": "noun",
+          "emoji": "☀️"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de un verbo que no aparece: 太陽を胸に(抱いて) = «(llevando) el sol en el pecho»."
+        },
+        {
+          "id": "t3",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t4",
+          "surface": "胸",
+          "reading": "むね",
+          "romaji": "mune",
+          "gloss": "pecho, corazón",
+          "kind": "noun",
+          "emoji": "🫀",
+          "note": "Como en Evangelion: 胸 en las canciones es el corazón, los sentimientos."
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Lugar donde se pone algo: 胸に = «en el pecho».",
+          "note": "La frase termina sin verbo. Se sobreentiende 抱いて o 持って. Las letras cortan así para que suene a lema."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "destination",
+          "label": "dónde va"
+        }
+      ],
+      "translation": "…siempre con el sol en el pecho.",
+      "literal": "sol-(objeto) siempre pecho-en"
+    },
+    {
+      "id": "l30",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "嵐",
+          "reading": "あらし",
+          "romaji": "arashi",
+          "gloss": "tormenta",
+          "kind": "noun",
+          "emoji": "⛈️"
+        },
+        {
+          "id": "t2",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "(sujeto)",
+          "kind": "particle",
+          "role": "Sujeto de 来たら."
+        },
+        {
+          "id": "t3",
+          "surface": "来たら",
+          "reading": "きたら",
+          "romaji": "kitara",
+          "gloss": "cuando venga",
+          "kind": "verb",
+          "base": {
+            "surface": "来る",
+            "reading": "くる",
+            "meaning": "venir"
+          },
+          "form": {
+            "name": "condicional たら",
+            "why": "来る (irregular) → 来た → 来たら: «cuando llegue la tormenta». La raíz cambia a き."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "肩",
+          "reading": "かた",
+          "romaji": "kata",
+          "gloss": "hombros",
+          "kind": "noun",
+          "emoji": "🫂"
+        },
+        {
+          "id": "t5",
+          "surface": "組んで",
+          "reading": "くんで",
+          "romaji": "kunde",
+          "gloss": "abrazados",
+          "kind": "verb",
+          "base": {
+            "surface": "組む",
+            "reading": "くむ",
+            "meaning": "juntar, entrelazar"
+          },
+          "form": {
+            "name": "forma て",
+            "why": "組む → 組んで (む → んで). Sigue en la línea siguiente: «abrazados, miremos…»."
+          },
+          "note": "Frase hecha: 肩を組む = pasar el brazo por los hombros del otro. Falta を."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Cuando llegue la tormenta, abrazados por los hombros…",
+      "literal": "tormenta-(sujeto) venir-cuando hombros abrazando"
+    },
+    {
+      "id": "l31",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "ese",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "gloss": "más allá",
+          "kind": "noun",
+          "note": "先 = lo que está delante, más allá. その先 = «más allá de eso (la tormenta)»."
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: その先の希望 = «la esperanza que hay más allá»."
+        },
+        {
+          "id": "t4",
+          "surface": "希望",
+          "reading": "きぼう",
+          "romaji": "kibou",
+          "gloss": "esperanza",
+          "kind": "noun",
+          "emoji": "🌅",
+          "sungAs": {
+            "reading": "ひかり",
+            "romaji": "hikari",
+            "note": "Escrito 希望 (きぼう), pero se canta ひかり («luz»). Es una lectura inventada para la canción, que junta los dos sentidos: no la aprendas como lectura de 希望."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de 見よう."
+        },
+        {
+          "id": "t6",
+          "surface": "見よう",
+          "reading": "みよう",
+          "romaji": "miyou",
+          "gloss": "¡miremos!",
+          "kind": "verb",
+          "emoji": "👀",
+          "base": {
+            "surface": "見る",
+            "reading": "みる",
+            "meaning": "ver, mirar"
+          },
+          "form": {
+            "name": "volitiva (ichidan: る → よう)",
+            "why": "見る → 見よう: «¡vamos a…!». En los verbos ichidan se cambia る por よう. Compara con 乗る → 乗ろう: los dos acaban en る, pero 見る es ichidan y 乗る godan."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de dónde"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "…miremos la luz de esperanza que hay más allá.",
+      "literal": "ese más-allá-de esperanza-(objeto) ¡miremos!"
+    },
+    {
+      "id": "l32",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "夢のカケラ",
+          "reading": "ゆめのかけら",
+          "romaji": "yume no kakera",
+          "gloss": "pedazos de sueño",
+          "kind": "noun",
+          "emoji": "🧩",
+          "note": "カケラ = 欠片 (fragmento). 夢の + カケラ va como un bloque: «los pedazos de nuestros sueños». Falta が: カケラ(が)集まれば."
+        },
+        {
+          "id": "t2",
+          "surface": "集まれば",
+          "reading": "あつまれば",
+          "romaji": "atsumareba",
+          "gloss": "si se juntan",
+          "kind": "verb",
+          "emoji": "🧲",
+          "base": {
+            "surface": "集まる",
+            "reading": "あつまる",
+            "meaning": "juntarse, reunirse"
+          },
+          "form": {
+            "name": "condicional ば",
+            "why": "集まる → 集まれ + ば: «si se juntan». ば es el condicional general: «si pasa A, pasa B»."
+          },
+          "note": "Par 集まる (juntarse solo) / 集める (juntar algo)."
+        },
+        {
+          "id": "t3",
+          "surface": "未来",
+          "reading": "みらい",
+          "romaji": "mirai",
+          "gloss": "futuro",
+          "kind": "noun",
+          "emoji": "🔭",
+          "sungAs": {
+            "reading": "あす",
+            "romaji": "asu",
+            "note": "Escrito 未来 (みらい), pero se canta あす («mañana»). Es una lectura inventada para la canción, que junta los dos sentidos: no la aprendas como lectura de 未来. あす sí es una lectura real, pero de 明日 (en Butter-Fly salía 明日 leído あした)."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Destino de 向かう."
+        },
+        {
+          "id": "t5",
+          "surface": "向かう",
+          "reading": "むかう",
+          "romaji": "mukau",
+          "gloss": "que va hacia",
+          "kind": "verb",
+          "emoji": "🧭",
+          "form": {
+            "name": "forma de diccionario delante de sustantivo",
+            "why": "未来に向かう航海図 = «el mapa que lleva al futuro»."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "航海図",
+          "reading": "こうかいず",
+          "romaji": "koukaizu",
+          "gloss": "carta de navegación",
+          "kind": "noun",
+          "emoji": "🗺️",
+          "sungAs": {
+            "reading": "ちず",
+            "romaji": "chizu",
+            "note": "Escrito 航海図 (こうかいず), pero se canta ちず («mapa»). Es una lectura inventada para la canción, que junta los dos sentidos: no la aprendas como lectura de 航海図. Es el ちず del título: ココロのちず."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado de un cambio con なる."
+        },
+        {
+          "id": "t8",
+          "surface": "なる",
+          "romaji": "naru",
+          "gloss": "se convierten",
+          "kind": "verb",
+          "base": {
+            "surface": "なる",
+            "reading": "なる",
+            "meaning": "convertirse"
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t8",
+          "to": "t1",
+          "type": "subject",
+          "label": "qué"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "destination",
+          "label": "en qué"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "hacia"
+        }
+      ],
+      "translation": "Si juntamos los pedazos de nuestros sueños, se vuelven el mapa hacia el mañana.",
+      "literal": "sueño-de-pedazos juntarse-si futuro-hacia que-va carta-de-navegación-en se-convierten"
+    },
+    {
+      "id": "l33",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だから",
+          "romaji": "dakara",
+          "gloss": "por eso",
+          "kind": "expr",
+          "note": "だから = «por eso, así que»."
+        },
+        {
+          "id": "t2",
+          "surface": "同じ",
+          "reading": "おなじ",
+          "romaji": "onaji",
+          "gloss": "mismo",
+          "kind": "adj",
+          "note": "Trampa: 同じ va directo delante del sustantivo, sin な ni の (同じ旗). Es casi la única palabra así."
+        },
+        {
+          "id": "t3",
+          "surface": "旗",
+          "reading": "はた",
+          "romaji": "hata",
+          "gloss": "bandera",
+          "kind": "noun",
+          "emoji": "🏴‍☠️"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: 旗の下 = «bajo la bandera»."
+        },
+        {
+          "id": "t5",
+          "surface": "下",
+          "reading": "もと",
+          "romaji": "moto",
+          "gloss": "bajo",
+          "kind": "noun",
+          "note": "Aquí 下 se lee もと, y sí es una lectura real que vale la pena aprender: 〜の下(もと)で = «bajo la protección o guía de…» (旗の下, 星の下, 先生の下で学ぶ). した es «debajo» físicamente. La letra lo marca entre paréntesis para que no se lea した."
+        },
+        {
+          "id": "t6",
+          "surface": "願い",
+          "reading": "ねがい",
+          "romaji": "negai",
+          "gloss": "deseo",
+          "kind": "noun",
+          "emoji": "🌠",
+          "note": "願い = deseo, petición (de 願う, desear)."
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "(objeto)",
+          "kind": "particle",
+          "role": "Objeto de つかまえよう."
+        },
+        {
+          "id": "t8",
+          "surface": "つかまえよう",
+          "romaji": "tsukamaeyou",
+          "gloss": "¡atrapemos!",
+          "kind": "verb",
+          "emoji": "🫴",
+          "base": {
+            "surface": "捕まえる",
+            "reading": "つかまえる",
+            "meaning": "atrapar"
+          },
+          "form": {
+            "name": "volitiva (ichidan: る → よう)",
+            "why": "つかまえる → つかまえよう: «¡vamos a…!». En los verbos ichidan se cambia る por よう."
+          },
+          "note": "Par: 捕まえる (atrapar algo, lleva を) / 捕まる (ser atrapado, agarrarse)."
+        },
+        {
+          "id": "t9",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Después de una volitiva, よ invita con más fuerza: «¡vamos a atraparlo, venga!»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Así que, bajo la misma bandera, ¡atrapemos nuestro deseo!",
+      "literal": "por-eso misma bandera-de bajo deseo-(objeto) ¡atrapemos! ¡eh!"
+    },
+    {
+      "id": "l34",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ボクら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun",
+          "emoji": "👫"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "(tema)",
+          "kind": "particle",
+          "role": "Tema: «nosotros (somos)…»."
+        },
+        {
+          "id": "t3",
+          "surface": "ひとつ",
+          "romaji": "hitotsu",
+          "gloss": "uno solo",
+          "kind": "noun",
+          "emoji": "☝️",
+          "note": "ひとつ = uno. ボクらはひとつ = «somos uno». Juego de palabras con «One Piece», el título del anime."
+        },
+        {
+          "id": "t4",
+          "surface": "One Piece",
+          "gloss": "(título)",
+          "kind": "other",
+          "note": "Nombre del anime; aquí también suena a «una sola pieza»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "topic",
+          "label": "somos"
+        }
+      ],
+      "translation": "Somos uno solo: One Piece.",
+      "literal": "nosotros-(tema) uno One Piece"
+    }
+  ]
+}
