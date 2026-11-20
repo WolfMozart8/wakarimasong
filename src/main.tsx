@@ -8,6 +8,7 @@ import { Library } from './components/Library'
 import { Player } from './components/Player'
 import { SyncTool } from './components/SyncTool'
 import { Logo } from './components/Logo'
+import { ThemeToggle } from './components/ThemeToggle'
 import './styles.css'
 
 function useHashRoute() {
@@ -67,10 +68,13 @@ function App() {
     <main>
       <nav>
         <Logo />
-        <a href="#/review" className={`nav-review${due ? ' due' : ''}${view === 'review' ? ' here' : ''}`}>
-          🃏 Repaso
-          {due ? <span className="badge">{due}</span> : null}
-        </a>
+        <span className="nav-right">
+          <ThemeToggle />
+          <a href="#/review" className={`nav-review${due ? ' due' : ''}${view === 'review' ? ' here' : ''}`}>
+            🃏 <span className="nav-label">Repaso</span>
+            {due ? <span className="badge">{due}</span> : null}
+          </a>
+        </span>
       </nav>
       {inSong ? (
         <SongRoute key={`${view}/${id}`} id={id} mode={view as 'song' | 'sync'} />
