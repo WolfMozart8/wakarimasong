@@ -8,6 +8,38 @@ const SONGS_DIR = path.resolve(import.meta.dirname, 'songs')
 const CARDS_FILE = path.resolve(import.meta.dirname, 'data/flashcards.json')
 const ID_RE = /^[a-z0-9][a-z0-9-]*$/
 
+/** Resumen de una canción para el listado (compartido por el dev server y el build). */
+function summarize(fileId: string) {
+  try {
+    const s = JSON.parse(fs.readFileSync(path.join(SONGS_DIR, `${fileId}.json`), 'utf8'))
+    const lines: { start?: number }[] = Array.isArray(s.lines) ? s.lines : []
+    return {
+      id: fileId,
+      title: String(s.title ?? fileId),
+      artist: s.artist ? String(s.artist) : undefined,
+      lineCount: lines.length,
+      syncedCount: lines.filter((l) => typeof l?.start === 'number').length,
+    }
+  } catch (e) {
+    return { id: fileId, title: fileId, error: `JSON inválido: ${(e as Error).message}` }
+  }
+}
+
+/** En el build publica las canciones como archivos estáticos (sin servidor): songs/index.json y songs/<id>.json. */
+function staticSongs(): Plugin {
+  return {
+    name: 'static-songs',
+    apply: 'build',
+    generateBundle() {
+      const ids = fs.readdirSync(SONGS_DIR).filter((f) => f.endsWith('.json')).map((f) => f.slice(0, -5))
+      this.emitFile({ type: 'asset', fileName: 'songs/index.json', source: JSON.stringify(ids.map(summarize)) })
+      for (const id of ids) {
+        this.emitFile({ type: 'asset', fileName: `songs/${id}.json`, source: fs.readFileSync(path.join(SONGS_DIR, `${id}.json`), 'utf8') })
+      }
+    },
+  }
+}
+
 /** API local mínima: lista, lee y guarda los archivos de `songs/`. */
 function songsApi(): Plugin {
   return {
@@ -59,22 +91,7 @@ function songsApi(): Plugin {
           const list = fs
             .readdirSync(SONGS_DIR)
             .filter((f) => f.endsWith('.json'))
-            .map((f) => {
-              const fileId = f.slice(0, -5)
-              try {
-                const s = JSON.parse(fs.readFileSync(path.join(SONGS_DIR, f), 'utf8'))
-                const lines: { start?: number }[] = Array.isArray(s.lines) ? s.lines : []
-                return {
-                  id: fileId,
-                  title: String(s.title ?? fileId),
-                  artist: s.artist ? String(s.artist) : undefined,
-                  lineCount: lines.length,
-                  syncedCount: lines.filter((l) => typeof l?.start === 'number').length,
-                }
-              } catch (e) {
-                return { id: fileId, title: fileId, error: `JSON inválido: ${(e as Error).message}` }
-              }
-            })
+            .map((f) => summarize(f.slice(0, -5)))
           return send(200, list)
         }
 
@@ -113,7 +130,9 @@ function songsApi(): Plugin {
 }
 
 export default defineConfig({
-  plugins: [react(), songsApi()],
+  // En GitHub Pages la app vive en /<repo>/; el workflow define BASE_PATH.
+  base: process.env.BASE_PATH ?? '/',
+  plugins: [react(), songsApi(), staticSongs()],
   server: { watch: { ignored: ['**/songs/**', '**/data/**'] } },
   test: { include: ['src/**/*.test.ts'] },
 })
