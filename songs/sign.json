@@ -1,0 +1,2809 @@
+{
+  "id": "sign",
+  "title": "Sign",
+  "artist": "FLOW · Naruto Shippuden (opening 6)",
+  "difficulty": {
+    "level": "medio",
+    "jlpt": "N3",
+    "why": "Vocabulario sencillo y frases cortas, pero con muchas formas que confunden: ちゃう, ず, ないで, てくれた, た delante de sustantivos y cadenas de て. Ideal para practicar esas terminaciones."
+  },
+  "source": "https://www.animesonglyrics.com/naruto-shippuden/sign",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "I realize the screaming pain",
+          "gloss": "me doy cuenta del dolor que grita",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Me doy cuenta del dolor que grita."
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Hearing loud in my brain",
+          "gloss": "oyéndolo fuerte en mi cerebro",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Oyéndolo fuerte en mi cabeza."
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "But I’m going straight ahead with the scar",
+          "gloss": "pero sigo recto con la cicatriz",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Pero sigo recto adelante con la cicatriz."
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "(Can you hear me? Can you hear me? Can you hear me? So am I)",
+          "gloss": "¿me oyes?",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "(¿Me oyes? ¿Me oyes? ¿Me oyes? Yo también.)"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "忘れてしまえば",
+          "reading": "わすれてしまえば",
+          "romaji": "wasureteshimaeba",
+          "gloss": "si lo olvidas del todo",
+          "kind": "verb",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "てしまう + condicional (ば)",
+            "why": "忘れて + しまう (acabar del todo) → しまえば: «si lo olvidas por completo». Pista: 〜てしまえばいい = «bastaría con…». Acaba en ば: condición, no pasado."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "いい",
+          "romaji": "ii",
+          "gloss": "basta",
+          "kind": "adj"
+        },
+        {
+          "id": "t3",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "(afirma)",
+          "kind": "particle",
+          "role": "Afirma o aconseja con suavidad."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "connects",
+          "label": "si… basta"
+        }
+      ],
+      "translation": "«Bastaría con olvidarlo del todo».",
+      "literal": "si-lo-olvidas-del-todo basta-(afirma)"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "感じなくなっちゃえば",
+          "reading": "かんじなくなっちゃえば",
+          "romaji": "kanjinakunatchaeba",
+          "gloss": "si dejas de sentir del todo",
+          "kind": "verb",
+          "base": {
+            "surface": "感じなくなる",
+            "reading": "かんじなくなる",
+            "meaning": "dejar de sentir"
+          },
+          "form": {
+            "name": "ちゃう (てしまう abreviado) + ば",
+            "why": "感じなくなって + しまえば → 感じなくなっちゃえば. OJO: -ちゃ- es la contracción coloquial de ～てしま-: no es て ni た. «ちゃう» = hacerlo por completo, con matiz de pena o alivio."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "いい",
+          "romaji": "ii",
+          "gloss": "basta",
+          "kind": "adj"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "connects",
+          "label": "si… basta"
+        }
+      ],
+      "translation": "«Basta con dejar de sentir del todo».",
+      "literal": "si-dejas-de-sentir-del-todo basta"
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "擦りむいた",
+          "reading": "すりむいた",
+          "romaji": "surimuita",
+          "gloss": "despellejado",
+          "kind": "verb",
+          "base": {
+            "surface": "擦りむく",
+            "reading": "すりむく",
+            "meaning": "despellejarse"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "擦りむく → 擦りむいた + 心: «el corazón despellejado». OJO: delante de un sustantivo la た describe un estado, no cierra la frase."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "心",
+          "reading": "こころ",
+          "romaji": "kokoro",
+          "gloss": "corazón",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "sobre",
+          "kind": "particle",
+          "role": "Dónde se pone la tapa: «sobre el corazón»."
+        },
+        {
+          "id": "t4",
+          "surface": "蓋",
+          "reading": "ふた",
+          "romaji": "futa",
+          "gloss": "tapa",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se pone: 蓋をする = tapar."
+        },
+        {
+          "id": "t6",
+          "surface": "した",
+          "romaji": "shita",
+          "gloss": "hice",
+          "kind": "verb",
+          "base": {
+            "surface": "する",
+            "meaning": "hacer"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "する → した. Cierra la frase: ya lo hice. Pista: た final = pasado."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "んだ",
+          "romaji": "nda",
+          "gloss": "es que",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t2",
+          "type": "destination",
+          "label": "sobre qué"
+        }
+      ],
+      "translation": "Tapé mi corazón despellejado.",
+      "literal": "despellejado corazón-sobre tapa-(obj) hice-(explic.)"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "傷ついたって",
+          "reading": "きずついたって",
+          "romaji": "kizutsuitatte",
+          "gloss": "aunque te hieran",
+          "kind": "verb",
+          "base": {
+            "surface": "傷つく",
+            "reading": "きずつく",
+            "meaning": "herirse, resultar herido"
+          },
+          "form": {
+            "name": "たって (aunque)",
+            "why": "傷つく → 傷ついた + って = «aunque te hieran». OJO: la た aquí NO es pasado: たって = «aunque / por más que». Pista: sigue una frase de «no importa» (平気だよ)."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "平気",
+          "reading": "へいき",
+          "romaji": "heiki",
+          "gloss": "tranquilo",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "(afirma)",
+          "kind": "particle",
+          "role": "Afirmación suave."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "connects",
+          "label": "aunque… da igual"
+        }
+      ],
+      "translation": "«Aunque te hieran, no pasa nada».",
+      "literal": "aunque-hieran tranquilo es-(afirma)"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "もう",
+          "romaji": "mou",
+          "gloss": "ya",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema con contraste: «dolor, ya no hay»."
+        },
+        {
+          "id": "t4",
+          "surface": "無い",
+          "reading": "ない",
+          "romaji": "nai",
+          "gloss": "no hay",
+          "kind": "adj"
+        },
+        {
+          "id": "t5",
+          "surface": "から",
+          "romaji": "kara",
+          "gloss": "porque",
+          "kind": "particle",
+          "role": "Razón: «porque…»."
+        },
+        {
+          "id": "t6",
+          "surface": "ね",
+          "romaji": "ne",
+          "gloss": "¿ves?",
+          "kind": "particle",
+          "role": "Busca acuerdo, tono tierno."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "topic",
+          "label": "qué no hay"
+        }
+      ],
+      "translation": "«Porque ya no hay dolor, ¿ves?».",
+      "literal": "ya dolor-en-cuanto-a no-hay porque ¿ves?"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "esa",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "足",
+          "reading": "あし",
+          "romaji": "ashi",
+          "gloss": "pierna",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se arrastra."
+        },
+        {
+          "id": "t4",
+          "surface": "引きずりながらも",
+          "reading": "ひきずりながらも",
+          "romaji": "hikizurinagaramo",
+          "gloss": "aun arrastrando",
+          "kind": "verb",
+          "base": {
+            "surface": "引きずる",
+            "reading": "ひきずる",
+            "meaning": "arrastrar"
+          },
+          "form": {
+            "name": "ながらも (aun mientras)",
+            "why": "引きずる → 引きずり + ながらも: «aun arrastrando». ながら = mientras; con も añade contraste: «a pesar de». No marca pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Aun arrastrando esa pierna…",
+      "literal": "esa pierna-(obj) aun-arrastrando"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "見失った",
+          "reading": "みうしなった",
+          "romaji": "miushinatta",
+          "gloss": "que perdí de vista",
+          "kind": "verb",
+          "base": {
+            "surface": "見失う",
+            "reading": "みうしなう",
+            "meaning": "perder de vista"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "見失う → 見失った + 自分自身: «el yo que perdí de vista». OJO: la た no cierra la frase, describe; el verbo final es 崩れていった."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "自分自身",
+          "reading": "じぶんじしん",
+          "romaji": "jibunjishin",
+          "gloss": "uno mismo",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién se derrumba."
+        },
+        {
+          "id": "t4",
+          "surface": "音",
+          "reading": "おと",
+          "romaji": "oto",
+          "gloss": "ruido",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se hace: 音を立てる = hacer ruido."
+        },
+        {
+          "id": "t6",
+          "surface": "立てて",
+          "reading": "たてて",
+          "romaji": "tatete",
+          "gloss": "haciendo",
+          "kind": "verb",
+          "base": {
+            "surface": "立てる",
+            "reading": "たてる",
+            "meaning": "producir"
+          },
+          "form": {
+            "name": "forma て (manera)",
+            "why": "立てる → 立てて. Acaba en て: dice cómo se derrumbó: «haciendo ruido»."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "崩れていった",
+          "reading": "くずれていった",
+          "romaji": "kuzureteitta",
+          "gloss": "se fue derrumbando",
+          "kind": "verb",
+          "base": {
+            "surface": "崩れる",
+            "reading": "くずれる",
+            "meaning": "derrumbarse"
+          },
+          "form": {
+            "name": "ていった (cambio gradual, pasado)",
+            "why": "崩れて + いった (行った): «fue derrumbándose». て + いく = un proceso que se aleja. Cierra la frase en pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t7",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t6",
+          "to": "t7",
+          "type": "connects",
+          "label": "cómo"
+        }
+      ],
+      "translation": "El yo que perdí de vista se fue derrumbando haciendo ruido.",
+      "literal": "que-perdí-de-vista uno-mismo-(suj) ruido-(obj) haciendo se-fue-derrumbando"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "気付けば",
+          "reading": "きづけば",
+          "romaji": "kizukeba",
+          "gloss": "al darme cuenta",
+          "kind": "verb",
+          "base": {
+            "surface": "気付く",
+            "reading": "きづく",
+            "meaning": "darse cuenta"
+          },
+          "form": {
+            "name": "condicional (ば)",
+            "why": "気付く → 気付けば (く→け + ば): «cuando me di cuenta / si me fijo». Pista: ば, no pasado."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el sonido del viento»."
+        },
+        {
+          "id": "t4",
+          "surface": "音",
+          "reading": "おと",
+          "romaji": "oto",
+          "gloss": "sonido",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «únicamente»."
+        },
+        {
+          "id": "t6",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que queda; el verbo no se dice (la frase queda en suspenso)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de qué"
+        },
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "modifies",
+          "label": "solo"
+        }
+      ],
+      "translation": "Al darme cuenta, solo quedaba el sonido del viento…",
+      "literal": "al-darme-cuenta viento-de sonido-solo-(suj)"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "伝えに",
+          "reading": "つたえに",
+          "romaji": "tsutaeni",
+          "gloss": "a decir",
+          "kind": "verb",
+          "base": {
+            "surface": "伝える",
+            "reading": "つたえる",
+            "meaning": "transmitir"
+          },
+          "form": {
+            "name": "raíz + に (propósito)",
+            "why": "伝える → 伝え + に: «para transmitir». Raíz del verbo + に con un verbo de movimiento (来た) = «vine a…»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "来たよ",
+          "reading": "きたよ",
+          "romaji": "kitayo",
+          "gloss": "vine",
+          "kind": "verb",
+          "base": {
+            "surface": "来る",
+            "reading": "くる",
+            "meaning": "venir"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "来る → 来た (irregular). Cierra la frase y el hecho ya ocurrió: «vine». よ afirma."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "傷跡",
+          "reading": "きずあと",
+          "romaji": "kizuato",
+          "gloss": "cicatriz",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Por dónde se va: se sigue la cicatriz."
+        },
+        {
+          "id": "t5",
+          "surface": "辿って",
+          "reading": "たどって",
+          "romaji": "tadotte",
+          "gloss": "siguiendo",
+          "kind": "verb",
+          "base": {
+            "surface": "辿る",
+            "reading": "たどる",
+            "meaning": "seguir (un rastro)"
+          },
+          "form": {
+            "name": "forma て (manera)",
+            "why": "辿る → 辿って (る→って). Acaba en て: «vine siguiendo (el rastro de) la cicatriz»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "destination",
+          "label": "a qué"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué sigue"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "connects",
+          "label": "cómo vino"
+        }
+      ],
+      "translation": "Vine a decírtelo, siguiendo el rastro de la cicatriz,",
+      "literal": "a-transmitir vine cicatriz-(obj) siguiendo"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "世界",
+          "reading": "せかい",
+          "romaji": "sekai",
+          "gloss": "mundo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Quién hace la acción en pasiva: «por el mundo»."
+        },
+        {
+          "id": "t3",
+          "surface": "押しつぶされてしまう",
+          "reading": "おしつぶされてしまう",
+          "romaji": "oshitsubusareteshimau",
+          "gloss": "acabar aplastado",
+          "kind": "verb",
+          "base": {
+            "surface": "押しつぶす",
+            "reading": "おしつぶす",
+            "meaning": "aplastar"
+          },
+          "form": {
+            "name": "pasiva + てしまう",
+            "why": "押しつぶす → 押しつぶされる (pasiva: «ser aplastado») + てしまう (acabar del todo, con pesar). Pista: -される = pasiva; -てしまう = «terminar así, sin remedio»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "前",
+          "reading": "まえ",
+          "romaji": "mae",
+          "gloss": "antes",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Tiempo: 〜前に = «antes de…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "quién aplasta"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "antes de"
+        }
+      ],
+      "translation": "antes de que el mundo te termine aplastando.",
+      "literal": "mundo-por acabar-aplastado antes-de"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "覚えてる",
+          "reading": "おぼえてる",
+          "romaji": "oboeteru",
+          "gloss": "recuerdas",
+          "kind": "verb",
+          "base": {
+            "surface": "覚える",
+            "reading": "おぼえる",
+            "meaning": "recordar"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "覚えている → 覚えてる (la い cae): «¿recuerdas?, ¿lo tienes presente?». Acaba en る: estado en curso, no pasado."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "かな",
+          "romaji": "kana",
+          "gloss": "me pregunto",
+          "kind": "particle",
+          "role": "Duda suave: «¿lo recordarás?»."
+        },
+        {
+          "id": "t3",
+          "surface": "涙",
+          "reading": "なみだ",
+          "romaji": "namida",
+          "gloss": "lágrimas",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «cielo de lágrimas»."
+        },
+        {
+          "id": "t5",
+          "surface": "空",
+          "reading": "そら",
+          "romaji": "sora",
+          "gloss": "cielo",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se recuerda."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "modifies",
+          "label": "de qué"
+        }
+      ],
+      "translation": "¿Recordarás el cielo de lágrimas?",
+      "literal": "recuerdas-me-pregunto lágrimas-de cielo-(obj)"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién protege: el dolor."
+        },
+        {
+          "id": "t4",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «lo tuyo»."
+        },
+        {
+          "id": "t6",
+          "surface": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "gloss": "asunto",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo protegido: 君の事を = «a ti»."
+        },
+        {
+          "id": "t8",
+          "surface": "守ってくれた",
+          "reading": "まもってくれた",
+          "romaji": "mamottekureta",
+          "gloss": "me protegió",
+          "kind": "verb",
+          "base": {
+            "surface": "守る",
+            "reading": "まもる",
+            "meaning": "proteger"
+          },
+          "form": {
+            "name": "てくれる + pasado (た)",
+            "why": "守って + くれた: «protegió (por ti)». くれる = alguien hace algo a tu favor; 守ってくれた = «te protegió». OJO: es て + くれた, no un simple 守った."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t6",
+          "to": "t8",
+          "type": "object",
+          "label": "a quién"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quién"
+        }
+      ],
+      "translation": "Aquel dolor te protegió.",
+      "literal": "aquel dolor-(suj) tú-de asunto-(obj) protegió-por-ti"
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "ese",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién protege."
+        },
+        {
+          "id": "t4",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t5",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca a quién protege."
+        },
+        {
+          "id": "t7",
+          "surface": "守ってる",
+          "reading": "まもってる",
+          "romaji": "mamotteru",
+          "gloss": "está protegiendo",
+          "kind": "verb",
+          "base": {
+            "surface": "守る",
+            "reading": "まもる",
+            "meaning": "proteger"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "守っている → 守ってる: «está protegiendo (ahora y siempre)». Acaba en る: estado en curso, no pasado. Contrasta con 守ってくれた (acabó)."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "んだ",
+          "romaji": "nda",
+          "gloss": "es que",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t7",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Ese dolor te protege siempre.",
+      "literal": "ese dolor-(suj) siempre tú-(obj) está-protegiendo-(explic.)"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "傷付かない",
+          "reading": "きずつかない",
+          "romaji": "kizutsukanai",
+          "gloss": "no herirse",
+          "kind": "verb",
+          "base": {
+            "surface": "傷付く",
+            "reading": "きずつく",
+            "meaning": "resultar herido"
+          },
+          "form": {
+            "name": "negativo (ない)",
+            "why": "傷付く → 傷付かない. Describe a 強さ: «fuerza de no resultar herido». 傷付く (herirse) es intransitivo; compáralo con 傷付ける (herir a otro)."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "強さ",
+          "reading": "つよさ",
+          "romaji": "tsuyosa",
+          "gloss": "fuerza",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "よりも",
+          "romaji": "yorimo",
+          "gloss": "más que",
+          "kind": "particle",
+          "role": "Compara: «más que la fuerza…»."
+        },
+        {
+          "id": "t4",
+          "surface": "傷付けない",
+          "reading": "きずつけない",
+          "romaji": "kizutsukenai",
+          "gloss": "no herir",
+          "kind": "verb",
+          "base": {
+            "surface": "傷付ける",
+            "reading": "きずつける",
+            "meaning": "herir"
+          },
+          "form": {
+            "name": "negativo (ない)",
+            "why": "傷付ける → 傷付けない. Describe a 優しさ: «ternura de no herir». 傷付ける es transitivo: hiere a otro."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "優しさ",
+          "reading": "やさしさ",
+          "romaji": "yasashisa",
+          "gloss": "ternura",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se pide: «(prefiero) la ternura»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "qué fuerza"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "qué ternura"
+        }
+      ],
+      "translation": "«Más que la fuerza de no resultar herido, la ternura de no herir».",
+      "literal": "no-herirse fuerza-más-que no-herir ternura-(obj)"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "esa",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "声",
+          "reading": "こえ",
+          "romaji": "koe",
+          "gloss": "voz",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «esa voz…»."
+        },
+        {
+          "id": "t4",
+          "surface": "どこか",
+          "romaji": "dokoka",
+          "gloss": "en algo",
+          "kind": "adv"
+        },
+        {
+          "id": "t5",
+          "surface": "悲しそう",
+          "reading": "かなしそう",
+          "romaji": "kanashisou",
+          "gloss": "parece triste",
+          "kind": "adj",
+          "base": {
+            "surface": "悲しい",
+            "reading": "かなしい",
+            "meaning": "triste"
+          },
+          "form": {
+            "name": "apariencia (そう)",
+            "why": "悲しい → 悲しそう: raíz + そう = «parece…». No afirma que lo esté, solo la impresión."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "y",
+          "kind": "aux",
+          "role": "Forma て de だ (ser): une «parece triste» con lo que sigue."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "topic",
+          "label": "cómo es"
+        }
+      ],
+      "translation": "Esa voz parecía algo triste, y…",
+      "literal": "esa voz-en-cuanto-a algo parece-triste-y",
+      "notes": [
+        "La frase sigue en las líneas siguientes."
+      ]
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "掛け違えた",
+          "reading": "かけちがえた",
+          "romaji": "kakechigaeta",
+          "gloss": "mal abrochado",
+          "kind": "verb",
+          "base": {
+            "surface": "掛け違える",
+            "reading": "かけちがえる",
+            "meaning": "abrochar mal"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "掛け違える → 掛け違えた + ボタン: «un botón mal abrochado». OJO: la た describe, no cierra."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "ボタン",
+          "romaji": "botan",
+          "gloss": "botón",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "みたいに",
+          "romaji": "mitaini",
+          "gloss": "como",
+          "kind": "particle",
+          "role": "Comparación: «igual que…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Como un botón mal abrochado,",
+      "literal": "mal-abrochado botón como"
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "こころ",
+          "romaji": "kokoro",
+          "gloss": "corazón",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "体",
+          "reading": "からだ",
+          "romaji": "karada",
+          "gloss": "cuerpo",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "離れていった",
+          "reading": "はなれていった",
+          "romaji": "hanareteitta",
+          "gloss": "se fueron separando",
+          "kind": "verb",
+          "base": {
+            "surface": "離れる",
+            "reading": "はなれる",
+            "meaning": "separarse"
+          },
+          "form": {
+            "name": "ていった (cambio gradual, pasado)",
+            "why": "離れて + いった: «fueron separándose». Cierra la frase en pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "subject",
+          "label": "quiénes"
+        }
+      ],
+      "translation": "el corazón y el cuerpo se fueron separando.",
+      "literal": "corazón cuerpo se-fueron-separando",
+      "notes": [
+        "Faltan las partículas: «こころ(と)体(が)». El habla poética las omite."
+      ]
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "もう一度",
+          "reading": "もういちど",
+          "romaji": "mouichido",
+          "gloss": "una vez más",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "心",
+          "reading": "こころ",
+          "romaji": "kokoro",
+          "gloss": "corazón",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se agarra."
+        },
+        {
+          "id": "t4",
+          "surface": "掴んで",
+          "reading": "つかんで",
+          "romaji": "tsukande",
+          "gloss": "agárralo",
+          "kind": "verb",
+          "base": {
+            "surface": "掴む",
+            "reading": "つかむ",
+            "meaning": "agarrar"
+          },
+          "form": {
+            "name": "forma て (petición / enlace)",
+            "why": "掴む → 掴んで (む→ん + で). Acaba en て/で: aquí sirve de petición suave o de cadena: «agarra el corazón y…». Un pasado sería 掴んだ."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Una vez más, agarra el corazón y…",
+      "literal": "una-vez-más corazón-(obj) agarra-y"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "伝えに",
+          "reading": "つたえに",
+          "romaji": "tsutaeni",
+          "gloss": "a decir",
+          "kind": "verb",
+          "base": {
+            "surface": "伝える",
+            "reading": "つたえる",
+            "meaning": "transmitir"
+          },
+          "form": {
+            "name": "raíz + に (propósito)",
+            "why": "伝える → 伝え + に: «para transmitir». Raíz del verbo + に con un verbo de movimiento (来た) = «vine a…»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "来たよ",
+          "reading": "きたよ",
+          "romaji": "kitayo",
+          "gloss": "vine",
+          "kind": "verb",
+          "base": {
+            "surface": "来る",
+            "reading": "くる",
+            "meaning": "venir"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "来る → 来た (irregular). Cierra la frase y el hecho ya ocurrió: «vine». よ afirma."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "傷跡",
+          "reading": "きずあと",
+          "romaji": "kizuato",
+          "gloss": "cicatriz",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Por dónde se va: se sigue la cicatriz."
+        },
+        {
+          "id": "t5",
+          "surface": "辿って",
+          "reading": "たどって",
+          "romaji": "tadotte",
+          "gloss": "siguiendo",
+          "kind": "verb",
+          "base": {
+            "surface": "辿る",
+            "reading": "たどる",
+            "meaning": "seguir (un rastro)"
+          },
+          "form": {
+            "name": "forma て (manera)",
+            "why": "辿る → 辿って (る→って). Acaba en て: «vine siguiendo (el rastro de) la cicatriz»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "destination",
+          "label": "a qué"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué sigue"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "connects",
+          "label": "cómo vino"
+        }
+      ],
+      "translation": "Vine a decírtelo, siguiendo el rastro de la cicatriz,",
+      "literal": "a-transmitir vine cicatriz-(obj) siguiendo"
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "世界",
+          "reading": "せかい",
+          "romaji": "sekai",
+          "gloss": "mundo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Quién hace la acción en pasiva: «por el mundo»."
+        },
+        {
+          "id": "t3",
+          "surface": "押しつぶされてしまう",
+          "reading": "おしつぶされてしまう",
+          "romaji": "oshitsubusareteshimau",
+          "gloss": "acabar aplastado",
+          "kind": "verb",
+          "base": {
+            "surface": "押しつぶす",
+            "reading": "おしつぶす",
+            "meaning": "aplastar"
+          },
+          "form": {
+            "name": "pasiva + てしまう",
+            "why": "押しつぶす → 押しつぶされる (pasiva: «ser aplastado») + てしまう (acabar del todo, con pesar). Pista: -される = pasiva; -てしまう = «terminar así, sin remedio»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "前",
+          "reading": "まえ",
+          "romaji": "mae",
+          "gloss": "antes",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Tiempo: 〜前に = «antes de…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "subject",
+          "label": "quién aplasta"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "antes de"
+        }
+      ],
+      "translation": "antes de que el mundo te termine aplastando.",
+      "literal": "mundo-por acabar-aplastado antes-de"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "覚えてる",
+          "reading": "おぼえてる",
+          "romaji": "oboeteru",
+          "gloss": "recuerdas",
+          "kind": "verb",
+          "base": {
+            "surface": "覚える",
+            "reading": "おぼえる",
+            "meaning": "recordar"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "覚えている → 覚えてる (la い cae): «¿recuerdas?, ¿lo tienes presente?». Acaba en る: estado en curso, no pasado."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "かな",
+          "romaji": "kana",
+          "gloss": "me pregunto",
+          "kind": "particle",
+          "role": "Duda suave: «¿lo recordarás?»."
+        },
+        {
+          "id": "t3",
+          "surface": "涙",
+          "reading": "なみだ",
+          "romaji": "namida",
+          "gloss": "lágrimas",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «cielo de lágrimas»."
+        },
+        {
+          "id": "t5",
+          "surface": "空",
+          "reading": "そら",
+          "romaji": "sora",
+          "gloss": "cielo",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se recuerda."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "modifies",
+          "label": "de qué"
+        }
+      ],
+      "translation": "¿Recordarás el cielo de lágrimas?",
+      "literal": "recuerdas-me-pregunto lágrimas-de cielo-(obj)"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién protege: el dolor."
+        },
+        {
+          "id": "t4",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «lo tuyo»."
+        },
+        {
+          "id": "t6",
+          "surface": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "gloss": "asunto",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo protegido: 君の事を = «a ti»."
+        },
+        {
+          "id": "t8",
+          "surface": "守ってくれた",
+          "reading": "まもってくれた",
+          "romaji": "mamottekureta",
+          "gloss": "me protegió",
+          "kind": "verb",
+          "base": {
+            "surface": "守る",
+            "reading": "まもる",
+            "meaning": "proteger"
+          },
+          "form": {
+            "name": "てくれる + pasado (た)",
+            "why": "守って + くれた: «protegió (por ti)». くれる = alguien hace algo a tu favor; 守ってくれた = «te protegió». OJO: es て + くれた, no un simple 守った."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t6",
+          "to": "t8",
+          "type": "object",
+          "label": "a quién"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quién"
+        }
+      ],
+      "translation": "Aquel dolor te protegió.",
+      "literal": "aquel dolor-(suj) tú-de asunto-(obj) protegió-por-ti"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "ese",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién protege."
+        },
+        {
+          "id": "t4",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t5",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca a quién protege."
+        },
+        {
+          "id": "t7",
+          "surface": "守ってる",
+          "reading": "まもってる",
+          "romaji": "mamotteru",
+          "gloss": "está protegiendo",
+          "kind": "verb",
+          "base": {
+            "surface": "守る",
+            "reading": "まもる",
+            "meaning": "proteger"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "守っている → 守ってる: «está protegiendo (ahora y siempre)». Acaba en る: estado en curso, no pasado. Contrasta con 守ってくれた (acabó)."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "んだ",
+          "romaji": "nda",
+          "gloss": "es que",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t7",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Ese dolor te protege siempre.",
+      "literal": "ese dolor-(suj) siempre tú-(obj) está-protegiendo-(explic.)"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いつか",
+          "romaji": "itsuka",
+          "gloss": "alguna vez",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "聞いた",
+          "reading": "きいた",
+          "romaji": "kiita",
+          "gloss": "que oí",
+          "kind": "verb",
+          "base": {
+            "surface": "聞く",
+            "reading": "きく",
+            "meaning": "oír"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "聞く → 聞いた + 泣き声: «el llanto que oí». OJO: la た describe, no cierra."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "泣き声",
+          "reading": "なきごえ",
+          "romaji": "nakigoe",
+          "gloss": "llanto",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «ese llanto…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Aquel llanto que oí alguna vez…",
+      "literal": "alguna-vez que-oí aquel llanto-en-cuanto-a"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "間違いなく",
+          "reading": "まちがいなく",
+          "romaji": "machigainaku",
+          "gloss": "sin duda",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "そう",
+          "romaji": "sou",
+          "gloss": "así",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "自分",
+          "reading": "じぶん",
+          "romaji": "jibun",
+          "gloss": "yo mismo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "el de",
+          "kind": "particle",
+          "role": "の como pronombre: «el mío», «el de uno mismo»."
+        },
+        {
+          "id": "t5",
+          "surface": "だった",
+          "romaji": "datta",
+          "gloss": "era",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t3",
+          "type": "possession",
+          "label": "de quién"
+        }
+      ],
+      "translation": "Sin duda, era mío.",
+      "literal": "sin-duda así yo-mismo-el-de era"
+    },
+    {
+      "id": "l30",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «todo…»."
+        },
+        {
+          "id": "t3",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "este",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "gloss": "momento",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «de este momento»."
+        },
+        {
+          "id": "t6",
+          "surface": "ため",
+          "romaji": "tame",
+          "gloss": "para",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "para",
+          "kind": "particle",
+          "role": "Finalidad: «para este momento»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "Todo fue para este momento…",
+      "literal": "todo-en-cuanto-a este momento-de para"
+    },
+    {
+      "id": "l31",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "きっと",
+          "romaji": "kitto",
+          "gloss": "seguro",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "始め",
+          "reading": "はじめ",
+          "romaji": "hajime",
+          "gloss": "comienzo",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "から",
+          "romaji": "kara",
+          "gloss": "desde",
+          "kind": "particle",
+          "role": "Punto de partida: «desde el principio»."
+        },
+        {
+          "id": "t4",
+          "surface": "わかってた",
+          "romaji": "wakatteta",
+          "gloss": "lo sabía",
+          "kind": "verb",
+          "base": {
+            "surface": "わかる",
+            "meaning": "saber, entender"
+          },
+          "form": {
+            "name": "ていた abreviado (てた)",
+            "why": "わかっていた → わかってた: «lo sabía». OJO: acaba en た pero es て + いた (sin la い): estado de saber en el pasado, no el simple わかった."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "んだ",
+          "romaji": "nda",
+          "gloss": "es que",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "desde cuándo"
+        }
+      ],
+      "translation": "Seguro que lo sabía desde el principio.",
+      "literal": "seguro principio-desde lo-sabía-(explic.)"
+    },
+    {
+      "id": "l32",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "もう",
+          "romaji": "mou",
+          "gloss": "ya",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "二度と",
+          "reading": "にどと",
+          "romaji": "nidoto",
+          "gloss": "nunca más",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "自分",
+          "reading": "じぶん",
+          "romaji": "jibun",
+          "gloss": "ti mismo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «al menos a ti mismo»."
+        },
+        {
+          "id": "t5",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "al menos",
+          "kind": "particle",
+          "role": "Contrasta: «a ti mismo, al menos»."
+        },
+        {
+          "id": "t6",
+          "surface": "離さないで",
+          "reading": "はなさないで",
+          "romaji": "hanasanaide",
+          "gloss": "no sueltes",
+          "kind": "verb",
+          "base": {
+            "surface": "離す",
+            "reading": "はなす",
+            "meaning": "soltar"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "離す → 離さない + で = «no sueltes». El で es la forma て de ない: petición. Pista: ない + で al final = «¡no hagas…!»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t6",
+          "to": "t3",
+          "type": "object",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Nunca más sueltes a ti mismo, al menos.",
+      "literal": "ya nunca-más ti-mismo-solo-al-menos no-sueltes"
+    },
+    {
+      "id": "l33",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "気付いてくれた",
+          "reading": "きづいてくれた",
+          "romaji": "kizuitekureta",
+          "gloss": "que se dio cuenta",
+          "kind": "verb",
+          "base": {
+            "surface": "気付く",
+            "reading": "きづく",
+            "meaning": "darse cuenta"
+          },
+          "form": {
+            "name": "てくれる + pasado (た)",
+            "why": "気付いて + くれた: «se dio cuenta (por mí)». OJO: delante de 君 la た describe («tú, que te diste cuenta»). くれる = hacer algo en tu favor."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "への",
+          "romaji": "heno",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "へ + の: dirigido a: «la señal para ti»."
+        },
+        {
+          "id": "t4",
+          "surface": "合図",
+          "reading": "あいず",
+          "romaji": "aizu",
+          "gloss": "señal",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "para quién"
+        }
+      ],
+      "translation": "La señal para ti, que te diste cuenta.",
+      "literal": "se-dio-cuenta tú para señal"
+    },
+    {
+      "id": "l34",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién protege: el dolor."
+        },
+        {
+          "id": "t4",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «lo tuyo»."
+        },
+        {
+          "id": "t6",
+          "surface": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "gloss": "asunto",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo protegido: 君の事を = «a ti»."
+        },
+        {
+          "id": "t8",
+          "surface": "守ってくれた",
+          "reading": "まもってくれた",
+          "romaji": "mamottekureta",
+          "gloss": "me protegió",
+          "kind": "verb",
+          "base": {
+            "surface": "守る",
+            "reading": "まもる",
+            "meaning": "proteger"
+          },
+          "form": {
+            "name": "てくれる + pasado (た)",
+            "why": "守って + くれた: «protegió (por ti)». くれる = alguien hace algo a tu favor; 守ってくれた = «te protegió». OJO: es て + くれた, no un simple 守った."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t6",
+          "to": "t8",
+          "type": "object",
+          "label": "a quién"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quién"
+        }
+      ],
+      "translation": "Aquel dolor te protegió.",
+      "literal": "aquel dolor-(suj) tú-de asunto-(obj) protegió-por-ti"
+    },
+    {
+      "id": "l35",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "伝えに",
+          "reading": "つたえに",
+          "romaji": "tsutaeni",
+          "gloss": "a decir",
+          "kind": "verb",
+          "base": {
+            "surface": "伝える",
+            "reading": "つたえる",
+            "meaning": "transmitir"
+          },
+          "form": {
+            "name": "raíz + に (propósito)",
+            "why": "伝える → 伝え + に: «para transmitir». Raíz del verbo + に con un verbo de movimiento (来た) = «vine a…»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "来たよ",
+          "reading": "きたよ",
+          "romaji": "kitayo",
+          "gloss": "vine",
+          "kind": "verb",
+          "base": {
+            "surface": "来る",
+            "reading": "くる",
+            "meaning": "venir"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "来る → 来た (irregular). Cierra la frase y el hecho ya ocurrió: «vine». よ afirma."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "傷跡",
+          "reading": "きずあと",
+          "romaji": "kizuato",
+          "gloss": "cicatriz",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Por dónde se va: se sigue la cicatriz."
+        },
+        {
+          "id": "t5",
+          "surface": "辿って",
+          "reading": "たどって",
+          "romaji": "tadotte",
+          "gloss": "siguiendo",
+          "kind": "verb",
+          "base": {
+            "surface": "辿る",
+            "reading": "たどる",
+            "meaning": "seguir (un rastro)"
+          },
+          "form": {
+            "name": "forma て (manera)",
+            "why": "辿る → 辿って (る→って). Acaba en て: «vine siguiendo (el rastro de) la cicatriz»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "destination",
+          "label": "a qué"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué sigue"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "connects",
+          "label": "cómo vino"
+        }
+      ],
+      "translation": "Vine a decírtelo, siguiendo el rastro de la cicatriz,",
+      "literal": "a-transmitir vine cicatriz-(obj) siguiendo"
+    },
+    {
+      "id": "l36",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "それなら",
+          "romaji": "sorenara",
+          "gloss": "en ese caso",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "もう",
+          "romaji": "mou",
+          "gloss": "ya",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "恐れる",
+          "reading": "おそれる",
+          "romaji": "osoreru",
+          "gloss": "temer",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "もの",
+          "romaji": "mono",
+          "gloss": "cosa",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema con contraste: «cosas que temer…»."
+        },
+        {
+          "id": "t6",
+          "surface": "ない",
+          "romaji": "nai",
+          "gloss": "no hay",
+          "kind": "adj"
+        },
+        {
+          "id": "t7",
+          "surface": "んだ",
+          "romaji": "nda",
+          "gloss": "es que",
+          "kind": "aux"
+        },
+        {
+          "id": "t8",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cierra la cita: «(te digo) que…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "qué cosas"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "topic",
+          "label": "qué no hay"
+        }
+      ],
+      "translation": "Entonces ya no hay nada que temer, (te digo).",
+      "literal": "entonces ya temer cosa-en-cuanto-a no-hay-(explic.)-(cita)"
+    },
+    {
+      "id": "l37",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "忘れないで",
+          "reading": "わすれないで",
+          "romaji": "wasurenaide",
+          "gloss": "no olvides",
+          "kind": "verb",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "忘れる → 忘れない + で = «no olvides». Pista: ない + で = «¡no hagas…!»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "ね",
+          "romaji": "ne",
+          "gloss": "¿vale?",
+          "kind": "particle",
+          "role": "Pide acuerdo con ternura."
+        },
+        {
+          "id": "t3",
+          "surface": "笑顔",
+          "reading": "えがお",
+          "romaji": "egao",
+          "gloss": "sonrisa",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el porqué de la sonrisa»."
+        },
+        {
+          "id": "t5",
+          "surface": "訳",
+          "reading": "わけ",
+          "romaji": "wake",
+          "gloss": "motivo",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que no se debe olvidar."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "No olvides el motivo de tu sonrisa, ¿vale?",
+      "literal": "no-olvides-¿vale? sonrisa-de motivo-(obj)"
+    },
+    {
+      "id": "l38",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién protege: el dolor."
+        },
+        {
+          "id": "t4",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «lo tuyo»."
+        },
+        {
+          "id": "t6",
+          "surface": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "gloss": "asunto",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo protegido: 君の事を = «a ti»."
+        },
+        {
+          "id": "t8",
+          "surface": "守ってくれた",
+          "reading": "まもってくれた",
+          "romaji": "mamottekureta",
+          "gloss": "me protegió",
+          "kind": "verb",
+          "base": {
+            "surface": "守る",
+            "reading": "まもる",
+            "meaning": "proteger"
+          },
+          "form": {
+            "name": "てくれる + pasado (た)",
+            "why": "守って + くれた: «protegió (por ti)». くれる = alguien hace algo a tu favor; 守ってくれた = «te protegió». OJO: es て + くれた, no un simple 守った."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t6",
+          "to": "t8",
+          "type": "object",
+          "label": "a quién"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quién"
+        }
+      ],
+      "translation": "Aquel dolor te protegió.",
+      "literal": "aquel dolor-(suj) tú-de asunto-(obj) protegió-por-ti"
+    },
+    {
+      "id": "l39",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién protege: el dolor."
+        },
+        {
+          "id": "t4",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «lo tuyo»."
+        },
+        {
+          "id": "t6",
+          "surface": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "gloss": "asunto",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo protegido: 君の事を = «a ti»."
+        },
+        {
+          "id": "t8",
+          "surface": "守ってくれた",
+          "reading": "まもってくれた",
+          "romaji": "mamottekureta",
+          "gloss": "me protegió",
+          "kind": "verb",
+          "base": {
+            "surface": "守る",
+            "reading": "まもる",
+            "meaning": "proteger"
+          },
+          "form": {
+            "name": "てくれる + pasado (た)",
+            "why": "守って + くれた: «protegió (por ti)». くれる = alguien hace algo a tu favor; 守ってくれた = «te protegió». OJO: es て + くれた, no un simple 守った."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t6",
+          "to": "t8",
+          "type": "object",
+          "label": "a quién"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quién"
+        }
+      ],
+      "translation": "Aquel dolor te protegió.",
+      "literal": "aquel dolor-(suj) tú-de asunto-(obj) protegió-por-ti"
+    },
+    {
+      "id": "l40",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "ese",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "gloss": "dolor",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién protege."
+        },
+        {
+          "id": "t4",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t5",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca a quién protege."
+        },
+        {
+          "id": "t7",
+          "surface": "守ってる",
+          "reading": "まもってる",
+          "romaji": "mamotteru",
+          "gloss": "está protegiendo",
+          "kind": "verb",
+          "base": {
+            "surface": "守る",
+            "reading": "まもる",
+            "meaning": "proteger"
+          },
+          "form": {
+            "name": "ている abreviado (てる)",
+            "why": "守っている → 守ってる: «está protegiendo (ahora y siempre)». Acaba en る: estado en curso, no pasado. Contrasta con 守ってくれた (acabó)."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "んだ",
+          "romaji": "nda",
+          "gloss": "es que",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t7",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Ese dolor te protege siempre.",
+      "literal": "ese dolor-(suj) siempre tú-(obj) está-protegiendo-(explic.)"
+    }
+  ]
+}
