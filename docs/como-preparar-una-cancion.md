@@ -18,6 +18,8 @@ En una canción, toca una palabra y pulsa «＋ Tarjeta». El enlace «Repaso» 
 
 La forma exacta de los datos está en `src/types.ts`; `songs/demo.json` es un ejemplo completo.
 
+**Dificultad (`difficulty`).** Cada canción lleva `level` (`facil`, `medio`, `dificil`, `muy-dificil`), `jlpt` (nivel de japonés con el que se entiende, p. ej. «N3–N2») y `why` (qué la hace fácil o difícil: velocidad, vocabulario, gramática). Referencia: fácil = N5–N4, medio = N3, difícil = N2, muy difícil = N2–N1.
+
 **Líneas.** Una línea del archivo = una frase cantada que quepa en pantalla (hasta unas 8 palabras). Las líneas largas se parten donde respira el cantante.
 - Si la gramática cruza el salto de línea de la letra (何が… / …届くのだろう; 便利だって / 叫んでる), se juntan en una sola línea, aunque llegue a 9 palabras: las flechas solo unen palabras de la misma línea. Si aun así no cabe, se explica la relación en `role` y en `notes`.
 - Las partes repetidas (estribillos) llevan la misma anotación cada vez, con su propio `id` de línea.
