@@ -1,0 +1,2859 @@
+{
+  "id": "mayonaka-no-door",
+  "title": "真夜中のドア〜Stay With Me",
+  "artist": "松原みき (Miki Matsubara)",
+  "youtubeId": "SIRLE-eMbjQ",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "To",
+          "gloss": "a",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "you",
+          "gloss": "ti",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Para ti.",
+      "literal": "a ti"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Yes",
+          "gloss": "sí",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "my",
+          "gloss": "mi",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "love",
+          "gloss": "amor",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Sí, mi amor.",
+      "literal": "sí mi amor"
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "To",
+          "gloss": "a",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "you",
+          "gloss": "ti",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Para ti.",
+      "literal": "a ti"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Yes",
+          "gloss": "sí",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "my",
+          "gloss": "mi",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "love",
+          "gloss": "amor",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Sí, mi amor.",
+      "literal": "sí mi amor"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "To",
+          "gloss": "a",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "you",
+          "gloss": "ti",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "you",
+          "gloss": "ti",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Para ti, para ti.",
+      "literal": "a ti, ti"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "To",
+          "gloss": "a",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "you",
+          "gloss": "ti",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Para ti.",
+      "literal": "a ti"
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "gloss": "yo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «en cuanto a mí…». El patrón «X は X» dice «X es X»: cada uno es lo que es."
+        },
+        {
+          "id": "t3",
+          "surface": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "gloss": "yo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "貴方",
+          "reading": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema, igual que el primero: «tú eres tú»."
+        },
+        {
+          "id": "t6",
+          "surface": "貴方",
+          "reading": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cierra lo que se dijo (la cita) y lo conecta con el verbo de decir: «“yo soy yo, tú eres tú”, dijiste»."
+        },
+        {
+          "id": "t8",
+          "surface": "昨夜",
+          "reading": "ゆうべ",
+          "romaji": "yuube",
+          "gloss": "anoche",
+          "kind": "noun"
+        },
+        {
+          "id": "t9",
+          "surface": "言ってた",
+          "reading": "いってた",
+          "romaji": "itteta",
+          "gloss": "decías",
+          "kind": "verb",
+          "base": {
+            "surface": "言う",
+            "reading": "いう",
+            "meaning": "decir"
+          },
+          "form": {
+            "name": "ていた abreviado (てた)",
+            "why": "言っていた → 言ってた: «decías / dijiste». OJO: termina en た pero NO es el pasado simple 言った (una sola sílaba «tta»). Aquí hay て + いた con la い caída: se oye «it-te-ta». Pista: con てた el hecho tiene duración o se recuerda como algo que se oía."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t9",
+          "to": "t7",
+          "type": "object",
+          "label": "lo dicho (cita)"
+        },
+        {
+          "from": "t4",
+          "to": "t9",
+          "type": "subject",
+          "label": "quién lo decía (tú)"
+        }
+      ],
+      "translation": "«Yo soy yo, tú eres tú», me decías anoche.",
+      "literal": "yo-es-yo tú-es-tú-(cita) anoche decías"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そんな",
+          "romaji": "sonna",
+          "gloss": "de ese tipo",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "気",
+          "reading": "き",
+          "romaji": "ki",
+          "gloss": "impresión",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "Suaviza: «yo también tengo esa impresión / algo de eso siento»."
+        },
+        {
+          "id": "t4",
+          "surface": "する",
+          "romaji": "suru",
+          "gloss": "tener (sensación)",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "わ",
+          "romaji": "wa",
+          "gloss": "(suave)",
+          "kind": "particle",
+          "role": "Final de frase suave y femenino: matiza lo dicho con tono delicado."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "qué clase"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué siente"
+        }
+      ],
+      "translation": "Y sí, tengo la impresión de que algo de eso es verdad.",
+      "literal": "ese-tipo impresión-también tengo-(suave)"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "グレイ",
+          "romaji": "gurei",
+          "gloss": "gris",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «chaqueta de color gris»."
+        },
+        {
+          "id": "t3",
+          "surface": "ジャケット",
+          "romaji": "jaketto",
+          "gloss": "chaqueta",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Lugar donde está la mancha: «en la chaqueta»."
+        },
+        {
+          "id": "t5",
+          "surface": "見覚えがある",
+          "reading": "みおぼえがある",
+          "romaji": "mioboegaaru",
+          "gloss": "que reconozco",
+          "kind": "expr"
+        },
+        {
+          "id": "t6",
+          "surface": "コーヒー",
+          "romaji": "koohii",
+          "gloss": "café",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «mancha de café»."
+        },
+        {
+          "id": "t8",
+          "surface": "しみ",
+          "romaji": "shimi",
+          "gloss": "mancha",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "qué color"
+        },
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "possession",
+          "label": "tiene la mancha"
+        },
+        {
+          "from": "t5",
+          "to": "t8",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t6",
+          "to": "t8",
+          "type": "modifies",
+          "label": "de qué"
+        }
+      ],
+      "translation": "En la chaqueta gris, una mancha de café que reconozco.",
+      "literal": "gris-de chaqueta-en me-suena café-de mancha"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "相変らず",
+          "reading": "あいかわらず",
+          "romaji": "aikawarazu",
+          "gloss": "como siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "な",
+          "romaji": "na",
+          "gloss": "es",
+          "kind": "aux",
+          "role": "Es だ (ser) que cambia a な delante de の: 相変らず + な + の."
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "es que",
+          "kind": "particle",
+          "role": "Convierte la frase en una explicación: «es que sigues igual»."
+        },
+        {
+          "id": "t4",
+          "surface": "ね",
+          "romaji": "ne",
+          "gloss": "¿verdad?",
+          "kind": "particle",
+          "role": "Pide acuerdo o expresa una observación suave: «¿verdad?, ¡qué cosa!»."
+        }
+      ],
+      "links": [],
+      "translation": "Sigues igual que siempre, ¿verdad?",
+      "literal": "como-siempre es-(explic.)-¿verdad?"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ショーウィンドウ",
+          "romaji": "shoouぃndou",
+          "gloss": "escaparate",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Dónde aparece el reflejo: «en el escaparate»."
+        },
+        {
+          "id": "t3",
+          "surface": "二人",
+          "reading": "ふたり",
+          "romaji": "futari",
+          "gloss": "los dos",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "映れば",
+          "reading": "うつれば",
+          "romaji": "utsureba",
+          "gloss": "si se reflejan",
+          "kind": "verb",
+          "base": {
+            "surface": "映る",
+            "reading": "うつる",
+            "meaning": "reflejarse"
+          },
+          "form": {
+            "name": "condicional (ば)",
+            "why": "映る → 映れば (る→れ + ば): «si / siempre que se reflejan». Pista: acaba en ば, no en て ni た; lo que ocurre después queda sin decir (la frase se corta aquí)."
+          },
+          "note": "映る (reflejarse) no lleva を: los dos son quienes aparecen reflejados."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t1",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "subject",
+          "label": "quiénes se reflejan"
+        }
+      ],
+      "translation": "Cuando nos reflejamos los dos en el escaparate…",
+      "literal": "escaparate-en los-dos si-se-reflejan"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "真夜中",
+          "reading": "まよなか",
+          "romaji": "mayonaka",
+          "gloss": "medianoche",
+          "kind": "noun",
+          "emoji": "🌙"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la puerta de medianoche»; la hora define cuál puerta."
+        },
+        {
+          "id": "t3",
+          "surface": "ドア",
+          "romaji": "doa",
+          "gloss": "puerta",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se golpea."
+        },
+        {
+          "id": "t5",
+          "surface": "たたき",
+          "romaji": "tataki",
+          "gloss": "golpeando",
+          "kind": "verb",
+          "base": {
+            "surface": "叩く",
+            "reading": "たたく",
+            "meaning": "golpear"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "叩く → 叩き (く→き). Esta raíz une dos acciones como un て suave: «golpeaba la puerta y…». Pista: acaba en き (no en て ni た) y la frase sigue en la línea siguiente."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "de cuándo"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué golpea"
+        }
+      ],
+      "translation": "Golpeando la puerta de medianoche…",
+      "literal": "medianoche-de puerta-(obj) golpeando",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "帰らないで",
+          "reading": "かえらないで",
+          "romaji": "kaeranaide",
+          "gloss": "no te vayas",
+          "kind": "verb",
+          "base": {
+            "surface": "帰る",
+            "reading": "かえる",
+            "meaning": "volver (a casa)"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "帰る → 帰らない + で = «no te vayas / sin irte». El で es la forma て del ない, no la partícula de lugar. Pista: ない + で al final de lo que se grita = «¡no hagas…!»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cita lo que gritaba llorando: «“no te vayas”»."
+        },
+        {
+          "id": "t3",
+          "surface": "泣いた",
+          "reading": "ないた",
+          "romaji": "naita",
+          "gloss": "lloré",
+          "kind": "verb",
+          "base": {
+            "surface": "泣く",
+            "reading": "なく",
+            "meaning": "llorar"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "泣く → 泣いた (く→い + た). Cierra la frase y la acción ya ocurrió. Si siguiera algo se diría 泣いて («lloré y…»). Pista: た al final = pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué gritaba llorando"
+        }
+      ],
+      "translation": "Lloré: «no te vayas».",
+      "literal": "no-te-vayas-(cita) lloré"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquella",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "gloss": "estación",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que está presente: «la estación está…»."
+        },
+        {
+          "id": "t4",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "目の前",
+          "reading": "めのまえ",
+          "romaji": "menomae",
+          "gloss": "ante los ojos",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué está"
+        }
+      ],
+      "translation": "Aquella estación está ahora ante mis ojos.",
+      "literal": "aquella estación-(suj) ahora ante-los-ojos"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "口ぐせ",
+          "reading": "くちぐせ",
+          "romaji": "kuchiguse",
+          "gloss": "muletilla",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se dice."
+        },
+        {
+          "id": "t3",
+          "surface": "言いながら",
+          "reading": "いいながら",
+          "romaji": "iinagara",
+          "gloss": "mientras decía",
+          "kind": "verb",
+          "base": {
+            "surface": "言う",
+            "reading": "いう",
+            "meaning": "decir"
+          },
+          "form": {
+            "name": "ながら (mientras)",
+            "why": "言う → 言い + ながら: dos acciones a la vez del mismo sujeto. Pista: raíz + ながら. No marca el tiempo; el tiempo lo da el verbo final de la frase."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "二人",
+          "reading": "ふたり",
+          "romaji": "futari",
+          "gloss": "los dos",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el instante de los dos»."
+        },
+        {
+          "id": "t6",
+          "surface": "瞬間",
+          "reading": "しゅんかん",
+          "romaji": "shunkan",
+          "gloss": "instante",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se abraza."
+        },
+        {
+          "id": "t8",
+          "surface": "抱いて",
+          "reading": "だいて",
+          "romaji": "daite",
+          "gloss": "abrazando",
+          "kind": "verb",
+          "base": {
+            "surface": "抱く",
+            "reading": "だく",
+            "meaning": "abrazar"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "抱く → 抱いて (く→い + て). Acaba en て y la frase sigue en la línea siguiente: une acciones («abrazando… sin olvidar…»). Un cierre en pasado sería 抱いた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué dice"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "object",
+          "label": "qué abraza"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quiénes"
+        },
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "connects",
+          "label": "a la vez"
+        }
+      ],
+      "translation": "Diciendo nuestra muletilla, abrazando el instante de los dos…",
+      "literal": "muletilla-(obj) mientras-decía los-dos-de instante-(obj) abrazando",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "忘れず",
+          "reading": "わすれず",
+          "romaji": "wasurezu",
+          "gloss": "sin olvidar",
+          "kind": "verb",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "忘れる → 忘れず: «sin olvidar». Es el negativo literario/poético que une (como 忘れないで). Pista: acaba en ず, NO en て ni た, y no marca pasado."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "大事に",
+          "reading": "だいじに",
+          "romaji": "daijini",
+          "gloss": "con cuidado",
+          "kind": "adv"
+        },
+        {
+          "id": "t4",
+          "surface": "していた",
+          "romaji": "shiteita",
+          "gloss": "hacía",
+          "kind": "verb",
+          "base": {
+            "surface": "する",
+            "meaning": "hacer"
+          },
+          "form": {
+            "name": "ていた (acción en curso, pasado)",
+            "why": "している + た = していた: «estaba haciendo / venía haciendo». 大事にする = tratar con cariño. Acaba en た porque cierra la frase en pasado; lleva て + い dentro."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cómo"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "connects",
+          "label": "sin olvidar → lo cuidaba"
+        }
+      ],
+      "translation": "Todavía sin olvidarlo, lo guardaba con cariño.",
+      "literal": "todavía sin-olvidar con-cuidado hacía"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "恋",
+          "reading": "こい",
+          "romaji": "koi",
+          "gloss": "enamoramiento",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "y",
+          "kind": "particle",
+          "role": "Une dos sustantivos: «恋 y 愛»."
+        },
+        {
+          "id": "t3",
+          "surface": "愛",
+          "reading": "あい",
+          "romaji": "ai",
+          "gloss": "amor",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "とは",
+          "romaji": "toha",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "と + は: el tema es el par «恋 y 愛» y se les contrasta: «en cuanto al enamoramiento y al amor…»."
+        },
+        {
+          "id": "t5",
+          "surface": "違う",
+          "reading": "ちがう",
+          "romaji": "chigau",
+          "gloss": "ser distinto",
+          "kind": "verb"
+        },
+        {
+          "id": "t6",
+          "surface": "もの",
+          "romaji": "mono",
+          "gloss": "cosa",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だよ",
+          "romaji": "dayo",
+          "gloss": "es (afirma)",
+          "kind": "aux"
+        },
+        {
+          "id": "t8",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cierra la cita: «“son cosas distintas”»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t5",
+          "type": "subject",
+          "label": "quiénes son distintos"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "qué cosa"
+        }
+      ],
+      "translation": "«Enamorarse y amar son cosas distintas», (me dijeron).",
+      "literal": "enamoramiento-y-amor-en-cuanto-a distinto-cosa-es-(cita)",
+      "notes": [
+        "La cita continúa en la línea siguiente con el verbo de decir."
+      ]
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "昨夜",
+          "reading": "ゆうべ",
+          "romaji": "yuube",
+          "gloss": "anoche",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "言われた",
+          "reading": "いわれた",
+          "romaji": "iwareta",
+          "gloss": "me dijeron",
+          "kind": "verb",
+          "base": {
+            "surface": "言う",
+            "reading": "いう",
+            "meaning": "decir"
+          },
+          "form": {
+            "name": "pasiva + pasado (れる + た)",
+            "why": "言う → 言われる («que me digan») → 言われた. Quien lo dice (tú) no se nombra. Pista: -われた = pasiva: yo recibo lo dicho. Es el mismo hecho que «tú decías» (言ってた) pero visto desde quien lo oye."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "そんな",
+          "romaji": "sonna",
+          "gloss": "de ese tipo",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "気",
+          "reading": "き",
+          "romaji": "ki",
+          "gloss": "impresión",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "Suaviza: «yo también tengo esa impresión»."
+        },
+        {
+          "id": "t6",
+          "surface": "する",
+          "romaji": "suru",
+          "gloss": "tener (sensación)",
+          "kind": "verb"
+        },
+        {
+          "id": "t7",
+          "surface": "わ",
+          "romaji": "wa",
+          "gloss": "(suave)",
+          "kind": "particle",
+          "role": "Final suave y femenino."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "qué clase"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "object",
+          "label": "qué siente"
+        }
+      ],
+      "translation": "Anoche me lo dijeron, y sí, tengo la impresión de que es así.",
+      "literal": "anoche me-dijeron ese-tipo impresión-también tengo-(suave)"
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "二度目",
+          "reading": "にどめ",
+          "romaji": "nidome",
+          "gloss": "la segunda vez",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el segundo invierno»."
+        },
+        {
+          "id": "t3",
+          "surface": "冬",
+          "reading": "ふゆ",
+          "romaji": "fuyu",
+          "gloss": "invierno",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién llega: el invierno."
+        },
+        {
+          "id": "t5",
+          "surface": "来て",
+          "reading": "きて",
+          "romaji": "kite",
+          "gloss": "llegó y…",
+          "kind": "verb",
+          "base": {
+            "surface": "来る",
+            "reading": "くる",
+            "meaning": "venir"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "来る → 来て (irregular: 来 se lee き). Acaba en て y la frase no se cierra: pone «llegó el invierno» como telón de fondo de lo que sigue. Un cierre sería 来た."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "離れていった",
+          "reading": "はなれていった",
+          "romaji": "hanareteitta",
+          "gloss": "se fue alejando",
+          "kind": "verb",
+          "base": {
+            "surface": "離れる",
+            "reading": "はなれる",
+            "meaning": "separarse"
+          },
+          "form": {
+            "name": "ていく en pasado (ていった)",
+            "why": "離れて + いった (行った): «fue alejándose». て + いく marca un cambio que se aleja de quien habla. Acaba en た pero va delante de 心 y lo describe: «el corazón que se alejó» (la た describe, no cierra la frase)."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "貴方",
+          "reading": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t8",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Dueño: «tu corazón»."
+        },
+        {
+          "id": "t9",
+          "surface": "心",
+          "reading": "こころ",
+          "romaji": "kokoro",
+          "gloss": "corazón",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "subject",
+          "label": "qué llega"
+        },
+        {
+          "from": "t6",
+          "to": "t9",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t7",
+          "to": "t9",
+          "type": "possession",
+          "label": "de quién"
+        }
+      ],
+      "translation": "Llegó el segundo invierno, y tu corazón que se había alejado…",
+      "literal": "segunda-vez-de invierno-(suj) llegó-y alejándose-fue tú-de corazón"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ふり返れば",
+          "reading": "ふりかえれば",
+          "romaji": "furikaereba",
+          "gloss": "si miro atrás",
+          "kind": "verb",
+          "base": {
+            "surface": "振り返る",
+            "reading": "ふりかえる",
+            "meaning": "mirar atrás; recordar"
+          },
+          "form": {
+            "name": "condicional (ば)",
+            "why": "振り返る → 振り返れば (る→れ + ば): «si / siempre que miro atrás». Con いつも da «cada vez que…». Pista: ば, no て ni た."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "そこ",
+          "romaji": "soko",
+          "gloss": "ahí",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Lugar: «ahí, en ese lugar»."
+        },
+        {
+          "id": "t5",
+          "surface": "貴方",
+          "reading": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se siente: «a ti»."
+        },
+        {
+          "id": "t7",
+          "surface": "感じていた",
+          "reading": "かんじていた",
+          "romaji": "kanjiteita",
+          "gloss": "sentía",
+          "kind": "verb",
+          "base": {
+            "surface": "感じる",
+            "reading": "かんじる",
+            "meaning": "sentir"
+          },
+          "form": {
+            "name": "ていた (acción en curso, pasado)",
+            "why": "感じる → 感じて + いた: «estaba sintiendo / sentía». Acaba en た porque cierra la frase; el て interior forma parte de ていた."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "es que",
+          "kind": "particle",
+          "role": "Final explicativo suave y femenino: «es que te sentía»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t7",
+          "type": "connects",
+          "label": "cuando miro → sentía"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "a quién siente"
+        }
+      ],
+      "translation": "Siempre que miro atrás, es que te sentía ahí.",
+      "literal": "si-miro-atrás siempre ahí-en tú-(obj) sentía-(explic.)"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "真夜中",
+          "reading": "まよなか",
+          "romaji": "mayonaka",
+          "gloss": "medianoche",
+          "kind": "noun",
+          "emoji": "🌙"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la puerta de medianoche»; la hora define cuál puerta."
+        },
+        {
+          "id": "t3",
+          "surface": "ドア",
+          "romaji": "doa",
+          "gloss": "puerta",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se golpea."
+        },
+        {
+          "id": "t5",
+          "surface": "たたき",
+          "romaji": "tataki",
+          "gloss": "golpeando",
+          "kind": "verb",
+          "base": {
+            "surface": "叩く",
+            "reading": "たたく",
+            "meaning": "golpear"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "叩く → 叩き (く→き). Esta raíz une dos acciones como un て suave: «golpeaba la puerta y…». Pista: acaba en き (no en て ni た) y la frase sigue en la línea siguiente."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "de cuándo"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué golpea"
+        }
+      ],
+      "translation": "Golpeando la puerta de medianoche…",
+      "literal": "medianoche-de puerta-(obj) golpeando",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "心",
+          "reading": "こころ",
+          "romaji": "kokoro",
+          "gloss": "corazón",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Dónde aparece el agujero: «en el corazón»."
+        },
+        {
+          "id": "t3",
+          "surface": "穴",
+          "reading": "あな",
+          "romaji": "ana",
+          "gloss": "agujero",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que se abre: «un agujero»."
+        },
+        {
+          "id": "t5",
+          "surface": "あいた",
+          "romaji": "aita",
+          "gloss": "se abrió",
+          "kind": "verb",
+          "base": {
+            "surface": "開く",
+            "reading": "あく",
+            "meaning": "abrirse"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "開く → 開いた (く→い + た): «se abrió», y queda abierto. 穴があく = «se hace un agujero» (solo, sin que nadie lo abra; abrirlo uno mismo sería あける). Pista: た al final = hecho ya ocurrido."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "subject",
+          "label": "qué se abre"
+        },
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "destination",
+          "label": "dónde"
+        }
+      ],
+      "translation": "Se me abrió un agujero en el corazón.",
+      "literal": "corazón-en agujero-(suj) se-abrió"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquella",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "gloss": "estación",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que está presente: «la estación está…»."
+        },
+        {
+          "id": "t4",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "目の前",
+          "reading": "めのまえ",
+          "romaji": "menomae",
+          "gloss": "ante los ojos",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué está"
+        }
+      ],
+      "translation": "Aquella estación está ahora ante mis ojos.",
+      "literal": "aquella estación-(suj) ahora ante-los-ojos"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "淋しさ",
+          "reading": "さびしさ",
+          "romaji": "sabishisa",
+          "gloss": "la soledad",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "まぎらわして",
+          "romaji": "magirawashite",
+          "gloss": "distrayendo",
+          "kind": "verb",
+          "base": {
+            "surface": "紛らわす",
+            "reading": "まぎらわす",
+            "meaning": "disipar, distraer"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "紛らわす → 紛らわして (す→し + て): «para distraer mi soledad, (puse…)». Acaba en て: no cierra, une con 置いた. Una forma pasada sería 紛らわした."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "置いた",
+          "reading": "おいた",
+          "romaji": "oita",
+          "gloss": "puse",
+          "kind": "verb",
+          "base": {
+            "surface": "置く",
+            "reading": "おく",
+            "meaning": "poner"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "置く → 置いた + レコード: «el disco que puse». OJO: aquí la た NO cierra la frase; delante de un sustantivo forma una oración de relativo («el disco que puse»). El verbo final de la frase es 繰り返していた."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "レコード",
+          "romaji": "rekoodo",
+          "gloss": "disco",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la aguja del disco»."
+        },
+        {
+          "id": "t6",
+          "surface": "針",
+          "reading": "はり",
+          "romaji": "hari",
+          "gloss": "aguja",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "同じ",
+          "reading": "おなじ",
+          "romaji": "onaji",
+          "gloss": "el mismo",
+          "kind": "adv"
+        },
+        {
+          "id": "t8",
+          "surface": "メロディ",
+          "romaji": "merodeぃ",
+          "gloss": "melodía",
+          "kind": "noun"
+        },
+        {
+          "id": "t9",
+          "surface": "繰り返していた",
+          "reading": "くりかえしていた",
+          "romaji": "kurikaeshiteita",
+          "gloss": "repetía",
+          "kind": "verb",
+          "base": {
+            "surface": "繰り返す",
+            "reading": "くりかえす",
+            "meaning": "repetir"
+          },
+          "form": {
+            "name": "ていた (acción en curso, pasado)",
+            "why": "繰り返す → 繰り返して + いた: «estaba repitiendo». La aguja repetía sin parar. Cierra la frase en pasado; el て va dentro de ていた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "object",
+          "label": "qué distrae"
+        },
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "para… puse"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál disco"
+        },
+        {
+          "from": "t6",
+          "to": "t9",
+          "type": "subject",
+          "label": "quién repite"
+        }
+      ],
+      "translation": "Para distraer la soledad puse un disco, y su aguja repetía y repetía la misma melodía…",
+      "literal": "soledad distrayendo puse disco-de aguja misma melodía repetía",
+      "notes": [
+        "Una sola frase repartida en tres líneas de la letra: lo que se «distrae» y el disco puesto dan paso a lo que hace la aguja."
+      ]
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l30",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "真夜中",
+          "reading": "まよなか",
+          "romaji": "mayonaka",
+          "gloss": "medianoche",
+          "kind": "noun",
+          "emoji": "🌙"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la puerta de medianoche»; la hora define cuál puerta."
+        },
+        {
+          "id": "t3",
+          "surface": "ドア",
+          "romaji": "doa",
+          "gloss": "puerta",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se golpea."
+        },
+        {
+          "id": "t5",
+          "surface": "たたき",
+          "romaji": "tataki",
+          "gloss": "golpeando",
+          "kind": "verb",
+          "base": {
+            "surface": "叩く",
+            "reading": "たたく",
+            "meaning": "golpear"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "叩く → 叩き (く→き). Esta raíz une dos acciones como un て suave: «golpeaba la puerta y…». Pista: acaba en き (no en て ni た) y la frase sigue en la línea siguiente."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "de cuándo"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué golpea"
+        }
+      ],
+      "translation": "Golpeando la puerta de medianoche…",
+      "literal": "medianoche-de puerta-(obj) golpeando",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l31",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "帰らないで",
+          "reading": "かえらないで",
+          "romaji": "kaeranaide",
+          "gloss": "no te vayas",
+          "kind": "verb",
+          "base": {
+            "surface": "帰る",
+            "reading": "かえる",
+            "meaning": "volver (a casa)"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "帰る → 帰らない + で = «no te vayas / sin irte». El で es la forma て del ない, no la partícula de lugar. Pista: ない + で al final de lo que se grita = «¡no hagas…!»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cita lo que gritaba llorando: «“no te vayas”»."
+        },
+        {
+          "id": "t3",
+          "surface": "泣いた",
+          "reading": "ないた",
+          "romaji": "naita",
+          "gloss": "lloré",
+          "kind": "verb",
+          "base": {
+            "surface": "泣く",
+            "reading": "なく",
+            "meaning": "llorar"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "泣く → 泣いた (く→い + た). Cierra la frase y la acción ya ocurrió. Si siguiera algo se diría 泣いて («lloré y…»). Pista: た al final = pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué gritaba llorando"
+        }
+      ],
+      "translation": "Lloré: «no te vayas».",
+      "literal": "no-te-vayas-(cita) lloré"
+    },
+    {
+      "id": "l32",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquella",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "gloss": "estación",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que está presente: «la estación está…»."
+        },
+        {
+          "id": "t4",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "目の前",
+          "reading": "めのまえ",
+          "romaji": "menomae",
+          "gloss": "ante los ojos",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué está"
+        }
+      ],
+      "translation": "Aquella estación está ahora ante mis ojos.",
+      "literal": "aquella estación-(suj) ahora ante-los-ojos"
+    },
+    {
+      "id": "l33",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l34",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "口ぐせ",
+          "reading": "くちぐせ",
+          "romaji": "kuchiguse",
+          "gloss": "muletilla",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se dice."
+        },
+        {
+          "id": "t3",
+          "surface": "言いながら",
+          "reading": "いいながら",
+          "romaji": "iinagara",
+          "gloss": "mientras decía",
+          "kind": "verb",
+          "base": {
+            "surface": "言う",
+            "reading": "いう",
+            "meaning": "decir"
+          },
+          "form": {
+            "name": "ながら (mientras)",
+            "why": "言う → 言い + ながら: dos acciones a la vez del mismo sujeto. Pista: raíz + ながら. No marca el tiempo; el tiempo lo da el verbo final de la frase."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "二人",
+          "reading": "ふたり",
+          "romaji": "futari",
+          "gloss": "los dos",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el instante de los dos»."
+        },
+        {
+          "id": "t6",
+          "surface": "瞬間",
+          "reading": "しゅんかん",
+          "romaji": "shunkan",
+          "gloss": "instante",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se abraza."
+        },
+        {
+          "id": "t8",
+          "surface": "抱いて",
+          "reading": "だいて",
+          "romaji": "daite",
+          "gloss": "abrazando",
+          "kind": "verb",
+          "base": {
+            "surface": "抱く",
+            "reading": "だく",
+            "meaning": "abrazar"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "抱く → 抱いて (く→い + て). Acaba en て y la frase sigue en la línea siguiente: une acciones («abrazando… sin olvidar…»). Un cierre en pasado sería 抱いた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué dice"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "object",
+          "label": "qué abraza"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quiénes"
+        },
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "connects",
+          "label": "a la vez"
+        }
+      ],
+      "translation": "Diciendo nuestra muletilla, abrazando el instante de los dos…",
+      "literal": "muletilla-(obj) mientras-decía los-dos-de instante-(obj) abrazando",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l35",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "忘れず",
+          "reading": "わすれず",
+          "romaji": "wasurezu",
+          "gloss": "sin olvidar",
+          "kind": "verb",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "忘れる → 忘れず: «sin olvidar». Acaba en ず, NO en て ni た: une con el verbo siguiente sin marcar pasado."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "暖めてた",
+          "reading": "あたためてた",
+          "romaji": "atatameteta",
+          "gloss": "lo mantenía caliente",
+          "kind": "verb",
+          "base": {
+            "surface": "暖める",
+            "reading": "あたためる",
+            "meaning": "dar calor; mantener vivo"
+          },
+          "form": {
+            "name": "ていた abreviado (てた)",
+            "why": "暖めていた → 暖めてた: «lo estaba guardando al calor». OJO: acaba en た pero es て + いた (acción sostenida en el pasado), no el simple 暖めた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "sin olvidar → lo mantenía"
+        }
+      ],
+      "translation": "Todavía sin olvidarlo, lo mantenía caliente.",
+      "literal": "todavía sin-olvidar lo-mantenía-al-calor"
+    },
+    {
+      "id": "l36",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l37",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "真夜中",
+          "reading": "まよなか",
+          "romaji": "mayonaka",
+          "gloss": "medianoche",
+          "kind": "noun",
+          "emoji": "🌙"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la puerta de medianoche»; la hora define cuál puerta."
+        },
+        {
+          "id": "t3",
+          "surface": "ドア",
+          "romaji": "doa",
+          "gloss": "puerta",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se golpea."
+        },
+        {
+          "id": "t5",
+          "surface": "たたき",
+          "romaji": "tataki",
+          "gloss": "golpeando",
+          "kind": "verb",
+          "base": {
+            "surface": "叩く",
+            "reading": "たたく",
+            "meaning": "golpear"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "叩く → 叩き (く→き). Esta raíz une dos acciones como un て suave: «golpeaba la puerta y…». Pista: acaba en き (no en て ni た) y la frase sigue en la línea siguiente."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "de cuándo"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué golpea"
+        }
+      ],
+      "translation": "Golpeando la puerta de medianoche…",
+      "literal": "medianoche-de puerta-(obj) golpeando",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l38",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "帰らないで",
+          "reading": "かえらないで",
+          "romaji": "kaeranaide",
+          "gloss": "no te vayas",
+          "kind": "verb",
+          "base": {
+            "surface": "帰る",
+            "reading": "かえる",
+            "meaning": "volver (a casa)"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "帰る → 帰らない + で = «no te vayas / sin irte». El で es la forma て del ない, no la partícula de lugar. Pista: ない + で al final de lo que se grita = «¡no hagas…!»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cita lo que gritaba llorando: «“no te vayas”»."
+        },
+        {
+          "id": "t3",
+          "surface": "泣いた",
+          "reading": "ないた",
+          "romaji": "naita",
+          "gloss": "lloré",
+          "kind": "verb",
+          "base": {
+            "surface": "泣く",
+            "reading": "なく",
+            "meaning": "llorar"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "泣く → 泣いた (く→い + た). Cierra la frase y la acción ya ocurrió. Si siguiera algo se diría 泣いて («lloré y…»). Pista: た al final = pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué gritaba llorando"
+        }
+      ],
+      "translation": "Lloré: «no te vayas».",
+      "literal": "no-te-vayas-(cita) lloré"
+    },
+    {
+      "id": "l39",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquella",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "gloss": "estación",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que está presente: «la estación está…»."
+        },
+        {
+          "id": "t4",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "目の前",
+          "reading": "めのまえ",
+          "romaji": "menomae",
+          "gloss": "ante los ojos",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué está"
+        }
+      ],
+      "translation": "Aquella estación está ahora ante mis ojos.",
+      "literal": "aquella estación-(suj) ahora ante-los-ojos"
+    },
+    {
+      "id": "l40",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l41",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "口ぐせ",
+          "reading": "くちぐせ",
+          "romaji": "kuchiguse",
+          "gloss": "muletilla",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se dice."
+        },
+        {
+          "id": "t3",
+          "surface": "言いながら",
+          "reading": "いいながら",
+          "romaji": "iinagara",
+          "gloss": "mientras decía",
+          "kind": "verb",
+          "base": {
+            "surface": "言う",
+            "reading": "いう",
+            "meaning": "decir"
+          },
+          "form": {
+            "name": "ながら (mientras)",
+            "why": "言う → 言い + ながら: dos acciones a la vez del mismo sujeto. Pista: raíz + ながら. No marca el tiempo; el tiempo lo da el verbo final de la frase."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "二人",
+          "reading": "ふたり",
+          "romaji": "futari",
+          "gloss": "los dos",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el instante de los dos»."
+        },
+        {
+          "id": "t6",
+          "surface": "瞬間",
+          "reading": "しゅんかん",
+          "romaji": "shunkan",
+          "gloss": "instante",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se abraza."
+        },
+        {
+          "id": "t8",
+          "surface": "抱いて",
+          "reading": "だいて",
+          "romaji": "daite",
+          "gloss": "abrazando",
+          "kind": "verb",
+          "base": {
+            "surface": "抱く",
+            "reading": "だく",
+            "meaning": "abrazar"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "抱く → 抱いて (く→い + て). Acaba en て y la frase sigue en la línea siguiente: une acciones («abrazando… sin olvidar…»). Un cierre en pasado sería 抱いた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué dice"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "object",
+          "label": "qué abraza"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quiénes"
+        },
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "connects",
+          "label": "a la vez"
+        }
+      ],
+      "translation": "Diciendo nuestra muletilla, abrazando el instante de los dos…",
+      "literal": "muletilla-(obj) mientras-decía los-dos-de instante-(obj) abrazando",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l42",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "忘れず",
+          "reading": "わすれず",
+          "romaji": "wasurezu",
+          "gloss": "sin olvidar",
+          "kind": "verb",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "忘れる → 忘れず: «sin olvidar». Acaba en ず, NO en て ni た: une con el verbo siguiente sin marcar pasado."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "暖めてた",
+          "reading": "あたためてた",
+          "romaji": "atatameteta",
+          "gloss": "lo mantenía caliente",
+          "kind": "verb",
+          "base": {
+            "surface": "暖める",
+            "reading": "あたためる",
+            "meaning": "dar calor; mantener vivo"
+          },
+          "form": {
+            "name": "ていた abreviado (てた)",
+            "why": "暖めていた → 暖めてた: «lo estaba guardando al calor». OJO: acaba en た pero es て + いた (acción sostenida en el pasado), no el simple 暖めた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "sin olvidar → lo mantenía"
+        }
+      ],
+      "translation": "Todavía sin olvidarlo, lo mantenía caliente.",
+      "literal": "todavía sin-olvidar lo-mantenía-al-calor"
+    },
+    {
+      "id": "l43",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l44",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "真夜中",
+          "reading": "まよなか",
+          "romaji": "mayonaka",
+          "gloss": "medianoche",
+          "kind": "noun",
+          "emoji": "🌙"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la puerta de medianoche»; la hora define cuál puerta."
+        },
+        {
+          "id": "t3",
+          "surface": "ドア",
+          "romaji": "doa",
+          "gloss": "puerta",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se golpea."
+        },
+        {
+          "id": "t5",
+          "surface": "たたき",
+          "romaji": "tataki",
+          "gloss": "golpeando",
+          "kind": "verb",
+          "base": {
+            "surface": "叩く",
+            "reading": "たたく",
+            "meaning": "golpear"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "叩く → 叩き (く→き). Esta raíz une dos acciones como un て suave: «golpeaba la puerta y…». Pista: acaba en き (no en て ni た) y la frase sigue en la línea siguiente."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "de cuándo"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué golpea"
+        }
+      ],
+      "translation": "Golpeando la puerta de medianoche…",
+      "literal": "medianoche-de puerta-(obj) golpeando",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l45",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "帰らないで",
+          "reading": "かえらないで",
+          "romaji": "kaeranaide",
+          "gloss": "no te vayas",
+          "kind": "verb",
+          "base": {
+            "surface": "帰る",
+            "reading": "かえる",
+            "meaning": "volver (a casa)"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "帰る → 帰らない + で = «no te vayas / sin irte». El で es la forma て del ない, no la partícula de lugar. Pista: ない + で al final de lo que se grita = «¡no hagas…!»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cita lo que gritaba llorando: «“no te vayas”»."
+        },
+        {
+          "id": "t3",
+          "surface": "泣いた",
+          "reading": "ないた",
+          "romaji": "naita",
+          "gloss": "lloré",
+          "kind": "verb",
+          "base": {
+            "surface": "泣く",
+            "reading": "なく",
+            "meaning": "llorar"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "泣く → 泣いた (く→い + た). Cierra la frase y la acción ya ocurrió. Si siguiera algo se diría 泣いて («lloré y…»). Pista: た al final = pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué gritaba llorando"
+        }
+      ],
+      "translation": "Lloré: «no te vayas».",
+      "literal": "no-te-vayas-(cita) lloré"
+    },
+    {
+      "id": "l46",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquella",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "gloss": "estación",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que está presente: «la estación está…»."
+        },
+        {
+          "id": "t4",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "目の前",
+          "reading": "めのまえ",
+          "romaji": "menomae",
+          "gloss": "ante los ojos",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "subject",
+          "label": "qué está"
+        }
+      ],
+      "translation": "Aquella estación está ahora ante mis ojos.",
+      "literal": "aquella estación-(suj) ahora ante-los-ojos"
+    },
+    {
+      "id": "l47",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Stay",
+          "gloss": "quédate",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "with",
+          "gloss": "con",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "me",
+          "gloss": "conmigo",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Quédate conmigo…",
+      "literal": "quédate con yo",
+      "notes": [
+        "Inglés: no lleva gramática japonesa."
+      ]
+    },
+    {
+      "id": "l48",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "忘れず",
+          "reading": "わすれず",
+          "romaji": "wasurezu",
+          "gloss": "sin olvidar",
+          "kind": "verb",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "忘れる → 忘れず: «sin olvidar». Acaba en ず, NO en て ni た: une con el verbo siguiente sin marcar pasado."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "暖めてた",
+          "reading": "あたためてた",
+          "romaji": "atatameteta",
+          "gloss": "lo mantenía caliente",
+          "kind": "verb",
+          "base": {
+            "surface": "暖める",
+            "reading": "あたためる",
+            "meaning": "dar calor; mantener vivo"
+          },
+          "form": {
+            "name": "ていた abreviado (てた)",
+            "why": "暖めていた → 暖めてた: «lo estaba guardando al calor». OJO: acaba en た pero es て + いた (acción sostenida en el pasado), no el simple 暖めた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "sin olvidar → lo mantenía"
+        }
+      ],
+      "translation": "Todavía sin olvidarlo, lo mantenía caliente.",
+      "literal": "todavía sin-olvidar lo-mantenía-al-calor"
+    }
+  ]
+}
