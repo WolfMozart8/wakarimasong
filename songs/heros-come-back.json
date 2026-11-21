@@ -1,0 +1,4983 @@
+{
+  "id": "heros-come-back",
+  "title": "Hero's Come Back!!",
+  "artist": "nobodyknows+ · Naruto Shippuden (opening 1)",
+  "difficulty": {
+    "level": "muy-dificil",
+    "jlpt": "N2–N1",
+    "why": "Rap rapidísimo, mucha jerga y habla brusca (ん, ねえ, ちゃ, たる de Kansai), expresiones hechas (猫も杓子も, 付け焼き刃, 待ちに待った) y frases elípticas. El estribillo en inglés es lo más fácil de seguir."
+  },
+  "source": "https://www.animesonglyrics.com/naruto-shippuden/heros-come-back",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "遠く",
+          "reading": "とおく",
+          "romaji": "tooku",
+          "gloss": "lejos",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Lugar donde ocurre: «a lo lejos»."
+        },
+        {
+          "id": "t3",
+          "surface": "聞こえる",
+          "reading": "きこえる",
+          "romaji": "kikoeru",
+          "gloss": "oírse",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "声",
+          "reading": "こえ",
+          "romaji": "koe",
+          "gloss": "voz",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se toma como pista."
+        },
+        {
+          "id": "t6",
+          "surface": "ヒント",
+          "romaji": "hinto",
+          "gloss": "pista",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "como",
+          "kind": "particle",
+          "role": "ヒントに = «tomando como pista»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál voz"
+        },
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "dónde"
+        }
+      ],
+      "translation": "Tomando como pista una voz que se oye a lo lejos,",
+      "literal": "lejos-en oírse voz-(obj) pista-como"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "一人",
+          "reading": "ひとり",
+          "romaji": "hitori",
+          "gloss": "una persona",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "また",
+          "romaji": "mata",
+          "gloss": "otra vez",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "一人",
+          "reading": "ひとり",
+          "romaji": "hitori",
+          "gloss": "una persona",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "立ち上がる",
+          "reading": "たちあがる",
+          "romaji": "tachiagaru",
+          "gloss": "levantarse",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "同志",
+          "reading": "どうし",
+          "romaji": "doushi",
+          "gloss": "camaradas",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuáles"
+        }
+      ],
+      "translation": "uno tras otro, se levantan los camaradas.",
+      "literal": "uno otra-vez uno levantarse camaradas"
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "繰り返す",
+          "reading": "くりかえす",
+          "romaji": "kurikaesu",
+          "gloss": "repetir",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «que solo se repite»."
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «un día a día que solo se repite»."
+        },
+        {
+          "id": "t4",
+          "surface": "普段どおり",
+          "reading": "ふだんどおり",
+          "romaji": "fudandoori",
+          "gloss": "como siempre",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "くつがえす",
+          "romaji": "kutsugaesu",
+          "gloss": "dar la vuelta",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "object",
+          "label": "qué voltea"
+        }
+      ],
+      "translation": "Damos la vuelta a lo de siempre, que solo se repite.",
+      "literal": "repetir-solo-de como-siempre dar-la-vuelta"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "準備",
+          "reading": "じゅんび",
+          "romaji": "junbi",
+          "gloss": "preparación",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "いい",
+          "romaji": "ii",
+          "gloss": "bien",
+          "kind": "adj"
+        },
+        {
+          "id": "t3",
+          "surface": "ぜ",
+          "romaji": "ze",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Final masculino y enérgico."
+        },
+        {
+          "id": "t4",
+          "surface": "Are You Ready?",
+          "gloss": "¿estás listo?",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "topic",
+          "label": "qué está bien"
+        }
+      ],
+      "translation": "Todo listo, ¿estás preparado?",
+      "literal": "preparación bien-¡eh! ¿listo?"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "体中",
+          "reading": "からだじゅう",
+          "romaji": "karadajuu",
+          "gloss": "todo el cuerpo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "振るわす",
+          "reading": "ふるわす",
+          "romaji": "furuwasu",
+          "gloss": "hacer temblar",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "振動",
+          "reading": "しんどう",
+          "romaji": "shindou",
+          "gloss": "vibración",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Al compás de: «con la vibración»."
+        },
+        {
+          "id": "t5",
+          "surface": "激しく",
+          "reading": "はげしく",
+          "romaji": "hageshiku",
+          "gloss": "con furia",
+          "kind": "adv",
+          "base": {
+            "surface": "激しい",
+            "reading": "はげしい",
+            "meaning": "intenso"
+          },
+          "form": {
+            "name": "forma adverbial (い → く)",
+            "why": "激しい → 激しく: el adjetivo pasa a adverbio y modifica a 打ち鳴らせ."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "打ち鳴らせ",
+          "reading": "うちならせ",
+          "romaji": "uchinarase",
+          "gloss": "¡haz sonar!",
+          "kind": "verb",
+          "base": {
+            "surface": "打ち鳴らす",
+            "reading": "うちならす",
+            "meaning": "hacer sonar golpeando"
+          },
+          "form": {
+            "name": "imperativo (godan: す → せ)",
+            "why": "打ち鳴らす → 打ち鳴らせ: orden directa. En los verbos en す el imperativo cambia す por せ."
+          }
+        },
+        {
+          "id": "t7",
+          "surface": "よ",
+          "romaji": "yo",
+          "gloss": "¡oye!",
+          "kind": "particle",
+          "role": "Refuerza la orden."
+        },
+        {
+          "id": "t8",
+          "surface": "Stomping",
+          "gloss": "pisotones",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "object",
+          "label": "qué hace temblar"
+        },
+        {
+          "from": "t6",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "¡Haz sonar con furia, al ritmo de la vibración que sacude todo el cuerpo! Stomping.",
+      "literal": "cuerpo-entero hacer-temblar vibración-con furiosamente ¡haz-sonar! ¡oye! pisotones"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "絶えず",
+          "reading": "たえず",
+          "romaji": "taezu",
+          "gloss": "sin cesar",
+          "kind": "adv",
+          "base": {
+            "surface": "絶える",
+            "reading": "たえる",
+            "meaning": "cesar"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "絶える → 絶えず: «sin cesar». ず = negativo literario que acaba la palabra; no es て ni た."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "突き動かす",
+          "reading": "つきうごかす",
+          "romaji": "tsukiugokasu",
+          "gloss": "impulsar",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "Call Me",
+          "gloss": "llámame",
+          "kind": "other"
+        },
+        {
+          "id": "t4",
+          "surface": "変わらず",
+          "reading": "かわらず",
+          "romaji": "kawarazu",
+          "gloss": "sin cambiar",
+          "kind": "adv",
+          "base": {
+            "surface": "変わる",
+            "reading": "かわる",
+            "meaning": "cambiar"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "変わる → 変わらず: «sin cambiar». Acaba en ず, no en て ni た."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "揺るがぬ",
+          "reading": "ゆるがぬ",
+          "romaji": "yuruganu",
+          "gloss": "que no vacila",
+          "kind": "verb",
+          "base": {
+            "surface": "揺るぐ",
+            "reading": "ゆるぐ",
+            "meaning": "tambalearse"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "揺るぐ → 揺るがぬ: «que no se tambalea». ぬ = ない en lenguaje clásico o dramático. Delante de un sustantivo (Story) describe."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "Impulsando sin cesar, llámame, sin cambiar, que no vacila…",
+      "literal": "sin-cesar impulsar llámame sin-cambiar que-no-vacila",
+      "notes": [
+        "La frase sigue en la línea siguiente: 揺るがぬ + Story."
+      ]
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "つかむ",
+          "romaji": "tsukamu",
+          "gloss": "agarrar",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "Story",
+          "gloss": "historia",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "Come On!!",
+          "gloss": "¡vamos!",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "object",
+          "label": "qué agarra"
+        }
+      ],
+      "translation": "Agarro mi Story. ¡Vamos!",
+      "literal": "agarrar historia ¡vamos!"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Everybody Stand Up!",
+          "gloss": "¡todos de pie!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "あげろ",
+          "romaji": "agero",
+          "gloss": "¡levanta!",
+          "kind": "verb",
+          "base": {
+            "surface": "上げる",
+            "reading": "あげる",
+            "meaning": "levantar"
+          },
+          "form": {
+            "name": "imperativo (ichidan: る → ろ)",
+            "why": "上げる → 上げろ: orden directa. En los ichidan se cambia る por ろ."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "今日",
+          "reading": "きょう",
+          "romaji": "kou",
+          "gloss": "hoy",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "一番",
+          "reading": "いちばん",
+          "romaji": "ichiban",
+          "gloss": "el mejor",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el mejor momento de hoy»."
+        },
+        {
+          "id": "t6",
+          "surface": "時間",
+          "reading": "じかん",
+          "romaji": "jikan",
+          "gloss": "tiempo",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "qué momento"
+        },
+        {
+          "from": "t3",
+          "to": "t6",
+          "type": "modifies",
+          "label": "de cuándo"
+        }
+      ],
+      "translation": "¡Todos de pie! ¡Arriba! Es el mejor momento de hoy.",
+      "literal": "¡todos-de-pie! ¡levanta! hoy mejor-de momento es"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "目",
+          "reading": "め",
+          "romaji": "me",
+          "gloss": "ojo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a",
+          "kind": "particle",
+          "role": "Dónde se queda: «a los ojos»."
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "ni",
+          "kind": "particle",
+          "role": "に + も: con negativo = «ni siquiera a los ojos»."
+        },
+        {
+          "id": "t4",
+          "surface": "止まらぬ",
+          "reading": "とまらぬ",
+          "romaji": "tomaranu",
+          "gloss": "que no se detiene",
+          "kind": "verb",
+          "base": {
+            "surface": "止まる",
+            "reading": "とまる",
+            "meaning": "detenerse"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "止まる → 止まらぬ: «que no se detiene». ぬ = ない en lenguaje clásico o dramático. 目にも止まらぬ = «tan rápido que ni se ve»."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "スピードハンター",
+          "romaji": "supiidohantaa",
+          "gloss": "cazador de velocidad",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "El cazador de velocidad que ni los ojos pueden seguir.",
+      "literal": "ojo-a-ni no-se-detiene cazador-de-velocidad"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "誰もが",
+          "reading": "だれもが",
+          "romaji": "daremoga",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "皆",
+          "reading": "みな",
+          "romaji": "mina",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "虜",
+          "reading": "とりこ",
+          "romaji": "toriko",
+          "gloss": "cautivo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "看板",
+          "reading": "かんばん",
+          "romaji": "kanban",
+          "gloss": "cartel",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "Yeah! (Come On!)",
+          "gloss": "¡sí! ¡vamos!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Todos, cautivos del gran nombre. ¡Yeah!",
+      "literal": "todos todos cautivo cartel ¡sí!"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Everybody Hands Up!",
+          "gloss": "¡todos arriba las manos!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "待たしたな",
+          "reading": "またしたな",
+          "romaji": "matashitana",
+          "gloss": "te hice esperar",
+          "kind": "verb",
+          "base": {
+            "surface": "待たせる",
+            "reading": "またせる",
+            "meaning": "hacer esperar"
+          },
+          "form": {
+            "name": "causativo + pasado (た)",
+            "why": "待たす (= 待たせる, coloquial) → 待たした: «hice esperar». OJO: た = pasado. な final = «¿eh?». «Te hice esperar, ¿eh?»."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "Hero’s Come Back!!",
+          "gloss": "¡el héroe vuelve!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Todos arriba las manos! Os hice esperar, ¿eh? ¡El héroe vuelve!",
+      "literal": "¡manos-arriba! hice-esperar ¡el-héroe-vuelve!"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "頭上",
+          "reading": "ずじょう",
+          "romaji": "zujou",
+          "gloss": "sobre la cabeza",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "数え",
+          "reading": "かぞえ",
+          "romaji": "kazoe",
+          "gloss": "contando",
+          "kind": "verb",
+          "base": {
+            "surface": "数える",
+            "reading": "かぞえる",
+            "meaning": "contar"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "数える → 数え (se quita る). Acaba en え, no en て/た: une con 指折る sin marcar tiempo."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "指折る",
+          "reading": "ゆびおる",
+          "romaji": "yubioru",
+          "gloss": "doblar dedos",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "Count Down",
+          "gloss": "cuenta atrás",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "cómo cuenta"
+        }
+      ],
+      "translation": "Sobre la cabeza, contando con los dedos, la cuenta atrás.",
+      "literal": "sobre-la-cabeza contando doblar-dedos cuenta-atrás"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いくぜ",
+          "romaji": "ikuze",
+          "gloss": "allá voy",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "3-2-1",
+          "gloss": "3-2-1",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "Make Some Noise!",
+          "gloss": "¡haz ruido!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Allá voy! 3, 2, 1, ¡haz ruido!",
+      "literal": "voy 3-2-1 ¡haz-ruido!"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "もう",
+          "romaji": "mou",
+          "gloss": "ya",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "多少",
+          "reading": "たしょう",
+          "romaji": "tashou",
+          "gloss": "algo de",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «algo de riesgo»."
+        },
+        {
+          "id": "t4",
+          "surface": "リスク",
+          "romaji": "risuku",
+          "gloss": "riesgo",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «en cuanto al riesgo…»."
+        },
+        {
+          "id": "t6",
+          "surface": "覚悟",
+          "reading": "かくご",
+          "romaji": "kakugo",
+          "gloss": "estar preparado",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "でしょ",
+          "romaji": "desho",
+          "gloss": "¿verdad?",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "Ya estás preparado para algo de riesgo, ¿no?",
+      "literal": "ya algo-de riesgo-en-cuanto-a preparado ¿no?"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何回",
+          "reading": "なんかい",
+          "romaji": "nankai",
+          "gloss": "cuántas veces",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "転んだって",
+          "reading": "ころんだって",
+          "romaji": "korondatte",
+          "gloss": "aunque me caiga",
+          "kind": "verb",
+          "base": {
+            "surface": "転ぶ",
+            "reading": "ころぶ",
+            "meaning": "caerse"
+          },
+          "form": {
+            "name": "たって (aunque)",
+            "why": "転ぶ → 転んだ (ぶ→ん + だ) + って = «aunque me caiga». OJO: la だ NO es pasado: たって = «aunque / por más que». Pista: sigue «me levanto» (起つ)."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "起つ",
+          "reading": "たつ",
+          "romaji": "tatsu",
+          "gloss": "levantarse",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "(Get It On)",
+          "gloss": "(¡adelante!)",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "aunque… igual me levanto"
+        },
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuántas veces"
+        }
+      ],
+      "translation": "Por más veces que me caiga, me levanto. (¡Adelante!)",
+      "literal": "cuántas-veces aunque-caiga levantarse ¡adelante!"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "なれ合い",
+          "reading": "なれあい",
+          "romaji": "nareai",
+          "gloss": "complicidad",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "じゃない",
+          "romaji": "janai",
+          "gloss": "no es",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "ぜ",
+          "romaji": "ze",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Énfasis masculino."
+        },
+        {
+          "id": "t4",
+          "surface": "紙一重",
+          "reading": "かみひとえ",
+          "romaji": "kamihitoe",
+          "gloss": "por un pelo",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «una sesión por un pelo»."
+        },
+        {
+          "id": "t6",
+          "surface": "セッション",
+          "romaji": "sesshon",
+          "gloss": "sesión",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "No es complicidad: es una sesión al filo.",
+      "literal": "complicidad no-es-¡eh! por-un-pelo-de sesión"
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "入りくんだ",
+          "reading": "いりくんだ",
+          "romaji": "irikunda",
+          "gloss": "enredado",
+          "kind": "verb",
+          "base": {
+            "surface": "入り組む",
+            "reading": "いりくむ",
+            "meaning": "enredarse"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "入り組む → 入り組んだ + 感情: «sentimientos enredados». OJO: la た describe un estado, no cierra la frase."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "感情",
+          "reading": "かんじょう",
+          "romaji": "kanjou",
+          "gloss": "sentimientos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "築きあげた",
+          "reading": "きずきあげた",
+          "romaji": "kizukiageta",
+          "gloss": "que construimos",
+          "kind": "verb",
+          "base": {
+            "surface": "築き上げる",
+            "reading": "きずきあげる",
+            "meaning": "construir con esfuerzo"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "築き上げる → 築き上げた + 結晶: «el cristal que construimos». OJO: la た describe; no cierra la frase."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "結晶",
+          "reading": "けっしょう",
+          "romaji": "kesshou",
+          "gloss": "cristal, fruto",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Sentimientos enredados, el cristal que construimos.",
+      "literal": "enredados sentimientos que-construimos cristal"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "What You Gonna Do? What You Gonna Do?",
+          "gloss": "¿qué vas a hacer?",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¿Qué vas a hacer? ¿Qué vas a hacer?"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "絶え間なく",
+          "reading": "たえまなく",
+          "romaji": "taemanaku",
+          "gloss": "sin pausa",
+          "kind": "adv",
+          "base": {
+            "surface": "絶え間ない",
+            "reading": "たえまない",
+            "meaning": "ininterrumpido"
+          },
+          "form": {
+            "name": "forma adverbial (い → く)",
+            "why": "絶え間ない → 絶え間なく: el adjetivo pasa a adverbio: «sin pausa». Con ない, la forma en なく no es una negación suelta."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "鳴り響き",
+          "reading": "なりひびき",
+          "romaji": "narihibiki",
+          "gloss": "resonando",
+          "kind": "verb",
+          "base": {
+            "surface": "鳴り響く",
+            "reading": "なりひびく",
+            "meaning": "resonar"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "鳴り響く → 鳴り響き (く→き). Acaba en き, no en て/た: une con 刻む."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "刻む",
+          "reading": "きざむ",
+          "romaji": "kizamu",
+          "gloss": "marcar el ritmo",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo"
+        },
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "y luego"
+        }
+      ],
+      "translation": "Resonando sin pausa, marcando el ritmo.",
+      "literal": "sin-pausa resonando marcar"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "デジャヴ",
+          "romaji": "dejaゔ",
+          "gloss": "déjà vu",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "より",
+          "romaji": "yori",
+          "gloss": "más que",
+          "kind": "particle",
+          "role": "Compara: «más que un déjà vu»."
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "incluso",
+          "kind": "particle",
+          "role": "Refuerza la comparación."
+        },
+        {
+          "id": "t4",
+          "surface": "ゴツイ",
+          "romaji": "gotsui",
+          "gloss": "contundente",
+          "kind": "adj"
+        },
+        {
+          "id": "t5",
+          "surface": "衝撃",
+          "reading": "しょうげき",
+          "romaji": "shougeki",
+          "gloss": "impacto",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que recorre el cuerpo (el verbo está en la línea siguiente)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Un impacto más contundente que un déjà vu…",
+      "literal": "déjà-vu-más-que contundente impacto-(suj)",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "全身",
+          "reading": "ぜんしん",
+          "romaji": "zenshin",
+          "gloss": "todo el cuerpo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Con 走る, を marca por dónde pasa: «por todo el cuerpo»."
+        },
+        {
+          "id": "t3",
+          "surface": "走り",
+          "reading": "はしり",
+          "romaji": "hashiri",
+          "gloss": "recorriendo",
+          "kind": "verb",
+          "base": {
+            "surface": "走る",
+            "reading": "はしる",
+            "meaning": "correr"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "走る → 走り (る→り). Acaba en り, no en て/た: une con 離さん."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "離さん",
+          "reading": "はなさん",
+          "romaji": "hanasan",
+          "gloss": "no suelto",
+          "kind": "verb",
+          "base": {
+            "surface": "離す",
+            "reading": "はなす",
+            "meaning": "soltar"
+          },
+          "form": {
+            "name": "negativo coloquial (ん)",
+            "why": "離す → 離さない → 離さん: la ん es una forma corta de ない, de tono rudo. No es pasado."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "Break Down",
+          "gloss": "romper",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "destination",
+          "label": "por dónde"
+        }
+      ],
+      "translation": "recorre todo el cuerpo, no lo suelto. Break Down.",
+      "literal": "cuerpo-entero-por recorriendo no-suelto romper"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Turn It Up (Turn It Up) Hey",
+          "gloss": "¡sube el volumen!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "聞こえっか",
+          "reading": "きこえっか",
+          "romaji": "kikoekka",
+          "gloss": "¿se oye?",
+          "kind": "verb",
+          "base": {
+            "surface": "聞こえる",
+            "reading": "きこえる",
+            "meaning": "oírse"
+          },
+          "form": {
+            "name": "pregunta coloquial (るか → っか)",
+            "why": "聞こえるか → 聞こえっか: «¿se oye?». る→っ + か: forma hablada, tono pandillero."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "¡Sube el volumen! ¿Se oye?",
+      "literal": "¡sube-el-volumen! ¿se-oye?"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "叫んだ",
+          "reading": "さけんだ",
+          "romaji": "sakenda",
+          "gloss": "grité",
+          "kind": "verb",
+          "base": {
+            "surface": "叫ぶ",
+            "reading": "さけぶ",
+            "meaning": "gritar"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "叫ぶ → 叫んだ (ぶ→ん + だ). Cierra el trozo y la acción ya ocurrió: «grité». Pista: だ final tras ん = pasado."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "昨日",
+          "reading": "きのう",
+          "romaji": "kinou",
+          "gloss": "ayer",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "まで",
+          "romaji": "made",
+          "gloss": "hasta",
+          "kind": "particle",
+          "role": "Límite: «hasta ayer»."
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «lo de hasta ayer»."
+        },
+        {
+          "id": "t5",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "asunto",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que cambiará (verbo en la línea siguiente)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t5",
+          "type": "modifies",
+          "label": "qué asunto"
+        }
+      ],
+      "translation": "Grité: lo de hasta ayer…",
+      "literal": "grité ayer-hasta-de asunto-(suj)",
+      "notes": [
+        "La frase sigue en la línea siguiente: 変わるだろう."
+      ]
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "変わる",
+          "reading": "かわる",
+          "romaji": "kawaru",
+          "gloss": "cambiar",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "だろう",
+          "romaji": "darou",
+          "gloss": "seguramente",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv"
+        },
+        {
+          "id": "t4",
+          "surface": "見ぬ",
+          "reading": "みぬ",
+          "romaji": "minu",
+          "gloss": "que no vemos",
+          "kind": "verb",
+          "base": {
+            "surface": "見る",
+            "reading": "みる",
+            "meaning": "ver"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "見る → 見ぬ: «que no (se) ve». ぬ = ない clásico; delante de 明日 describe: «el mañana aún no visto»."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "明日",
+          "reading": "あした",
+          "romaji": "ashita",
+          "gloss": "mañana",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección: «hacia el mañana»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "cambiará, seguramente, hacia el mañana que aún no vemos.",
+      "literal": "cambiar seguramente todavía no-visto mañana-hacia"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "こぼれて",
+          "romaji": "koborete",
+          "gloss": "derramándose",
+          "kind": "verb",
+          "base": {
+            "surface": "零れる",
+            "reading": "こぼれる",
+            "meaning": "derramarse"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "零れる → こぼれて. Acaba en て: «se derramó y (desbordó)». Un pasado sería こぼれた."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "溢れた",
+          "reading": "あふれた",
+          "romaji": "afureta",
+          "gloss": "desbordado",
+          "kind": "verb",
+          "base": {
+            "surface": "溢れる",
+            "reading": "あふれる",
+            "meaning": "desbordarse"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "溢れる → 溢れた + 想い: «sentimientos desbordados». OJO: la た describe un estado, no cierra."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "想い",
+          "reading": "おもい",
+          "romaji": "omoi",
+          "gloss": "sentimientos",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la parte de los sentimientos»."
+        },
+        {
+          "id": "t5",
+          "surface": "分",
+          "reading": "ぶん",
+          "romaji": "bun",
+          "gloss": "parte",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "まで",
+          "romaji": "made",
+          "gloss": "hasta",
+          "kind": "particle",
+          "role": "«incluso hasta la parte de…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "connects",
+          "label": "y luego"
+        },
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "incluso por la parte de los sentimientos que se derramaron y desbordaron.",
+      "literal": "derramándose desbordados sentimientos-de parte-hasta"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "待ちに待った",
+          "reading": "まちにまった",
+          "romaji": "machinimatta",
+          "gloss": "tan esperado",
+          "kind": "verb",
+          "base": {
+            "surface": "待つ",
+            "reading": "まつ",
+            "meaning": "esperar"
+          },
+          "form": {
+            "name": "pasado (た) que describe + repetición",
+            "why": "待つ → 待ち + に + 待った: «esperar y esperar». Patrón V-raíz + に + V-た = «tan esperado». OJO: delante de Show Time la た describe, no cierra."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Show Time",
+          "gloss": "hora del show",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "咲いて",
+          "reading": "さいて",
+          "romaji": "saite",
+          "gloss": "floreciendo",
+          "kind": "verb",
+          "base": {
+            "surface": "咲く",
+            "reading": "さく",
+            "meaning": "florecer"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "咲く → 咲いて (く→い + て). Acaba en て: «florecer y (caer)». Une con 散る."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "散る",
+          "reading": "ちる",
+          "romaji": "chiru",
+          "gloss": "caer (pétalos)",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "宿命",
+          "reading": "しゅくめい",
+          "romaji": "shukumei",
+          "gloss": "destino",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "connects",
+          "label": "y luego"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál destino"
+        }
+      ],
+      "translation": "El Show Time tan esperado; el destino de florecer y caer.",
+      "literal": "tan-esperado show-time florecer-y caer destino"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "どちら",
+          "romaji": "dochira",
+          "gloss": "cuál (de dos)",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección: «hacia cuál»."
+        },
+        {
+          "id": "t3",
+          "surface": "傾く",
+          "reading": "かたむく",
+          "romaji": "katamuku",
+          "gloss": "inclinarse",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "勝敗",
+          "reading": "しょうはい",
+          "romaji": "shouhai",
+          "gloss": "victoria o derrota",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el rumbo de la victoria o derrota»."
+        },
+        {
+          "id": "t6",
+          "surface": "行方",
+          "reading": "ゆくえ",
+          "romaji": "yukue",
+          "gloss": "rumbo",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "destination",
+          "label": "hacia dónde"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "¿Hacia qué lado se inclina el rumbo de la victoria o la derrota?",
+      "literal": "cuál-hacia inclinarse victoria-o-derrota-de rumbo"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "アグラ",
+          "romaji": "agura",
+          "gloss": "sentado en cómodo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "かいてりゃ",
+          "romaji": "kaitera",
+          "gloss": "si te acomodas",
+          "kind": "verb",
+          "base": {
+            "surface": "かく",
+            "meaning": "hacer (あぐらをかく)"
+          },
+          "form": {
+            "name": "ていれば abreviado (てりゃ)",
+            "why": "かいて + いれば → かいてりゃ: «si estás acomodándote». OJO: acaba en りゃ: es ば abreviado, no pasado ni cadena. «Si te acomodas…»."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "今日",
+          "reading": "きょう",
+          "romaji": "kou",
+          "gloss": "hoy",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "にも",
+          "romaji": "nimo",
+          "gloss": "hoy mismo",
+          "kind": "particle",
+          "role": "今日にも = «tan pronto como hoy»."
+        },
+        {
+          "id": "t5",
+          "surface": "潰れる",
+          "reading": "つぶれる",
+          "romaji": "tsubureru",
+          "gloss": "arruinarse",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t5",
+          "type": "connects",
+          "label": "si… entonces"
+        }
+      ],
+      "translation": "Si te acomodas, hoy mismo te arruinas.",
+      "literal": "acomodado si-te-acomodas hoy-mismo arruinarse"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "流した",
+          "reading": "ながした",
+          "romaji": "nagashita",
+          "gloss": "que derramaste",
+          "kind": "verb",
+          "base": {
+            "surface": "流す",
+            "reading": "ながす",
+            "meaning": "derramar"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "流す → 流した + 血と汗: «la sangre y el sudor que derramaste». OJO: la た describe; no cierra la frase."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "血",
+          "reading": "ち",
+          "romaji": "chi",
+          "gloss": "sangre",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "y",
+          "kind": "particle",
+          "role": "Une: «sangre y sudor»."
+        },
+        {
+          "id": "t4",
+          "surface": "汗",
+          "reading": "あせ",
+          "romaji": "ase",
+          "gloss": "sudor",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "己",
+          "reading": "おのれ",
+          "romaji": "onore",
+          "gloss": "uno mismo",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Medio o agente: «por ti mismo»."
+        },
+        {
+          "id": "t7",
+          "surface": "拭え",
+          "reading": "ぬぐえ",
+          "romaji": "nugue",
+          "gloss": "¡límpialo!",
+          "kind": "verb",
+          "base": {
+            "surface": "拭う",
+            "reading": "ぬぐう",
+            "meaning": "limpiar, secar"
+          },
+          "form": {
+            "name": "imperativo (godan: う → え)",
+            "why": "拭う → 拭え: orden directa. En los verbos en う el imperativo cambia う por え."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t7",
+          "to": "t2",
+          "type": "object",
+          "label": "qué limpia"
+        }
+      ],
+      "translation": "La sangre y el sudor que derramaste, límpialos tú mismo.",
+      "literal": "que-derramaste sangre-y sudor uno-mismo-por ¡límpialo!"
+    },
+    {
+      "id": "l30",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "願い",
+          "reading": "ねがい",
+          "romaji": "negai",
+          "gloss": "deseos",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "«…y también…»."
+        },
+        {
+          "id": "t3",
+          "surface": "プライド",
+          "romaji": "puraido",
+          "gloss": "orgullo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "«…y también…»."
+        },
+        {
+          "id": "t5",
+          "surface": "含め",
+          "reading": "ふくめ",
+          "romaji": "fukume",
+          "gloss": "incluyendo",
+          "kind": "verb",
+          "base": {
+            "surface": "含める",
+            "reading": "ふくめる",
+            "meaning": "incluir"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "含める → 含め (se quita る). Acaba en め, no en て/た: «incluyendo…», une con lo que sigue."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t1",
+          "type": "object",
+          "label": "qué incluye"
+        }
+      ],
+      "translation": "Incluyendo deseos y orgullo,",
+      "literal": "deseos-también orgullo-también incluyendo"
+    },
+    {
+      "id": "l31",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se carga."
+        },
+        {
+          "id": "t3",
+          "surface": "背負った",
+          "reading": "せおった",
+          "romaji": "seotta",
+          "gloss": "que cargaron",
+          "kind": "verb",
+          "base": {
+            "surface": "背負う",
+            "reading": "せおう",
+            "meaning": "cargar a la espalda"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "背負う → 背負った + 背後: «la espalda de quien cargó todo». OJO: la た describe; no cierra la frase."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "互い",
+          "reading": "たがい",
+          "romaji": "tagai",
+          "gloss": "mutuo",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la espalda del uno y del otro»."
+        },
+        {
+          "id": "t6",
+          "surface": "背後",
+          "reading": "はいご",
+          "romaji": "haigo",
+          "gloss": "la espalda",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t3",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de quiénes"
+        }
+      ],
+      "translation": "la espalda de cada uno, que cargó con todo.",
+      "literal": "todo-(obj) que-cargaron mutua-de espalda"
+    },
+    {
+      "id": "l32",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "情け",
+          "reading": "なさけ",
+          "romaji": "nasake",
+          "gloss": "compasión",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se da: 情けをかける = mostrar compasión."
+        },
+        {
+          "id": "t3",
+          "surface": "かけてりゃ",
+          "romaji": "kaketera",
+          "gloss": "si das",
+          "kind": "verb",
+          "base": {
+            "surface": "かける",
+            "meaning": "dar, echar"
+          },
+          "form": {
+            "name": "ていれば abreviado (てりゃ)",
+            "why": "かけて + いれば → かけてりゃ: «si estás dando». OJO: acaba en りゃ: ば abreviado."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "ダメ",
+          "romaji": "dame",
+          "gloss": "inútil",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: «volverse inútil»."
+        },
+        {
+          "id": "t6",
+          "surface": "なる",
+          "romaji": "naru",
+          "gloss": "volverse",
+          "kind": "verb"
+        },
+        {
+          "id": "t7",
+          "surface": "ぜ",
+          "romaji": "ze",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Énfasis masculino."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué da"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        }
+      ],
+      "translation": "Si das compasión, te echas a perder.",
+      "literal": "compasión-(obj) si-das inútil-en volverse-¡eh!"
+    },
+    {
+      "id": "l33",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "保て",
+          "reading": "たもて",
+          "romaji": "tamote",
+          "gloss": "¡mantén!",
+          "kind": "verb",
+          "base": {
+            "surface": "保つ",
+            "reading": "たもつ",
+            "meaning": "mantener"
+          },
+          "form": {
+            "name": "imperativo (godan: つ → て)",
+            "why": "保つ → 保て: orden directa. OJO: en los verbos en つ el imperativo cambia つ por て: acaba en て, pero es una orden, no una cadena."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "ポテンシャル",
+          "romaji": "potensharu",
+          "gloss": "potencial",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "メンタル",
+          "romaji": "mentaru",
+          "gloss": "mental",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "面",
+          "reading": "めん",
+          "romaji": "men",
+          "gloss": "aspecto",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "object",
+          "label": "qué mantiene"
+        }
+      ],
+      "translation": "Mantén el potencial, el lado mental.",
+      "literal": "¡mantén! potencial mental aspecto"
+    },
+    {
+      "id": "l34",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "猫も杓子も",
+          "reading": "ねこもしゃくしも",
+          "romaji": "nekomoshakushimo",
+          "gloss": "cualquiera",
+          "kind": "expr"
+        },
+        {
+          "id": "t2",
+          "surface": "待った",
+          "reading": "まった",
+          "romaji": "matta",
+          "gloss": "esperaba",
+          "kind": "verb",
+          "base": {
+            "surface": "待つ",
+            "reading": "まつ",
+            "meaning": "esperar"
+          },
+          "form": {
+            "name": "pasado (た) que describe",
+            "why": "待つ → 待った (つ→った). Aquí acompaña a ような: «como el que esperaba»."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "ような",
+          "romaji": "youna",
+          "gloss": "tipo",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "ヒーロー",
+          "romaji": "hiiroo",
+          "gloss": "héroe",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "modifies",
+          "label": "qué clase"
+        }
+      ],
+      "translation": "Un héroe como el que todo el mundo esperaba.",
+      "literal": "cualquiera esperaba tipo héroe",
+      "notes": [
+        "Interpretación: 待った puede leerse como «esperado». La frase es ambigua."
+      ]
+    },
+    {
+      "id": "l35",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "一晩",
+          "reading": "ひとばん",
+          "romaji": "hitoban",
+          "gloss": "una noche",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita."
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «de solo una noche»."
+        },
+        {
+          "id": "t4",
+          "surface": "ご覧",
+          "reading": "ごらん",
+          "romaji": "goran",
+          "gloss": "ver (honorífico)",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "ロマン",
+          "romaji": "roman",
+          "gloss": "romance",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "飛行",
+          "reading": "ひこう",
+          "romaji": "hikou",
+          "gloss": "vuelo",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "Una mirada de una sola noche: vuelo romántico.",
+      "literal": "una-noche-solo-de contemplar romance vuelo",
+      "notes": [
+        "Interpretación: frase poética con palabras sueltas."
+      ]
+    },
+    {
+      "id": "l36",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "おっ",
+          "romaji": "o",
+          "gloss": "¡oh!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "いいねえ",
+          "romaji": "iinee",
+          "gloss": "¡qué bien!",
+          "kind": "adj"
+        },
+        {
+          "id": "t3",
+          "surface": "そんなん",
+          "romaji": "sonnan",
+          "gloss": "algo así",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "じゃねえ",
+          "romaji": "janee",
+          "gloss": "no es",
+          "kind": "aux",
+          "base": {
+            "surface": "じゃない",
+            "meaning": "no ser"
+          },
+          "form": {
+            "name": "negativo rudo (ない → ねえ)",
+            "why": "じゃない → じゃねえ: forma masculina y brusca. Ojo: la ね + え final NO es la partícula ね."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "(afirma)",
+          "kind": "particle",
+          "role": "Final informal seguro."
+        }
+      ],
+      "links": [],
+      "translation": "¡Oh, qué bien! No es algo así.",
+      "literal": "¡oh! ¡qué-bien! algo-así no-es-(afirma)"
+    },
+    {
+      "id": "l37",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Kick on The Corner",
+          "gloss": "patada en la esquina",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "足りねえ",
+          "reading": "たりねえ",
+          "romaji": "tarinee",
+          "gloss": "no es suficiente",
+          "kind": "verb",
+          "base": {
+            "surface": "足りる",
+            "reading": "たりる",
+            "meaning": "bastar"
+          },
+          "form": {
+            "name": "negativo rudo (ない → ねえ)",
+            "why": "足りる → 足りない → 足りねえ: forma masculina y brusca. Ojo: la え final NO es una partícula."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "か",
+          "romaji": "ka",
+          "gloss": "¿?",
+          "kind": "particle",
+          "role": "Pregunta."
+        }
+      ],
+      "links": [],
+      "translation": "Kick on The Corner. ¿Todavía no es suficiente?",
+      "literal": "patada-en-la-esquina todavía no-basta ¿?"
+    },
+    {
+      "id": "l38",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "que",
+          "kind": "particle",
+          "role": "Compara: «distinto de lo de siempre»."
+        },
+        {
+          "id": "t3",
+          "surface": "違う",
+          "reading": "ちがう",
+          "romaji": "chigau",
+          "gloss": "ser distinto",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "非情",
+          "reading": "ひじょう",
+          "romaji": "hijou",
+          "gloss": "despiadado",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "な",
+          "romaji": "na",
+          "gloss": "de",
+          "kind": "aux"
+        },
+        {
+          "id": "t6",
+          "surface": "人格",
+          "reading": "じんかく",
+          "romaji": "jinkaku",
+          "gloss": "personalidad",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "守る",
+          "reading": "まもる",
+          "romaji": "mamoru",
+          "gloss": "proteger",
+          "kind": "verb"
+        },
+        {
+          "id": "t8",
+          "surface": "のさ",
+          "romaji": "nosa",
+          "gloss": "es que",
+          "kind": "particle",
+          "role": "の + さ: explicación segura."
+        },
+        {
+          "id": "t9",
+          "surface": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t7",
+          "to": "t9",
+          "type": "object",
+          "label": "qué protege"
+        }
+      ],
+      "translation": "Con una personalidad despiadada, distinta a la de siempre, lo protegeré todo.",
+      "literal": "siempre-que distinto despiadado de personalidad proteger-(explic.) todo",
+      "notes": [
+        "すべて va al final para darle énfasis: 守るのさ すべて = «lo protegeré, todo»."
+      ]
+    },
+    {
+      "id": "l39",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Like a",
+          "gloss": "como un",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "ターミネーター",
+          "romaji": "taamineetaa",
+          "gloss": "Terminator",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "Como un Terminator.",
+      "literal": "como-un terminator"
+    },
+    {
+      "id": "l40",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "4回",
+          "reading": "よんかい",
+          "romaji": "yonkai",
+          "gloss": "cuatro veces",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "5回",
+          "reading": "ごかい",
+          "romaji": "gokai",
+          "gloss": "cinco veces",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "a la",
+          "kind": "particle",
+          "role": "Cantidad que marca el límite: «a la cuarta, quinta vez»."
+        },
+        {
+          "id": "t4",
+          "surface": "立つ",
+          "reading": "たつ",
+          "romaji": "tatsu",
+          "gloss": "levantarse",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "ハイライト",
+          "romaji": "hairaito",
+          "gloss": "lo más destacado",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "(Fly High, Yeah!)",
+          "gloss": "(¡vuela alto!)",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t3",
+          "type": "destination",
+          "label": "a cuál vez"
+        }
+      ],
+      "translation": "A la cuarta o quinta vez me levanto: lo más destacado. (¡Vuela alto!)",
+      "literal": "cuatro-veces cinco-veces-a levantarse lo-destacado"
+    },
+    {
+      "id": "l41",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いっそ",
+          "romaji": "isso",
+          "gloss": "ya que",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "este",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "場",
+          "reading": "ば",
+          "romaji": "ba",
+          "gloss": "lugar",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Dónde: «en este lugar»."
+        },
+        {
+          "id": "t5",
+          "surface": "伝えたる",
+          "reading": "つたえたる",
+          "romaji": "tsutaetaru",
+          "gloss": "te lo diré",
+          "kind": "verb",
+          "base": {
+            "surface": "伝えてやる",
+            "reading": "つたえてやる",
+            "meaning": "decírselo (con fuerza)"
+          },
+          "form": {
+            "name": "てやる en kansai (たる)",
+            "why": "伝えて + やる → 伝えたる: forma del dialecto de Kansai de てやる: «te lo voy a decir». OJO: たる aquí NO es pasado: es el verbo やる («hacer a otro») cambiado."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "ぞ",
+          "romaji": "zo",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Énfasis masculino."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "destination",
+          "label": "dónde"
+        }
+      ],
+      "translation": "Ya que estamos, aquí mismo te lo digo.",
+      "literal": "ya-que este lugar-en te-lo-diré-¡eh!"
+    },
+    {
+      "id": "l42",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Everybody Stand Up!",
+          "gloss": "¡todos de pie!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "あげろ",
+          "romaji": "agero",
+          "gloss": "¡levanta!",
+          "kind": "verb",
+          "base": {
+            "surface": "上げる",
+            "reading": "あげる",
+            "meaning": "levantar"
+          },
+          "form": {
+            "name": "imperativo (ichidan: る → ろ)",
+            "why": "上げる → 上げろ: orden directa. En los ichidan se cambia る por ろ."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "今日",
+          "reading": "きょう",
+          "romaji": "kou",
+          "gloss": "hoy",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "一番",
+          "reading": "いちばん",
+          "romaji": "ichiban",
+          "gloss": "el mejor",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el mejor momento de hoy»."
+        },
+        {
+          "id": "t6",
+          "surface": "時間",
+          "reading": "じかん",
+          "romaji": "jikan",
+          "gloss": "tiempo",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "qué momento"
+        },
+        {
+          "from": "t3",
+          "to": "t6",
+          "type": "modifies",
+          "label": "de cuándo"
+        }
+      ],
+      "translation": "¡Todos de pie! ¡Arriba! Es el mejor momento de hoy.",
+      "literal": "¡todos-de-pie! ¡levanta! hoy mejor-de momento es"
+    },
+    {
+      "id": "l43",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "目",
+          "reading": "め",
+          "romaji": "me",
+          "gloss": "ojo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a",
+          "kind": "particle",
+          "role": "Dónde se queda: «a los ojos»."
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "ni",
+          "kind": "particle",
+          "role": "に + も: con negativo = «ni siquiera a los ojos»."
+        },
+        {
+          "id": "t4",
+          "surface": "止まらぬ",
+          "reading": "とまらぬ",
+          "romaji": "tomaranu",
+          "gloss": "que no se detiene",
+          "kind": "verb",
+          "base": {
+            "surface": "止まる",
+            "reading": "とまる",
+            "meaning": "detenerse"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "止まる → 止まらぬ: «que no se detiene». ぬ = ない en lenguaje clásico o dramático. 目にも止まらぬ = «tan rápido que ni se ve»."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "スピードハンター",
+          "romaji": "supiidohantaa",
+          "gloss": "cazador de velocidad",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "El cazador de velocidad que ni los ojos pueden seguir.",
+      "literal": "ojo-a-ni no-se-detiene cazador-de-velocidad"
+    },
+    {
+      "id": "l44",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "誰もが",
+          "reading": "だれもが",
+          "romaji": "daremoga",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "皆",
+          "reading": "みな",
+          "romaji": "mina",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "虜",
+          "reading": "とりこ",
+          "romaji": "toriko",
+          "gloss": "cautivo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "看板",
+          "reading": "かんばん",
+          "romaji": "kanban",
+          "gloss": "cartel",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "Yeah! (Come On!)",
+          "gloss": "¡sí! ¡vamos!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Todos, cautivos del gran nombre. ¡Yeah!",
+      "literal": "todos todos cautivo cartel ¡sí!"
+    },
+    {
+      "id": "l45",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Everybody Hands Up!",
+          "gloss": "¡todos arriba las manos!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "待たしたな",
+          "reading": "またしたな",
+          "romaji": "matashitana",
+          "gloss": "te hice esperar",
+          "kind": "verb",
+          "base": {
+            "surface": "待たせる",
+            "reading": "またせる",
+            "meaning": "hacer esperar"
+          },
+          "form": {
+            "name": "causativo + pasado (た)",
+            "why": "待たす (= 待たせる, coloquial) → 待たした: «hice esperar». OJO: た = pasado. な final = «¿eh?». «Te hice esperar, ¿eh?»."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "Hero’s Come Back!!",
+          "gloss": "¡el héroe vuelve!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Todos arriba las manos! Os hice esperar, ¿eh? ¡El héroe vuelve!",
+      "literal": "¡manos-arriba! hice-esperar ¡el-héroe-vuelve!"
+    },
+    {
+      "id": "l46",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "頭上",
+          "reading": "ずじょう",
+          "romaji": "zujou",
+          "gloss": "sobre la cabeza",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "数え",
+          "reading": "かぞえ",
+          "romaji": "kazoe",
+          "gloss": "contando",
+          "kind": "verb",
+          "base": {
+            "surface": "数える",
+            "reading": "かぞえる",
+            "meaning": "contar"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "数える → 数え (se quita る). Acaba en え, no en て/た: une con 指折る sin marcar tiempo."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "指折る",
+          "reading": "ゆびおる",
+          "romaji": "yubioru",
+          "gloss": "doblar dedos",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "Count Down",
+          "gloss": "cuenta atrás",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "cómo cuenta"
+        }
+      ],
+      "translation": "Sobre la cabeza, contando con los dedos, la cuenta atrás.",
+      "literal": "sobre-la-cabeza contando doblar-dedos cuenta-atrás"
+    },
+    {
+      "id": "l47",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いくぜ",
+          "romaji": "ikuze",
+          "gloss": "allá voy",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "3-2-1",
+          "gloss": "3-2-1",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "Make Some Noise!",
+          "gloss": "¡haz ruido!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Allá voy! 3, 2, 1, ¡haz ruido!",
+      "literal": "voy 3-2-1 ¡haz-ruido!"
+    },
+    {
+      "id": "l48",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "もう",
+          "romaji": "mou",
+          "gloss": "ya",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "多少",
+          "reading": "たしょう",
+          "romaji": "tashou",
+          "gloss": "algo de",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «algo de riesgo»."
+        },
+        {
+          "id": "t4",
+          "surface": "リスク",
+          "romaji": "risuku",
+          "gloss": "riesgo",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «en cuanto al riesgo…»."
+        },
+        {
+          "id": "t6",
+          "surface": "覚悟",
+          "reading": "かくご",
+          "romaji": "kakugo",
+          "gloss": "estar preparado",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "でしょ",
+          "romaji": "desho",
+          "gloss": "¿verdad?",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "Ya estás preparado para algo de riesgo, ¿no?",
+      "literal": "ya algo-de riesgo-en-cuanto-a preparado ¿no?"
+    },
+    {
+      "id": "l49",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何回",
+          "reading": "なんかい",
+          "romaji": "nankai",
+          "gloss": "cuántas veces",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "転んだって",
+          "reading": "ころんだって",
+          "romaji": "korondatte",
+          "gloss": "aunque me caiga",
+          "kind": "verb",
+          "base": {
+            "surface": "転ぶ",
+            "reading": "ころぶ",
+            "meaning": "caerse"
+          },
+          "form": {
+            "name": "たって (aunque)",
+            "why": "転ぶ → 転んだ (ぶ→ん + だ) + って = «aunque me caiga». OJO: la だ NO es pasado: たって = «aunque / por más que». Pista: sigue «me levanto» (起つ)."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "起つ",
+          "reading": "たつ",
+          "romaji": "tatsu",
+          "gloss": "levantarse",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "(Get It On)",
+          "gloss": "(¡adelante!)",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "aunque… igual me levanto"
+        },
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuántas veces"
+        }
+      ],
+      "translation": "Por más veces que me caiga, me levanto. (¡Adelante!)",
+      "literal": "cuántas-veces aunque-caiga levantarse ¡adelante!"
+    },
+    {
+      "id": "l50",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "なれ合い",
+          "reading": "なれあい",
+          "romaji": "nareai",
+          "gloss": "complicidad",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "じゃない",
+          "romaji": "janai",
+          "gloss": "no es",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "ぜ",
+          "romaji": "ze",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Énfasis masculino."
+        },
+        {
+          "id": "t4",
+          "surface": "紙一重",
+          "reading": "かみひとえ",
+          "romaji": "kamihitoe",
+          "gloss": "por un pelo",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «una sesión por un pelo»."
+        },
+        {
+          "id": "t6",
+          "surface": "セッション",
+          "romaji": "sesshon",
+          "gloss": "sesión",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "No es complicidad: es una sesión al filo.",
+      "literal": "complicidad no-es-¡eh! por-un-pelo-de sesión"
+    },
+    {
+      "id": "l51",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "入りくんだ",
+          "reading": "いりくんだ",
+          "romaji": "irikunda",
+          "gloss": "enredado",
+          "kind": "verb",
+          "base": {
+            "surface": "入り組む",
+            "reading": "いりくむ",
+            "meaning": "enredarse"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "入り組む → 入り組んだ + 感情: «sentimientos enredados». OJO: la た describe un estado, no cierra la frase."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "感情",
+          "reading": "かんじょう",
+          "romaji": "kanjou",
+          "gloss": "sentimientos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "築きあげた",
+          "reading": "きずきあげた",
+          "romaji": "kizukiageta",
+          "gloss": "que construimos",
+          "kind": "verb",
+          "base": {
+            "surface": "築き上げる",
+            "reading": "きずきあげる",
+            "meaning": "construir con esfuerzo"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "築き上げる → 築き上げた + 結晶: «el cristal que construimos». OJO: la た describe; no cierra la frase."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "結晶",
+          "reading": "けっしょう",
+          "romaji": "kesshou",
+          "gloss": "cristal, fruto",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Sentimientos enredados, el cristal que construimos.",
+      "literal": "enredados sentimientos que-construimos cristal"
+    },
+    {
+      "id": "l52",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Made In",
+          "gloss": "hecho en",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "ヒューマン",
+          "romaji": "huuman",
+          "gloss": "humano",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une."
+        },
+        {
+          "id": "t4",
+          "surface": "ドラマ",
+          "romaji": "dorama",
+          "gloss": "drama",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une."
+        },
+        {
+          "id": "t6",
+          "surface": "延長",
+          "reading": "えんちょう",
+          "romaji": "enchou",
+          "gloss": "prolongación",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "de qué"
+        }
+      ],
+      "translation": "Hecho en la prolongación del drama humano.",
+      "literal": "hecho-en humano-de drama-de prolongación"
+    },
+    {
+      "id": "l53",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "まるで",
+          "romaji": "marude",
+          "gloss": "como si",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "燃え盛る",
+          "reading": "もえさかる",
+          "romaji": "moesakaru",
+          "gloss": "arder",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "吉原",
+          "reading": "よしわら",
+          "romaji": "yoshiwara",
+          "gloss": "Yoshiwara",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une."
+        },
+        {
+          "id": "t5",
+          "surface": "炎上",
+          "reading": "えんじょう",
+          "romaji": "enjou",
+          "gloss": "incendio",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Como el incendio ardiente de Yoshiwara.",
+      "literal": "como-si arder Yoshiwara-de incendio"
+    },
+    {
+      "id": "l54",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "エンドレス",
+          "romaji": "endoresu",
+          "gloss": "sin fin",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "gloss": "lo que viene",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "también",
+          "kind": "particle",
+          "role": "«También lo que viene…»."
+        },
+        {
+          "id": "t4",
+          "surface": "転がる",
+          "reading": "ころがる",
+          "romaji": "korogaru",
+          "gloss": "rodar",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "日常",
+          "reading": "にちじょう",
+          "romaji": "nichijou",
+          "gloss": "vida diaria",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Sin fin, la vida diaria que sigue rodando.",
+      "literal": "sin-fin lo-que-viene-también rodar vida-diaria"
+    },
+    {
+      "id": "l55",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "笑う",
+          "reading": "わらう",
+          "romaji": "warau",
+          "gloss": "reír",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "ほど",
+          "romaji": "hodo",
+          "gloss": "tanto como",
+          "kind": "particle",
+          "role": "Medida: «tanto como para reír»."
+        },
+        {
+          "id": "t3",
+          "surface": "バカ",
+          "romaji": "baka",
+          "gloss": "tonto",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: «volverse tonto»."
+        },
+        {
+          "id": "t5",
+          "surface": "なれる",
+          "romaji": "nareru",
+          "gloss": "poder volverse",
+          "kind": "verb",
+          "base": {
+            "surface": "なる",
+            "meaning": "volverse"
+          },
+          "form": {
+            "name": "potencial (れる)",
+            "why": "なる → なれる: «poder volverse». Los verbos en る/う cambian a -える/-れる para decir «poder»."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "って",
+          "romaji": "tte",
+          "gloss": "que",
+          "kind": "particle",
+          "role": "Cita informal: «eso de que…» (= という)."
+        },
+        {
+          "id": "t7",
+          "surface": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "gloss": "hecho",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        },
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "Eso de poder volverte tan tonto que hasta ríes.",
+      "literal": "reír-tanto-como tonto-en poder-volverse que hecho"
+    },
+    {
+      "id": "l56",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "劣勢",
+          "reading": "れっせい",
+          "romaji": "ressei",
+          "gloss": "desventaja",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "吹く",
+          "reading": "ふく",
+          "romaji": "fuku",
+          "gloss": "soplar",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "向かい風",
+          "reading": "むかいかぜ",
+          "romaji": "mukaikaze",
+          "gloss": "viento de frente",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "にも",
+          "romaji": "nimo",
+          "gloss": "ni siquiera ante",
+          "kind": "particle",
+          "role": "に + も: «ni siquiera ante…»."
+        },
+        {
+          "id": "t5",
+          "surface": "負けん",
+          "reading": "まけん",
+          "romaji": "maken",
+          "gloss": "no pierdo",
+          "kind": "verb",
+          "base": {
+            "surface": "負ける",
+            "reading": "まける",
+            "meaning": "perder"
+          },
+          "form": {
+            "name": "negativo coloquial (ん)",
+            "why": "負ける → 負けない → 負けん: la ん es una forma corta de ない, de tono rudo. No es pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "qué clase"
+        }
+      ],
+      "translation": "Ni ante el viento de frente de la desventaja me rindo.",
+      "literal": "desventaja soplar viento-de-frente ni-ante no-pierdo"
+    },
+    {
+      "id": "l57",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "巻き込む",
+          "reading": "まきこむ",
+          "romaji": "makikomu",
+          "gloss": "arrastrar",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "何度",
+          "reading": "なんど",
+          "romaji": "nando",
+          "gloss": "cuántas veces",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "incluso",
+          "kind": "particle",
+          "role": "何度も = «muchas veces»."
+        },
+        {
+          "id": "t4",
+          "surface": "出くわしてきた",
+          "reading": "でくわしてきた",
+          "romaji": "dekuwashitekita",
+          "gloss": "hemos venido topándonos",
+          "kind": "verb",
+          "base": {
+            "surface": "出くわす",
+            "reading": "でくわす",
+            "meaning": "toparse con"
+          },
+          "form": {
+            "name": "てきた (viene haciéndose hasta ahora)",
+            "why": "出くわす → 出くわして + きた: «hemos venido topándonos». OJO: es て + きた, no el pasado simple 出くわした."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "ぜ",
+          "romaji": "ze",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Énfasis masculino."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuántas veces"
+        }
+      ],
+      "translation": "Arrastrando… nos hemos topado muchas veces.",
+      "literal": "arrastrar muchas-veces venido-topándonos-¡eh!"
+    },
+    {
+      "id": "l58",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "幾度となく",
+          "reading": "いくどとなく",
+          "romaji": "ikudotonaku",
+          "gloss": "incontables veces",
+          "kind": "adv",
+          "base": {
+            "surface": "幾度となし",
+            "meaning": "sin cuento"
+          },
+          "form": {
+            "name": "forma adverbial de ない (なく)",
+            "why": "幾度となく = «sin contar las veces». なく es la forma conectiva/adverbial de ない: acaba en く pero no es un verbo."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "立つ",
+          "reading": "たつ",
+          "romaji": "tatsu",
+          "gloss": "ponerse en pie",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "este",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "場",
+          "reading": "ば",
+          "romaji": "ba",
+          "gloss": "lugar",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «batalla de este lugar»."
+        },
+        {
+          "id": "t6",
+          "surface": "バトル",
+          "romaji": "batoru",
+          "gloss": "batalla",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t6",
+          "type": "modifies",
+          "label": "qué batalla"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "dónde"
+        }
+      ],
+      "translation": "Incontables veces me pongo en pie en la batalla de este lugar.",
+      "literal": "incontables-veces ponerse-en-pie este lugar-de batalla"
+    },
+    {
+      "id": "l59",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "闘い方",
+          "reading": "たたかいかた",
+          "romaji": "tatakaikata",
+          "gloss": "modo de luchar",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "なら",
+          "romaji": "nara",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema condicional: «si es de cómo luchar…»."
+        },
+        {
+          "id": "t3",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "este",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "身",
+          "reading": "み",
+          "romaji": "mi",
+          "gloss": "cuerpo",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién entiende: el cuerpo."
+        },
+        {
+          "id": "t6",
+          "surface": "悟る",
+          "reading": "さとる",
+          "romaji": "satoru",
+          "gloss": "comprender",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "subject",
+          "label": "quién"
+        }
+      ],
+      "translation": "En cuanto a cómo luchar, mi cuerpo lo comprende.",
+      "literal": "modo-de-luchar-en-cuanto-a este cuerpo-(suj) comprender"
+    },
+    {
+      "id": "l60",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "一夜二夜",
+          "reading": "いちやにや",
+          "romaji": "ichiyaniya",
+          "gloss": "una o dos noches",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une."
+        },
+        {
+          "id": "t3",
+          "surface": "付け焼き刃",
+          "reading": "つけやきば",
+          "romaji": "tsukeyakiba",
+          "gloss": "aprendizaje a la carrera",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "じゃ",
+          "romaji": "ja",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "じゃ = では: «con eso no…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "Con un aprendizaje de una o dos noches…",
+      "literal": "una-o-dos-noches-de aprendizaje-a-la-carrera con",
+      "notes": [
+        "La frase se corta: queda implícito «no alcanza»."
+      ]
+    },
+    {
+      "id": "l61",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "守る",
+          "reading": "まもる",
+          "romaji": "mamoru",
+          "gloss": "proteger",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "もん",
+          "romaji": "mon",
+          "gloss": "lo que",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca el sujeto."
+        },
+        {
+          "id": "t4",
+          "surface": "違う",
+          "reading": "ちがう",
+          "romaji": "chigau",
+          "gloss": "ser distinto",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "な",
+          "romaji": "na",
+          "gloss": "¿eh?",
+          "kind": "particle",
+          "role": "Final: observación."
+        },
+        {
+          "id": "t6",
+          "surface": "白旗",
+          "reading": "はっき",
+          "romaji": "hakki",
+          "gloss": "bandera blanca",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se agita."
+        },
+        {
+          "id": "t8",
+          "surface": "振りな",
+          "reading": "ふりな",
+          "romaji": "furina",
+          "gloss": "agita",
+          "kind": "verb",
+          "base": {
+            "surface": "振る",
+            "reading": "ふる",
+            "meaning": "agitar"
+          },
+          "form": {
+            "name": "raíz + な (orden suave)",
+            "why": "振る → 振り + な: orden suave y coloquial: «agítala». OJO: la な final no es la partícula de «¿eh?»: es parte de la orden."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "qué"
+        },
+        {
+          "from": "t8",
+          "to": "t6",
+          "type": "object",
+          "label": "qué agita"
+        }
+      ],
+      "translation": "Lo que protegemos es distinto, ¿eh? Agita la bandera blanca.",
+      "literal": "proteger-lo-que-(suj) distinto-¿eh? bandera-blanca-(obj) agita"
+    },
+    {
+      "id": "l62",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "陽の目",
+          "reading": "ひのめ",
+          "romaji": "hinome",
+          "gloss": "la luz del día",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "憧れる",
+          "reading": "あこがれる",
+          "romaji": "akogareru",
+          "gloss": "anhelar",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "日陰",
+          "reading": "ひかげ",
+          "romaji": "hikage",
+          "gloss": "sombra",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se conoce."
+        },
+        {
+          "id": "t5",
+          "surface": "知る",
+          "reading": "しる",
+          "romaji": "shiru",
+          "gloss": "conocer",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Anhelar la luz del día, conocer la sombra.",
+      "literal": "luz-del-día anhelar sombra-(obj) conocer"
+    },
+    {
+      "id": "l63",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "言い訳",
+          "reading": "いいわけ",
+          "romaji": "iiwake",
+          "gloss": "excusa",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema con contraste: «excusas…»."
+        },
+        {
+          "id": "t3",
+          "surface": "聞かん",
+          "reading": "きかん",
+          "romaji": "kikan",
+          "gloss": "no escucho",
+          "kind": "verb",
+          "base": {
+            "surface": "聞く",
+            "reading": "きく",
+            "meaning": "escuchar"
+          },
+          "form": {
+            "name": "negativo coloquial (ん)",
+            "why": "聞く → 聞かない → 聞かん: forma corta de ない, de tono rudo. No es pasado."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "それこそ",
+          "romaji": "sorekoso",
+          "gloss": "precisamente eso",
+          "kind": "aux"
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca el sujeto de la identificación."
+        },
+        {
+          "id": "t6",
+          "surface": "Real",
+          "gloss": "auténtico",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "topic",
+          "label": "qué no escucha"
+        }
+      ],
+      "translation": "No escucho excusas; eso es lo auténtico.",
+      "literal": "excusa-en-cuanto-a no-escucho precisamente-eso-(suj) auténtico"
+    },
+    {
+      "id": "l64",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ファイト",
+          "romaji": "fuぁito",
+          "gloss": "¡lucha!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "毎度",
+          "reading": "まいど",
+          "romaji": "maido",
+          "gloss": "cada vez",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "I’m Proud",
+          "gloss": "estoy orgulloso",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Lucha! Cada vez, estoy orgulloso.",
+      "literal": "¡lucha! cada-vez estoy-orgulloso"
+    },
+    {
+      "id": "l65",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何から何まで",
+          "reading": "なにからなにまで",
+          "romaji": "nanikarananimade",
+          "gloss": "absolutamente todo",
+          "kind": "expr"
+        },
+        {
+          "id": "t2",
+          "surface": "まだ",
+          "romaji": "mada",
+          "gloss": "todavía",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "失っちゃない",
+          "reading": "うしなっちゃない",
+          "romaji": "ushinatchanai",
+          "gloss": "no he perdido",
+          "kind": "verb",
+          "base": {
+            "surface": "失う",
+            "reading": "うしなう",
+            "meaning": "perder"
+          },
+          "form": {
+            "name": "ては → ちゃ + ない (ていない)",
+            "why": "失って + は + ない → 失っちゃない: «no (he) perdido». OJO: -っちゃ- es la contracción de ては: refuerza el negativo; la frase no es pasado, es «no estoy habiendo perdido»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "ぞ",
+          "romaji": "zo",
+          "gloss": "¡eh!",
+          "kind": "particle",
+          "role": "Énfasis masculino."
+        },
+        {
+          "id": "t5",
+          "surface": "(と)",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cierre de cita: «(digo) que…»."
+        }
+      ],
+      "links": [],
+      "translation": "¡Todavía no he perdido absolutamente nada!",
+      "literal": "absolutamente-todo todavía no-he-perdido-¡eh! (cita)"
+    },
+    {
+      "id": "l66",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Yes",
+          "gloss": "sí",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "か",
+          "romaji": "ka",
+          "gloss": "o",
+          "kind": "particle",
+          "role": "Une opciones: «Yes o No»."
+        },
+        {
+          "id": "t3",
+          "surface": "No",
+          "gloss": "no",
+          "kind": "other"
+        },
+        {
+          "id": "t4",
+          "surface": "じゃ",
+          "romaji": "ja",
+          "gloss": "no es",
+          "kind": "particle",
+          "role": "じゃ = では."
+        },
+        {
+          "id": "t5",
+          "surface": "無い",
+          "reading": "ない",
+          "romaji": "nai",
+          "gloss": "no es",
+          "kind": "adj"
+        },
+        {
+          "id": "t6",
+          "surface": "いつか",
+          "romaji": "itsuka",
+          "gloss": "algún día",
+          "kind": "adv"
+        },
+        {
+          "id": "t7",
+          "surface": "こう",
+          "romaji": "kou",
+          "gloss": "así",
+          "kind": "adv"
+        },
+        {
+          "id": "t8",
+          "surface": "笑う",
+          "reading": "わらう",
+          "romaji": "warau",
+          "gloss": "reír",
+          "kind": "verb"
+        }
+      ],
+      "links": [],
+      "translation": "No es cuestión de Yes o No: algún día reiremos así.",
+      "literal": "yes-o-no no-es algún-día así reír"
+    },
+    {
+      "id": "l67",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "はなから",
+          "romaji": "hanakara",
+          "gloss": "desde el principio",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "パッと",
+          "romaji": "patto",
+          "gloss": "de golpe",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "決める",
+          "reading": "きめる",
+          "romaji": "kimeru",
+          "gloss": "decidir",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "いくぜ",
+          "romaji": "ikuze",
+          "gloss": "allá voy",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "相棒",
+          "reading": "あいぼう",
+          "romaji": "aibou",
+          "gloss": "compañero",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "Desde el principio, decidir de golpe. ¡Vamos, compañero!",
+      "literal": "desde-el-principio de-golpe decidir ¡voy! compañero"
+    },
+    {
+      "id": "l68",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "沸き上がる",
+          "reading": "わきあがる",
+          "romaji": "wakiagaru",
+          "gloss": "brotar",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "歓声",
+          "reading": "かんせい",
+          "romaji": "kansei",
+          "gloss": "vítores",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que se vuelve valentía."
+        },
+        {
+          "id": "t4",
+          "surface": "勇気",
+          "reading": "ゆうき",
+          "romaji": "yuuki",
+          "gloss": "valentía",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: 〜となる = «volverse…» (más formal que になる)."
+        },
+        {
+          "id": "t6",
+          "surface": "なる",
+          "romaji": "naru",
+          "gloss": "volverse",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        }
+      ],
+      "translation": "Los vítores que brotan se vuelven valentía.",
+      "literal": "brotar vítores-(suj) valentía-en volverse"
+    },
+    {
+      "id": "l69",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "立ち上がれば",
+          "reading": "たちあがれば",
+          "romaji": "tachiagareba",
+          "gloss": "si te levantas",
+          "kind": "verb",
+          "base": {
+            "surface": "立ち上がる",
+            "reading": "たちあがる",
+            "meaning": "levantarse"
+          },
+          "form": {
+            "name": "condicional (ば)",
+            "why": "立ち上がる → 立ち上がれば (る→れ + ば): «si te levantas». Pista: ば, no pasado."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "今以上",
+          "reading": "いまいじょう",
+          "romaji": "imaijou",
+          "gloss": "más que ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "苦しみ",
+          "reading": "くるしみ",
+          "romaji": "kurushimi",
+          "gloss": "sufrimiento",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "伴う",
+          "reading": "ともなう",
+          "romaji": "tomonau",
+          "gloss": "conllevar",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t3",
+          "type": "object",
+          "label": "qué conlleva"
+        }
+      ],
+      "translation": "Si te levantas, conlleva más sufrimiento que ahora.",
+      "literal": "si-te-levantas más-que-ahora sufrimiento conllevar"
+    },
+    {
+      "id": "l70",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "それでも",
+          "romaji": "soredemo",
+          "gloss": "aun así",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "最後",
+          "reading": "さいご",
+          "romaji": "saigo",
+          "gloss": "al final",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «al final…»."
+        },
+        {
+          "id": "t4",
+          "surface": "きっと",
+          "romaji": "kitto",
+          "gloss": "seguro",
+          "kind": "adv"
+        },
+        {
+          "id": "t5",
+          "surface": "笑う",
+          "reading": "わらう",
+          "romaji": "warau",
+          "gloss": "reír",
+          "kind": "verb"
+        }
+      ],
+      "links": [],
+      "translation": "Aun así, al final seguro que reiremos.",
+      "literal": "aun-así al-final-en-cuanto-a seguro reír"
+    },
+    {
+      "id": "l71",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "さらう",
+          "romaji": "sarau",
+          "gloss": "llevarse",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "勝利",
+          "reading": "しょうり",
+          "romaji": "shouri",
+          "gloss": "victoria",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "y",
+          "kind": "particle",
+          "role": "Une: «victoria y vítores»."
+        },
+        {
+          "id": "t5",
+          "surface": "歓声",
+          "reading": "かんせい",
+          "romaji": "kansei",
+          "gloss": "vítores",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t1",
+          "type": "object",
+          "label": "qué se lleva"
+        }
+      ],
+      "translation": "Llevarnos todo: victoria y vítores.",
+      "literal": "todo llevarse victoria-y vítores"
+    },
+    {
+      "id": "l72",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Everybody Stand Up!",
+          "gloss": "¡todos de pie!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "あげろ",
+          "romaji": "agero",
+          "gloss": "¡levanta!",
+          "kind": "verb",
+          "base": {
+            "surface": "上げる",
+            "reading": "あげる",
+            "meaning": "levantar"
+          },
+          "form": {
+            "name": "imperativo (ichidan: る → ろ)",
+            "why": "上げる → 上げろ: orden directa. En los ichidan se cambia る por ろ."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "今日",
+          "reading": "きょう",
+          "romaji": "kou",
+          "gloss": "hoy",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "一番",
+          "reading": "いちばん",
+          "romaji": "ichiban",
+          "gloss": "el mejor",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el mejor momento de hoy»."
+        },
+        {
+          "id": "t6",
+          "surface": "時間",
+          "reading": "じかん",
+          "romaji": "jikan",
+          "gloss": "tiempo",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "qué momento"
+        },
+        {
+          "from": "t3",
+          "to": "t6",
+          "type": "modifies",
+          "label": "de cuándo"
+        }
+      ],
+      "translation": "¡Todos de pie! ¡Arriba! Es el mejor momento de hoy.",
+      "literal": "¡todos-de-pie! ¡levanta! hoy mejor-de momento es"
+    },
+    {
+      "id": "l73",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "目",
+          "reading": "め",
+          "romaji": "me",
+          "gloss": "ojo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a",
+          "kind": "particle",
+          "role": "Dónde se queda: «a los ojos»."
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "ni",
+          "kind": "particle",
+          "role": "に + も: con negativo = «ni siquiera a los ojos»."
+        },
+        {
+          "id": "t4",
+          "surface": "止まらぬ",
+          "reading": "とまらぬ",
+          "romaji": "tomaranu",
+          "gloss": "que no se detiene",
+          "kind": "verb",
+          "base": {
+            "surface": "止まる",
+            "reading": "とまる",
+            "meaning": "detenerse"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "止まる → 止まらぬ: «que no se detiene». ぬ = ない en lenguaje clásico o dramático. 目にも止まらぬ = «tan rápido que ni se ve»."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "スピードハンター",
+          "romaji": "supiidohantaa",
+          "gloss": "cazador de velocidad",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "El cazador de velocidad que ni los ojos pueden seguir.",
+      "literal": "ojo-a-ni no-se-detiene cazador-de-velocidad"
+    },
+    {
+      "id": "l74",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "誰もが",
+          "reading": "だれもが",
+          "romaji": "daremoga",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "皆",
+          "reading": "みな",
+          "romaji": "mina",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "虜",
+          "reading": "とりこ",
+          "romaji": "toriko",
+          "gloss": "cautivo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "看板",
+          "reading": "かんばん",
+          "romaji": "kanban",
+          "gloss": "cartel",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "Yeah! (Come On!)",
+          "gloss": "¡sí! ¡vamos!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Todos, cautivos del gran nombre. ¡Yeah!",
+      "literal": "todos todos cautivo cartel ¡sí!"
+    },
+    {
+      "id": "l75",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Everybody Hands Up!",
+          "gloss": "¡todos arriba las manos!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "待たしたな",
+          "reading": "またしたな",
+          "romaji": "matashitana",
+          "gloss": "te hice esperar",
+          "kind": "verb",
+          "base": {
+            "surface": "待たせる",
+            "reading": "またせる",
+            "meaning": "hacer esperar"
+          },
+          "form": {
+            "name": "causativo + pasado (た)",
+            "why": "待たす (= 待たせる, coloquial) → 待たした: «hice esperar». OJO: た = pasado. な final = «¿eh?». «Te hice esperar, ¿eh?»."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "Hero’s Come Back!!",
+          "gloss": "¡el héroe vuelve!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Todos arriba las manos! Os hice esperar, ¿eh? ¡El héroe vuelve!",
+      "literal": "¡manos-arriba! hice-esperar ¡el-héroe-vuelve!"
+    },
+    {
+      "id": "l76",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "頭上",
+          "reading": "ずじょう",
+          "romaji": "zujou",
+          "gloss": "sobre la cabeza",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "数え",
+          "reading": "かぞえ",
+          "romaji": "kazoe",
+          "gloss": "contando",
+          "kind": "verb",
+          "base": {
+            "surface": "数える",
+            "reading": "かぞえる",
+            "meaning": "contar"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "数える → 数え (se quita る). Acaba en え, no en て/た: une con 指折る sin marcar tiempo."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "指折る",
+          "reading": "ゆびおる",
+          "romaji": "yubioru",
+          "gloss": "doblar dedos",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "Count Down",
+          "gloss": "cuenta atrás",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "cómo cuenta"
+        }
+      ],
+      "translation": "Sobre la cabeza, contando con los dedos, la cuenta atrás.",
+      "literal": "sobre-la-cabeza contando doblar-dedos cuenta-atrás"
+    },
+    {
+      "id": "l77",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いくぜ",
+          "romaji": "ikuze",
+          "gloss": "allá voy",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "3-2-1",
+          "gloss": "3-2-1",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "Make Some Noise!",
+          "gloss": "¡haz ruido!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Allá voy! 3, 2, 1, ¡haz ruido!",
+      "literal": "voy 3-2-1 ¡haz-ruido!"
+    },
+    {
+      "id": "l78",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Everybody Stand Up!",
+          "gloss": "¡todos de pie!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "あげろ",
+          "romaji": "agero",
+          "gloss": "¡levanta!",
+          "kind": "verb",
+          "base": {
+            "surface": "上げる",
+            "reading": "あげる",
+            "meaning": "levantar"
+          },
+          "form": {
+            "name": "imperativo (ichidan: る → ろ)",
+            "why": "上げる → 上げろ: orden directa. En los ichidan se cambia る por ろ."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "今日",
+          "reading": "きょう",
+          "romaji": "kou",
+          "gloss": "hoy",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "一番",
+          "reading": "いちばん",
+          "romaji": "ichiban",
+          "gloss": "el mejor",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el mejor momento de hoy»."
+        },
+        {
+          "id": "t6",
+          "surface": "時間",
+          "reading": "じかん",
+          "romaji": "jikan",
+          "gloss": "tiempo",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "qué momento"
+        },
+        {
+          "from": "t3",
+          "to": "t6",
+          "type": "modifies",
+          "label": "de cuándo"
+        }
+      ],
+      "translation": "¡Todos de pie! ¡Arriba! Es el mejor momento de hoy.",
+      "literal": "¡todos-de-pie! ¡levanta! hoy mejor-de momento es"
+    },
+    {
+      "id": "l79",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "目",
+          "reading": "め",
+          "romaji": "me",
+          "gloss": "ojo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a",
+          "kind": "particle",
+          "role": "Dónde se queda: «a los ojos»."
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "ni",
+          "kind": "particle",
+          "role": "に + も: con negativo = «ni siquiera a los ojos»."
+        },
+        {
+          "id": "t4",
+          "surface": "止まらぬ",
+          "reading": "とまらぬ",
+          "romaji": "tomaranu",
+          "gloss": "que no se detiene",
+          "kind": "verb",
+          "base": {
+            "surface": "止まる",
+            "reading": "とまる",
+            "meaning": "detenerse"
+          },
+          "form": {
+            "name": "negativo clásico (ぬ)",
+            "why": "止まる → 止まらぬ: «que no se detiene». ぬ = ない en lenguaje clásico o dramático. 目にも止まらぬ = «tan rápido que ni se ve»."
+          }
+        },
+        {
+          "id": "t5",
+          "surface": "スピードハンター",
+          "romaji": "supiidohantaa",
+          "gloss": "cazador de velocidad",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "El cazador de velocidad que ni los ojos pueden seguir.",
+      "literal": "ojo-a-ni no-se-detiene cazador-de-velocidad"
+    },
+    {
+      "id": "l80",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "誰もが",
+          "reading": "だれもが",
+          "romaji": "daremoga",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "皆",
+          "reading": "みな",
+          "romaji": "mina",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "虜",
+          "reading": "とりこ",
+          "romaji": "toriko",
+          "gloss": "cautivo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "看板",
+          "reading": "かんばん",
+          "romaji": "kanban",
+          "gloss": "cartel",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "Yeah! (Come On!)",
+          "gloss": "¡sí! ¡vamos!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Todos, cautivos del gran nombre. ¡Yeah!",
+      "literal": "todos todos cautivo cartel ¡sí!"
+    },
+    {
+      "id": "l81",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Everybody Hands Up!",
+          "gloss": "¡todos arriba las manos!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "待たしたな",
+          "reading": "またしたな",
+          "romaji": "matashitana",
+          "gloss": "te hice esperar",
+          "kind": "verb",
+          "base": {
+            "surface": "待たせる",
+            "reading": "またせる",
+            "meaning": "hacer esperar"
+          },
+          "form": {
+            "name": "causativo + pasado (た)",
+            "why": "待たす (= 待たせる, coloquial) → 待たした: «hice esperar». OJO: た = pasado. な final = «¿eh?». «Te hice esperar, ¿eh?»."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "Hero’s Come Back!!",
+          "gloss": "¡el héroe vuelve!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Todos arriba las manos! Os hice esperar, ¿eh? ¡El héroe vuelve!",
+      "literal": "¡manos-arriba! hice-esperar ¡el-héroe-vuelve!"
+    },
+    {
+      "id": "l82",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "頭上",
+          "reading": "ずじょう",
+          "romaji": "zujou",
+          "gloss": "sobre la cabeza",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "数え",
+          "reading": "かぞえ",
+          "romaji": "kazoe",
+          "gloss": "contando",
+          "kind": "verb",
+          "base": {
+            "surface": "数える",
+            "reading": "かぞえる",
+            "meaning": "contar"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "数える → 数え (se quita る). Acaba en え, no en て/た: une con 指折る sin marcar tiempo."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "指折る",
+          "reading": "ゆびおる",
+          "romaji": "yubioru",
+          "gloss": "doblar dedos",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "Count Down",
+          "gloss": "cuenta atrás",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "cómo cuenta"
+        }
+      ],
+      "translation": "Sobre la cabeza, contando con los dedos, la cuenta atrás.",
+      "literal": "sobre-la-cabeza contando doblar-dedos cuenta-atrás"
+    },
+    {
+      "id": "l83",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いくぜ",
+          "romaji": "ikuze",
+          "gloss": "allá voy",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "3-2-1",
+          "gloss": "3-2-1",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "Make Some Noise!",
+          "gloss": "¡haz ruido!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Allá voy! 3, 2, 1, ¡haz ruido!",
+      "literal": "voy 3-2-1 ¡haz-ruido!"
+    }
+  ]
+}
