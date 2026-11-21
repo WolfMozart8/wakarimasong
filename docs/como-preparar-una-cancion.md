@@ -34,6 +34,15 @@ La forma exacta de los datos está en `src/types.ts`; `songs/demo.json` es un ej
 - `form.name`: nombre corto y constante en toda la app («forma て», «pasado (た)», «potencial (られる)», «pasiva (られる)», «negativo (ない)», «deseo (たい)», «volitiva (よう)»…).
 - `form.why`: por qué se usa aquí y con qué palabra de la letra se relaciona. Si la forma es ambigua (られる potencial o pasiva; て que encadena o que da causa), decir cuál es y qué pista lo decide.
 
+**Terminaciones que confunden (た / て / ず…).** Una palabra que acaba en た o て no siempre es pasado ni siempre encadena. En `form.why` se dice cuál es y qué pista la distingue:
+- た al final de frase = pasado (泣いた). た delante de un sustantivo = describe (置いた レコード, 乾いた 胸, 慣れた 君): no cierra la frase.
+- てた = ていた abreviado (言ってた): acaba en た pero es て + いた.
+- て / で al final de un trozo = encadena («…y luego…»); ないで = «no hagas…».
+- たら = condición, たって = «aunque»: la た no es pasado.
+- Raíz (連用形) sin て: 叩き, 重ね, 解き; ず = negativo de enlace. Una ね o せ final puede ser parte del verbo, no una partícula.
+
+**Independencia.** Cada canción se explica por sí sola: no se remite a otras canciones («en la canción X se usa así»).
+
 **Flechas (`links`).** Se leen como una frase: *origen —etiqueta→ destino*.
 - `possession`: dueño → cosa (私 —dueño de→ 犬).
 - `destination`: verbo → lugar o resultado (行って —hacia→ 学校).
