@@ -1,0 +1,1832 @@
+{
+  "id": "anpanman-no-march",
+  "title": "アンパンマンのマーチ",
+  "artist": "Anpanman (tema principal)",
+  "difficulty": {
+    "level": "facil",
+    "jlpt": "N5–N4",
+    "why": "Canción infantil: casi todo en hiragana, frases cortas y vocabulario básico. Lo difícil es el sentido (ないで, ても, んだ), no la lectura."
+  },
+  "source": "https://www.animesonglyrics.com/sore-ike-anpanman/anpanman-no-march",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そうだ",
+          "romaji": "souda",
+          "gloss": "¡eso es!",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "うれしいんだ",
+          "romaji": "ureshiinda",
+          "gloss": "estoy feliz",
+          "kind": "adj",
+          "base": {
+            "surface": "うれしい",
+            "meaning": "feliz, contento"
+          },
+          "form": {
+            "name": "んだ (explica)",
+            "why": "うれしい + んだ (の + だ): «es que estoy feliz». Acaba en だ: afirma con convicción, no es pasado."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "¡Eso es! ¡Estoy feliz!",
+      "literal": "eso-es estoy-feliz-(explic.)"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "生きる",
+          "reading": "いきる",
+          "romaji": "ikiru",
+          "gloss": "vivir",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "よろこび",
+          "romaji": "yorokobi",
+          "gloss": "alegría",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "de qué"
+        }
+      ],
+      "translation": "La alegría de vivir.",
+      "literal": "vivir alegría"
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "たとえ",
+          "romaji": "tatoe",
+          "gloss": "aunque",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "胸",
+          "reading": "むね",
+          "romaji": "mune",
+          "gloss": "pecho",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la herida del pecho»."
+        },
+        {
+          "id": "t4",
+          "surface": "傷",
+          "reading": "きず",
+          "romaji": "kizu",
+          "gloss": "herida",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que duele: la herida."
+        },
+        {
+          "id": "t6",
+          "surface": "いたんでも",
+          "romaji": "itandemo",
+          "gloss": "aunque duela",
+          "kind": "verb",
+          "base": {
+            "surface": "痛む",
+            "reading": "いたむ",
+            "meaning": "doler"
+          },
+          "form": {
+            "name": "ても (aunque)",
+            "why": "痛む → 痛んで (む→ん + で) + も = «aunque duela». OJO: acaba en でも: no es pasado ni cadena, es «aunque / por más que». Con たとえ delante forma la pareja «たとえ…ても»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "subject",
+          "label": "qué duele"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de dónde"
+        }
+      ],
+      "translation": "Aunque duela la herida del pecho.",
+      "literal": "aunque pecho-de herida-(suj) aunque-duela"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "なんの",
+          "romaji": "nanno",
+          "gloss": "qué",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "ために",
+          "romaji": "tameni",
+          "gloss": "para",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "生まれて",
+          "reading": "うまれて",
+          "romaji": "umarete",
+          "gloss": "nacer",
+          "kind": "verb",
+          "base": {
+            "surface": "生まれる",
+            "reading": "うまれる",
+            "meaning": "nacer"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "生まれる → 生まれて. Acaba en て: une con la pregunta siguiente: «¿para qué nacer y…?». Un pasado sería 生まれた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "para qué"
+        }
+      ],
+      "translation": "¿Para qué nacer…",
+      "literal": "qué para nacer-y"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "なにを",
+          "romaji": "nanio",
+          "gloss": "qué",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "して",
+          "romaji": "shite",
+          "gloss": "haciendo",
+          "kind": "verb",
+          "base": {
+            "surface": "する",
+            "meaning": "hacer"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "する → して. Acaba en て: «haciendo qué…». Une con 生きるのか."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "生きる",
+          "reading": "いきる",
+          "romaji": "ikiru",
+          "gloss": "vivir",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "のか",
+          "romaji": "noka",
+          "gloss": "¿acaso?",
+          "kind": "particle",
+          "role": "の (explica) + か (pregunta): «¿y vivir para qué?»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "qué hace para vivir"
+        }
+      ],
+      "translation": "…y haciendo qué se vive?",
+      "literal": "qué haciendo vivir-¿?"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "こたえられない",
+          "romaji": "kotaerarenai",
+          "gloss": "no poder responder",
+          "kind": "verb",
+          "base": {
+            "surface": "答える",
+            "reading": "こたえる",
+            "meaning": "responder"
+          },
+          "form": {
+            "name": "potencial negativo (られない)",
+            "why": "答える → 答えられる (poder responder) → 答えられない (no poder). En los ichidan el potencial es る→られる."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "なんて",
+          "romaji": "nante",
+          "gloss": "algo como",
+          "kind": "particle",
+          "role": "Subraya con desagrado: «el hecho de no poder responder…»."
+        }
+      ],
+      "links": [],
+      "translation": "No poder responder, ni hablar,",
+      "literal": "no-poder-responder algo-como"
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そんなの",
+          "romaji": "sonnano",
+          "gloss": "eso",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «eso…»."
+        },
+        {
+          "id": "t3",
+          "surface": "いやだ",
+          "romaji": "iyada",
+          "gloss": "no quiero",
+          "kind": "adj"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "topic",
+          "label": "qué rechaza"
+        }
+      ],
+      "translation": "¡eso no lo quiero!",
+      "literal": "eso-en-cuanto-a no-quiero"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "el presente",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se vive: 今を生きる."
+        },
+        {
+          "id": "t3",
+          "surface": "生きる",
+          "reading": "いきる",
+          "romaji": "ikiru",
+          "gloss": "vivir",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "el hecho de",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Medio: «por el hecho de vivir el presente»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Por vivir el presente,",
+      "literal": "presente-(obj) vivir-hecho-por"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "熱い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "gloss": "ardiente",
+          "kind": "adj"
+        },
+        {
+          "id": "t2",
+          "surface": "こころ",
+          "romaji": "kokoro",
+          "gloss": "corazón",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "燃える",
+          "reading": "もえる",
+          "romaji": "moeru",
+          "gloss": "arder",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "subject",
+          "label": "qué arde"
+        }
+      ],
+      "translation": "el corazón ardiente arde.",
+      "literal": "ardiente corazón arde"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だから",
+          "romaji": "dakara",
+          "gloss": "por eso",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «tú…»."
+        },
+        {
+          "id": "t4",
+          "surface": "いくんだ",
+          "romaji": "ikunda",
+          "gloss": "vas",
+          "kind": "verb",
+          "base": {
+            "surface": "行く",
+            "reading": "いく",
+            "meaning": "ir"
+          },
+          "form": {
+            "name": "んだ (explica / anima)",
+            "why": "行く + んだ: «tú vas, es que vas», con tono de ánimo. Acaba en だ: afirma, no es pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "topic",
+          "label": "quién va"
+        }
+      ],
+      "translation": "Por eso tú vas,",
+      "literal": "por-eso tú-en-cuanto-a vas-(explic.)"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ほほえんで",
+          "romaji": "hohoende",
+          "gloss": "sonriendo",
+          "kind": "verb",
+          "base": {
+            "surface": "微笑む",
+            "reading": "ほほえむ",
+            "meaning": "sonreír"
+          },
+          "form": {
+            "name": "forma て (manera)",
+            "why": "微笑む → ほほえんで (む→ん + で). Acaba en て/で: dice cómo va: «sonriendo». Un pasado sería ほほえんだ."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "sonriendo.",
+      "literal": "sonriendo"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そうだ",
+          "romaji": "souda",
+          "gloss": "¡eso es!",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "うれしいんだ",
+          "romaji": "ureshiinda",
+          "gloss": "estoy feliz",
+          "kind": "adj",
+          "base": {
+            "surface": "うれしい",
+            "meaning": "feliz, contento"
+          },
+          "form": {
+            "name": "んだ (explica)",
+            "why": "うれしい + んだ (の + だ): «es que estoy feliz». Acaba en だ: afirma con convicción, no es pasado."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "¡Eso es! ¡Estoy feliz!",
+      "literal": "eso-es estoy-feliz-(explic.)"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "生きる",
+          "reading": "いきる",
+          "romaji": "ikiru",
+          "gloss": "vivir",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "よろこび",
+          "romaji": "yorokobi",
+          "gloss": "alegría",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "de qué"
+        }
+      ],
+      "translation": "La alegría de vivir.",
+      "literal": "vivir alegría"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "たとえ",
+          "romaji": "tatoe",
+          "gloss": "aunque",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "胸",
+          "reading": "むね",
+          "romaji": "mune",
+          "gloss": "pecho",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «la herida del pecho»."
+        },
+        {
+          "id": "t4",
+          "surface": "傷",
+          "reading": "きず",
+          "romaji": "kizu",
+          "gloss": "herida",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca lo que duele: la herida."
+        },
+        {
+          "id": "t6",
+          "surface": "いたんでも",
+          "romaji": "itandemo",
+          "gloss": "aunque duela",
+          "kind": "verb",
+          "base": {
+            "surface": "痛む",
+            "reading": "いたむ",
+            "meaning": "doler"
+          },
+          "form": {
+            "name": "ても (aunque)",
+            "why": "痛む → 痛んで (む→ん + で) + も = «aunque duela». OJO: acaba en でも: no es pasado ni cadena, es «aunque / por más que». Con たとえ delante forma la pareja «たとえ…ても»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "subject",
+          "label": "qué duele"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de dónde"
+        }
+      ],
+      "translation": "Aunque duela la herida del pecho.",
+      "literal": "aunque pecho-de herida-(suj) aunque-duela"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ああ",
+          "romaji": "aa",
+          "gloss": "¡ah!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "アンパンマン",
+          "romaji": "anpanman",
+          "gloss": "Anpanman",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Ah, Anpanman!",
+      "literal": "ah Anpanman"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "やさしい",
+          "romaji": "yasashii",
+          "gloss": "amable",
+          "kind": "adj"
+        },
+        {
+          "id": "t2",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «tú, que eres amable…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Tú, que eres amable,",
+      "literal": "amable tú-en-cuanto-a"
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いけ",
+          "romaji": "ike",
+          "gloss": "¡ve!",
+          "kind": "verb",
+          "base": {
+            "surface": "行く",
+            "reading": "いく",
+            "meaning": "ir"
+          },
+          "form": {
+            "name": "imperativo (godan: く → け)",
+            "why": "行く → 行け: orden directa. En los verbos en く el imperativo cambia く por け."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "みんな",
+          "romaji": "minna",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Dueño: «el sueño de todos»."
+        },
+        {
+          "id": "t4",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "まもる",
+          "romaji": "mamoru",
+          "gloss": "proteger",
+          "kind": "verb"
+        },
+        {
+          "id": "t6",
+          "surface": "ため",
+          "romaji": "tame",
+          "gloss": "para",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de quiénes"
+        },
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "object",
+          "label": "qué protege"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "con qué fin"
+        }
+      ],
+      "translation": "¡Ve, para proteger los sueños de todos!",
+      "literal": "¡ve! todos-de sueño proteger para"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "なにが",
+          "romaji": "naniga",
+          "gloss": "qué",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Dueño: «tu felicidad»."
+        },
+        {
+          "id": "t4",
+          "surface": "しあわせ",
+          "romaji": "shiawase",
+          "gloss": "felicidad",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de quién"
+        }
+      ],
+      "translation": "¿Qué es tu felicidad?",
+      "literal": "qué tú-de felicidad"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "なにを",
+          "romaji": "nanio",
+          "gloss": "qué",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "して",
+          "romaji": "shite",
+          "gloss": "haciendo",
+          "kind": "verb",
+          "base": {
+            "surface": "する",
+            "meaning": "hacer"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "する → して. Acaba en て: «haciendo qué…», une con よろこぶ."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "よろこぶ",
+          "romaji": "yorokobu",
+          "gloss": "alegrarse",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "connects",
+          "label": "qué hace para alegrarse"
+        }
+      ],
+      "translation": "¿Haciendo qué te alegras?",
+      "literal": "qué haciendo alegrarse"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "わからない",
+          "romaji": "wakaranai",
+          "gloss": "no saber",
+          "kind": "verb",
+          "base": {
+            "surface": "わかる",
+            "meaning": "saber, entender"
+          },
+          "form": {
+            "name": "negativo (ない)",
+            "why": "わかる → わからない: «no saber». Delante de まま describe el estado."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "まま",
+          "romaji": "mama",
+          "gloss": "sin cambiar",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "おわる",
+          "romaji": "owaru",
+          "gloss": "terminar",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "en qué estado"
+        },
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "connects",
+          "label": "termina así"
+        }
+      ],
+      "translation": "terminar sin saberlo,",
+      "literal": "no-saber así terminar"
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そんなの",
+          "romaji": "sonnano",
+          "gloss": "eso",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «eso…»."
+        },
+        {
+          "id": "t3",
+          "surface": "いやだ",
+          "romaji": "iyada",
+          "gloss": "no quiero",
+          "kind": "adj"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "topic",
+          "label": "qué rechaza"
+        }
+      ],
+      "translation": "¡eso no lo quiero!",
+      "literal": "eso-en-cuanto-a no-quiero"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "忘れないで",
+          "reading": "わすれないで",
+          "romaji": "wasurenaide",
+          "gloss": "no olvides",
+          "kind": "verb",
+          "base": {
+            "surface": "忘れる",
+            "reading": "わすれる",
+            "meaning": "olvidar"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "忘れる → 忘れない + で = «no olvides». Pista: ない + で = «¡no hagas…!»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que no hay que olvidar."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "No olvides el sueño.",
+      "literal": "no-olvides sueño-(obj)"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "こぼさないで",
+          "romaji": "kobosanaide",
+          "gloss": "no derrames",
+          "kind": "verb",
+          "base": {
+            "surface": "こぼす",
+            "meaning": "derramar"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "こぼす → こぼさない + で = «no derrames». Pista: ない + で = «¡no hagas…!»."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "涙",
+          "reading": "なみだ",
+          "romaji": "namida",
+          "gloss": "lágrimas",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "No derrames lágrimas.",
+      "literal": "no-derrames lágrimas",
+      "notes": [
+        "Falta を después de 涙 (se omite en el habla)."
+      ]
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だから",
+          "romaji": "dakara",
+          "gloss": "por eso",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «tú…»."
+        },
+        {
+          "id": "t4",
+          "surface": "とぶんだ",
+          "romaji": "tobunda",
+          "gloss": "vuelas",
+          "kind": "verb",
+          "base": {
+            "surface": "飛ぶ",
+            "reading": "とぶ",
+            "meaning": "volar"
+          },
+          "form": {
+            "name": "んだ (explica / anima)",
+            "why": "飛ぶ + んだ: «vuelas, es que vuelas», tono de ánimo. Acaba en だ: afirma."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "topic",
+          "label": "quién vuela"
+        }
+      ],
+      "translation": "Por eso tú vuelas,",
+      "literal": "por-eso tú-en-cuanto-a vuelas-(explic.)"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "どこまで",
+          "romaji": "dokomade",
+          "gloss": "hasta dónde",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "incluso",
+          "kind": "particle",
+          "role": "どこまでも = «hasta donde sea»."
+        }
+      ],
+      "links": [],
+      "translation": "hasta donde sea.",
+      "literal": "hasta-dónde-incluso"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そうだ",
+          "romaji": "souda",
+          "gloss": "¡eso es!",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "おそれないで",
+          "romaji": "osorenaide",
+          "gloss": "no temas",
+          "kind": "verb",
+          "base": {
+            "surface": "恐れる",
+            "reading": "おそれる",
+            "meaning": "temer"
+          },
+          "form": {
+            "name": "petición negativa (ないで)",
+            "why": "恐れる → 恐れない + で = «no temas». Pista: ない + で = «¡no hagas…!»."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "¡Eso es! No temas,",
+      "literal": "eso-es no-temas"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "みんな",
+          "romaji": "minna",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une con ため."
+        },
+        {
+          "id": "t3",
+          "surface": "ために",
+          "romaji": "tameni",
+          "gloss": "por el bien de",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "possession",
+          "label": "de quiénes"
+        }
+      ],
+      "translation": "por el bien de todos.",
+      "literal": "todos-de por-el-bien-de"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "愛",
+          "reading": "あい",
+          "romaji": "ai",
+          "gloss": "amor",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "y",
+          "kind": "particle",
+          "role": "Une dos cosas: «amor y valentía»."
+        },
+        {
+          "id": "t3",
+          "surface": "勇気",
+          "reading": "ゆうき",
+          "romaji": "yuuki",
+          "gloss": "valentía",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "だけが",
+          "romaji": "dakega",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "だけ (solo) + が (sujeto): «solo el amor y la valentía»."
+        },
+        {
+          "id": "t5",
+          "surface": "ともだち",
+          "romaji": "tomodachi",
+          "gloss": "amigos",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "(afirma)",
+          "kind": "particle",
+          "role": "Final informal seguro: «son tus amigos, claro»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t5",
+          "type": "subject",
+          "label": "quiénes son amigos"
+        }
+      ],
+      "translation": "Solo el amor y la valentía son tus amigos.",
+      "literal": "amor-y-valentía-solo amigos-(afirma)"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ああ",
+          "romaji": "aa",
+          "gloss": "¡ah!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "アンパンマン",
+          "romaji": "anpanman",
+          "gloss": "Anpanman",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Ah, Anpanman!",
+      "literal": "ah Anpanman"
+    },
+    {
+      "id": "l30",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "やさしい",
+          "romaji": "yasashii",
+          "gloss": "amable",
+          "kind": "adj"
+        },
+        {
+          "id": "t2",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «tú, que eres amable…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Tú, que eres amable,",
+      "literal": "amable tú-en-cuanto-a"
+    },
+    {
+      "id": "l31",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いけ",
+          "romaji": "ike",
+          "gloss": "¡ve!",
+          "kind": "verb",
+          "base": {
+            "surface": "行く",
+            "reading": "いく",
+            "meaning": "ir"
+          },
+          "form": {
+            "name": "imperativo (godan: く → け)",
+            "why": "行く → 行け: orden directa. En los verbos en く el imperativo cambia く por け."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "みんな",
+          "romaji": "minna",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Dueño: «el sueño de todos»."
+        },
+        {
+          "id": "t4",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "まもる",
+          "romaji": "mamoru",
+          "gloss": "proteger",
+          "kind": "verb"
+        },
+        {
+          "id": "t6",
+          "surface": "ため",
+          "romaji": "tame",
+          "gloss": "para",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de quiénes"
+        },
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "object",
+          "label": "qué protege"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "con qué fin"
+        }
+      ],
+      "translation": "¡Ve, para proteger los sueños de todos!",
+      "literal": "¡ve! todos-de sueño proteger para"
+    },
+    {
+      "id": "l32",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "gloss": "el tiempo",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «el tiempo…»."
+        },
+        {
+          "id": "t3",
+          "surface": "はやく",
+          "romaji": "hayaku",
+          "gloss": "rápido",
+          "kind": "adj",
+          "base": {
+            "surface": "速い",
+            "reading": "はやい",
+            "meaning": "rápido"
+          },
+          "form": {
+            "name": "forma adverbial (い → く)",
+            "why": "速い → 速く: el adjetivo pasa a adverbio y modifica a すぎる: «pasa rápido»."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "すぎる",
+          "romaji": "sugiru",
+          "gloss": "pasar",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cómo"
+        },
+        {
+          "from": "t1",
+          "to": "t4",
+          "type": "subject",
+          "label": "qué pasa"
+        }
+      ],
+      "translation": "El tiempo pasa rápido,",
+      "literal": "tiempo-en-cuanto-a rápido pasar"
+    },
+    {
+      "id": "l33",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "光る",
+          "reading": "ひかる",
+          "romaji": "hikaru",
+          "gloss": "brillar",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "星",
+          "reading": "ほし",
+          "romaji": "hoshi",
+          "gloss": "estrella",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «las estrellas…»."
+        },
+        {
+          "id": "t4",
+          "surface": "消える",
+          "reading": "きえる",
+          "romaji": "kieru",
+          "gloss": "apagarse",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "subject",
+          "label": "qué se apaga"
+        }
+      ],
+      "translation": "las estrellas que brillan se apagan.",
+      "literal": "brillar estrella-en-cuanto-a apagarse"
+    },
+    {
+      "id": "l34",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だから",
+          "romaji": "dakara",
+          "gloss": "por eso",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «tú…»."
+        },
+        {
+          "id": "t4",
+          "surface": "いくんだ",
+          "romaji": "ikunda",
+          "gloss": "vas",
+          "kind": "verb",
+          "base": {
+            "surface": "行く",
+            "reading": "いく",
+            "meaning": "ir"
+          },
+          "form": {
+            "name": "んだ (explica / anima)",
+            "why": "行く + んだ: «tú vas, es que vas», con tono de ánimo. Acaba en だ: afirma, no es pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "topic",
+          "label": "quién va"
+        }
+      ],
+      "translation": "Por eso tú vas,",
+      "literal": "por-eso tú-en-cuanto-a vas-(explic.)"
+    },
+    {
+      "id": "l35",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ほほえんで",
+          "romaji": "hohoende",
+          "gloss": "sonriendo",
+          "kind": "verb",
+          "base": {
+            "surface": "微笑む",
+            "reading": "ほほえむ",
+            "meaning": "sonreír"
+          },
+          "form": {
+            "name": "forma て (manera)",
+            "why": "微笑む → ほほえんで (む→ん + で). Acaba en て/で: dice cómo va: «sonriendo». Un pasado sería ほほえんだ."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "sonriendo.",
+      "literal": "sonriendo"
+    },
+    {
+      "id": "l36",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そうだ",
+          "romaji": "souda",
+          "gloss": "¡eso es!",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "うれしいんだ",
+          "romaji": "ureshiinda",
+          "gloss": "estoy feliz",
+          "kind": "adj",
+          "base": {
+            "surface": "うれしい",
+            "meaning": "feliz, contento"
+          },
+          "form": {
+            "name": "んだ (explica)",
+            "why": "うれしい + んだ (の + だ): «es que estoy feliz». Acaba en だ: afirma con convicción, no es pasado."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "¡Eso es! ¡Estoy feliz!",
+      "literal": "eso-es estoy-feliz-(explic.)"
+    },
+    {
+      "id": "l37",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "生きる",
+          "reading": "いきる",
+          "romaji": "ikiru",
+          "gloss": "vivir",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "よろこび",
+          "romaji": "yorokobi",
+          "gloss": "alegría",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "de qué"
+        }
+      ],
+      "translation": "La alegría de vivir.",
+      "literal": "vivir alegría"
+    },
+    {
+      "id": "l38",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "たとえ",
+          "romaji": "tatoe",
+          "gloss": "aunque",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "どんな",
+          "romaji": "donna",
+          "gloss": "cualquier",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "敵",
+          "reading": "てき",
+          "romaji": "teki",
+          "gloss": "enemigo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién será el rival."
+        },
+        {
+          "id": "t5",
+          "surface": "あいて",
+          "romaji": "aite",
+          "gloss": "adversario",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "でも",
+          "romaji": "demo",
+          "gloss": "aunque sea",
+          "kind": "particle",
+          "role": "でも tras un sustantivo = «aunque sea…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "subject",
+          "label": "quién es"
+        }
+      ],
+      "translation": "Aunque cualquier enemigo sea tu rival.",
+      "literal": "aunque cualquier enemigo-(suj) adversario-aunque-sea"
+    },
+    {
+      "id": "l39",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ああ",
+          "romaji": "aa",
+          "gloss": "¡ah!",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "アンパンマン",
+          "romaji": "anpanman",
+          "gloss": "Anpanman",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Ah, Anpanman!",
+      "literal": "ah Anpanman"
+    },
+    {
+      "id": "l40",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "やさしい",
+          "romaji": "yasashii",
+          "gloss": "amable",
+          "kind": "adj"
+        },
+        {
+          "id": "t2",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «tú, que eres amable…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "Tú, que eres amable,",
+      "literal": "amable tú-en-cuanto-a"
+    },
+    {
+      "id": "l41",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いけ",
+          "romaji": "ike",
+          "gloss": "¡ve!",
+          "kind": "verb",
+          "base": {
+            "surface": "行く",
+            "reading": "いく",
+            "meaning": "ir"
+          },
+          "form": {
+            "name": "imperativo (godan: く → け)",
+            "why": "行く → 行け: orden directa. En los verbos en く el imperativo cambia く por け."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "みんな",
+          "romaji": "minna",
+          "gloss": "todos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Dueño: «el sueño de todos»."
+        },
+        {
+          "id": "t4",
+          "surface": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "gloss": "sueño",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "まもる",
+          "romaji": "mamoru",
+          "gloss": "proteger",
+          "kind": "verb"
+        },
+        {
+          "id": "t6",
+          "surface": "ため",
+          "romaji": "tame",
+          "gloss": "para",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de quiénes"
+        },
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "object",
+          "label": "qué protege"
+        },
+        {
+          "from": "t5",
+          "to": "t6",
+          "type": "modifies",
+          "label": "con qué fin"
+        }
+      ],
+      "translation": "¡Ve, para proteger los sueños de todos!",
+      "literal": "¡ve! todos-de sueño proteger para"
+    }
+  ]
+}
