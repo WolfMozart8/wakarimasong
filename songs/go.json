@@ -1,0 +1,2329 @@
+{
+  "id": "go",
+  "title": "GO!!!",
+  "artist": "FLOW · Naruto (opening 4)",
+  "difficulty": {
+    "level": "medio",
+    "jlpt": "N3–N2",
+    "why": "Ritmo rápido y mucho inglés en el estribillo (fácil de seguir). Las estrofas traen vocabulario épico (修羅, 有言実行, 惑わす), imperativos y lecturas cantadas distintas (他人→ひと, 未来→あす)."
+  },
+  "source": "https://www.animesonglyrics.com/naruto/go",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "We are Fighting Dreamers",
+          "gloss": "somos soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "高み",
+          "reading": "たかみ",
+          "romaji": "takami",
+          "gloss": "las alturas",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca el blanco: 目指す lleva を."
+        },
+        {
+          "id": "t4",
+          "surface": "目指して",
+          "reading": "めざして",
+          "romaji": "mezashite",
+          "gloss": "apuntando a",
+          "kind": "verb",
+          "base": {
+            "surface": "目指す",
+            "reading": "めざす",
+            "meaning": "apuntar a, aspirar a"
+          },
+          "form": {
+            "name": "forma て (manera / meta)",
+            "why": "目指す → 目指して (す→し + て). Acaba en て y la frase no se cierra: dice cómo somos: «apuntando a la cima». Un pasado sería 目指した."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "a qué apunta"
+        }
+      ],
+      "translation": "Somos Fighting Dreamers, apuntando a la cima.",
+      "literal": "somos-soñadores-luchadores cima-(obj) apuntando"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "なりふり",
+          "romaji": "narifuri",
+          "gloss": "apariencia",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "構わず",
+          "reading": "かまわず",
+          "romaji": "kamawazu",
+          "gloss": "sin importar",
+          "kind": "verb",
+          "base": {
+            "surface": "構う",
+            "reading": "かまう",
+            "meaning": "importar, hacer caso"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "構う → 構わず: «sin importar / sin hacer caso». ず = negativo literario que une, como 構わないで. Acaba en ず: no es て ni た, y no marca pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué ignora"
+        }
+      ],
+      "translation": "Soñadores luchadores, sin importarnos las apariencias.",
+      "literal": "soñadores-luchadores apariencia sin-importar"
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "信じる",
+          "reading": "しんじる",
+          "romaji": "shinjiru",
+          "gloss": "creer",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "がままに",
+          "romaji": "gamamani",
+          "gloss": "tal como",
+          "kind": "expr"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "qué sigue"
+        }
+      ],
+      "translation": "Soñadores luchadores, tal como creemos.",
+      "literal": "soñadores-luchadores creer-tal-cual"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Oli Oli Oli Oh-!",
+          "gloss": "grito",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "Just go my way!",
+          "gloss": "¡sigue mi camino!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Oli Oli Oli Oh! ¡Sigo mi camino!",
+      "literal": "oli oli oli oh sólo ir mi camino"
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Bang!)",
+          "gloss": "aquí y ahora (¡bang!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡bang!)"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶっ放せ",
+          "reading": "ぶっぱなせ",
+          "romaji": "buppanase",
+          "gloss": "¡dispara!",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶっ放す",
+            "reading": "ぶっぱなす",
+            "meaning": "disparar a lo bestia"
+          },
+          "form": {
+            "name": "imperativo (godan: す → せ)",
+            "why": "ぶっ放す → ぶっ放せ: orden directa. En los verbos que acaban en す el imperativo cambia す por せ. ぶっ- es un prefijo que da fuerza."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Like a",
+          "gloss": "como un",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "弾丸ライナー",
+          "reading": "だんがんライナー",
+          "romaji": "danganrainaa",
+          "gloss": "tiro rasante",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Dispara como un tiro rasante!",
+      "literal": "¡dispara! como-un bala-rasante"
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Burn!)",
+          "gloss": "aquí y ahora (¡arde!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡arde!)"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "険しい",
+          "reading": "けわしい",
+          "romaji": "kewashii",
+          "gloss": "escarpado",
+          "kind": "adj"
+        },
+        {
+          "id": "t2",
+          "surface": "修羅",
+          "reading": "しゅら",
+          "romaji": "shura",
+          "gloss": "combate feroz",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «camino de combate»."
+        },
+        {
+          "id": "t4",
+          "surface": "道",
+          "reading": "みち",
+          "romaji": "michi",
+          "gloss": "camino",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «en medio del camino»."
+        },
+        {
+          "id": "t6",
+          "surface": "中",
+          "reading": "なか",
+          "romaji": "naka",
+          "gloss": "en medio",
+          "kind": "noun"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "En medio del escarpado camino de la lucha,",
+      "literal": "escarpado combate-de camino-de dentro",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "他人",
+          "reading": "たにん",
+          "romaji": "tanin",
+          "gloss": "los demás",
+          "kind": "noun",
+          "sungAs": {
+            "reading": "ひと",
+            "romaji": "hito",
+            "note": "Se escribe 他人 (たにん, «otra gente») pero se canta ひと."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Dueño: «el mapa de otros»."
+        },
+        {
+          "id": "t3",
+          "surface": "地図",
+          "reading": "ちず",
+          "romaji": "chizu",
+          "gloss": "mapa",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se despliega."
+        },
+        {
+          "id": "t5",
+          "surface": "広げて",
+          "reading": "ひろげて",
+          "romaji": "hirogete",
+          "gloss": "desplegando",
+          "kind": "verb",
+          "base": {
+            "surface": "広げる",
+            "reading": "ひろげる",
+            "meaning": "extender, desplegar"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "広げる → 広げて. Acaba en て: «desplegando el mapa (¿a dónde vas?)». Une con 行く. Un pasado sería 広げた."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "何処",
+          "reading": "どこ",
+          "romaji": "doko",
+          "gloss": "dónde",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "へ",
+          "romaji": "e",
+          "gloss": "hacia",
+          "kind": "particle",
+          "role": "Dirección: «hacia dónde»."
+        },
+        {
+          "id": "t8",
+          "surface": "行く",
+          "reading": "いく",
+          "romaji": "iku",
+          "gloss": "ir",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "possession",
+          "label": "de quién"
+        },
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t8",
+          "to": "t7",
+          "type": "destination",
+          "label": "hacia dónde"
+        },
+        {
+          "from": "t5",
+          "to": "t8",
+          "type": "connects",
+          "label": "y luego"
+        }
+      ],
+      "translation": "¿Adónde vas, desplegando el mapa de otros?",
+      "literal": "otros-de mapa-(obj) desplegando dónde-hacia ¿vas?"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "極彩色",
+          "reading": "ごくさいしき",
+          "romaji": "gokusaishiki",
+          "gloss": "colores vivísimos",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «cuervo de colores vivísimos»."
+        },
+        {
+          "id": "t3",
+          "surface": "カラス",
+          "romaji": "karasu",
+          "gloss": "cuervo",
+          "kind": "noun",
+          "emoji": "🐦‍⬛"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién actúa: el cuervo."
+        },
+        {
+          "id": "t5",
+          "surface": "それ",
+          "romaji": "sore",
+          "gloss": "eso",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que arrebata."
+        },
+        {
+          "id": "t7",
+          "surface": "奪い取って",
+          "reading": "うばいとって",
+          "romaji": "ubaitotte",
+          "gloss": "arrebatando",
+          "kind": "verb",
+          "base": {
+            "surface": "奪い取る",
+            "reading": "うばいとる",
+            "meaning": "arrebatar"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "奪い取る → 奪い取って (る→って). Acaba en て: «arrebató y (luego)…». Une con 破り捨てた."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "破り捨てた",
+          "reading": "やぶりすてた",
+          "romaji": "yaburisuteta",
+          "gloss": "rompió y tiró",
+          "kind": "verb",
+          "base": {
+            "surface": "破り捨てる",
+            "reading": "やぶりすてる",
+            "meaning": "romper y tirar"
+          },
+          "form": {
+            "name": "pasado (た)",
+            "why": "破り捨てる → 破り捨てた. Cierra la frase y el hecho ya ocurrió. Pista: た al final = pasado; la cadena de て anterior termina aquí."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t7",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t7",
+          "to": "t8",
+          "type": "connects",
+          "label": "y luego"
+        }
+      ],
+      "translation": "Un cuervo de colores vivísimos lo arrebató y lo rompió en pedazos.",
+      "literal": "colores-vivísimos-de cuervo-(suj) eso-(obj) arrebatando rompió-y-tiró"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "さぁ",
+          "romaji": "saぁ",
+          "gloss": "¡vamos!",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "心の目",
+          "reading": "こころのめ",
+          "romaji": "kokoronome",
+          "gloss": "el ojo del corazón",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "見開いて",
+          "reading": "みひらいて",
+          "romaji": "mihiraite",
+          "gloss": "abre bien",
+          "kind": "verb",
+          "base": {
+            "surface": "見開く",
+            "reading": "みひらく",
+            "meaning": "abrir bien los ojos"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "見開く → 見開いて (く→い + て). Acaba en て y une las dos órdenes: «abre bien… y discierne». Un pasado sería 見開いた."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "しかと",
+          "romaji": "shikato",
+          "gloss": "con firmeza",
+          "kind": "adv"
+        },
+        {
+          "id": "t5",
+          "surface": "真実",
+          "reading": "しんじつ",
+          "romaji": "shinjitsu",
+          "gloss": "verdad",
+          "kind": "noun",
+          "sungAs": {
+            "reading": "いま",
+            "romaji": "ima",
+            "note": "Se escribe 真実 (しんじつ, «verdad») pero se canta いま («el ahora»): la verdad que está pasando ahora."
+          }
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se discierne."
+        },
+        {
+          "id": "t7",
+          "surface": "見極めろ",
+          "reading": "みきわめろ",
+          "romaji": "mikiwamero",
+          "gloss": "¡discierne!",
+          "kind": "verb",
+          "base": {
+            "surface": "見極める",
+            "reading": "みきわめる",
+            "meaning": "discernir, ver con claridad"
+          },
+          "form": {
+            "name": "imperativo (ichidan: る → ろ)",
+            "why": "見極める → 見極めろ: orden directa. En los ichidan se cambia る por ろ."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "(Yeah!)",
+          "gloss": "¡sí!",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué abre"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué discierne"
+        },
+        {
+          "from": "t3",
+          "to": "t7",
+          "type": "connects",
+          "label": "y luego"
+        },
+        {
+          "from": "t4",
+          "to": "t7",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "¡Vamos, abre el ojo del corazón y discierne con firmeza la verdad del ahora!",
+      "literal": "¡vamos! ojo-del-corazón abre-y con-firmeza verdad-(obj) ¡discierne!"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "失う",
+          "reading": "うしなう",
+          "romaji": "ushinau",
+          "gloss": "perder",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "モノ",
+          "romaji": "mono",
+          "gloss": "cosa",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "なんて",
+          "romaji": "nante",
+          "gloss": "ni siquiera",
+          "kind": "particle",
+          "role": "Resta importancia: «¿cosas que perder? qué va»."
+        },
+        {
+          "id": "t4",
+          "surface": "ない",
+          "romaji": "nai",
+          "gloss": "no hay",
+          "kind": "adj"
+        },
+        {
+          "id": "t5",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "(afirma)",
+          "kind": "particle",
+          "role": "Final informal seguro."
+        },
+        {
+          "id": "t6",
+          "surface": "いざ",
+          "romaji": "iza",
+          "gloss": "ahora sí",
+          "kind": "adv"
+        },
+        {
+          "id": "t7",
+          "surface": "参ろう",
+          "reading": "まいろう",
+          "romaji": "mairou",
+          "gloss": "vamos",
+          "kind": "verb",
+          "base": {
+            "surface": "参る",
+            "reading": "まいる",
+            "meaning": "ir (humilde, arcaico)"
+          },
+          "form": {
+            "name": "volitiva (ろう)",
+            "why": "参る → 参ろう (る→ろう): «vamos / allá voy». Es la forma de invitar o decidir. Palabra de tono antiguo, de samuráis."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "qué cosas"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "topic",
+          "label": "qué no hay"
+        }
+      ],
+      "translation": "No hay nada que perder. ¡Vamos ya!",
+      "literal": "perder cosas-ni-siquiera no-hay-(afirma) ahora-sí vamos"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "We are Fighting Dreamers",
+          "gloss": "somos soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "高み",
+          "reading": "たかみ",
+          "romaji": "takami",
+          "gloss": "las alturas",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca el blanco: 目指す lleva を."
+        },
+        {
+          "id": "t4",
+          "surface": "目指して",
+          "reading": "めざして",
+          "romaji": "mezashite",
+          "gloss": "apuntando a",
+          "kind": "verb",
+          "base": {
+            "surface": "目指す",
+            "reading": "めざす",
+            "meaning": "apuntar a, aspirar a"
+          },
+          "form": {
+            "name": "forma て (manera / meta)",
+            "why": "目指す → 目指して (す→し + て). Acaba en て y la frase no se cierra: dice cómo somos: «apuntando a la cima». Un pasado sería 目指した."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "a qué apunta"
+        }
+      ],
+      "translation": "Somos Fighting Dreamers, apuntando a la cima.",
+      "literal": "somos-soñadores-luchadores cima-(obj) apuntando"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "なりふり",
+          "romaji": "narifuri",
+          "gloss": "apariencia",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "構わず",
+          "reading": "かまわず",
+          "romaji": "kamawazu",
+          "gloss": "sin importar",
+          "kind": "verb",
+          "base": {
+            "surface": "構う",
+            "reading": "かまう",
+            "meaning": "importar, hacer caso"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "構う → 構わず: «sin importar / sin hacer caso». ず = negativo literario que une, como 構わないで. Acaba en ず: no es て ni た, y no marca pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué ignora"
+        }
+      ],
+      "translation": "Soñadores luchadores, sin importarnos las apariencias.",
+      "literal": "soñadores-luchadores apariencia sin-importar"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "信じる",
+          "reading": "しんじる",
+          "romaji": "shinjiru",
+          "gloss": "creer",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "がままに",
+          "romaji": "gamamani",
+          "gloss": "tal como",
+          "kind": "expr"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "qué sigue"
+        }
+      ],
+      "translation": "Soñadores luchadores, tal como creemos.",
+      "literal": "soñadores-luchadores creer-tal-cual"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Oli Oli Oli Oh-!",
+          "gloss": "grito",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "Just go my way!",
+          "gloss": "¡sigue mi camino!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Oli Oli Oli Oh! ¡Sigo mi camino!",
+      "literal": "oli oli oli oh sólo ir mi camino"
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Bang!)",
+          "gloss": "aquí y ahora (¡bang!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡bang!)"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶっ放せ",
+          "reading": "ぶっぱなせ",
+          "romaji": "buppanase",
+          "gloss": "¡dispara!",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶっ放す",
+            "reading": "ぶっぱなす",
+            "meaning": "disparar a lo bestia"
+          },
+          "form": {
+            "name": "imperativo (godan: す → せ)",
+            "why": "ぶっ放す → ぶっ放せ: orden directa. En los verbos que acaban en す el imperativo cambia す por せ. ぶっ- es un prefijo que da fuerza."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Like a",
+          "gloss": "como un",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "弾丸ライナー",
+          "reading": "だんがんライナー",
+          "romaji": "danganrainaa",
+          "gloss": "tiro rasante",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Dispara como un tiro rasante!",
+      "literal": "¡dispara! como-un bala-rasante"
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Burn!)",
+          "gloss": "aquí y ahora (¡arde!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡arde!)"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "音",
+          "reading": "おと",
+          "romaji": "oto",
+          "gloss": "ruido",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se hace: 音を立てる = hacer ruido."
+        },
+        {
+          "id": "t3",
+          "surface": "立てず",
+          "reading": "たてず",
+          "romaji": "tatezu",
+          "gloss": "sin hacer",
+          "kind": "verb",
+          "base": {
+            "surface": "立てる",
+            "reading": "たてる",
+            "meaning": "levantar, producir"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "立てる → 立てず: «sin hacer (ruido)». ず acaba la palabra pero no marca pasado: = 立てないで."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "忍び寄る",
+          "reading": "しのびよる",
+          "romaji": "shinobiyoru",
+          "gloss": "acercarse a hurtadillas",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "影",
+          "reading": "かげ",
+          "romaji": "kage",
+          "gloss": "sombra",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién actúa: la sombra (el verbo está en la línea siguiente)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cuál"
+        }
+      ],
+      "translation": "La sombra que se acerca sin hacer ruido…",
+      "literal": "ruido-(obj) sin-hacer acercarse-sigiloso sombra-(suj)",
+      "notes": [
+        "La frase sigue en la línea siguiente: 影が… 惑わせる."
+      ]
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いつも",
+          "romaji": "itsumo",
+          "gloss": "siempre",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕ら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca a quién se confunde."
+        },
+        {
+          "id": "t4",
+          "surface": "惑わせる",
+          "reading": "まどわせる",
+          "romaji": "madowaseru",
+          "gloss": "hace dudar",
+          "kind": "verb",
+          "base": {
+            "surface": "惑う",
+            "reading": "まどう",
+            "meaning": "dudar, perderse"
+          },
+          "form": {
+            "name": "causativo (せる)",
+            "why": "惑う → 惑わせる: «hacer que (alguien) se pierda o dude». -わせる = causativo de verbos en う."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t3",
+          "type": "object",
+          "label": "a quiénes"
+        }
+      ],
+      "translation": "…siempre nos hace dudar.",
+      "literal": "siempre nosotros-(obj) hace-dudar"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "有言実行",
+          "reading": "ゆうげんじっこう",
+          "romaji": "yuugenjikkou",
+          "gloss": "cumplir lo dicho",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "大きな",
+          "reading": "おおきな",
+          "romaji": "ookina",
+          "gloss": "grande",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién sopla."
+        },
+        {
+          "id": "t5",
+          "surface": "うねり",
+          "romaji": "uneri",
+          "gloss": "oleaje",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se levanta."
+        },
+        {
+          "id": "t7",
+          "surface": "上げて",
+          "reading": "あげて",
+          "romaji": "agete",
+          "gloss": "levantando",
+          "kind": "verb",
+          "base": {
+            "surface": "上げる",
+            "reading": "あげる",
+            "meaning": "levantar"
+          },
+          "form": {
+            "name": "forma て (manera)",
+            "why": "上げる → 上げて. Acaba en て: dice cómo sopla: «levantando oleaje, sopla furioso». Un pasado sería 上げた."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "吹き荒れる",
+          "reading": "ふきあれる",
+          "romaji": "fukiareru",
+          "gloss": "soplar furioso",
+          "kind": "verb"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t3",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "qué"
+        },
+        {
+          "from": "t7",
+          "to": "t8",
+          "type": "connects",
+          "label": "cómo"
+        }
+      ],
+      "translation": "«Cumple lo dicho»: un gran viento sopla furioso levantando oleaje.",
+      "literal": "cumplir-lo-dicho grande viento-(suj) oleaje-(obj) levantando soplar-furioso"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "かざした",
+          "romaji": "kazashita",
+          "gloss": "alzada",
+          "kind": "verb",
+          "base": {
+            "surface": "かざす",
+            "meaning": "alzar"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "かざす → かざした + 刀: «la espada que alcé». OJO: delante de un sustantivo, た no cierra la frase: describe («espada alzada»)."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "鋭い",
+          "reading": "するどい",
+          "romaji": "surudoi",
+          "gloss": "afilado",
+          "kind": "adj"
+        },
+        {
+          "id": "t3",
+          "surface": "刀",
+          "reading": "かたな",
+          "romaji": "katana",
+          "gloss": "espada",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "で",
+          "romaji": "de",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Instrumento: «con la espada»."
+        },
+        {
+          "id": "t5",
+          "surface": "己",
+          "reading": "おのれ",
+          "romaji": "onore",
+          "gloss": "uno mismo",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Dueño: «tu propio futuro»."
+        },
+        {
+          "id": "t7",
+          "surface": "未来",
+          "reading": "みらい",
+          "romaji": "mirai",
+          "gloss": "futuro",
+          "kind": "noun",
+          "sungAs": {
+            "reading": "あす",
+            "romaji": "asu",
+            "note": "Se escribe 未来 (みらい, «futuro») pero se canta あす («mañana»)."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "切り開け",
+          "reading": "きりひらけ",
+          "romaji": "kirihirake",
+          "gloss": "¡ábrete paso!",
+          "kind": "verb",
+          "base": {
+            "surface": "切り開く",
+            "reading": "きりひらく",
+            "meaning": "abrir paso cortando"
+          },
+          "form": {
+            "name": "imperativo (godan: く → け)",
+            "why": "切り開く → 切り開け: orden directa. En los verbos en く el imperativo cambia く por け."
+          }
+        },
+        {
+          "id": "t9",
+          "surface": "(Yeah!)",
+          "gloss": "¡sí!",
+          "kind": "other"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t8",
+          "to": "t7",
+          "type": "object",
+          "label": "qué abre"
+        },
+        {
+          "from": "t8",
+          "to": "t4",
+          "type": "connects",
+          "label": "con qué"
+        }
+      ],
+      "translation": "¡Con la afilada espada alzada, ábrete paso hacia tu propio mañana!",
+      "literal": "alzada afilada espada con uno-mismo-de mañana ¡ábrete-paso!"
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "保証",
+          "reading": "ほしょう",
+          "romaji": "hoshou",
+          "gloss": "garantía",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "なんて",
+          "romaji": "nante",
+          "gloss": "ni siquiera",
+          "kind": "particle",
+          "role": "Resta importancia: «¿garantías? qué va»."
+        },
+        {
+          "id": "t3",
+          "surface": "どこにも",
+          "romaji": "dokonimo",
+          "gloss": "en ningún lugar",
+          "kind": "expr"
+        },
+        {
+          "id": "t4",
+          "surface": "無い",
+          "reading": "ない",
+          "romaji": "nai",
+          "gloss": "no hay",
+          "kind": "adj"
+        },
+        {
+          "id": "t5",
+          "surface": "さ",
+          "romaji": "sa",
+          "gloss": "(afirma)",
+          "kind": "particle",
+          "role": "Final informal seguro."
+        },
+        {
+          "id": "t6",
+          "surface": "なぁ",
+          "romaji": "naぁ",
+          "gloss": "oye",
+          "kind": "adv"
+        },
+        {
+          "id": "t7",
+          "surface": "そうだろ",
+          "romaji": "soudaro",
+          "gloss": "¿verdad?",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t4",
+          "type": "topic",
+          "label": "qué no hay"
+        }
+      ],
+      "translation": "Garantías no hay en ningún lado, ¿verdad?",
+      "literal": "garantía-ni-siquiera ningún-lugar no-hay-(afirma) oye ¿verdad?"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "We are Fighting Dreamers",
+          "gloss": "somos soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "高み",
+          "reading": "たかみ",
+          "romaji": "takami",
+          "gloss": "las alturas",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca el blanco: 目指す lleva を."
+        },
+        {
+          "id": "t4",
+          "surface": "目指して",
+          "reading": "めざして",
+          "romaji": "mezashite",
+          "gloss": "apuntando a",
+          "kind": "verb",
+          "base": {
+            "surface": "目指す",
+            "reading": "めざす",
+            "meaning": "apuntar a, aspirar a"
+          },
+          "form": {
+            "name": "forma て (manera / meta)",
+            "why": "目指す → 目指して (す→し + て). Acaba en て y la frase no se cierra: dice cómo somos: «apuntando a la cima». Un pasado sería 目指した."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "a qué apunta"
+        }
+      ],
+      "translation": "Somos Fighting Dreamers, apuntando a la cima.",
+      "literal": "somos-soñadores-luchadores cima-(obj) apuntando"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "なりふり",
+          "romaji": "narifuri",
+          "gloss": "apariencia",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "構わず",
+          "reading": "かまわず",
+          "romaji": "kamawazu",
+          "gloss": "sin importar",
+          "kind": "verb",
+          "base": {
+            "surface": "構う",
+            "reading": "かまう",
+            "meaning": "importar, hacer caso"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "構う → 構わず: «sin importar / sin hacer caso». ず = negativo literario que une, como 構わないで. Acaba en ず: no es て ni た, y no marca pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué ignora"
+        }
+      ],
+      "translation": "Soñadores luchadores, sin importarnos las apariencias.",
+      "literal": "soñadores-luchadores apariencia sin-importar"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "信じる",
+          "reading": "しんじる",
+          "romaji": "shinjiru",
+          "gloss": "creer",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "がままに",
+          "romaji": "gamamani",
+          "gloss": "tal como",
+          "kind": "expr"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "qué sigue"
+        }
+      ],
+      "translation": "Soñadores luchadores, tal como creemos.",
+      "literal": "soñadores-luchadores creer-tal-cual"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Oli Oli Oli Oh-!",
+          "gloss": "grito",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "Just go my way!",
+          "gloss": "¡sigue mi camino!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Oli Oli Oli Oh! ¡Sigo mi camino!",
+      "literal": "oli oli oli oh sólo ir mi camino"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Bang!)",
+          "gloss": "aquí y ahora (¡bang!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡bang!)"
+    },
+    {
+      "id": "l30",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶっ放せ",
+          "reading": "ぶっぱなせ",
+          "romaji": "buppanase",
+          "gloss": "¡dispara!",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶっ放す",
+            "reading": "ぶっぱなす",
+            "meaning": "disparar a lo bestia"
+          },
+          "form": {
+            "name": "imperativo (godan: す → せ)",
+            "why": "ぶっ放す → ぶっ放せ: orden directa. En los verbos que acaban en す el imperativo cambia す por せ. ぶっ- es un prefijo que da fuerza."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Like a",
+          "gloss": "como un",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "弾丸ライナー",
+          "reading": "だんがんライナー",
+          "romaji": "danganrainaa",
+          "gloss": "tiro rasante",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Dispara como un tiro rasante!",
+      "literal": "¡dispara! como-un bala-rasante"
+    },
+    {
+      "id": "l31",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Burn!)",
+          "gloss": "aquí y ahora (¡arde!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡arde!)"
+    },
+    {
+      "id": "l32",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶった斬ってくぜ",
+          "reading": "ぶったぎってくぜ",
+          "romaji": "buttagittekuze",
+          "gloss": "cortaré a tajos",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶった斬る",
+            "reading": "ぶったぎる",
+            "meaning": "cortar de un tajo"
+          },
+          "form": {
+            "name": "ていく abreviado (てく) + ぜ",
+            "why": "ぶった斬って + いく → ぶった斬ってく: «iré cortando». OJO: acaba en く: es て + いく con い caída, no un pasado. La «た» de ぶった tampoco es pasado: forma parte de la palabra (variante enfática de ぶっ斬る). ぜ = énfasis masculino."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Get the fire!",
+          "gloss": "¡coge el fuego!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Iré cortando a tajos! ¡Coge el fuego!",
+      "literal": "iré-cortando-a-tajos ¡coge-el-fuego!"
+    },
+    {
+      "id": "l33",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Bang!)",
+          "gloss": "aquí y ahora (¡bang!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡bang!)"
+    },
+    {
+      "id": "l34",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶっ放せ",
+          "reading": "ぶっぱなせ",
+          "romaji": "buppanase",
+          "gloss": "¡dispara!",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶっ放す",
+            "reading": "ぶっぱなす",
+            "meaning": "disparar a lo bestia"
+          },
+          "form": {
+            "name": "imperativo (godan: す → せ)",
+            "why": "ぶっ放す → ぶっ放せ: orden directa. En los verbos que acaban en す el imperativo cambia す por せ. ぶっ- es un prefijo que da fuerza."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Like a",
+          "gloss": "como un",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "弾丸ライナー",
+          "reading": "だんがんライナー",
+          "romaji": "danganrainaa",
+          "gloss": "tiro rasante",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Dispara como un tiro rasante!",
+      "literal": "¡dispara! como-un bala-rasante"
+    },
+    {
+      "id": "l35",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Burn!)",
+          "gloss": "aquí y ahora (¡arde!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡arde!)"
+    },
+    {
+      "id": "l36",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶった斬ってくぜ",
+          "reading": "ぶったぎってくぜ",
+          "romaji": "buttagittekuze",
+          "gloss": "cortaré a tajos",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶった斬る",
+            "reading": "ぶったぎる",
+            "meaning": "cortar de un tajo"
+          },
+          "form": {
+            "name": "ていく abreviado (てく) + ぜ",
+            "why": "ぶった斬って + いく → ぶった斬ってく: «iré cortando». OJO: acaba en く: es て + いく con い caída, no un pasado. La «た» de ぶった tampoco es pasado: forma parte de la palabra (variante enfática de ぶっ斬る). ぜ = énfasis masculino."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Get the fire!",
+          "gloss": "¡coge el fuego!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Iré cortando a tajos! ¡Coge el fuego!",
+      "literal": "iré-cortando-a-tajos ¡coge-el-fuego!"
+    },
+    {
+      "id": "l37",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "We are fighting Dreamers",
+          "gloss": "somos soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "この",
+          "romaji": "kono",
+          "gloss": "estos",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "仲間達",
+          "reading": "なかまたち",
+          "romaji": "nakamatachi",
+          "gloss": "compañeros",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Compañía: «con estos compañeros»."
+        }
+      ],
+      "links": [],
+      "translation": "Somos Fighting Dreamers, con estos compañeros.",
+      "literal": "somos-soñadores-luchadores estos compañeros-con"
+    },
+    {
+      "id": "l38",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se arrastra consigo."
+        },
+        {
+          "id": "t4",
+          "surface": "巻き込み",
+          "reading": "まきこみ",
+          "romaji": "makikomi",
+          "gloss": "arrastrando",
+          "kind": "verb",
+          "base": {
+            "surface": "巻き込む",
+            "reading": "まきこむ",
+            "meaning": "arrastrar, involucrar"
+          },
+          "form": {
+            "name": "raíz (連用形) que enlaza",
+            "why": "巻き込む → 巻き込み (む→み). Acaba en み, no en て/た: une con la línea siguiente sin marcar tiempo."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Soñadores luchadores, arrastrándolo todo consigo,",
+      "literal": "soñadores-luchadores todo-(obj) arrastrando"
+    },
+    {
+      "id": "l39",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "志",
+          "reading": "こころざし",
+          "romaji": "kokorozashi",
+          "gloss": "aspiración",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "高く",
+          "reading": "たかく",
+          "romaji": "takaku",
+          "gloss": "alta",
+          "kind": "adj",
+          "base": {
+            "surface": "高い",
+            "reading": "たかい",
+            "meaning": "alto"
+          },
+          "form": {
+            "name": "forma conectiva (い → く)",
+            "why": "高い → 高く: «alta (y…)». Aquí funciona como predicado conectivo: «(nuestra) aspiración, alta»."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cómo es"
+        }
+      ],
+      "translation": "Soñadores luchadores, de alta aspiración.",
+      "literal": "soñadores-luchadores aspiración alta"
+    },
+    {
+      "id": "l40",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Oli Oli Oli Oh-!",
+          "gloss": "grito",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Oli Oli Oli Oh!"
+    },
+    {
+      "id": "l41",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "We are Fighting Dreamers",
+          "gloss": "somos soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "高み",
+          "reading": "たかみ",
+          "romaji": "takami",
+          "gloss": "las alturas",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca el blanco: 目指す lleva を."
+        },
+        {
+          "id": "t4",
+          "surface": "目指して",
+          "reading": "めざして",
+          "romaji": "mezashite",
+          "gloss": "apuntando a",
+          "kind": "verb",
+          "base": {
+            "surface": "目指す",
+            "reading": "めざす",
+            "meaning": "apuntar a, aspirar a"
+          },
+          "form": {
+            "name": "forma て (manera / meta)",
+            "why": "目指す → 目指して (す→し + て). Acaba en て y la frase no se cierra: dice cómo somos: «apuntando a la cima». Un pasado sería 目指した."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "a qué apunta"
+        }
+      ],
+      "translation": "Somos Fighting Dreamers, apuntando a la cima.",
+      "literal": "somos-soñadores-luchadores cima-(obj) apuntando"
+    },
+    {
+      "id": "l42",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "なりふり",
+          "romaji": "narifuri",
+          "gloss": "apariencia",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "構わず",
+          "reading": "かまわず",
+          "romaji": "kamawazu",
+          "gloss": "sin importar",
+          "kind": "verb",
+          "base": {
+            "surface": "構う",
+            "reading": "かまう",
+            "meaning": "importar, hacer caso"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "構う → 構わず: «sin importar / sin hacer caso». ず = negativo literario que une, como 構わないで. Acaba en ず: no es て ni た, y no marca pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t2",
+          "type": "object",
+          "label": "qué ignora"
+        }
+      ],
+      "translation": "Soñadores luchadores, sin importarnos las apariencias.",
+      "literal": "soñadores-luchadores apariencia sin-importar"
+    },
+    {
+      "id": "l43",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Fighting Dreamers",
+          "gloss": "soñadores luchadores",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "信じる",
+          "reading": "しんじる",
+          "romaji": "shinjiru",
+          "gloss": "creer",
+          "kind": "verb"
+        },
+        {
+          "id": "t3",
+          "surface": "がままに",
+          "romaji": "gamamani",
+          "gloss": "tal como",
+          "kind": "expr"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t3",
+          "type": "modifies",
+          "label": "qué sigue"
+        }
+      ],
+      "translation": "Soñadores luchadores, tal como creemos.",
+      "literal": "soñadores-luchadores creer-tal-cual"
+    },
+    {
+      "id": "l44",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Oli Oli Oli Oh-!",
+          "gloss": "grito",
+          "kind": "other"
+        },
+        {
+          "id": "t2",
+          "surface": "Just go my way!",
+          "gloss": "¡sigue mi camino!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Oli Oli Oli Oh! ¡Sigo mi camino!",
+      "literal": "oli oli oli oh sólo ir mi camino"
+    },
+    {
+      "id": "l45",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "(Don’t forget your first impulse ever)",
+          "gloss": "no olvides tu primer impulso",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "No olvides nunca tu primer impulso."
+    },
+    {
+      "id": "l46",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Go my way!…",
+          "gloss": "¡sigue mi camino!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Sigue mi camino!…"
+    },
+    {
+      "id": "l47",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "(Let’s keep your adventurous ever)",
+          "gloss": "mantengamos tu espíritu aventurero",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Mantengamos siempre tu espíritu aventurero.",
+      "notes": [
+        "Inglés no estándar: adventurous («aventurero») se usa como sustantivo."
+      ]
+    },
+    {
+      "id": "l48",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Go my way!…",
+          "gloss": "¡sigue mi camino!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Sigue mi camino!…"
+    },
+    {
+      "id": "l49",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "(Don’t forget your first impulse ever)",
+          "gloss": "no olvides tu primer impulso",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "No olvides nunca tu primer impulso."
+    },
+    {
+      "id": "l50",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "(Let’s keep your adventurous ever)",
+          "gloss": "mantengamos tu espíritu aventurero",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Mantengamos siempre tu espíritu aventurero.",
+      "notes": [
+        "Inglés no estándar: adventurous («aventurero») se usa como sustantivo."
+      ]
+    },
+    {
+      "id": "l51",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Go!",
+          "gloss": "¡ve!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Vamos!"
+    },
+    {
+      "id": "l52",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Bang!)",
+          "gloss": "aquí y ahora (¡bang!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡bang!)"
+    },
+    {
+      "id": "l53",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶっ放せ",
+          "reading": "ぶっぱなせ",
+          "romaji": "buppanase",
+          "gloss": "¡dispara!",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶっ放す",
+            "reading": "ぶっぱなす",
+            "meaning": "disparar a lo bestia"
+          },
+          "form": {
+            "name": "imperativo (godan: す → せ)",
+            "why": "ぶっ放す → ぶっ放せ: orden directa. En los verbos que acaban en す el imperativo cambia す por せ. ぶっ- es un prefijo que da fuerza."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Like a",
+          "gloss": "como un",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "弾丸ライナー",
+          "reading": "だんがんライナー",
+          "romaji": "danganrainaa",
+          "gloss": "tiro rasante",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Dispara como un tiro rasante!",
+      "literal": "¡dispara! como-un bala-rasante"
+    },
+    {
+      "id": "l54",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Burn!)",
+          "gloss": "aquí y ahora (¡arde!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡arde!)"
+    },
+    {
+      "id": "l55",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶった斬ってくぜ",
+          "reading": "ぶったぎってくぜ",
+          "romaji": "buttagittekuze",
+          "gloss": "cortaré a tajos",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶった斬る",
+            "reading": "ぶったぎる",
+            "meaning": "cortar de un tajo"
+          },
+          "form": {
+            "name": "ていく abreviado (てく) + ぜ",
+            "why": "ぶった斬って + いく → ぶった斬ってく: «iré cortando». OJO: acaba en く: es て + いく con い caída, no un pasado. La «た» de ぶった tampoco es pasado: forma parte de la palabra (variante enfática de ぶっ斬る). ぜ = énfasis masculino."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Get the fire!",
+          "gloss": "¡coge el fuego!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Iré cortando a tajos! ¡Coge el fuego!",
+      "literal": "iré-cortando-a-tajos ¡coge-el-fuego!"
+    },
+    {
+      "id": "l56",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Bang!)",
+          "gloss": "aquí y ahora (¡bang!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡bang!)"
+    },
+    {
+      "id": "l57",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶっ放せ",
+          "reading": "ぶっぱなせ",
+          "romaji": "buppanase",
+          "gloss": "¡dispara!",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶっ放す",
+            "reading": "ぶっぱなす",
+            "meaning": "disparar a lo bestia"
+          },
+          "form": {
+            "name": "imperativo (godan: す → せ)",
+            "why": "ぶっ放す → ぶっ放せ: orden directa. En los verbos que acaban en す el imperativo cambia す por せ. ぶっ- es un prefijo que da fuerza."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Like a",
+          "gloss": "como un",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "弾丸ライナー",
+          "reading": "だんがんライナー",
+          "romaji": "danganrainaa",
+          "gloss": "tiro rasante",
+          "kind": "noun"
+        }
+      ],
+      "links": [],
+      "translation": "¡Dispara como un tiro rasante!",
+      "literal": "¡dispara! como-un bala-rasante"
+    },
+    {
+      "id": "l58",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "Right here Right now (Burn!)",
+          "gloss": "aquí y ahora (¡arde!)",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "Aquí y ahora (¡arde!)"
+    },
+    {
+      "id": "l59",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ぶった斬ってくぜ",
+          "reading": "ぶったぎってくぜ",
+          "romaji": "buttagittekuze",
+          "gloss": "cortaré a tajos",
+          "kind": "verb",
+          "base": {
+            "surface": "ぶった斬る",
+            "reading": "ぶったぎる",
+            "meaning": "cortar de un tajo"
+          },
+          "form": {
+            "name": "ていく abreviado (てく) + ぜ",
+            "why": "ぶった斬って + いく → ぶった斬ってく: «iré cortando». OJO: acaba en く: es て + いく con い caída, no un pasado. La «た» de ぶった tampoco es pasado: forma parte de la palabra (variante enfática de ぶっ斬る). ぜ = énfasis masculino."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "Get the fire!",
+          "gloss": "¡coge el fuego!",
+          "kind": "other"
+        },
+        {
+          "id": "t3",
+          "surface": "Bang!",
+          "gloss": "¡bang!",
+          "kind": "other"
+        }
+      ],
+      "links": [],
+      "translation": "¡Iré cortando a tajos! ¡Coge el fuego! ¡Bang!",
+      "literal": "¡iré-cortando! ¡coge-el-fuego! ¡bang!"
+    }
+  ]
+}
