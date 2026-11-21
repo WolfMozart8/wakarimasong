@@ -1,4 +1,4 @@
-import type { Song } from '../types'
+import type { Difficulty, Song } from '../types'
 import { validateSong } from './validateSong'
 import type { Card } from './flashcards'
 
@@ -6,6 +6,7 @@ export interface SongSummary {
   id: string
   title: string
   artist?: string
+  difficulty?: Difficulty
   lineCount?: number
   syncedCount?: number
   error?: string

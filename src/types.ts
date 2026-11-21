@@ -55,12 +55,32 @@ export interface Line {
   image?: string
 }
 
+export const DIFFICULTY_LEVELS = ['facil', 'medio', 'dificil', 'muy-dificil'] as const
+export type DifficultyLevel = (typeof DIFFICULTY_LEVELS)[number]
+
+export const DIFFICULTY_LABEL: Record<DifficultyLevel, string> = {
+  facil: 'fácil',
+  medio: 'medio',
+  dificil: 'difícil',
+  'muy-dificil': 'muy difícil',
+}
+
+/** Dificultad general de la canción y nivel de japonés para entenderla. */
+export interface Difficulty {
+  level: DifficultyLevel
+  /** Nivel de japonés (JLPT) con el que se entiende, p. ej. «N4» o «N3–N2». */
+  jlpt: string
+  /** Qué la hace fácil o difícil (vocabulario, velocidad, gramática). */
+  why: string
+}
+
 export interface Song {
   id: string
   title: string
   artist?: string
   /** Vacío = sin video; la app usa un cronómetro. */
   youtubeId?: string
+  difficulty?: Difficulty
   /** De dónde se sacó la letra. */
   source?: string
   lines: Line[]

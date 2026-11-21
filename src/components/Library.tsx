@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { listSongs, type SongSummary } from '../lib/api'
+import { DIFFICULTY_LABEL } from '../types'
 import { Mascot } from './Logo'
 
 export function Library() {
@@ -41,6 +42,11 @@ export function Library() {
                     <span className="title">{s.title}</span>
                     {s.artist && <span className="artist">{s.artist}</span>}
                     {!s.error && <span className="artist">{s.lineCount} líneas</span>}
+                    {s.difficulty && (
+                      <span className="artist" title={s.difficulty.why}>
+                        Dificultad: {DIFFICULTY_LABEL[s.difficulty.level] ?? s.difficulty.level} · japonés {s.difficulty.jlpt}
+                      </span>
+                    )}
                   </span>
                   <span className="cassette-window" aria-hidden="true">
                     <span className="reel" />

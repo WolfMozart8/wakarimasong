@@ -17,6 +17,7 @@ function summarize(fileId: string) {
       id: fileId,
       title: String(s.title ?? fileId),
       artist: s.artist ? String(s.artist) : undefined,
+      difficulty: s.difficulty,
       lineCount: lines.length,
       syncedCount: lines.filter((l) => typeof l?.start === 'number').length,
     }

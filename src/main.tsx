@@ -1,6 +1,6 @@
 import { StrictMode, useEffect, useState } from 'react'
 import { createRoot } from 'react-dom/client'
-import type { Song } from './types'
+import { DIFFICULTY_LABEL, type Song } from './types'
 import { loadCards, loadSong } from './lib/api'
 import { dueCards, toDay } from './lib/flashcards'
 import { Review } from './components/Review'
@@ -40,6 +40,11 @@ function SongRoute({ id, mode }: { id: string; mode: 'song' | 'sync' }) {
         <span>
           {song.title}
           {song.artist && <small>{song.artist}</small>}
+          {song.difficulty && (
+            <small title={song.difficulty.why}>
+              Dificultad: {DIFFICULTY_LABEL[song.difficulty.level] ?? song.difficulty.level} · japonés {song.difficulty.jlpt} · {song.difficulty.why}
+            </small>
+          )}
         </span>
         <a className="btn" href={mode === 'song' ? `#/sync/${id}` : `#/song/${id}`}>
           {mode === 'song' ? '⏱ Sincronizar' : '▶ Ver canción'}

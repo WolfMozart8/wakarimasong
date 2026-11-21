@@ -1,4 +1,4 @@
-import { LINK_TYPES, TOKEN_KINDS, type Song } from '../types'
+import { DIFFICULTY_LEVELS, LINK_TYPES, TOKEN_KINDS, type Song } from '../types'
 
 export type ValidationResult = { ok: true; song: Song } | { ok: false; errors: string[] }
 
@@ -16,6 +16,11 @@ export function validateSong(data: unknown): ValidationResult {
   if (!isStr(data.title)) errors.push('Falta "title" de la canción.')
   if (data.youtubeId !== undefined && typeof data.youtubeId !== 'string')
     errors.push('"youtubeId" debe ser texto.')
+  if (data.difficulty !== undefined) {
+    const d = data.difficulty
+    if (!isObj(d) || !(DIFFICULTY_LEVELS as readonly unknown[]).includes(d.level) || !isStr(d.jlpt) || !isStr(d.why))
+      errors.push('"difficulty" debe tener "level" (facil, medio, dificil, muy-dificil), "jlpt" y "why".')
+  }
   if (!Array.isArray(data.lines)) {
     errors.push('Falta la lista "lines".')
     return { ok: false, errors }
