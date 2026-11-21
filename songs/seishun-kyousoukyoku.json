@@ -1,0 +1,3015 @@
+{
+  "id": "seishun-kyousoukyoku",
+  "title": "青春狂騒曲",
+  "artist": "Sambomaster · Naruto (opening 5)",
+  "difficulty": {
+    "level": "dificil",
+    "jlpt": "N2",
+    "why": "Letra poética y abstracta (廃墟, 打ち捨てる, 分かち合う, 溶け合う), lenguaje escrito (のだ, 訳です) y muchas frases largas encadenadas con て. El ritmo es moderado, pero el sentido cuesta."
+  },
+  "source": "https://www.animesonglyrics.com/naruto/seishun-kyousoukyoku",
+  "lines": [
+    {
+      "id": "l1",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ひからびた",
+          "romaji": "hikarabita",
+          "gloss": "reseco",
+          "kind": "verb",
+          "base": {
+            "surface": "干からびる",
+            "reading": "ひからびる",
+            "meaning": "resecarse"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "干からびる → ひからびた + 言葉: «palabras resecas». OJO: delante de un sustantivo, た describe el estado resultante (ya se resecaron y siguen así); no cierra la frase."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "言葉",
+          "reading": "ことば",
+          "romaji": "kotoba",
+          "gloss": "palabras",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se une."
+        },
+        {
+          "id": "t4",
+          "surface": "つないで",
+          "romaji": "tsunaide",
+          "gloss": "uniendo",
+          "kind": "verb",
+          "base": {
+            "surface": "つなぐ",
+            "meaning": "unir, conectar"
+          },
+          "form": {
+            "name": "forma て (manera / enlace)",
+            "why": "つなぐ → つないで (ぐ→い + で). Acaba en て/で: «uniendo palabras resecas, (aun así…)». Un pasado sería つないだ."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Uniendo palabras resecas,",
+      "literal": "resecas palabras-(obj) uniendo"
+    },
+    {
+      "id": "l2",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "それでも",
+          "romaji": "soredemo",
+          "gloss": "aun así",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "シンプルな",
+          "romaji": "shinpuruna",
+          "gloss": "sencillo",
+          "kind": "adj"
+        }
+      ],
+      "links": [],
+      "translation": "Aun así, nosotros, un sencillo…",
+      "literal": "aun-así nosotros sencillo",
+      "notes": [
+        "La frase sigue en la línea siguiente: シンプルな + 想い."
+      ]
+    },
+    {
+      "id": "l3",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "想い",
+          "reading": "おもい",
+          "romaji": "omoi",
+          "gloss": "sentimiento",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se quiere transmitir."
+        },
+        {
+          "id": "t3",
+          "surface": "伝えたい",
+          "reading": "つたえたい",
+          "romaji": "tsutaetai",
+          "gloss": "quiero transmitir",
+          "kind": "verb",
+          "base": {
+            "surface": "伝える",
+            "reading": "つたえる",
+            "meaning": "transmitir"
+          },
+          "form": {
+            "name": "deseo (たい)",
+            "why": "伝える → 伝え + たい: «querer transmitir». OJO: たい NO es pasado: añade el deseo de quien habla. Se conjuga como adjetivo い (伝えたかった = quise)."
+          }
+        },
+        {
+          "id": "t4",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «solo queremos…»."
+        },
+        {
+          "id": "t5",
+          "surface": "なの",
+          "romaji": "nano",
+          "gloss": "es que",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "solo queremos transmitir un sentimiento.",
+      "literal": "sentimiento-(obj) quiero-transmitir solo es-(explic.)"
+    },
+    {
+      "id": "l4",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "吹き抜ける",
+          "reading": "ふきぬける",
+          "romaji": "fukinukeru",
+          "gloss": "soplar a través",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "くすんだ",
+          "romaji": "kusunda",
+          "gloss": "apagado",
+          "kind": "verb",
+          "base": {
+            "surface": "くすむ",
+            "meaning": "apagarse, perder brillo"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "くすむ → くすんだ (む→ん + だ) + あの日: «aquel día apagado». OJO: la だ no es pasado de cierre: describe un estado (ya perdió brillo)."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "gloss": "día",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el viento de aquel día»."
+        },
+        {
+          "id": "t6",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «en cuanto al viento…» (el verbo está en la línea siguiente)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál día"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de cuándo"
+        }
+      ],
+      "translation": "El viento de aquel día apagado, que sopla a través…",
+      "literal": "sopla-a-través apagado aquel día-de viento-en-cuanto-a",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l5",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "昨日",
+          "reading": "きのう",
+          "romaji": "kinou",
+          "gloss": "ayer",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «ruinas de ayer»."
+        },
+        {
+          "id": "t3",
+          "surface": "廃墟",
+          "reading": "はいきょ",
+          "romaji": "haiko",
+          "gloss": "ruinas",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Destino: dónde se abandona."
+        },
+        {
+          "id": "t5",
+          "surface": "打ち捨てて",
+          "reading": "うちすてて",
+          "romaji": "uchisutete",
+          "gloss": "abandonando",
+          "kind": "verb",
+          "base": {
+            "surface": "打ち捨てる",
+            "reading": "うちすてる",
+            "meaning": "abandonar, desechar"
+          },
+          "form": {
+            "name": "forma て (encadena / orden suave)",
+            "why": "打ち捨てる → 打ち捨てて. Acaba en て: «tíralo… y (vive)». Aquí funciona como una petición o paso previo a la siguiente frase."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de cuándo"
+        }
+      ],
+      "translation": "…lo abandonamos en las ruinas de ayer,",
+      "literal": "ayer-de ruinas-en abandonando"
+    },
+    {
+      "id": "l6",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Compañía: «contigo»."
+        },
+        {
+          "id": "t3",
+          "surface": "笑う",
+          "reading": "わらう",
+          "romaji": "warau",
+          "gloss": "reír",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se vive."
+        },
+        {
+          "id": "t6",
+          "surface": "生きる",
+          "reading": "いきる",
+          "romaji": "ikiru",
+          "gloss": "vivir",
+          "kind": "verb"
+        },
+        {
+          "id": "t7",
+          "surface": "のだ",
+          "romaji": "noda",
+          "gloss": "es que",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál ahora"
+        },
+        {
+          "from": "t6",
+          "to": "t4",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Viviremos el ahora en que reímos contigo.",
+      "literal": "tú-con reír ahora-(obj) vivir-(firme)"
+    },
+    {
+      "id": "l7",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "それでも",
+          "romaji": "soredemo",
+          "gloss": "aun así",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "出来事",
+          "reading": "できごと",
+          "romaji": "dekigoto",
+          "gloss": "suceso",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién hace sufrir: aquel suceso."
+        },
+        {
+          "id": "t5",
+          "surface": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca a quién se hace sufrir."
+        },
+        {
+          "id": "t7",
+          "surface": "苦しめる",
+          "reading": "くるしめる",
+          "romaji": "kurushimeru",
+          "gloss": "hacer sufrir",
+          "kind": "verb",
+          "base": {
+            "surface": "苦しめる",
+            "reading": "くるしめる",
+            "meaning": "atormentar"
+          },
+          "form": {
+            "name": "causativa léxica (め)",
+            "why": "苦しい (doloroso) → 苦しめる: verbo «hacer sufrir». Está en forma de diccionario: presente, no pasado."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "だろ",
+          "romaji": "daro",
+          "gloss": "¿verdad?",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t7",
+          "type": "subject",
+          "label": "quién"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "object",
+          "label": "a quién"
+        }
+      ],
+      "translation": "Aun así, aquel suceso te atormenta, ¿no?",
+      "literal": "aun-así aquel suceso-(suj) tú-(obj) atormenta ¿no?"
+    },
+    {
+      "id": "l8",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だからこそ",
+          "romaji": "dakarakoso",
+          "gloss": "precisamente por eso",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "サヨナラ",
+          "romaji": "sayonara",
+          "gloss": "adiós",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "なんだ",
+          "romaji": "nanda",
+          "gloss": "es",
+          "kind": "aux"
+        }
+      ],
+      "links": [],
+      "translation": "Precisamente por eso es un adiós.",
+      "literal": "precisamente-por-eso adiós es-(explic.)"
+    },
+    {
+      "id": "l9",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "このまま",
+          "romaji": "konomama",
+          "gloss": "tal cual",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "何",
+          "reading": "なに",
+          "romaji": "nani",
+          "gloss": "nada",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "ni",
+          "kind": "particle",
+          "role": "何も + negativo = «nada»."
+        },
+        {
+          "id": "t4",
+          "surface": "残らず",
+          "reading": "のこらず",
+          "romaji": "nokorazu",
+          "gloss": "sin quedar",
+          "kind": "verb",
+          "base": {
+            "surface": "残る",
+            "reading": "のこる",
+            "meaning": "quedar"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "残る → 残らず: «sin que quede». ず = negativo literario que une, como 残らないで. Acaba en ず: no es て ni た."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Tal cual, sin que quede nada,",
+      "literal": "tal-cual nada-ni sin-quedar"
+    },
+    {
+      "id": "l10",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Compañía: «contigo»."
+        },
+        {
+          "id": "t3",
+          "surface": "分かち合う",
+          "reading": "わかちあう",
+          "romaji": "wakachiau",
+          "gloss": "compartir",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «solo compartir»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "con quién"
+        }
+      ],
+      "translation": "solo compartir contigo.",
+      "literal": "tú-con compartir solo"
+    },
+    {
+      "id": "l11",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "やがて",
+          "romaji": "yagate",
+          "gloss": "con el tiempo",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «nosotros…»."
+        },
+        {
+          "id": "t4",
+          "surface": "それ",
+          "romaji": "sore",
+          "gloss": "eso",
+          "kind": "aux"
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca el sujeto de la cita: «eso es todo»."
+        },
+        {
+          "id": "t6",
+          "surface": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        },
+        {
+          "id": "t8",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cierra la cita: «que eso es todo»."
+        },
+        {
+          "id": "t9",
+          "surface": "気がついて",
+          "reading": "きがついて",
+          "romaji": "kigatsuite",
+          "gloss": "dándonos cuenta",
+          "kind": "verb",
+          "base": {
+            "surface": "気がつく",
+            "reading": "きがつく",
+            "meaning": "darse cuenta"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "気がつく → 気がついて (く→い + て). Acaba en て: «dándonos cuenta de que…, (…)». Une con la línea siguiente. Un pasado sería 気がついた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t9",
+          "to": "t8",
+          "type": "object",
+          "label": "de qué"
+        },
+        {
+          "from": "t3",
+          "to": "t9",
+          "type": "subject",
+          "label": "quiénes"
+        }
+      ],
+      "translation": "Con el tiempo, nosotros, dándonos cuenta de que eso es todo,",
+      "literal": "con-el-tiempo nosotros-en-cuanto-a eso-(suj) todo es-(cita) dándonos-cuenta"
+    },
+    {
+      "id": "l12",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "悲しみ",
+          "reading": "かなしみ",
+          "romaji": "kanashimi",
+          "gloss": "tristeza",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «la tristeza…»."
+        },
+        {
+          "id": "t3",
+          "surface": "頬",
+          "reading": "ほお",
+          "romaji": "hoo",
+          "gloss": "mejilla",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Con 伝う, を marca por dónde se desliza: «por la mejilla»."
+        },
+        {
+          "id": "t5",
+          "surface": "伝ってって",
+          "reading": "つたってって",
+          "romaji": "tsutattette",
+          "gloss": "deslizándose y yéndose",
+          "kind": "verb",
+          "base": {
+            "surface": "伝う",
+            "reading": "つたう",
+            "meaning": "deslizarse por"
+          },
+          "form": {
+            "name": "て + いって (ていく, forma て)",
+            "why": "伝って + いって → 伝ってって (la い cae): «deslizándose por la mejilla, y yéndose». OJO: terminan en て, y son dos て seguidos: uno de 伝う y otro de いく. No es pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "por dónde"
+        },
+        {
+          "from": "t1",
+          "to": "t5",
+          "type": "topic",
+          "label": "qué se desliza"
+        }
+      ],
+      "translation": "la tristeza se desliza por la mejilla…",
+      "literal": "tristeza-en-cuanto-a mejilla-por deslizándose-y-yéndose"
+    },
+    {
+      "id": "l13",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "涙",
+          "reading": "なみだ",
+          "romaji": "namida",
+          "gloss": "lágrimas",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «río de lágrimas»."
+        },
+        {
+          "id": "t3",
+          "surface": "河",
+          "reading": "かわ",
+          "romaji": "kawa",
+          "gloss": "río",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: «convertirse en…»."
+        },
+        {
+          "id": "t5",
+          "surface": "なる",
+          "romaji": "naru",
+          "gloss": "volverse",
+          "kind": "verb"
+        },
+        {
+          "id": "t6",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «solo se vuelve…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        },
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "y solo se vuelve un río de lágrimas.",
+      "literal": "lágrimas-de río-en volverse solo"
+    },
+    {
+      "id": "l14",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "揺れる",
+          "reading": "ゆれる",
+          "romaji": "yureru",
+          "gloss": "oscilar",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "想い",
+          "reading": "おもい",
+          "romaji": "omoi",
+          "gloss": "sentimientos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «los sentimientos…»."
+        },
+        {
+          "id": "t4",
+          "surface": "強い",
+          "reading": "つよい",
+          "romaji": "tsuyoi",
+          "gloss": "fuerte",
+          "kind": "adj"
+        },
+        {
+          "id": "t5",
+          "surface": "渦",
+          "reading": "うず",
+          "romaji": "uzu",
+          "gloss": "remolino",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: «volverse remolino»."
+        },
+        {
+          "id": "t7",
+          "surface": "なって",
+          "romaji": "natte",
+          "gloss": "volviéndose",
+          "kind": "verb",
+          "base": {
+            "surface": "なる",
+            "meaning": "volverse"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "なる → なって (る→って). Acaba en て: une con 溶け合う: «se vuelven remolino y (se funden)». Un pasado sería なった."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        }
+      ],
+      "translation": "Los sentimientos que oscilan se vuelven un fuerte remolino…",
+      "literal": "oscilantes sentimientos-en-cuanto-a fuerte remolino-en volviéndose"
+    },
+    {
+      "id": "l15",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "溶け合うのよ",
+          "reading": "とけあうのよ",
+          "romaji": "tokeaunoyo",
+          "gloss": "se funden",
+          "kind": "verb",
+          "base": {
+            "surface": "溶け合う",
+            "reading": "とけあう",
+            "meaning": "fundirse unos con otros"
+          },
+          "form": {
+            "name": "のよ (explica, femenino)",
+            "why": "溶け合う + のよ: «¡es que se funden!». の + よ: tono femenino de explicar y afirmar. Acaba en よ: no es pasado."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "…y se funden.",
+      "literal": "se-funden-(explic.)"
+    },
+    {
+      "id": "l16",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "いらだち",
+          "romaji": "iradachi",
+          "gloss": "irritación",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "とか",
+          "romaji": "toka",
+          "gloss": "y cosas así",
+          "kind": "particle",
+          "role": "Enumera ejemplos sin agotar la lista: «irritación y cosas así»."
+        },
+        {
+          "id": "t3",
+          "surface": "少し",
+          "reading": "すこし",
+          "romaji": "sukoshi",
+          "gloss": "un poco",
+          "kind": "adv"
+        },
+        {
+          "id": "t4",
+          "surface": "位",
+          "reading": "くらい",
+          "romaji": "kurai",
+          "gloss": "más o menos",
+          "kind": "particle",
+          "role": "Aproxima: «apenas un poco»."
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «un poco de soledad»."
+        },
+        {
+          "id": "t6",
+          "surface": "孤独",
+          "reading": "こどく",
+          "romaji": "kodoku",
+          "gloss": "soledad",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だとか",
+          "romaji": "datoka",
+          "gloss": "o cosas así",
+          "kind": "particle",
+          "role": "だ + とか: segundo ejemplo de la lista."
+        },
+        {
+          "id": "t8",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «eso de…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuánto"
+        }
+      ],
+      "translation": "Eso de la irritación o de un poco de soledad…",
+      "literal": "irritación-y-cosas apenas-un-poco soledad-o-cosas en-cuanto-a",
+      "notes": [
+        "Una sola pregunta repartida en tres líneas."
+      ]
+    },
+    {
+      "id": "l17",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "一体",
+          "reading": "いったい",
+          "romaji": "ittai",
+          "gloss": "en definitiva",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "それ",
+          "romaji": "sore",
+          "gloss": "eso",
+          "kind": "aux"
+        },
+        {
+          "id": "t3",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca el sujeto: «eso»."
+        },
+        {
+          "id": "t4",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "にとって",
+          "romaji": "nitotte",
+          "gloss": "para",
+          "kind": "particle",
+          "role": "Punto de vista: «para nosotros»."
+        }
+      ],
+      "links": [],
+      "translation": "¿Qué es eso, en definitiva, para nosotros?",
+      "literal": "en-definitiva eso-(suj) nosotros-para"
+    },
+    {
+      "id": "l18",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "何",
+          "reading": "なん",
+          "romaji": "nan",
+          "gloss": "qué",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "だって",
+          "romaji": "datte",
+          "gloss": "diciendo que",
+          "kind": "particle",
+          "role": "だって = «y dicen que…»: cita con tono desafiante."
+        },
+        {
+          "id": "t3",
+          "surface": "んだろ",
+          "romaji": "ndaro",
+          "gloss": "¿será?",
+          "kind": "aux"
+        }
+      ],
+      "links": [],
+      "translation": "¿Qué demonios es?",
+      "literal": "qué dicen-que ¿será?",
+      "notes": [
+        "«何だってんだろ» = 何だというのだろう abreviado: «¿qué diablos será?»."
+      ]
+    },
+    {
+      "id": "l19",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema con contraste: «ahora no…»."
+        },
+        {
+          "id": "t3",
+          "surface": "ドラマ",
+          "romaji": "dorama",
+          "gloss": "drama",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «dentro de la serie»."
+        },
+        {
+          "id": "t5",
+          "surface": "中",
+          "reading": "なか",
+          "romaji": "naka",
+          "gloss": "dentro",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "じゃ",
+          "romaji": "ja",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Contracción de では: «en (la serie) no»."
+        },
+        {
+          "id": "t7",
+          "surface": "ない",
+          "romaji": "nai",
+          "gloss": "no es",
+          "kind": "adj"
+        },
+        {
+          "id": "t8",
+          "surface": "んだぜ",
+          "romaji": "ndaze",
+          "gloss": "sabes",
+          "kind": "particle",
+          "role": "の (explica) + だ + ぜ (énfasis masculino): «¡que no estamos en una serie!»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t5",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "Ahora no estamos dentro de una serie, ¿sabes?",
+      "literal": "ahora-en-cuanto-a serie-de dentro-en no-es ¿sabes?"
+    },
+    {
+      "id": "l20",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ねぇ",
+          "romaji": "neぇ",
+          "gloss": "oye",
+          "kind": "particle",
+          "role": "Llama la atención."
+        },
+        {
+          "id": "t2",
+          "surface": "どうだい",
+          "romaji": "doudai",
+          "gloss": "¿qué tal?",
+          "kind": "aux"
+        }
+      ],
+      "links": [],
+      "translation": "«Oye, ¿qué tal?»",
+      "literal": "oye ¿cómo-es?"
+    },
+    {
+      "id": "l21",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "その",
+          "romaji": "sono",
+          "gloss": "esa",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "声",
+          "reading": "こえ",
+          "romaji": "koe",
+          "gloss": "voz",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "a",
+          "kind": "particle",
+          "role": "Causa del giro: «ante esa voz»."
+        },
+        {
+          "id": "t4",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "振り返っても",
+          "reading": "ふりかえっても",
+          "romaji": "furikaettemo",
+          "gloss": "aunque nos giremos",
+          "kind": "verb",
+          "base": {
+            "surface": "振り返る",
+            "reading": "ふりかえる",
+            "meaning": "girarse a mirar"
+          },
+          "form": {
+            "name": "ても (aunque)",
+            "why": "振り返る → 振り返って + も = «aunque nos giremos». OJO: no es pasado: ても = «aunque / por más que». Pista: sigue una frase negativa (誰もいない)."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t2",
+          "type": "destination",
+          "label": "ante qué"
+        }
+      ],
+      "translation": "Aunque nos giremos ante esa voz,",
+      "literal": "esa voz-ante nosotros aunque-nos-giremos"
+    },
+    {
+      "id": "l22",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "誰",
+          "reading": "だれ",
+          "romaji": "dare",
+          "gloss": "nadie",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "ni",
+          "kind": "particle",
+          "role": "誰も + negativo = «nadie»."
+        },
+        {
+          "id": "t3",
+          "surface": "いない",
+          "romaji": "inai",
+          "gloss": "no hay",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "だろ",
+          "romaji": "daro",
+          "gloss": "¿verdad?",
+          "kind": "aux"
+        }
+      ],
+      "links": [],
+      "translation": "¿no hay nadie, verdad?",
+      "literal": "nadie-ni no-hay ¿verdad?"
+    },
+    {
+      "id": "l23",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だからこそ",
+          "romaji": "dakarakoso",
+          "gloss": "precisamente por eso",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "高らかに",
+          "reading": "たからかに",
+          "romaji": "takarakani",
+          "gloss": "en voz alta",
+          "kind": "adj"
+        },
+        {
+          "id": "t4",
+          "surface": "叫ぶ",
+          "reading": "さけぶ",
+          "romaji": "sakebu",
+          "gloss": "gritar",
+          "kind": "verb"
+        },
+        {
+          "id": "t5",
+          "surface": "のだ",
+          "romaji": "noda",
+          "gloss": "es que",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cómo"
+        }
+      ],
+      "translation": "Precisamente por eso gritamos con voz alta.",
+      "literal": "precisamente-por-eso nosotros en-voz-alta gritar-(firme)"
+    },
+    {
+      "id": "l24",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "それでも",
+          "romaji": "soredemo",
+          "gloss": "aun así",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Dueño: «nuestra voz»."
+        },
+        {
+          "id": "t4",
+          "surface": "声",
+          "reading": "こえ",
+          "romaji": "koe",
+          "gloss": "voz",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «nuestra voz…»."
+        },
+        {
+          "id": "t6",
+          "surface": "どこにも",
+          "romaji": "dokonimo",
+          "gloss": "en ningún lugar",
+          "kind": "expr"
+        },
+        {
+          "id": "t7",
+          "surface": "届かない",
+          "reading": "とどかない",
+          "romaji": "todokanai",
+          "gloss": "no llega",
+          "kind": "verb",
+          "base": {
+            "surface": "届く",
+            "reading": "とどく",
+            "meaning": "llegar"
+          },
+          "form": {
+            "name": "negativo (ない)",
+            "why": "届く → 届かない: «no llega». Acaba en ない: negación, no pasado."
+          }
+        },
+        {
+          "id": "t8",
+          "surface": "だろ",
+          "romaji": "daro",
+          "gloss": "¿verdad?",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de quiénes"
+        },
+        {
+          "from": "t4",
+          "to": "t7",
+          "type": "subject",
+          "label": "qué"
+        }
+      ],
+      "translation": "Aun así, nuestra voz no llega a ningún lugar, ¿verdad?",
+      "literal": "aun-así nosotros-de voz-en-cuanto-a ningún-lugar no-llega ¿verdad?"
+    },
+    {
+      "id": "l25",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "だからこそ",
+          "romaji": "dakarakoso",
+          "gloss": "precisamente por eso",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "サヨナラ",
+          "romaji": "sayonara",
+          "gloss": "adiós",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "なんだ",
+          "romaji": "nanda",
+          "gloss": "es",
+          "kind": "aux"
+        }
+      ],
+      "links": [],
+      "translation": "Precisamente por eso es un adiós.",
+      "literal": "precisamente-por-eso adiós es-(explic.)"
+    },
+    {
+      "id": "l26",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そして",
+          "romaji": "soshite",
+          "gloss": "y entonces",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "また",
+          "romaji": "mata",
+          "gloss": "otra vez",
+          "kind": "adv"
+        },
+        {
+          "id": "t3",
+          "surface": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "gloss": "tiempo",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «el tiempo…»."
+        },
+        {
+          "id": "t5",
+          "surface": "流れて",
+          "reading": "ながれて",
+          "romaji": "nagarete",
+          "gloss": "fluyendo",
+          "kind": "verb",
+          "base": {
+            "surface": "流れる",
+            "reading": "ながれる",
+            "meaning": "fluir"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "流れる → 流れて. Acaba en て: «el tiempo fluye y…». Un pasado sería 流れた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "subject",
+          "label": "qué fluye"
+        }
+      ],
+      "translation": "Y de nuevo el tiempo fluye, y…",
+      "literal": "y-entonces otra-vez tiempo-en-cuanto-a fluyendo"
+    },
+    {
+      "id": "l27",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Compañía: «contigo»."
+        },
+        {
+          "id": "t3",
+          "surface": "分かち合う",
+          "reading": "わかちあう",
+          "romaji": "wakachiau",
+          "gloss": "compartir",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «solo compartir»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "con quién"
+        }
+      ],
+      "translation": "solo compartir contigo.",
+      "literal": "tú-con compartir solo"
+    },
+    {
+      "id": "l28",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "やがて",
+          "romaji": "yagate",
+          "gloss": "con el tiempo",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «nosotros…»."
+        },
+        {
+          "id": "t4",
+          "surface": "それ",
+          "romaji": "sore",
+          "gloss": "eso",
+          "kind": "aux"
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca el sujeto de la cita: «eso es todo»."
+        },
+        {
+          "id": "t6",
+          "surface": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        },
+        {
+          "id": "t8",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cierra la cita: «que eso es todo»."
+        },
+        {
+          "id": "t9",
+          "surface": "気がついて",
+          "reading": "きがついて",
+          "romaji": "kigatsuite",
+          "gloss": "dándonos cuenta",
+          "kind": "verb",
+          "base": {
+            "surface": "気がつく",
+            "reading": "きがつく",
+            "meaning": "darse cuenta"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "気がつく → 気がついて (く→い + て). Acaba en て: «dándonos cuenta de que…, (…)». Une con la línea siguiente. Un pasado sería 気がついた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t9",
+          "to": "t8",
+          "type": "object",
+          "label": "de qué"
+        },
+        {
+          "from": "t3",
+          "to": "t9",
+          "type": "subject",
+          "label": "quiénes"
+        }
+      ],
+      "translation": "Con el tiempo, nosotros, dándonos cuenta de que eso es todo,",
+      "literal": "con-el-tiempo nosotros-en-cuanto-a eso-(suj) todo es-(cita) dándonos-cuenta"
+    },
+    {
+      "id": "l29",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "悲しみ",
+          "reading": "かなしみ",
+          "romaji": "kanashimi",
+          "gloss": "tristeza",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «la tristeza…»."
+        },
+        {
+          "id": "t3",
+          "surface": "頬",
+          "reading": "ほお",
+          "romaji": "hoo",
+          "gloss": "mejilla",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Con 伝う, を marca por dónde se desliza: «por la mejilla»."
+        },
+        {
+          "id": "t5",
+          "surface": "伝ってって",
+          "reading": "つたってって",
+          "romaji": "tsutattette",
+          "gloss": "deslizándose y yéndose",
+          "kind": "verb",
+          "base": {
+            "surface": "伝う",
+            "reading": "つたう",
+            "meaning": "deslizarse por"
+          },
+          "form": {
+            "name": "て + いって (ていく, forma て)",
+            "why": "伝って + いって → 伝ってって (la い cae): «deslizándose por la mejilla, y yéndose». OJO: terminan en て, y son dos て seguidos: uno de 伝う y otro de いく. No es pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "por dónde"
+        },
+        {
+          "from": "t1",
+          "to": "t5",
+          "type": "topic",
+          "label": "qué se desliza"
+        }
+      ],
+      "translation": "la tristeza se desliza por la mejilla…",
+      "literal": "tristeza-en-cuanto-a mejilla-por deslizándose-y-yéndose"
+    },
+    {
+      "id": "l30",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "ひとすじ",
+          "romaji": "hitosuji",
+          "gloss": "una línea",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «un poema de una línea»."
+        },
+        {
+          "id": "t3",
+          "surface": "詩",
+          "reading": "し",
+          "romaji": "shi",
+          "gloss": "poema",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: «volverse poema»."
+        },
+        {
+          "id": "t5",
+          "surface": "なる",
+          "romaji": "naru",
+          "gloss": "volverse",
+          "kind": "verb"
+        },
+        {
+          "id": "t6",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        }
+      ],
+      "translation": "y solo se vuelve un poema de una línea.",
+      "literal": "una-línea-de poema-en volverse solo"
+    },
+    {
+      "id": "l31",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "揺れる",
+          "reading": "ゆれる",
+          "romaji": "yureru",
+          "gloss": "oscilar",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "想い",
+          "reading": "おもい",
+          "romaji": "omoi",
+          "gloss": "sentimientos",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «los sentimientos…»."
+        },
+        {
+          "id": "t4",
+          "surface": "強い",
+          "reading": "つよい",
+          "romaji": "tsuyoi",
+          "gloss": "fuerte",
+          "kind": "adj"
+        },
+        {
+          "id": "t5",
+          "surface": "渦",
+          "reading": "うず",
+          "romaji": "uzu",
+          "gloss": "remolino",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: «volverse remolino»."
+        },
+        {
+          "id": "t7",
+          "surface": "なって",
+          "romaji": "natte",
+          "gloss": "volviéndose",
+          "kind": "verb",
+          "base": {
+            "surface": "なる",
+            "meaning": "volverse"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "なる → なって (る→って). Acaba en て: une con 溶け合う: «se vuelven remolino y (se funden)». Un pasado sería なった."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "cuáles"
+        },
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        }
+      ],
+      "translation": "Los sentimientos que oscilan se vuelven un fuerte remolino…",
+      "literal": "oscilantes sentimientos-en-cuanto-a fuerte remolino-en volviéndose"
+    },
+    {
+      "id": "l32",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "溶け合うのよ",
+          "reading": "とけあうのよ",
+          "romaji": "tokeaunoyo",
+          "gloss": "se funden",
+          "kind": "verb",
+          "base": {
+            "surface": "溶け合う",
+            "reading": "とけあう",
+            "meaning": "fundirse"
+          },
+          "form": {
+            "name": "のよ (explica, femenino)",
+            "why": "溶け合う + のよ: «¡es que se funden!». Acaba en よ: no es pasado."
+          }
+        },
+        {
+          "id": "t2",
+          "surface": "溶け合うのよ",
+          "reading": "とけあうのよ",
+          "romaji": "tokeaunoyo",
+          "gloss": "se funden",
+          "kind": "verb",
+          "base": {
+            "surface": "溶け合う",
+            "reading": "とけあう",
+            "meaning": "fundirse"
+          },
+          "form": {
+            "name": "のよ (explica, femenino)",
+            "why": "Igual que antes: «¡se funden!». Acaba en よ."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "¡Se funden, se funden!",
+      "literal": "se-funden se-funden"
+    },
+    {
+      "id": "l33",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "吹き抜ける",
+          "reading": "ふきぬける",
+          "romaji": "fukinukeru",
+          "gloss": "soplar a través",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "くすんだ",
+          "romaji": "kusunda",
+          "gloss": "apagado",
+          "kind": "verb",
+          "base": {
+            "surface": "くすむ",
+            "meaning": "apagarse, perder brillo"
+          },
+          "form": {
+            "name": "pasado (た) que describe un sustantivo",
+            "why": "くすむ → くすんだ (む→ん + だ) + あの日: «aquel día apagado». OJO: la だ no es pasado de cierre: describe un estado (ya perdió brillo)."
+          }
+        },
+        {
+          "id": "t3",
+          "surface": "あの",
+          "romaji": "ano",
+          "gloss": "aquel",
+          "kind": "aux"
+        },
+        {
+          "id": "t4",
+          "surface": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "gloss": "día",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «el viento de aquel día»."
+        },
+        {
+          "id": "t6",
+          "surface": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "gloss": "viento",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «en cuanto al viento…» (el verbo está en la línea siguiente)."
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t6",
+          "type": "modifies",
+          "label": "cuál"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "modifies",
+          "label": "cuál día"
+        },
+        {
+          "from": "t4",
+          "to": "t6",
+          "type": "possession",
+          "label": "de cuándo"
+        }
+      ],
+      "translation": "El viento de aquel día apagado, que sopla a través…",
+      "literal": "sopla-a-través apagado aquel día-de viento-en-cuanto-a",
+      "notes": [
+        "La frase sigue en la línea siguiente."
+      ]
+    },
+    {
+      "id": "l34",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "昨日",
+          "reading": "きのう",
+          "romaji": "kinou",
+          "gloss": "ayer",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «ruinas de ayer»."
+        },
+        {
+          "id": "t3",
+          "surface": "廃墟",
+          "reading": "はいきょ",
+          "romaji": "haiko",
+          "gloss": "ruinas",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Destino: dónde se abandona."
+        },
+        {
+          "id": "t5",
+          "surface": "打ち捨てて",
+          "reading": "うちすてて",
+          "romaji": "uchisutete",
+          "gloss": "abandonando",
+          "kind": "verb",
+          "base": {
+            "surface": "打ち捨てる",
+            "reading": "うちすてる",
+            "meaning": "abandonar, desechar"
+          },
+          "form": {
+            "name": "forma て (encadena / orden suave)",
+            "why": "打ち捨てる → 打ち捨てて. Acaba en て: «tíralo… y (vive)». Aquí funciona como una petición o paso previo a la siguiente frase."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t4",
+          "type": "destination",
+          "label": "dónde"
+        },
+        {
+          "from": "t2",
+          "to": "t4",
+          "type": "possession",
+          "label": "de cuándo"
+        }
+      ],
+      "translation": "…lo abandonamos en las ruinas de ayer,",
+      "literal": "ayer-de ruinas-en abandonando"
+    },
+    {
+      "id": "l35",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "このまま",
+          "romaji": "konomama",
+          "gloss": "tal cual",
+          "kind": "aux"
+        },
+        {
+          "id": "t2",
+          "surface": "何",
+          "reading": "なに",
+          "romaji": "nani",
+          "gloss": "nada",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "も",
+          "romaji": "mo",
+          "gloss": "ni",
+          "kind": "particle",
+          "role": "何も + negativo = «nada»."
+        },
+        {
+          "id": "t4",
+          "surface": "残らず",
+          "reading": "のこらず",
+          "romaji": "nokorazu",
+          "gloss": "sin quedar",
+          "kind": "verb",
+          "base": {
+            "surface": "残る",
+            "reading": "のこる",
+            "meaning": "quedar"
+          },
+          "form": {
+            "name": "negativo de enlace (ず)",
+            "why": "残る → 残らず: «sin que quede». ず = negativo literario que une, como 残らないで. Acaba en ず: no es て ni た."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t2",
+          "type": "object",
+          "label": "qué"
+        }
+      ],
+      "translation": "Tal cual, sin que quede nada,",
+      "literal": "tal-cual nada-ni sin-quedar"
+    },
+    {
+      "id": "l36",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Compañía: «contigo»."
+        },
+        {
+          "id": "t3",
+          "surface": "分かち合う",
+          "reading": "わかちあう",
+          "romaji": "wakachiau",
+          "gloss": "compartir",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «solo compartir»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t1",
+          "type": "object",
+          "label": "con quién"
+        }
+      ],
+      "translation": "solo compartir contigo.",
+      "literal": "tú-con compartir solo"
+    },
+    {
+      "id": "l37",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あなた",
+          "romaji": "anata",
+          "gloss": "tú",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «tú…»."
+        },
+        {
+          "id": "t3",
+          "surface": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "gloss": "ahora",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca el sujeto de la cita: «el ahora es todo»."
+        },
+        {
+          "id": "t5",
+          "surface": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        },
+        {
+          "id": "t7",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cierra la cita."
+        },
+        {
+          "id": "t8",
+          "surface": "気がついて",
+          "reading": "きがついて",
+          "romaji": "kigatsuite",
+          "gloss": "dándote cuenta",
+          "kind": "verb",
+          "base": {
+            "surface": "気がつく",
+            "reading": "きがつく",
+            "meaning": "darse cuenta"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "気がつく → 気がついて. Acaba en て: «dándote cuenta de que…, (…)». Un pasado sería 気がついた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t8",
+          "to": "t5",
+          "type": "object",
+          "label": "de qué"
+        },
+        {
+          "from": "t1",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién"
+        }
+      ],
+      "translation": "Y tú, dándote cuenta de que el ahora lo es todo,",
+      "literal": "tú-en-cuanto-a ahora-(suj) todo es-(cita) dándote-cuenta"
+    },
+    {
+      "id": "l38",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "悲しみ",
+          "reading": "かなしみ",
+          "romaji": "kanashimi",
+          "gloss": "tristeza",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «la tristeza…»."
+        },
+        {
+          "id": "t3",
+          "surface": "頬",
+          "reading": "ほお",
+          "romaji": "hoo",
+          "gloss": "mejilla",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Con 伝う, を marca por dónde se desliza: «por la mejilla»."
+        },
+        {
+          "id": "t5",
+          "surface": "伝ってって",
+          "reading": "つたってって",
+          "romaji": "tsutattette",
+          "gloss": "deslizándose y yéndose",
+          "kind": "verb",
+          "base": {
+            "surface": "伝う",
+            "reading": "つたう",
+            "meaning": "deslizarse por"
+          },
+          "form": {
+            "name": "て + いって (ていく, forma て)",
+            "why": "伝って + いって → 伝ってって (la い cae): «deslizándose por la mejilla, y yéndose». OJO: terminan en て, y son dos て seguidos: uno de 伝う y otro de いく. No es pasado."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "por dónde"
+        },
+        {
+          "from": "t1",
+          "to": "t5",
+          "type": "topic",
+          "label": "qué se desliza"
+        }
+      ],
+      "translation": "la tristeza se desliza por la mejilla…",
+      "literal": "tristeza-en-cuanto-a mejilla-por deslizándose-y-yéndose"
+    },
+    {
+      "id": "l39",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "涙",
+          "reading": "なみだ",
+          "romaji": "namida",
+          "gloss": "lágrimas",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "の",
+          "romaji": "no",
+          "gloss": "de",
+          "kind": "particle",
+          "role": "Une: «río de lágrimas»."
+        },
+        {
+          "id": "t3",
+          "surface": "河",
+          "reading": "かわ",
+          "romaji": "kawa",
+          "gloss": "río",
+          "kind": "noun"
+        },
+        {
+          "id": "t4",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: «convertirse en…»."
+        },
+        {
+          "id": "t5",
+          "surface": "なる",
+          "romaji": "naru",
+          "gloss": "volverse",
+          "kind": "verb"
+        },
+        {
+          "id": "t6",
+          "surface": "だけ",
+          "romaji": "dake",
+          "gloss": "solo",
+          "kind": "particle",
+          "role": "Limita: «solo se vuelve…»."
+        }
+      ],
+      "links": [
+        {
+          "from": "t5",
+          "to": "t3",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        },
+        {
+          "from": "t1",
+          "to": "t3",
+          "type": "possession",
+          "label": "de qué"
+        }
+      ],
+      "translation": "y solo se vuelve un río de lágrimas.",
+      "literal": "lágrimas-de río-en volverse solo"
+    },
+    {
+      "id": "l40",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "そして",
+          "romaji": "soshite",
+          "gloss": "y entonces",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «nosotros…»."
+        },
+        {
+          "id": "t4",
+          "surface": "淡い",
+          "reading": "あわい",
+          "romaji": "awai",
+          "gloss": "tenue",
+          "kind": "adj"
+        },
+        {
+          "id": "t5",
+          "surface": "海",
+          "reading": "うみ",
+          "romaji": "umi",
+          "gloss": "mar",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "に",
+          "romaji": "ni",
+          "gloss": "en",
+          "kind": "particle",
+          "role": "Resultado: «volverse mar»."
+        },
+        {
+          "id": "t7",
+          "surface": "なって",
+          "romaji": "natte",
+          "gloss": "volviéndose",
+          "kind": "verb",
+          "base": {
+            "surface": "なる",
+            "meaning": "volverse"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "なる → なって. Acaba en て: une con 溶け合うのよ. Un pasado sería なった."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t4",
+          "to": "t5",
+          "type": "modifies",
+          "label": "cómo es"
+        },
+        {
+          "from": "t7",
+          "to": "t5",
+          "type": "destination",
+          "label": "en qué se vuelve"
+        }
+      ],
+      "translation": "Y nosotros nos volvemos un tenue mar…",
+      "literal": "y-entonces nosotros-en-cuanto-a tenue mar-en volviéndose"
+    },
+    {
+      "id": "l41",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "溶け合うのよ",
+          "reading": "とけあうのよ",
+          "romaji": "tokeaunoyo",
+          "gloss": "se funden",
+          "kind": "verb",
+          "base": {
+            "surface": "溶け合う",
+            "reading": "とけあう",
+            "meaning": "fundirse unos con otros"
+          },
+          "form": {
+            "name": "のよ (explica, femenino)",
+            "why": "溶け合う + のよ: «¡es que se funden!». の + よ: tono femenino de explicar y afirmar. Acaba en よ: no es pasado."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "…y se funden.",
+      "literal": "se-funden-(explic.)"
+    },
+    {
+      "id": "l42",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "溶け合うのよ",
+          "reading": "とけあうのよ",
+          "romaji": "tokeaunoyo",
+          "gloss": "se funden",
+          "kind": "verb",
+          "base": {
+            "surface": "溶け合う",
+            "reading": "とけあう",
+            "meaning": "fundirse unos con otros"
+          },
+          "form": {
+            "name": "のよ (explica, femenino)",
+            "why": "溶け合う + のよ: «¡es que se funden!». の + よ: tono femenino de explicar y afirmar. Acaba en よ: no es pasado."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "…y se funden.",
+      "literal": "se-funden-(explic.)"
+    },
+    {
+      "id": "l43",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "溶け合うのよ",
+          "reading": "とけあうのよ",
+          "romaji": "tokeaunoyo",
+          "gloss": "se funden",
+          "kind": "verb",
+          "base": {
+            "surface": "溶け合う",
+            "reading": "とけあう",
+            "meaning": "fundirse unos con otros"
+          },
+          "form": {
+            "name": "のよ (explica, femenino)",
+            "why": "溶け合う + のよ: «¡es que se funden!». の + よ: tono femenino de explicar y afirmar. Acaba en よ: no es pasado."
+          }
+        }
+      ],
+      "links": [],
+      "translation": "…y se funden.",
+      "literal": "se-funden-(explic.)"
+    },
+    {
+      "id": "l44",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "やがて",
+          "romaji": "yagate",
+          "gloss": "con el tiempo",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema: «nosotros…»."
+        },
+        {
+          "id": "t4",
+          "surface": "それ",
+          "romaji": "sore",
+          "gloss": "eso",
+          "kind": "aux"
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca el sujeto de la cita: «eso es todo»."
+        },
+        {
+          "id": "t6",
+          "surface": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "gloss": "todo",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "だ",
+          "romaji": "da",
+          "gloss": "es",
+          "kind": "aux"
+        },
+        {
+          "id": "t8",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "citando",
+          "kind": "particle",
+          "role": "Cierra la cita: «que eso es todo»."
+        },
+        {
+          "id": "t9",
+          "surface": "気がついて",
+          "reading": "きがついて",
+          "romaji": "kigatsuite",
+          "gloss": "dándonos cuenta",
+          "kind": "verb",
+          "base": {
+            "surface": "気がつく",
+            "reading": "きがつく",
+            "meaning": "darse cuenta"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "気がつく → 気がついて (く→い + て). Acaba en て: «dándonos cuenta de que…, (…)». Une con la línea siguiente. Un pasado sería 気がついた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t9",
+          "to": "t8",
+          "type": "object",
+          "label": "de qué"
+        },
+        {
+          "from": "t3",
+          "to": "t9",
+          "type": "subject",
+          "label": "quiénes"
+        }
+      ],
+      "translation": "Con el tiempo, nosotros, dándonos cuenta de que eso es todo,",
+      "literal": "con-el-tiempo nosotros-en-cuanto-a eso-(suj) todo es-(cita) dándonos-cuenta"
+    },
+    {
+      "id": "l45",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "やがて",
+          "romaji": "yagate",
+          "gloss": "con el tiempo",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema."
+        },
+        {
+          "id": "t4",
+          "surface": "悲しみ",
+          "reading": "かなしみ",
+          "romaji": "kanashimi",
+          "gloss": "tristeza",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "が",
+          "romaji": "ga",
+          "gloss": "sujeto",
+          "kind": "particle",
+          "role": "Marca quién se desliza: la tristeza."
+        },
+        {
+          "id": "t6",
+          "surface": "頬",
+          "reading": "ほお",
+          "romaji": "hoo",
+          "gloss": "mejilla",
+          "kind": "noun"
+        },
+        {
+          "id": "t7",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "por",
+          "kind": "particle",
+          "role": "Por dónde se desliza."
+        },
+        {
+          "id": "t8",
+          "surface": "伝う",
+          "reading": "つたう",
+          "romaji": "tsutau",
+          "gloss": "deslizarse",
+          "kind": "verb"
+        },
+        {
+          "id": "t9",
+          "surface": "こと",
+          "romaji": "koto",
+          "gloss": "el hecho de",
+          "kind": "noun"
+        },
+        {
+          "id": "t10",
+          "surface": "を",
+          "romaji": "o",
+          "gloss": "objeto",
+          "kind": "particle",
+          "role": "Marca lo que se aprende."
+        },
+        {
+          "id": "t11",
+          "surface": "覚えて",
+          "reading": "おぼえて",
+          "romaji": "oboete",
+          "gloss": "aprendiendo",
+          "kind": "verb",
+          "base": {
+            "surface": "覚える",
+            "reading": "おぼえる",
+            "meaning": "aprender"
+          },
+          "form": {
+            "name": "forma て (encadena)",
+            "why": "覚える → 覚えて. Acaba en て: «aprendiendo (que…), (…)». Un pasado sería 覚えた."
+          }
+        }
+      ],
+      "links": [
+        {
+          "from": "t11",
+          "to": "t9",
+          "type": "object",
+          "label": "qué aprende"
+        },
+        {
+          "from": "t8",
+          "to": "t9",
+          "type": "modifies",
+          "label": "qué hecho"
+        },
+        {
+          "from": "t5",
+          "to": "t8",
+          "type": "subject",
+          "label": "quién se desliza"
+        }
+      ],
+      "translation": "Con el tiempo, aprendiendo que la tristeza se desliza por la mejilla,",
+      "literal": "con-el-tiempo nosotros tristeza-(suj) mejilla-por deslizarse hecho-(obj) aprendiendo"
+    },
+    {
+      "id": "l46",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "やがて",
+          "romaji": "yagate",
+          "gloss": "con el tiempo",
+          "kind": "adv"
+        },
+        {
+          "id": "t2",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema."
+        },
+        {
+          "id": "t4",
+          "surface": "やがて",
+          "romaji": "yagate",
+          "gloss": "con el tiempo",
+          "kind": "adv"
+        },
+        {
+          "id": "t5",
+          "surface": "僕等",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "gloss": "nosotros",
+          "kind": "noun"
+        },
+        {
+          "id": "t6",
+          "surface": "は",
+          "romaji": "wa",
+          "gloss": "en cuanto a",
+          "kind": "particle",
+          "role": "Tema."
+        }
+      ],
+      "links": [],
+      "translation": "Con el tiempo nosotros, con el tiempo nosotros…",
+      "literal": "con-el-tiempo nosotros con-el-tiempo nosotros"
+    },
+    {
+      "id": "l47",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "あなたがた",
+          "romaji": "anatagata",
+          "gloss": "ustedes",
+          "kind": "noun"
+        },
+        {
+          "id": "t2",
+          "surface": "と",
+          "romaji": "to",
+          "gloss": "con",
+          "kind": "particle",
+          "role": "Compañía: «con ustedes»."
+        },
+        {
+          "id": "t3",
+          "surface": "溶け合う",
+          "reading": "とけあう",
+          "romaji": "tokeau",
+          "gloss": "fundirse",
+          "kind": "verb"
+        },
+        {
+          "id": "t4",
+          "surface": "訳",
+          "reading": "わけ",
+          "romaji": "wake",
+          "gloss": "motivo",
+          "kind": "noun"
+        },
+        {
+          "id": "t5",
+          "surface": "ですよ",
+          "romaji": "desuyo",
+          "gloss": "es",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t3",
+          "to": "t4",
+          "type": "modifies",
+          "label": "qué motivo"
+        }
+      ],
+      "translation": "Es que nos fundimos con ustedes.",
+      "literal": "ustedes-con fundirse motivo es-(afirma)",
+      "notes": [
+        "訳です = «es que / se trata de que», explica una conclusión."
+      ]
+    },
+    {
+      "id": "l48",
+      "tokens": [
+        {
+          "id": "t1",
+          "surface": "溶け合う",
+          "reading": "とけあう",
+          "romaji": "tokeau",
+          "gloss": "fundirse",
+          "kind": "verb"
+        },
+        {
+          "id": "t2",
+          "surface": "訳",
+          "reading": "わけ",
+          "romaji": "wake",
+          "gloss": "motivo",
+          "kind": "noun"
+        },
+        {
+          "id": "t3",
+          "surface": "です",
+          "romaji": "desu",
+          "gloss": "es",
+          "kind": "aux"
+        }
+      ],
+      "links": [
+        {
+          "from": "t1",
+          "to": "t2",
+          "type": "modifies",
+          "label": "qué motivo"
+        }
+      ],
+      "translation": "Es que nos fundimos.",
+      "literal": "fundirse motivo es"
+    }
+  ]
+}
